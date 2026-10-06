@@ -1,0 +1,893 @@
+#provision
+## Clause 1 — Interpretation
+  - In this schedule, unless the context otherwise requires,— allotment has the meaning given in clause 3 certificate of approval,—
+  - (a) in relation to a survey plan, means a certificate of approval issued by a territorial authority under clause 18; and
+  - (b) in relation to a reclamation plan, means a certificate of approval issued by a regional council under clause 73 company lease—
+  - (a) means a lease or licence or other right of occupation of any building or part of any building on, or to be erected on, any land—
+  - (i) that is granted by a company owning an estate or interest in the land; and (ii) that is held by a person by virtue of being a shareholder in the company; and
+  - (b) includes a licence within the meaning of section 122 of the Land Transfer Act 2017 completion certificate means a certificate issued under clause 24 consent notice means a notice issued under clause 25
+  - cross lease means a lease of any building or part of any building on, or to be erected on, any land—
+  - (a) that is granted by any owner of the land; and
+  - (b) that is held by a person who has an estate or interest in an undivided share in the land deposit, in relation to a survey plan or reclamation plan,—
+  - (a) means a deposit by the Registrar-General of Land under the Land Transfer Act 2017; and
+  - (b) includes approval by the Surveyor-General under clause 21(3) (which clause 21(4)(a) treats as a deposit by the Registrar-General of Land) deposit requirement,—
+  - (a) in relation to a survey plan, means a requirement specified in this schedule as a deposit requirement for the purposes of clause 21 (see clause 22); and
+  - (b) in relation to a reclamation plan, means a requirement specified in this schedule as a deposit requirement for the purposes of clause 74 (see clause 75) esplanade reserve means a reserve within the meaning of the Reserves Act 1977—
+  - (a) that is—
+  - (i) a local purpose reserve within the meaning of section 23 of that Act, if vested in the territorial authority under clause 31; or (ii) a reserve vested in the Crown or a regional council under clause 50; and
+  - (b) that is vested in the territorial authority, regional council, or the Crown for a purpose set out in clause 37 esplanade strip means a strip of land created by the registration of an instrument in accordance with clause 44 for a purpose set out in clause 37 register means the register of land that is kept by the Registrar-General of Land under section 9 of the Land Transfer Act 2017 Registrar-General of Land has the meaning given to Registrar in section 5(1) of the Land Transfer Act 2017 Surveyor-General has the meaning given in section 4 of the Cadastral Survey Act 2002.
+## Clause 2 — Meaning of subdivision of land
+  - (1) In this schedule, subdivision of land means—
+  - (a) the division of an allotment by any of the following:
+  - (i) an application to the Registrar-General of Land for the issue of a separate record of title for any part of the allotment: (ii) the disposition, by way of sale or offer for sale, of the fee simple to part of the allotment: (iii) a lease of part of the allotment that, including renewals, is or could be for a term of more than 35 years: (iv) the grant of a company lease or cross lease for any part of the allotment:
+  - (v) the deposit of a unit plan: (vi) an application to the Registrar-General of Land for the issue of a separate record of title for any part of a unit on a unit plan; or
+  - (b) an application to the Registrar-General of Land for the issue of a separate record of title in any case where the issue of that record of title is restricted by clause 29(2).
+  - (2) The term subdivide land has a corresponding meaning.
+  - Compare: 1991 No 69 s 218(1); 2023 No 46 s 574
+## Clause 3 — Meaning of allotment
+  - (1) In this schedule, allotment means any of the following:
+  - (a) a parcel of land under the Land Transfer Act 2017 that is a continuous area and whose boundaries are shown separately on a survey plan, whether or not—
+  - (i) the subdivision shown on the survey plan has been allowed, or subdivision approval has been granted, under another Act; or (ii) a subdivision consent for the subdivision shown on the survey plan has been granted under this Act:
+  - (b) a parcel of land, or a building or part of a building, that is shown or identified separately—
+  - (i) on a survey plan; or (ii) on a licence within the meaning of subpart 6 of Part 3 of the Land Transfer Act 2017:
+  - (c) a unit on a unit plan:
+  - (d) any parcel of land that is not subject to the Land Transfer Act 2017.
+  - (2) For the purposes of this Act,—
+  - (a) if an allotment is being or has been subdivided from any land, the balance of that land must be treated as an allotment; and
+  - (b) if part of a single allotment is physically separated from any other part of the allotment by a road or in any other manner, the allotment must be
+  - treated as a continuous area of land unless the division of the allotment into those parts has been allowed—
+  - (i) by a subdivision consent granted under this Act; or (ii) by a subdivision approval under any former legislation that relates to the subdivision of land.
+  - (3) In subclause
+  - (2)(b), single allotment means—
+  - (a) an allotment that is subject to the Land Transfer Act 2017 and comprised in 1 record of title or for which 1 record of title could be issued under that Act; or
+  - (b) an allotment that is not subject to that Act and was acquired by its owner under 1 instrument of conveyance.
+  - Compare: 1991 No 69 s 218(2)–(4); 2023 No 46 s 575
+## Clause 4 — Meaning of survey plan
+  - (1) In this schedule, survey plan—
+  - (a) means a survey dataset—
+  - (i) of a division of land, or a building or part of a building, prepared in a form suitable for deposit under the Land Transfer Act 2017; or (ii) of a division of land by or on behalf of a Minister of the Crown of land not subject to the Land Transfer Act 2017:
+  - (b) includes—
+  - (i) a unit plan; and (ii) a cadastral survey dataset to give effect to the grant of a cross lease or company lease.
+  - (2) In this clause, cadastral survey dataset has the same meaning as in section 4 of the Cadastral Survey Act 2002.
+  - Compare: 1991 No 69 s 2(1); 2023 No 46 s 576
+### Part 1
+  - Further provisions relating to conditions of subdivision consents
+## Clause 5 — Purpose of this Part
+  - This Part—
+  - (a) sets out the consent conditions and related provisions that are specific to subdivision consents; but
+  - (b) does not prevent a consent authority from including any other condition in a subdivision consent that is authorised by or under this Act.
+  - Compare: 2023 No 46 s 620
+  - Conditions about certain matters
+## Clause 6 — Condition requiring protection against natural hazards
+  - A subdivision consent may include a condition requiring that provision be made, to the satisfaction of the consent authority, for either or both of the following purposes:
+  - (a) to protect land that forms part of the subdivision against natural hazards, or any risks of natural hazards, from any source:
+  - (b) to protect any other land against natural hazards, or any risks of natural hazards, that arise, or are likely to arise, as a result of the subdivision.
+  - Compare: 1991 No 69 s 220(1)(d); 2023 No 46 s 630
+## Clause 7 — Conditions about structures, filling, and compaction
+  - A subdivision consent may include a condition imposing 1 or more of the following requirements:
+  - (a) a requirement that sets the bulk, height, location, foundations, or height of floor levels of any structure on an allotment:
+  - (b) a requirement that filling and compacting the land and earthworks be carried out to the satisfaction of the territorial authority.
+  - Compare: 1991 No 69 s 220(1)(c), (e); 2023 No 46 s 631
+## Clause 8 — Conditions about vesting of bed of lake or river
+  - A subdivision consent may include a condition requiring that land that is the bed of a lake or river be vested in a territorial authority.
+  - Compare: 1991 No 69 s 220(1)(ab); 2023 No 46 s 631
+  - Conditions about esplanade reserves and esplanade strips
+## Clause 9 — Conditions about esplanade reserves and esplanade strips
+  - A subdivision consent may include 1 or more of the following conditions:
+  - (a) for the purposes of clause 38 (new esplanade reserves and esplanade strips required when land is subdivided),—
+  - (i) a condition that waives the requirement for an esplanade reserve or esplanade strip under that clause: (ii) a condition that reduces the width of the reserve or strip that is required under that clause:
+  - (b) for the purposes of clause 39 (esplanade reserves required to supplement land previously set aside or reserved),—
+  - (i) a condition that requires an additional esplanade reserve to be set aside in accordance with that clause:
+  - (ii) a condition that reduces the width of the additional reserve that is required under that clause:
+  - (c) if an esplanade strip is required, a condition that specifies what must be included in the instrument that creates the strip (see clause 46).
+  - Compare: 1991 No 69 s 220(1)(a), (aa), (ac); 2023 No 46 s 621
+  - Conditions about easements
+## Clause 10 — Condition requiring easement to be granted or reserved
+  - (1) A subdivision consent may include a condition that requires a specified easement to be granted or reserved.
+  - (2) After the easement is granted or reserved, it must not, except with the written consent of the territorial authority,—
+  - (a) be surrendered by the owner of the benefited land or, if it is an easement in gross, by the grantee of the easement; or
+  - (b) be merged by transfer to the owner of the benefited land or the burdened land; or
+  - (c) be varied.
+  - (3) Subclause
+  - (4) applies—
+  - (a) to any allotment that is benefited land or burdened land under the easement; and
+  - (b) to any instrument of transfer, conveyance, lease, or other disposition of that allotment.
+  - (4) The Registrar-General of Land must refuse to register the instrument unless they are satisfied that the easement has been granted or reserved or will be granted or reserved by the time that the instrument is registered.
+  - (5) The Registrar-General of Land must note on any relevant records of title a memorial that the easement is subject to the provisions of this clause.
+  - Compare: 1991 No 69 ss 220(1)(f), 243(a), (c), (d); 2023 No 46 s 622
+## Clause 11 — Condition requiring easement to be extinguished
+  - A subdivision consent may include a condition that—
+  - (a) applies to an existing easement for benefited land that the territorial authority considers to be redundant; and
+  - (b) requires that the easement be extinguished entirely or in relation to 1 or more specified allotments.
+  - Compare: 1991 No 69 s 220(1)(g); 2023 No 46 s 623
+  - Conditions about amalgamation of land
+## Clause 12 — Requirement to consult Registrar-General of Land before imposing
+  - condition about amalgamation
+  - (1) Before granting a subdivision consent that includes a condition described in any of clauses 13 to 15, the consent authority must consult the Registrar- General of Land about the practicality of the condition.
+  - (2) If the Registrar-General of Land advises that it is not practical to impose a particular condition, the consent authority—
+  - (a) must not grant a subdivision consent subject to that condition; but
+  - (b) may, if it thinks fit, grant a subdivision consent that is subject to any other condition described in those clauses that the Registrar-General of Land advises is practical in the circumstances.
+  - Compare: 1991 No 69 s 220(3); 2023 No 46 s 625
+## Clause 13 — Conditions with requirements for amalgamation
+  - (1) A condition described in this clause may be imposed in respect of either or both of the following:
+  - (a) any part or parts of land being subdivided:
+  - (b) any other adjoining land of the subdividing owner.
+  - (2) A subdivision consent may include a condition requiring that specified land be—
+  - (a) transferred to the owner of any other adjoining land and amalgamated with that land or part of that land; or
+  - (b) amalgamated, if the specified parts are adjoining; or
+  - (c) amalgamated, whether the specified parts are adjoining or not, for any purpose that is—
+  - (i) specified in a land use plan; or (ii) necessary to comply with the land use plan; or
+  - (d) held in the same ownership, or by tenancy-in-common in the same ownership, for the purpose of providing legal access or part of the legal access to any proposed allotments in the subdivision.
+  - (3) A condition requiring that land be amalgamated must also include—
+  - (a) a condition described in clause 14 that the land be held in 1 record of title; or
+  - (b) a condition described in clause 15 that the land be subject to a covenant restricting a disposal of allotments by any means.
+  - (4) For the purposes of this clause, adjoining land includes land that is separated from other land only by a road, railway, drain, water race, river, or stream.
+  - Compare: 1991 No 69 s 220(1)(b), (2); 2023 No 46 s 626
+## Clause 14 — Condition requiring amalgamated land to be held in 1 record of title
+  - (1) A subdivision consent may, to comply with clause 13(3), include a condition requiring that the amalgamated land be held in 1 record of title.
+  - (2) When the condition, or a similar one under a corresponding provision of any former legislation, has been complied with,—
+  - (a) the separate parcels of land included in the record of title in accordance with the condition must not be capable of being disposed of individually, or of again being held under separate records of title, except with the approval of the territorial authority; and
+  - (b) on the issue of the record of title, the Registrar-General of Land must enter on the record of title a memorandum that the land is subject to this clause.
+  - (3) The territorial authority may cancel the condition, in whole or in part,—
+  - (a) whether it was included under clause 13(3) or a corresponding provision of any former legislation; and
+  - (b) at any time before or after the survey plan has been deposited.
+  - (4) If the territorial authority cancels the condition after it approves the survey plan under clause 17, it must forward to the Registrar-General of Land a certificate to the effect that the condition has been cancelled in whole or in part.
+  - (5) If the territorial authority cancels the condition, it must,—
+  - (a) if it has not yet approved the survey plan under clause 17, note the cancellation on the survey plan; and
+  - (b) in any other case, forward to the Registrar-General of Land a certificate to the effect that the condition has been cancelled in whole or in part.
+  - (6) The certificate referred to in subclause
+  - (5)(b) must be signed by the chief executive or other authorised officer of the territorial authority.
+  - (7) The Registrar-General of Land must note the records accordingly.
+  - Compare: 1991 No 69 s 241(2)–(4); 2023 No 46 s 627
+## Clause 15 — Condition requiring covenant against disposal of allotments
+  - (1) A subdivision consent may, to comply with clause 13(3), include a condition requiring that the amalgamated land be made subject to a covenant that any specified part or parts of the land must not, without the consent of the territorial authority, be disposed of except in conjunction with other land.
+  - (2) The covenant—
+  - (a) must be in writing; and
+  - (b) must be signed by the owner of the land and the chief executive or other authorised officer of the territorial authority; and
+  - (c) must be treated—
+  - (i) as an instrument capable of registration under the Land Transfer Act 2017 that, when registered, creates in favour of the territorial authority an interest in the land in respect of which it is registered, within the meaning of section 51 of that Act; and (ii) as if it runs with the land and binds subsequent owners.
+  - (3) The territorial authority may cancel the covenant, in whole or in part,—
+  - (a) whether or not it was required by a condition included under clause 13(3) or a corresponding provision of any former legislation; and
+  - (b) at any time, whether before or after the survey plan is deposited.
+  - (4) If the territorial authority cancels the covenant after it approves the survey plan under clause 17, it must forward to the Registrar-General of Land a certificate to the effect that the covenant has been cancelled in whole or in part.
+  - (5) The certificate must be signed by the chief executive or other authorised officer of the territorial authority.
+  - (6) The Registrar-General of Land must note the records accordingly.
+  - Compare: 1991 No 69 s 240(3)–(5); 2023 No 46 s 628
+## Clause 16 — Previously registered instruments protected
+  - (1) This clause applies if—
+  - (a) either—
+  - (i) specified land is amalgamated in 1 record of title with other land in accordance with a condition imposed under clause 14; or (ii) a covenant is registered in accordance with a condition imposed under clause 15 to the effect that specified land must not be disposed of except in conjunction with other land; and
+  - (b) that other land is already subject to a registered instrument under which a power to sell, a right of renewal, or a right or obligation to purchase is lawfully conferred or imposed; and
+  - (c) that power, right, or obligation becomes exercisable but cannot be exercised or fully exercised because of clause 14 or 15.
+  - (2) The specified land must be treated as if it were, and had always been, part of the other land that is subject to that instrument.
+  - (3) All rights and obligations in respect of, or encumbrances on, that other land must be treated as rights and obligations in respect of, or encumbrances on, the specified land.
+  - (4) If the instrument referred to in subclause
+  - (1)(b) is a mortgage, charge, or lien, it must be treated as having priority over any mortgage, charge, or lien against the specified land that is registered after, as the case may be,—
+  - (a) the issue of the record of title in accordance with clause 14; or
+  - (b) the registration of the covenant in accordance with clause 15.
+  - (5) If subclause
+  - (2),
+  - (3), or
+  - (4) applies, the Registrar-General of Land must record, on all the records of title for the land, that the land in that title is subject to subclause
+  - (4).
+  - (6) If a memorial has been entered on a record of title under this clause, and the Registrar-General of Land is notified about a cancellation of all or part of a condition or covenant to which this clause applies, the Registrar-General of Land must alter the memorial accordingly.
+  - Compare: 1991 No 69 s 242; 2023 No 46 s 629
+### Part 2
+  - Approving and depositing survey plans for subdivision
+## Subpart 1—Approval of survey plan by territorial authority
+  - How survey plans for subdivisions are approved
+## Clause 17 — Requirements for approval of survey plans
+  - (1) A person subdividing land may submit a survey plan for a subdivision of land to a territorial authority for its approval if—
+  - (a) a subdivision consent has been obtained for the subdivision, and that consent has not lapsed; or
+  - (b) a certificate of compliance has been obtained for the subdivision, and that certificate has not lapsed.
+  - (2) Within 10 working days after receiving the survey plan, the territorial authority must—
+  - (a) approve the survey plan if satisfied that—
+  - (i) the survey plan conforms with the subdivision consent or certificate of compliance; and (ii) any applicable requirements in clause 19, 20, or 41 are met; or
+  - (b) decline the survey plan and notify the person of that decision and the reasons for it.
+  - Compare: 1991 No 69 s 223(1), (1A), (2); 2023 No 46 ss 577, 578
+## Clause 18 — Certificate of approval by territorial authority
+  - (1) If a territorial authority approves a survey plan under clause 17, the chief executive or an authorised officer of the territorial authority (the responsible person) must issue a certificate of approval.
+  - (2) The certificate of approval is conclusive evidence that all roads, private roads, reserves, land vested in the territorial authority in lieu of reserves, and private
+  - ways shown on the survey plan have been authorised and accepted by the territorial authority under this Act and under the Local Government Act 1974.
+  - (3) The certificate of approval must include the following information:
+  - (a) a statement that the territorial authority has approved the survey plan:
+  - (b) the date of approval and survey plan number:
+  - (c) the name of the responsible person:
+  - (d) if applicable,—
+  - (i) conditions requiring easements to be granted or reserved: (ii) conditions requiring amalgamated land to be held in 1 record of title: (iii) a requirement to show esplanade reserves and esplanade strips on a survey plan.
+  - (4) The certificate of approval must be lodged with the Registrar-General of Land before the survey plan is deposited.
+  - (5) The certificate of approval does not affect any obligation of the subdividing owner under any condition of a subdivision consent or bond entered into relating to the subdivision.
+  - (6) Subclause
+  - (4) is a deposit requirement for the purposes of clause 21.
+  - (7) In this clause, private road and private way have the meanings given in section 315 of the Local Government Act 1974.
+  - Compare: 1991 No 69 ss 223(3)–(6), 224(c); 2023 No 46 s 579
+## Clause 19 — Requirements relating to conditions of subdivision consent
+  - (1) This clause applies to a survey plan for a subdivision of land if a subdivision consent is obtained for the subdivision.
+  - (2) If the consent includes a condition described in clause 10 (condition requiring easement to be granted or reserved), a memorandum must be included in the survey plan that shows, in respect of the easements required by the condition,—
+  - (a) which is the benefited land and which is the burdened land; or
+  - (b) in the case of an easement in gross, the name of the proposed grantee and the burdened land.
+  - (3) If the consent includes a condition described in clause 14 (condition requiring amalgamated land to be held in 1 record of title), the condition must be specified in the survey plan.
+  - (4) If the consent includes a condition described in clause 15 (condition requiring covenant against transfer of allotments for amalgamated land),—
+  - (a) the owner of the land must enter into the covenant required by that condition; and
+  - (b) the territorial authority must include a certificate to that effect in the survey plan.
+  - Compare: 1991 No 69 ss 221(1), 240(1), (5)(a), 241(1), (4)(a), 243(b), (f)(i); 2023 No 46 s 580
+## Clause 20 — Requirements if subdivided land includes bed of lake or river or is in
+  - coastal marine area
+  - (1) This clause applies to a survey plan for a subdivision of land if any part of an allotment created by the subdivision—
+  - (a) is within the coastal marine area; or
+  - (b) is within the bed of a lake or river.
+  - (2) The survey plan must show the land described in subclause
+  - (1)(a) as part of the common marine and coastal area.
+  - (3) The survey plan must show as vesting in the territorial authority any part of the land described in subclause
+  - (1)(b) that—
+  - (a) adjoins an esplanade reserve that the survey plan shows as vesting in the territorial authority; or
+  - (b) is required to be vested in the territorial authority as a condition of a subdivision consent.
+  - Compare: 1991 No 69 s 237A; 2023 No 46 s 583
+## Subpart 2—Depositing survey plans
+  - How survey plans for subdivisions are deposited
+## Clause 21 — Depositing survey plans for subdivisions
+  - (1) After a territorial authority approves the survey plan for a subdivision of land under clause 17, the owner of the land or a person authorised by the owner may provide the approved survey plan—
+  - (a) to the Registrar-General of Land for deposit, if the land is subject to the Land Transfer Act 2017; or
+  - (b) to the Surveyor-General for approval, if the land is not subject to the Land Transfer Act 2017 and is being subdivided by or on behalf of a Minister of the Crown.
+  - (2) The Registrar-General of Land, after receiving a survey plan,—
+  - (a) may deposit the survey plan if the deposit requirements are satisfied; or
+  - (b) if any of the deposit requirements are not satisfied, must decline to deposit the survey plan and notify the owner of that decision and the reasons for it.
+  - (3) The Surveyor-General must, after receiving a survey plan,—
+  - (a) approve the survey plan if the deposit requirements are satisfied; or
+  - (b) if any of the deposit requirements are not satisfied, decline to approve the survey plan and notify the owner of that decision and the reasons for it.
+  - (4) If the Surveyor-General approves a survey plan for a subdivision of land,—
+  - (a) the approval is to be treated as, and has the same legal effect as, the deposit of a survey plan by the Registrar-General of Land; and
+  - (b) the land becomes subject to the Land Transfer Act 2017.
+  - Compare: 1991 No 69 ss 224, 228(1)(a), (2); 2023 No 46 s 584
+  - Deposit requirements
+## Clause 22 — Deposit requirements for the purposes of clause 21
+  - (1) A survey plan for a subdivision may be deposited no later than 3 years after it is approved by the territorial authority under clause 17.
+  - (2) A survey plan that is a unit plan must comply with the requirements of the Unit Titles Act 2010 that relate to the deposit of a unit plan.
+  - (3) Subclauses
+  - (1) and
+  - (2) are deposit requirements for the purposes of clause 21.
+  - (4) See also the following clauses, which set deposit requirements for the purposes of clause 21:
+  - (a) clause 18(6) (certificate of approval by territorial authority):
+  - (b) clause 23(3) (certificate that consent conditions are complied with):
+  - (c) clause 26(3) (requirement for written consent if land will vest in territorial authority or the Crown):
+  - (d) clause 27(3) (certificate that building code requirements are complied with):
+  - (e) clause 28(5) (requirements if conditions are imposed relating to amalgamated land):
+  - (f) clause 41(6) (approval of survey plans if esplanade reserve or esplanade strips required):
+  - (g) clause 44(3) (how esplanade strips are created).
+  - Compare: 1991 No 69 s 224(c), (e), (h); 2023 No 46 ss 585, 586
+## Clause 23 — Certificate that consent conditions are complied with
+  - (1) This clause applies to a survey plan for a subdivision of land if there is a subdivision consent for that subdivision.
+  - (2) A certificate that consent conditions are complied with must be lodged with the Registrar-General of Land.
+  - (3) Subclause
+  - (2) is a deposit requirement for the purposes of clause 21.
+  - (4) A territorial authority may issue a certificate that consent conditions are complied with only if it is satisfied that,—
+  - (a) for any condition of the subdivision consent that has not been complied with,—
+  - (i) a completion certificate has been issued under clause 24; or (ii) a consent notice has been issued under clause 25; or (iii) a financial assurance in the form of a bond has been entered into by the person subdividing the land in compliance with a condition of a subdivision consent imposed under section 178(1)(c); and
+  - (b) all other conditions of the subdivision consent have been complied with.
+  - (5) The certificate must be signed by a person authorised by the territorial authority to sign certificates issued under this clause.
+  - Compare: 1991 No 69 s 224(c); 2023 No 46 s 587
+## Clause 24 — Completion certificate
+  - (1) This clause applies if compliance with a condition of a subdivision consent depends on the completion by the owner of any work required by the territorial authority.
+  - (2) The territorial authority may, for the purposes of clause 23(4), issue a certificate (a completion certificate) to the effect that the owner has entered into a financial assurance in the form of a bond binding the owner to carry out and complete the work—
+  - (a) to the satisfaction of the territorial authority; and
+  - (b) within the period specified by the territorial authority (the specified completion period).
+  - (3) The territorial authority may extend the specified completion period, but the extension does not affect any security given for the performance of the bond.
+  - (4) The territorial authority may exercise all of the powers conferred on a consent authority by clause 4 of Schedule 8 as if the bond entered into under this clause were a condition of a subdivision consent.
+  - (5) Clause 5 of Schedule 8 applies as if the bond entered into under this clause were a condition of a subdivision consent.
+  - (6) In this clause, work—
+  - (a) includes anything, whether in the nature of works or otherwise, that the territorial authority requires the owner to do as a condition of a subdivision consent; but
+  - (b) does not include contributions of money or land (including esplanade reserves and esplanade strips) as a condition of a subdivision consent.
+  - Compare: 1991 No 69 s 222; 2023 No 46 s 632
+## Clause 25 — Consent notice for subdivision consent with ongoing requirements
+  - (1) This clause applies if a subdivision consent includes an ongoing requirement.
+  - (2) The consent authority must issue a consent notice that—
+  - (a) specifies the ongoing requirements; and
+  - (b) is signed by a person authorised by the territorial authority to sign notices of ongoing requirements; and
+  - (c) is to be lodged with the Registrar-General of Land before the survey plan for the subdivision is deposited; and
+  - (d) is to be treated as an instrument creating an interest in the land within the meaning of section 51 of the Land Transfer Act 2017, and may be registered under that Act accordingly; and
+  - (e) is to be treated as a covenant running with the land when registered under the Land Transfer Act 2017 and must, despite anything to the contrary in section 103 of that Act, bind all subsequent owners of the land.
+  - (3) Subclause
+  - (4) applies if, after a survey plan has been deposited under clause 21, it is found that the notice of ongoing requirements was defective in respect of the requirements to apply to the subdivision.
+  - (4) The Registrar-General of Land may accept and register a revised notice of ongoing requirements, if that is necessary to correctly reflect the requirement of the subdivision consent.
+  - (5) For the purposes of this clause and clause 33, ongoing requirement—
+  - (a) means any condition imposing a requirement that the subdividing owner and subsequent owners must comply with on a continuing basis after the deposit of a survey plan; but
+  - (b) does not include a condition imposing a requirement in respect of which—
+  - (i) a bond is required to be entered into by the subdividing owner; or (ii) a completion certificate is capable of being, or has been, issued.
+  - Compare: 1991 No 69 s 221; 2023 No 46 s 633
+## Clause 26 — Requirement for written consent if land will vest in territorial authority or
+  - the Crown
+  - (1) This clause applies to a survey plan for a subdivision if land shown on the survey plan will vest in the Crown or a territorial authority.
+  - (2) Written consent to the subdivision must be given by the following persons:
+  - (a) in the case of land subject to the Land Transfer Act 2017, every registered owner of an interest in the land, including any encumbrance; or
+  - (b) in the case of land not subject to that Act, every person who has an interest in the land, including any encumbrance, as evidenced by an instrument registered under the Deeds Registration Act 1908.
+  - (3) Subclause
+  - (2) is a deposit requirement for the purposes of clause 21.
+  - Compare: 1991 No 69 s 224(b); 2023 No 46 s 588
+## Clause 27 — Certificate that building code requirements are complied with
+  - (1) This clause applies to a survey plan if it is for a subdivision of land that is to be effected by—
+  - (a) the grant of a cross lease or company lease; or
+  - (b) the deposit of a unit plan.
+  - (2) A certificate must be lodged with the Registrar-General of Land certifying, for every building or part of a building (even if under construction) to which the cross lease, company lease, or unit plan relates, that it complies, or will comply, with the provisions of the building code described in section 116A of the Building Act 2004.
+  - (3) Subclause
+  - (2) is a deposit requirement for the purposes of clause 21.
+  - (4) The certificate must be signed by a person authorised by the territorial authority to sign certificates issued under this clause.
+  - Compare: 1991 No 69 s 224(f); 2023 No 46 s 589
+## Clause 28 — Requirements if conditions are imposed relating to amalgamated land
+  - (1) This clause applies to a survey plan for a subdivision of land if the subdivision is authorised by a subdivision consent.
+  - (2) If the consent includes a condition described in clause 14 (condition requiring amalgamated land to be held in 1 record of title), the Registrar-General of Land must be satisfied that the land will be held in 1 record of title.
+  - (3) Subclause
+  - (4) applies if—
+  - (a) the consent includes a condition described in clause 15 (condition requiring covenant against disposal of allotments for amalgamated land); and
+  - (b) a certificate to the effect that the covenant has been entered into is included in the survey plan (as required by clause 19(4)(b)).
+  - (4) The covenant entered into must be lodged with the Registrar-General of Land for registration.
+  - (5) Subclauses
+  - (2) and
+  - (4) are deposit requirements for the purposes of clause 21.
+  - Compare: 1991 No 69 ss 240(2), 241(1)(b), (c); 2023 No 46 s 590
+  - Effect of deposit of survey plans for subdivisions
+## Clause 29 — When records of title may be issued
+  - (1) The Registrar-General of Land may, under the Land Transfer Act 2017, issue a record of title for any land that is shown as a separate allotment on a survey plan (being a record of title issued to give effect to the subdivision of land shown on that survey plan).
+  - (2) However, the Registrar-General of Land must not issue the record of title unless they are satisfied that—
+  - (a) the survey plan has been deposited under clause 21(2) or approved by the Surveyor-General under clause 21(3); or
+  - (b) a reclamation plan has been deposited under clause 74(2); or
+  - (c) the territorial authority has given a certificate, signed by the chief executive or other authorised officer, to the effect that—
+  - (i) the allotment is in accordance with the requirements of the land use plan and a proposed land use plan (if there is one) for the area to which the survey plan relates; or (ii) if there is no land use plan for the area to which the survey plan relates, the allotment is in accordance with a proposed land use plan for the area; or
+  - (d) the survey plan has been deposited in accordance with the Unit Titles Act 2010; or
+  - (e) the survey plan was deposited under section 224 of the Resource Management Act 1991 or was approved by the Surveyor-General for the purposes of section 228 of that Act and section 228(2) of that Act was complied with; or
+  - (f) the survey plan was deposited under section 306 of the Local Government Act 1974 or was a Crown plan to which section 306(7) of that Act applied; or
+  - (g) the survey plan was approved under Part 25 of the Municipal Corporations Act 1954; or
+  - (h) the survey plan was approved under Part 2 of the Counties Amendment Act 1961; or
+  - (i) the plan did not require the approval of the local authority under Part 2 of the Counties Amendment Act 1961 and was deposited under the Land Transfer Act 2017 after Part 2 of the Counties Amendment Act 1961 came into force; or
+  - (j) the record of title is issued to give effect to any agreement for sale and purchase, agreement to lease, or other contract to create an interest in land or a building or part of a building made before the commencement of the Resource Management Act 1991.
+  - (3) Subclause
+  - (4) applies if—
+  - (a) land that is not subject to the Land Transfer Act 2017 is subdivided by or on behalf of a Minister of the Crown; and
+  - (b) the survey plan to which the subdivision relates is deposited by way of the Surveyor-General approving the survey plan (see clause 21(4)(a)).
+  - (4) Either of the following may ask the Registrar-General of Land to issue a record of title for the land in the name of the Sovereign:
+  - (a) the Director-General of Conservation, if the land is a conservation area (as defined in section 2(1) of the Conservation Act 1987), a reserve under the Reserves Act 1977, a national park under the National Parks Act 1980, or a wildlife sanctuary or wildlife refuge under the Wildlife Act 1953; or
+  - (b) the Surveyor-General, or another officer authorised in writing by the Surveyor-General, in every other case.
+  - (5) In the case of land to which subclause
+  - (4) applies, the Registrar-General of Land must not issue a record of title for land shown on separate allotments on an approved survey plan unless the requirements of clause 21 are complied with.
+  - Compare: 1991 No 69 ss 226(1), 228(1)(b), (2); 2023 No 46 s 591
+## Clause 30 — Vesting of roads
+  - (1) This clause applies if—
+  - (a) a survey plan for a subdivision is deposited in accordance with this subpart; and
+  - (b) any land on the survey plan is shown as road to be vested in a local authority or the Crown.
+  - (2) When the plan is deposited, the land shown as road vests as follows:
+  - (a) a regional road vests in the territorial authority or regional council (as the case requires):
+  - (b) a road declared as a Government road under any Act vests in the Crown:
+  - (c) a State highway vests in the Crown or the territorial authority, as the case may be:
+  - (d) any other road vests in the territorial authority.
+  - (3) Land vests under this clause free from all interests in land including any encumbrances (without the necessity of any instrument of release or discharge or otherwise).
+  - (4) In this clause, State highway has the same meaning as in section 5 of the Land Transport Management Act 2003.
+  - Compare: 1991 No 69 s 238; 2023 No 46 s 592
+## Clause 31 — Vesting of reserves or other land
+  - (1) This clause applies if—
+  - (a) a survey plan for a subdivision is deposited in accordance with this subpart; and
+  - (b) the plan—
+  - (i) shows any land to be vested in the territorial authority or the Crown as a reserve or in lieu of reserves; or
+  - (ii) shows any land, or any part of the bed of a river (not being part of the coastal marine area) or bed of a lake, as land to be vested in the territorial authority or the Crown.
+  - (2) When the plan is deposited,—
+  - (a) any land that is shown as a reserve to be vested in the territorial authority or the Crown vests in the territorial authority or the Crown for the purposes shown on the survey plan and subject to the Reserves Act 1977; and
+  - (b) any land that is shown as land to be vested in the territorial authority or in the Crown in lieu of reserves vests in the territorial authority or in the Crown; and
+  - (c) any land, or any part of the bed of a river (not being part of the coastal marine area) or bed of a lake, that is shown as land to be vested in the territorial authority or the Crown vests in the territorial authority or the Crown.
+  - (3) Land vests under subclause
+  - (2)—
+  - (a) subject to any specified interest in the land that the territorial authority has certified on the survey plan as needing to remain with the land; and
+  - (b) otherwise free from all interests in land, including any encumbrances (without needing any instrument of release or discharge or otherwise).
+  - (4) Any land vested in the Crown vests under the Land Act 1948 unless this Act provides otherwise.
+  - Compare: 1991 No 69 s 239; 2023 No 46 s 593
+## Clause 32 — Land shown on survey plan as coastal marine area becomes part of
+  - common marine and coastal area
+  - (1) This clause applies if—
+  - (a) a survey plan for a subdivision is deposited in accordance with this subpart; and
+  - (b) any land is shown on the survey plan as land in the coastal marine area.
+  - (2) When the plan is deposited, the land becomes part of the common marine and coastal area.
+  - Compare: 1991 No 69 s 237A; 2023 No 46 s 594
+  - Other provisions
+## Clause 33 — Variation or cancellation of consent notice
+  - (1) This clause applies if a consent notice is issued under clause 25 with ongoing requirements.
+  - (2) At any time after the related survey plan is deposited by the Registrar-General of Land,—
+  - (a) the current owner of the subdivided land may apply to a territorial authority to vary or cancel any requirement specified in the notice; and
+  - (b) the territorial authority may, whether or not an application is made under paragraph
+  - (a), review any requirement specified in a notice of ongoing requirements and vary or cancel the requirement.
+  - (3) Sections 131 to 182, 185 to 189, and 197(3) to 202 apply, with the necessary modifications, to an application made, or a review conducted, under subclause
+  - (2).
+  - (4) Subclause
+  - (5) applies if—
+  - (a) the notice of ongoing requirements is registered under the Land Transfer Act 2017; and
+  - (b) the Registrar-General of Land is satisfied that a requirement specified in the notice—
+  - (i) has been varied or cancelled after an application is made or a review is conducted under this clause; or (ii) has expired.
+  - (5) The Registrar-General of Land must make an entry in the register, and on any relevant instrument of title, noting that the notice of ongoing requirements has been varied or cancelled or has expired (as applicable).
+  - (6) The requirement in the notice of ongoing requirements then takes effect as varied, or ceases to have effect, as the case may be.
+  - Compare: 1991 No 69 s 221(3), (3A), (5); 2023 No 46 s 634
+## Clause 34 — Agreement to sell land or building before deposit of survey plan
+  - (1) This clause applies if—
+  - (a) there is an agreement to sell any land, building, or part of a building that constitutes a subdivision of land; and
+  - (b) the agreement is made before the survey plan for the subdivision is approved under clause 17.
+  - (2) The agreement is not illegal or void by reason only that it was entered into before the survey plan is deposited.
+  - (3) The agreement must be treated as if it were made subject to the following conditions:
+  - (a) the purchaser may, by notice in writing to the vendor, cancel the agreement at any time before the expiry of 14 days after the date on which the agreement is made:
+  - (b) the purchaser may, at any time after the applicable date, by notice in writing to the vendor, rescind the contract if the vendor—
+  - (i) has not made reasonable progress towards submitting a survey plan to the territorial authority for its approval; or
+  - (ii) has not complied with the deposit requirements within a reasonable time after the date on which the survey plan is approved by the territorial authority.
+  - (4) An agreement may be rescinded under subclause
+  - (3)(b) even if the parties cannot be restored to the position that they were in immediately before the agreement was made.
+  - (5) However, if an agreement is rescinded and the parties cannot be restored to their pre-agreement position, the rights and obligations of each party must, in the absence of agreement between the parties, be determined by a court of competent jurisdiction.
+  - (6) In subclause
+  - (3)(b), applicable date means the later of—
+  - (a) 5 years after the date on which the subdivision consent was granted; and
+  - (b) 1 year after the date of the agreement.
+  - Compare: 1991 No 69 s 225; 2023 No 46 s 601
+## Clause 35 — Revocation of conditions about easements
+  - (1) This clause applies if a subdivision consent includes a condition described in—
+  - (a) clause 10 (condition requiring easement to be granted or reserved); or
+  - (b) clause 11 (condition requiring easement to be extinguished).
+  - (2) The territorial authority may at any time, whether before or after the survey plan is deposited or approved by the Surveyor-General under clause 21, revoke the condition in whole or in part.
+  - (3) If the territorial authority revokes the condition, then,—
+  - (a) if the survey plan is awaiting approval by the Surveyor-General under clause 21(3), a memorandum of the revocation must be included on the survey plan or a notice of the revocation must be forwarded by the territorial authority to the Surveyor-General; and
+  - (b) in any other case, the territorial authority must forward to the Registrar- General of Land a certificate to the effect that the condition has been revoked in whole or in part.
+  - (4) The certificate referred to in subclause
+  - (3)(b) must be signed by the chief executive or other authorised officer of the territorial authority.
+  - (5) The Registrar-General of Land must note the records accordingly.
+  - Compare: 1991 No 69 s 243(e), (f); 2023 No 46 s 624
+### Part 3
+  - Esplanade reserves, esplanade strips, and access strips
+## Clause 36 — Meaning of relevant land
+  - In this Part, relevant land,—
+  - (a) in relation to an instrument that creates an esplanade strip, means the land over which the esplanade strip is created; and
+  - (b) in relation to an easement for an access strip, means the land over which the access strip is created.
+  - Compare: 2023 No 46 Schedule 11 cl 1
+## Subpart 1—Esplanade reserves and esplanade strips
+## Clause 37 — Purposes of esplanade reserves and esplanade strips
+  - An esplanade reserve or an esplanade strip has 1 or more of the following purposes:
+  - (a) to contribute to the protection of conservation values by, in particular,—
+  - (i) maintaining or enhancing the natural functioning of the adjacent coastal marine area, river, or lake: (ii) maintaining or enhancing water quality: (iii) maintaining or enhancing aquatic or riparian habitats: (iv) protecting the natural values associated with the esplanade reserve or esplanade strip:
+  - (b) to mitigate or reduce natural hazards or any risks of natural hazards:
+  - (c) to enable public access to or along the coastal marine area, a river, or a lake:
+  - (d) to enable public recreational use of the esplanade reserve or esplanade strip and adjacent coastal marine area, river, or lake if the use is compatible with conservation values.
+  - Compare: 1991 No 69 s 229; 2023 No 46 s 609
+## Clause 38 — New esplanade reserves and esplanade strips required when land is
+  - subdivided
+  - (1) This clause applies if, when land is subdivided under this Act, any allotment is created that—
+  - (a) is adjacent to the coastal marine area or a lake; or
+  - (b) is adjacent to a river or has a river flowing through it. Reserves and strips required
+  - (2) If the allotment is less than 4 hectares in area, an esplanade reserve must be set aside from it under clause 43 unless—
+  - (a) a rule in a land use plan provides otherwise; or
+  - (b) a subdivision consent waives the requirement for the reserve.
+  - (3) If the allotment is 4 hectares or more in area,—
+  - (a) an esplanade reserve must be set aside from it under clause 43 if—
+  - (i) a rule in a land use plan requires the reserve to be set aside; and (ii) the requirement is not waived by a subdivision consent; and
+  - (b) an esplanade strip must be created under clause 44 if—
+  - (i) a rule in a land use plan requires the strip to be created; and (ii) the requirement is not waived by a subdivision consent.
+  - (4) For the purposes of subclauses
+  - (2) and
+  - (3), the size of an allotment (that is, whether it is less than, equal to, or more than 4 hectares in area) must be determined before any esplanade reserve is set aside from it under this clause.
+  - (5) The registered owner of the allotment may be entitled to compensation (see clauses 64 and 65). Location and width
+  - (6) A reserve or strip required by this clause must be set aside from the allotment (in the case of a reserve) or created (in the case of a strip) along the bank of the river, margin of the lake, or mark of mean high-water springs of the sea.
+  - (7) A reserve or strip required by this clause must be,—
+  - (a) if required for an allotment of less than 4 hectares,—
+  - (i) the width that is required by a rule in a land use plan; or (ii) if there is no such requirement, 20 metres in width; or
+  - (b) if required for an allotment of 4 hectares or more, the width that is required by a rule in a land use plan; or
+  - (c) in either case, any lesser width that is specified as a condition of the subdivision consent. Interpretation
+  - (8) In this clause,— lake means a lake whose bed has an area of 8 hectares or more river means a river whose bed has an average width of 3 metres or more where the river flows through or adjoins an allotment.
+  - Compare: 1991 No 69 s 230; 2023 No 46 s 611
+## Clause 39 — Esplanade reserves required to supplement land previously set aside or
+  - reserved
+  - (1) This clause applies if, when land is subdivided under this Act,—
+  - (a) any of the land is adjacent to esplanade land that was previously set aside or reserved; and
+  - (b) in relation to any allotment created by the subdivision, the width of the esplanade land previously set aside or reserved is less than the required width.
+  - Reserves required
+  - (2) An esplanade reserve must be set aside from the allotment under clause 43 if—
+  - (a) a condition of the subdivision consent requires it; or
+  - (b) a rule in a land use plan requires it.
+  - (3) The registered owner of the allotment may be entitled to compensation (see clauses 64 and 65). Location and width
+  - (4) A reserve required by this clause—
+  - (a) must be set aside from the allotment where it adjoins the esplanade land previously set aside or reserved; and
+  - (b) must be the width that is the difference between the width of the esplanade land previously set aside or reserved and the required width. Interpretation
+  - (5) In this clause,— esplanade land means any land that is alongside the bank of a river, margin of a lake, or mark of mean high-water springs of the sea previously set aside or reserved, in relation to esplanade land, means land that—
+  - (a) has been set aside as an esplanade reserve under this Act, the Resource Management Act 1991, or any earlier legislation replaced by the Resource Management Act 1991; or
+  - (b) has been reserved—
+  - (i) for the purpose specified in section 289 of the Local Government Act 1974; or (ii) for public purposes under section 29(1) of the Counties Amendment Act 1961 or section 11 of the Land Subdivision in Counties Act 1946; or
+  - (c) has been set aside or reserved for public recreation purposes under any other legislation (whether or not in force at the commencement of this clause); or
+  - (d) has been reserved from sale or other disposition under—
+  - (i) section 24 of the Conservation Act 1987; or (ii) section 58 of the Land Act 1948; or (iii) the corresponding provisions of any former legislation required width, in relation to the esplanade reserve required for an allotment, means the width of the esplanade reserve or strip that would be required to be set aside from the allotment under clause 38 if no esplanade land had been previously set aside from it.
+  - (6) For the purposes of the definition of required width in subclause
+  - (5), clause 38 must be read as if it required the size of the allotment to be determined—
+  - (a) without including any esplanade land previously set aside or reserved from the allotment; but
+  - (b) before any additional esplanade reserve is set aside from it under this clause.
+  - Compare: 1991 No 69 s 236; 2023 No 46 s 612
+## Clause 40 — New esplanade reserves and esplanade strips required when land is
+  - reclaimed
+  - (1) This clause applies if, when land is reclaimed in accordance with a natural resource permit under the Natural Environment Act 2026, any allotment is created that—
+  - (a) is adjacent to the coastal marine area or a lake; or
+  - (b) is adjacent to a river or has a river flowing through it.
+  - (2) An esplanade reserve must be set aside from the allotment under clause 43 if a condition of the natural resource permit for the reclamation requires it.
+  - (3) An esplanade strip must be created under clause 44, but only if it is required as a condition of the natural resource permit for the reclamation.
+  - Compare: 2023 No 46 s 613
+## Clause 41 — Approval of survey plans if esplanade reserve or esplanade strips required
+  - (1) A territorial authority must not approve a survey plan submitted under clause 17 unless any esplanade reserve or esplanade strip required under this subpart is shown on the survey plan.
+  - (2) Despite anything in the Land Transfer Act 2017,—
+  - (a) an esplanade strip must not be required to be surveyed; but
+  - (b) if an esplanade strip is shown on a survey plan, it must be clearly identified in any way the Surveyor-General considers appropriate.
+  - (3) Despite subclause
+  - (1), a territorial authority may approve a survey plan submitted under clause 17 (the primary survey plan) that does not show an esplanade reserve or esplanade strip required under this subpart if—
+  - (a) the esplanade reserve or esplanade strip is required for a subdivision to be effected by the grant of a cross lease, the grant of a company lease, or the deposit of a unit plan; and
+  - (b) it is not practical to show the esplanade reserve or esplanade strip on the primary survey plan; and
+  - (c) a separate survey plan showing the esplanade reserve or esplanade strip (a secondary survey plan) has been prepared and submitted to the territorial authority for approval under this clause.
+  - (4) If a territorial authority approves a secondary survey plan,—
+  - (a) a memorandum to that effect must be included on both the primary survey plan and the secondary survey plan; and
+  - (b) the secondary survey plan must be deposited before, or at the same time as, the primary survey plan.
+  - (5) Nothing in section 23 or any other provision of this schedule applies to a secondary survey plan.
+  - (6) Subclause
+  - (4)(b) is a deposit requirement for the purposes of clause 21.
+  - Compare: 1991 No 69 s 237; 2023 No 46 s 581
+## Clause 42 — Esplanade strips created by agreement
+  - A local authority may agree with the registered owner of land to create an esplanade strip under clause 44 for any of the purposes specified in clause 37.
+  - Compare: 1991 No 69 ss 235, 237B(1); 2023 No 46 s 614
+## Clause 43 — Esplanade reserves to vest on subdivision
+  - (1) This clause applies if—
+  - (a) clause 38 or 39 requires an esplanade reserve to be set aside from an allotment when land is subdivided under this Act; or
+  - (b) clause 40 requires an esplanade reserve to be set aside from an allotment when land is reclaimed under the Natural Environment Act 2026.
+  - (2) After a survey plan for the subdivision, or reclamation plan for the reclamation, is deposited in accordance with this schedule, the land that the plan identifies as an esplanade reserve—
+  - (a) is set aside and held under the Reserves Act 1977 as a local purpose reserve for esplanade purposes; and
+  - (b) vests in the territorial authority under clause 31.
+  - (3) For the purposes of the Reserves Act 1977, the territorial authority is the reserve’s administering body.
+  - (4) Nothing in this subpart prevents the change of classification or purpose of an esplanade reserve in accordance with the Reserves Act 1977 or the exercise of any other power under that Act.
+  - Compare: 1991 No 69 s 231; 2023 No 46 s 616
+## Clause 44 — How esplanade strips are created
+  - (1) An esplanade strip is created by the registration under the Land Transfer Act 2017 of an instrument that complies with clauses 45 and 46.
+  - (2) If an esplanade strip is required by this subpart, the instrument must be lodged with the Registrar-General of Land before the survey plan for the subdivision is deposited.
+  - (3) Subclause
+  - (2) is a deposit requirement for the purposes of clauses 21 and 74.
+  - Compare: 1991 No 69 s 232(1); 2023 No 46 s 617
+## Clause 45 — Registration requirements for instrument that creates esplanade strip
+  - (1) The Registrar-General of Land must not register an instrument to create an esplanade strip unless the requirements of subclause
+  - (2) or
+  - (3) are satisfied.
+  - (2) If the esplanade strip is required by clause 38, 39, or 40 when land is subdivided or reclaimed, the strip identified in the instrument must be the same as that shown on the survey plan approved by the territorial authority (for subdivisions) or regional council (for reclamations).
+  - (3) If the esplanade strip is created by agreement (see clause 42),—
+  - (a) every person who has a registered interest in the relevant land must consent to the strip; and
+  - (b) that consent must be provided on a consent form approved under the Land Transfer Act 2017 and included in the relevant instrument.
+  - Compare: 2023 No 46 Schedule 11 cl 2
+## Clause 46 — Requirements for instrument that creates esplanade strip
+  - (1) An instrument to create an esplanade strip must,—
+  - (a) for registration purposes, be in the form approved by the Registrar- General of Land; and
+  - (b) for the purpose of recording the rights and interests attaching to the esplanade strip, be in the prescribed form.
+  - (2) The instrument must also—
+  - (a) be created in favour of the local authority; and
+  - (b) be executed by the local authority and the owner of the subdivided land (the parties); and
+  - (c) create an interest in land, and may be registered under the Land Transfer Act 2017; and
+  - (d) when registered with the Registrar-General of Land, run with and bind the land that is subject to the instrument; and
+  - (e) bind every mortgagee or other person who has an interest in the land, without that person’s consent; and
+  - (f) contain any provisions required by the following clauses:
+  - (i) clause 57 (provisions prohibiting certain actions): (ii) clause 58 (provisions relating to access for esplanade strip created for access purposes or access strips): (iii) clause 59 (provisions relating to access for esplanade strips created for recreational purposes); and
+  - (g) provide for any modifications or exclusions decided under subclause
+  - (4).
+  - (3) The decisions under subclause
+  - (4) must be made—
+  - (a) by the territorial authority, if the esplanade strip is required by clause 38, 39, or 40; or
+  - (b) by agreement between the local authority and the owner of the relevant land, if the esplanade strip is created by agreement (see clause 42).
+  - (4) The decisions are as follows:
+  - (a) which provisions in the following clauses (if any) to modify (including by imposing conditions) or to exclude from the instrument:
+  - (i) clause 60 (provisions prohibiting certain other actions): (ii) clause 61 (provisions relating to fencing): (iii) clause 62 (provisions relating to closure): (iv) clause 63 (provisions relating to access for esplanade strips created for conservation values), if that clause applies:
+  - (b) whether it is appropriate for the instrument to provide for any other matters.
+  - (5) When making the decisions, the relevant persons must consider—
+  - (a) any relevant rules in the land use plan; and
+  - (b) the provisions and other matters included in any existing instrument for an esplanade strip, or easement for an access strip, in the vicinity; and
+  - (c) the purpose of the strip, including the needs of potential users of the strip; and
+  - (d) the use of the strip and adjoining land by the owner and occupier; and
+  - (e) the use of the river, lake, or coastal marine area within or adjacent to the strip; and
+  - (f) the management of any reserve in the vicinity.
+  - Compare: 1991 No 69 s 232; 2023 No 46 Schedule 11 cls 4, 5
+## Clause 47 — Closure of esplanade strip to public
+  - (1) An esplanade strip may be closed to the public—
+  - (a) for the times and periods specified in the relevant instrument; or
+  - (b) by the local authority during periods of emergency or public risk that are likely to cause loss of life, injury, or serious damage to property.
+  - (2) The local authority must ensure, if practicable, that the closure is adequately notified (including notification to the public that it is an offence to enter the strip during the period of closure) by signs erected at all entry points to the strip.
+  - (3) However, subclause
+  - (2) does not apply if the instrument provides that another person is responsible for that notification.
+  - Compare: 1991 No 69 s 237C; 2023 No 46 s 618
+## Clause 48 — Effect of change of boundary to esplanade strip
+  - (1) This section applies if, for any reason, any of the following alters in a way that affects the boundary of an esplanade strip within an allotment:
+  - (a) the mark of mean high-water springs:
+  - (b) the bank of a river:
+  - (c) the margin of a lake.
+  - (2) A new esplanade strip that coincides with the alteration is created simultaneously with the alteration.
+  - (3) The instrument that created the original esplanade strip (the original instrument)—
+  - (a) continues in existence; and
+  - (b) applies to the new esplanade strip without any alteration other than the location of the esplanade strip.
+  - (4) The new esplanade strip—
+  - (a) has the same dimensions, and is situated and subject to the same conditions, as if it had been created by the original instrument; and
+  - (b) extinguishes in whole or in part (as the case requires) the original esplanade strip.
+  - (5) A person who has an interest in land that is affected by the new esplanade strip is bound by the instrument that applies to that strip.
+  - Compare: 1991 No 69 s 233; 2023 No 46 Schedule 11 cl 18
+## Clause 49 — Variation or cancellation of esplanade strip
+  - (1) The registered owner of the land that includes an esplanade strip may apply to the territorial authority to vary or cancel the instrument that created the strip.
+  - (2) The application must—
+  - (a) describe the strip and its location; and
+  - (b) include an assessment of the effects of varying or cancelling the instrument.
+  - (3) Section 197 applies to the application, with all necessary modifications, as if it were an application by a consent holder for a change or cancellation of a condition of a planning consent.
+  - (4) A territorial authority may initiate a review to vary or cancel an esplanade strip by preparing a statement covering the matters specified in subclause
+  - (2).
+  - (5) Sections 199 to 202 apply to the review, with all necessary modifications, as if it were a review of conditions of a planning consent initiated by the territorial authority.
+  - (6) The territorial authority must have regard to the following matters when considering an application or a review:
+  - (a) the matters set out in section 164(1), which applies with all necessary modifications:
+  - (b) the purpose or purposes for which the esplanade strip was created (see clause 37):
+  - (c) any change in circumstances that has made the strip, or any of the conditions in the instrument that created the strip, inappropriate or unnecessary.
+  - (7) After all the appeals (if any) are finally determined, the territorial authority must lodge for registration with the Registrar-General of Land a certificate (signed by the chief executive or other authorised officer of the territorial authority) that specifies any variations to the instrument or that the instrument is cancelled (as the case requires).
+  - (8) The Registrar-General of Land must make an appropriate entry in the register and on the instrument noting any variations or any cancellation.
+  - (9) The instrument takes effect as varied or, if cancelled, ceases to have effect.
+  - Compare: 1991 No 69 s 234; 2023 No 46 Schedule 11 cls 19–21
+## Clause 50 — Vesting of esplanade reserve or bed of lake or river in the Crown or
+  - regional council
+  - (1) The Minister of Conservation or a regional council may declare that all or any part of an esplanade reserve, or the bed of any lake or river,—
+  - (a) will cease to be vested in and administered by the territorial authority; and
+  - (b) will vest instead in the Crown or the regional council.
+  - (2) The declaration—
+  - (a) is made by notice in the Gazette; and
+  - (b) may be made only with the agreement of the territorial authority; and
+  - (c) must be registered with the Registrar-General of Land.
+  - (3) Any esplanade reserve vested under this clause may be included in an existing reserve.
+  - (4) If subclause
+  - (3) does not apply, the reserve has the classification specified in the declaration and must be administered under the Reserves Act 1977 in accordance with that classification.
+  - (5) Subclause
+  - (1) applies despite anything to the contrary in the Reserves Act 1977.
+  - Compare: 1991 No 69 s 237D; 2023 No 46 s 619
+## Subpart 2—Access strips
+## Clause 51 — Purpose of access strip
+  - (1) The purpose of an access strip is to allow public access—
+  - (a) to or along a lake or river or the coast; or
+  - (b) to an esplanade reserve, esplanade strip, or other reserve; or
+  - (c) to land that is owned by the local authority or by the Crown.
+  - (2) However, subclause
+  - (1)(c) does not include any land that is held for a public work, unless it is held, administered, or managed under the Conservation Act 1987 or an Act named in Schedule 1 of that Act.
+  - Compare: 1991 No 69 s 2(1); 2023 No 46 s 610
+## Clause 52 — Access strips created by agreement
+  - A local authority may agree with the registered owner of land—
+  - (a) to acquire an easement over the land to create an access strip under clause 53 for a purpose specified in clause 51; and
+  - (b) on the conditions on which the easement may be enjoyed.
+  - Compare: 1991 No 69 s 237B(1); 2023 No 46 s 615
+## Clause 53 — Access strip created by registration of easement
+  - (1) An access strip is created by the registration under the Land Transfer Act 2017 of an easement that complies with the requirements of clause 54.
+  - (2) The easement cannot be registered unless—
+  - (a) every person who has a registered interest in the relevant land has consented to creating the access strip; and
+  - (b) that consent is provided on a form of consent approved under the Land Transfer Act 2017 and included in the relevant easement.
+  - Compare: 1991 No 69 s 237B(5), (7); 2023 No 46 Schedule 11 cl 6
+## Clause 54 — Requirements for easement that creates access strip
+  - (1) An easement to create an access strip must,—
+  - (a) for registration purposes, be in the form approved by the Registrar- General of Land; and
+  - (b) for the purpose of recording the rights and interests attaching to the esplanade strip, be in the prescribed form.
+  - (2) The easement creating an access strip must also—
+  - (a) be executed by the local authority and the registered owner of the relevant land (the parties); and
+  - (b) contain any provisions required by the following clauses:
+  - (i) clause 57 (provisions prohibiting certain actions): (ii) clause 58 (provisions relating to access: esplanade strip created for access purposes and access strips); and
+  - (c) provide for modifications or exclusions agreed by the parties under subclauses
+  - (3) and
+  - (4).
+  - (3) The parties must decide—
+  - (a) which provisions in the following clauses (if any) to modify (including by imposing conditions) or to exclude from the easement:
+  - (i) clause 60 (provisions prohibiting certain other actions): (ii) clause 61 (provisions relating to fencing): (iii) clause 62 (provisions relating to closure); and
+  - (b) whether it is appropriate for the easement to provide for any other matters.
+  - (4) When making those decisions, the parties must consider—
+  - (a) any relevant rules in the land use plan; and
+  - (b) the provisions and other matters included in any existing instrument for an esplanade strip, or easement for an access strip, in the vicinity; and
+  - (c) the purpose of the strip, including the needs of potential users of the strip; and
+  - (d) the use of the strip and adjoining land by the owner and occupier; and
+  - (e) where appropriate, the use of the river, lake, or coastal marine area within or adjacent to the access strip; and
+  - (f) the management of any reserve in the vicinity.
+  - Compare: 1991 No 69 s 237B(2)–(4); 2023 No 46 Schedule 11 cls 7, 8
+## Clause 55 — How easement to create access strip is varied or cancelled
+  - (1) The local authority and the registered owner may, by agreement, vary or cancel an easement that creates an access strip after taking into account—
+  - (a) clause 54(3) and
+  - (4); and
+  - (b) any change in circumstances.
+  - (2) If a variation or cancellation is agreed,—
+  - (a) the territorial authority must lodge for registration with the Registrar- General of Land a certificate (signed by the chief executive or other authorised officer of the territorial authority) that specifies the variations to the easement or that the easement is cancelled; and
+  - (b) the Registrar-General of Land must make an appropriate entry in the register and on the easement noting the variation or cancellation; and
+  - (c) the easement takes effect as varied or, if cancelled, ceases to have effect.
+  - Compare: 1991 No 69 s 237B(7)–(8); 2023 No 46 Schedule 11 cl 9
+## Clause 56 — Closure of access strip to public
+  - (1) An access strip may be closed to the public—
+  - (a) for the times and periods specified in the relevant easement; or
+  - (b) by the local authority during periods of emergency or public risk that are likely to cause loss of life, injury, or serious damage to property.
+  - (2) The local authority must ensure, if practicable, that the closure is adequately notified (including notification to the public that it is an offence to enter the strip during the period of closure) by signs erected at all entry points to the strip.
+  - (3) However, subclause
+  - (2) does not apply if the easement provides that another person is responsible for that notification.
+  - Compare: 1991 No 69 s 237C; 2023 No 46 s 618
+## Subpart 3—Provisions in instrument to create esplanade strip or
+  - easement to create access strip Provisions that must be included in instruments and easements
+## Clause 57 — Provisions prohibiting certain actions
+  - An instrument that creates an esplanade strip or an easement that creates an access strip must specify that the following acts are prohibited on the relevant land:
+  - (a) any act that wilfully endangers, disturbs, or annoys any lawful user (including the land owner or occupier) of the relevant land:
+  - (b) any act, by a person other than the owner or occupier of the relevant land, that—
+  - (i) wilfully damages or interferes with any structure that is on or adjoins the relevant land, including any building, fence, gate, stile, marker, bridge, or notice; or (ii) wilfully interferes with or disturbs any livestock lawfully permitted on the relevant land.
+  - Compare: 1991 No 69 Schedule 10 cl 1; 2023 No 46 Schedule 11 cl 11
+## Clause 58 — Provisions relating to access: esplanade strip created for access purposes
+  - and access strips An instrument that creates an esplanade strip for access purposes, or an easement that creates an access strip, must specify—
+  - (a) that any person has the right, at any time, to pass and repass over and along the relevant land; and
+  - (b) that the right of access is subject to other provisions of the instrument or easement.
+  - Compare: 1991 No 69 Schedule 10 cl 5; 2023 No 46 Schedule 11 cl 14
+## Clause 59 — Provisions relating to access: esplanade strips created for recreational
+  - purposes An instrument that creates an esplanade strip for public recreational use must specify—
+  - (a) that any person has the right, at any time, to enter on the relevant land and remain on that land for any period of time for the purpose of recreation; but
+  - (b) that the right of access is subject to other provisions of the instrument.
+  - Compare: 1991 No 69 Schedule 10 cl 6; 2023 No 46 Schedule 11 cl 17
+  - Provisions that may be included in instruments and easements by agreement
+## Clause 60 — Provisions prohibiting certain other actions
+  - An instrument that creates an esplanade strip or an easement that creates an access strip may include prohibitions on 1 or more of the following:
+  - (a) lighting any fire:
+  - (b) carrying any firearm:
+  - (c) discharging or shooting any firearm:
+  - (d) camping:
+  - (e) taking any animal onto, or having charge of any animal on, the relevant land:
+  - (f) taking any vehicle onto, or driving or having charge or control of any vehicle on, the relevant land (whether the vehicle is motorised or non- motorised):
+  - (g) wilfully damaging or removing any plant (unless acting in accordance with the Biosecurity Act 1993):
+  - (h) laying any poison or setting any snare or trap (unless acting in accordance with the Biosecurity Act 1993).
+  - Compare: 1991 No 69 Schedule 10 cl 2; 2023 No 46 Schedule 11 cl 12
+## Clause 61 — Provisions relating to fencing
+  - An instrument that creates an esplanade strip or an easement that creates an access strip may include any fencing requirements, including—
+  - (a) a requirement about a gate or stile:
+  - (b) a requirement to reposition or remove any fence.
+  - Compare: 1991 No 69 Schedule 10 cl 3; 2023 No 46 Schedule 11 cl 13
+## Clause 62 — Provisions relating to closure
+  - An instrument that creates an esplanade strip or an easement that creates an access strip may specify—
+  - (a) that the relevant land may be closed to the public for any specified period, including particular times and dates; and
+  - (b) who must notify the public, by signs erected at all entry points to the relevant land and any other means agreed, that the relevant land is closed to the public as a result of closure periods specified in the instrument or easement.
+  - Compare: 1991 No 69 Schedule 10 cl 7; 2023 No 46 Schedule 11 cl 15
+## Clause 63 — Provisions relating to access for esplanade strips created for conservation
+  - values An instrument that creates an esplanade strip for the protection of conservation values may specify—
+  - (a) a limited right of access, in that—
+  - (i) no person other than the owner or occupier of the relevant land may enter or remain on that land; or (ii) only specified persons may enter or remain on the relevant land; and
+  - (b) that the right of access is subject to other provisions of the instrument.
+  - Compare: 1991 No 69 Schedule 10 cl 4; 2023 No 46 Schedule 11 cl 16
+### Part 4
+  - Compensation
+## Clause 64 — Compensation when esplanade reserve taken from allotment of less than 4
+  - hectares
+  - (1) This clause applies if, when land is subdivided under this Act,—
+  - (a) an allotment of less than 4 hectares is created; and
+  - (b) clause 38 or 39 requires an esplanade reserve to be set aside from that allotment.
+  - (2) The registered owner of the allotment—
+  - (a) is not entitled to compensation for any of the reserve that is within 20 metres of the mark of mean high-water springs of the sea, the bank of a river, or the margin of a lake; but
+  - (b) if the reserve is wider than 20 metres, is entitled to compensation for any area of land taken for the reserve that is more than 20 metres from the mark of mean high-water springs, the bank of the river, or the margin of the lake.
+  - (3) The territorial authority must pay the compensation to the registered owner of the allotment, unless the owner agrees otherwise.
+  - Compare: 1991 No 69 s 237E; 2023 No 46 s 595
+## Clause 65 — Compensation when esplanade reserve or strip taken from allotment of
+  - 4 hectares or more
+  - (1) This clause applies if, when land is subdivided under this Act,—
+  - (a) an allotment of 4 hectares or more is created; and
+  - (b) clause 38 or 39 requires, for that allotment, an esplanade reserve to be set aside or an esplanade strip to be created.
+  - (2) The registered owner of the allotment is entitled to compensation for—
+  - (a) the area of the esplanade reserve taken; or
+  - (b) the interest in land taken for the esplanade strip.
+  - (3) The territorial authority must pay the compensation to the registered owner of the allotment, unless the owner agrees otherwise.
+  - Compare: 1991 No 69 s 237F; 2023 No 46 s 596
+## Clause 66 — Compensation when bed of river or bed of lake vests in territorial
+  - authority or Crown
+  - (1) This clause applies if, when land is subdivided under this Act,—
+  - (a) any part of an allotment that is within the bed of a lake or river vests in the territorial authority or the Crown (see clause 31); and
+  - (b) that part adjoins, or would adjoin if it were not for an esplanade reserve, any allotment of 4 hectares or more that is created by the subdivision.
+  - (2) The territorial authority or the Crown, as the case may be, must pay compensation to the registered owner of that allotment, unless the registered owner agrees otherwise.
+  - Compare: 1991 No 69 s 237G(1)(a), (2); 2023 No 46 s 597
+## Clause 67 — Compensation when land becomes part of common marine and coastal
+  - area
+  - (1) This clause applies if, when land is subdivided under this Act,—
+  - (a) any part of an allotment is in the coastal marine area; and
+  - (b) clause 32 requires that part to become part of the common marine and coastal area; and
+  - (c) that part adjoins, or would adjoin if it were not for an esplanade reserve, any allotment of 4 hectares or more that is created by the subdivision.
+  - (2) The Crown must pay compensation to the registered owner of the allotment, unless the registered owner agrees otherwise.
+  - Compare: 1991 No 69 s 237G(1)(b), (3); 2023 No 46 s 598
+## Clause 68 — Amount of compensation
+  - (1) For the purposes of clauses 64 to 67, the amount of compensation must be equal to—
+  - (a) the value of the land set aside (in the case of an esplanade reserve) or the interest in land created (in the case of an esplanade strip); and
+  - (b) any additional survey costs incurred by reason of the esplanade reserve or esplanade strip, as the case may be, as at the date of the deposit of the survey plan.
+  - (2) If the territorial authority or the Crown cannot agree with the registered owner on the amount of the compensation that is payable, that amount must be determined by a registered valuer who is—
+  - (a) agreed on by the parties; or
+  - (b) if the parties cannot agree, nominated by the president of the New Zealand Institute of Valuers (as constituted under the Valuers Act 1948).
+  - (3) The valuer must provide a copy of their valuation to all parties.
+  - (4) If a party is dissatisfied with the determination, they may object to the determination under clause 69.
+  - Compare: 1991 No 69 s 237H(1), (4); 2023 No 46 s 599
+## Clause 69 — How to object to determinations of amount of compensation
+  - (1) Any objection to a valuer’s determination under clause 68(2)—
+  - (a) must be made to the registered valuer within 20 working days after the determination is provided; and
+  - (b) must state the grounds of objection; and
+  - (c) must be in writing.
+  - (2) Sections 34 to 36 and 38 of the Rating Valuations Act 1998 (and any regulations made under that Act relating to reviews and objections), as far as they are applicable and with all necessary modifications, apply to the objection as if—
+  - (a) the registered valuer were appointed by a territorial authority to review the objection; and
+  - (b) the review were made under section 34 of that Act; and
+  - (c) the references to a territorial authority in sections 34(4), 35, and 36 of that Act were references to the registered valuer.
+  - Compare: 1991 No 69 s 237H(2), (3); 2023 No 46 s 600
+### Part 5
+  - Reclamation
+## Clause 70 — Requirement for approval and deposit of reclamation plans after
+  - reclamation
+  - (1) This clause applies to any person who is granted a natural resource permit for a reclamation under the Natural Environment Act 2026.
+  - (2) As soon as is reasonably practicable after completing the reclamation, the person must—
+  - (a) prepare a plan of survey in respect of the land that has been reclaimed (the reclamation plan); and
+  - (b) submit the reclamation plan to the relevant regional council (as permit authority under the Natural Environment Act 2026) for its approval.
+  - Compare: 1991 No 69 s 245(1); 2023 No 46 s 602
+  - Approval of reclamation plans
+## Clause 71 — Regional council may approve reclamation plans
+  - After receiving a reclamation plan under clause 70, a regional council must,—
+  - (a) if it is satisfied, approve the plan and issue a certificate of approval; or
+  - (b) if any of the requirements in clause 72 are not met, decline the reclamation plan and notify that decision and the reasons for it to the person who submitted the plan.
+  - Compare: 1991 No 69 s 245; 2023 No 46 s 603
+## Clause 72 — Requirements for reclamation plans
+  - (1) The requirements for a reclamation plan are as follows:
+  - (a) the reclamation must comply with the natural environment plan; and
+  - (b) the reclamation and the reclamation plan must comply with the natural resource permit; and
+  - (c) in respect of any condition of the natural resource permit that has not been complied with,—
+  - (i) a bond must have been given under section 178(1)(c) of the Natural Environment Act 2026; or (ii) a covenant must have been entered into under section 178(1)(e) of that Act; and
+  - (d) the reclamation plan must comply with subclause
+  - (2).
+  - (2) The reclamation plan—
+  - (a) must be prepared in accordance with regulations made under the Cadastral Survey Act 2002; and
+  - (b) must show and define—
+  - (i) the area reclaimed, including its location and the position of all new boundaries; and (ii) the location and size of any area that clause 40 requires to be set aside as an esplanade reserve or created as an esplanade strip.
+  - Compare: 1991 No 69 s 245(2), (4); 2023 No 46 s 604
+## Clause 73 — Certificate of approval by regional council
+  - (1) This clause applies if a regional council approves a reclamation plan under clause 71.
+  - (2) The chief executive or an authorised officer of the regional council must issue a certificate of approval.
+  - (3) The certificate is issued—
+  - (a) by the chief executive or authorised officer signing the reclamation plan or a copy of the reclamation plan; or
+  - (b) by any other means that—
+  - (i) identifies the chief executive and links the certificate to the reclamation plan; and (ii) is as reliable as is appropriate for the purposes of this clause.
+  - (4) The certificate must include the following information:
+  - (a) a statement that the regional council has approved the reclamation plan; and
+  - (b) the date of approval; and
+  - (c) a statement that the reclamation conforms with—
+  - (i) the natural environment plan; and (ii) the natural resource permit for the reclamation; and
+  - (d) a statement that, for any condition of the natural resource permit that has not been complied with,—
+  - (i) a bond has been given under section 178(1)(c) of the Natural Environment Act 2026; or (ii) a covenant has been entered into under section 178(1)(e) of that Act.
+  - (5) The regional council must provide the reclamation plan and certificate to the relevant territorial authority.
+  - (6) The certificate must be lodged with the Registrar-General of Land before the reclamation plan is deposited.
+  - (7) Subclause
+  - (6) is a deposit requirement for the purposes of clause 74.
+  - Compare: 1991 No 69 s 245(5), (6); 2023 No 46 s 605
+  - How reclamation plans are deposited
+## Clause 74 — How reclamation plans are deposited by Registrar-General of Land
+  - (1) As soon as is reasonably practicable after a regional council approves the reclamation plan for a reclamation of land under clause 71, the holder of the natural resource permit for the reclamation must provide the approved reclamation plan to the Registrar-General of Land for deposit.
+  - (2) The Registrar-General of Land, after receiving a reclamation plan,—
+  - (a) may, if the deposit requirements for the purposes of this clause are satisfied, deposit the plan; or
+  - (b) must, if any of the deposit requirements for the purposes of this clause are not satisfied, decline to deposit the plan and must notify the natural resource permit holder of that decision and the reasons for it.
+  - (3) However, a reclamation plan must not be deposited under the Land Transfer Act 2017 unless—
+  - (a) the relevant regional council has approved the plan within the previous 3 years; and
+  - (b) a copy of the certificate issued under clause 73(2) is lodged with the Registrar-General of Land.
+  - Compare: 1991 No 69 s 246(1), (2); 2023 No 46 s 606
+## Clause 75 — Deposit requirements for reclamation plans
+  - The following clauses set deposit requirements for the purposes of clause 74:
+  - (a) clause 44(3) (how esplanade strips are created):
+  - (b) clause 73(7) (certificate of approval by regional council).
+  - Compare: 1991 No 69 s 246(1), (2); 2023 No 46 s 607
+## Clause 76 — Effect of deposit of reclamation plans
+  - (1) When a reclamation plan is deposited, any land shown on the plan as an esplanade reserve—
+  - (a) vests in the Crown; and
+  - (b) is classified, for the purposes described in clause 37, as a local purpose reserve that is subject to section 23 of the Reserves Act 1977.
+  - (2) This clause prevails over section 167 of the Land Act 1948.
+  - Compare: 1991 No 69 s 246(3), (4); 2023 No 46 s 608
+  - Vesting of reclaimed land
+## Clause 77 — Vesting of reclaimed land
+  - (1) A person may apply to the relevant Minister for a right, title, or interest in any land to be vested in that person if—
+  - (a) the land has been reclaimed and, before it was reclaimed, the land formed part of the bed of a lake or river that is land of the Crown; or
+  - (b) the land is proposed to be reclaimed and the land forms part of the bed of a lake or river that is land of the Crown.
+  - (2) The relevant Minister may, if they think fit, by notice in the Gazette, vest in the applicant any right, title, or interest in any area of land described in subclause
+  - (1), but only—
+  - (a) if satisfied that the regional council has issued a certificate in respect of that land under clause 73; and
+  - (b) after determining an appropriate price (if any) to be paid by the applicant.
+  - (3) A Gazette notice published under subclause
+  - (2) must—
+  - (a) state the name of the person or local authority in whom or which the right, title, or interest is vested, and accurately describe the position and extent of the reclaimed land; and
+  - (b) describe the right, title, or interest vested; and
+  - (c) refer to any encumbrances or restrictions imposed on the applicant’s right, title, or interest in the land; and
+  - (d) be sent by the relevant Minister to the Registrar-General of Land with a request that a record of title be issued accordingly; and
+  - (e) be registered, without fee, by the Registrar-General of Land as soon as practicable after it is received from the Minister.
+  - (4) The Registrar-General of Land must, in accordance with a request made under subclause
+  - (3)(d), issue an appropriate record of title in respect of the right, title, or interest in the land vested by the Gazette notice.
+  - (5) In this clause, relevant Minister means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for administering the Land Transfer Act 2017.
+  - Compare: 1991 No 69 s 355
+## Clause 78 — Application for consent to unlawful reclamation
+  - (1) This clause applies if, at any time before or after the commencement of this clause, land has been unlawfully reclaimed from the coastal marine area.
+  - (2) A person may apply under section 136 of the Natural Environment Act 2026 for a coastal permit authorising that reclamation, as if the land were still situated within the coastal marine area.
+  - (3) The permit authority may grant that application in accordance with Part 4 of the Natural Environment Act 2026, as if the land were still situated within the coastal marine area.
+  - Compare: 1991 No 69 s 355A

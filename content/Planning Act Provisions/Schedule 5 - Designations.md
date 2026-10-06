@@ -1,0 +1,694 @@
+#provision
+## Clause 1 — Interpretation
+  - In this schedule, unless the context otherwise requires,— construction project plan means the plan required for a designation under Part 5 of this schedule core infrastructure operation and core infrastructure operator have the meanings given in clause 9 designating authority has the meaning given in clause 8(1) designation has the meaning given in clause 3 designation footprint, in relation to a designation or proposed designation, means the area subject to the designation or proposed designation earlier designation has the meaning given in clause 6(4) eligible infrastructure has the same meaning as in section 8 of the Infrastructure Funding and Financing Act 2020 later designation has the meaning given in clause 6(4) project includes a work proposed designation—
+  - (a) means a proposal for a designation that has been—
+  - (i) notified by a designating authority under clause 13 of this schedule; or (ii) provided to a spatial plan committee under clause 36(2) of this schedule; or (iii) included in a proposed land use plan under clause 9(1)(a) of Schedule 3; and
+  - (b) includes—
+  - (i) a designation that is included in a proposed land use plan with modifications under clause 7(5)(a) or 9(1)(b) of Schedule 3; and (ii) a proposed alteration to a designation in accordance with clause 47(2)(a) or 48(2)(a) of this schedule; but
+  - (c) does not include a proposed designation that has been incorporated into the relevant land use plan as a designation, cancelled, or withdrawn recommending authority, in relation to a proposed designation, means the recommending authority under clause 24 responsible infrastructure authority has the same meaning as in section 7 of the Infrastructure Funding and Financing Act 2020 responsible SPV and SPV have the same meanings as in section 7 of the Infrastructure Funding and Financing Act 2020 submitter, in relation to a proposed designation, means a person who made a submission on that proposed designation.
+## Clause 2 — Recognition of identified Māori land as taonga tuku iho
+  - A person exercising a power or performing a function or duty under this Act relating to a designation or proposed designation that may affect identified Māori land must—
+  - (a) exercise that power, or perform that function or duty, in a manner that recognises that the identified Māori land is a taonga tuku iho for the owners of the land and the hapū associated with the land; and
+  - (b) in doing so, consider the rights and interests of owners of the identified Māori land to retain, control, use, and occupy the land for the benefit of present and future generations of owners, their whānau, and their hapū.
+  - Compare: 2023 No 46 s 512
+### Part 1
+  - Effect of designations and proposed designations
+## Clause 3 — Meaning of designation
+  - In this Act, unless the context otherwise requires, designation means a set of provisions in a land use plan relating to a project that—
+  - (a) are decided by a designating authority under clause 28 of Schedule 2, clause 30 of Schedule 3, or clause 28 of this schedule; and
+  - (b) do 1 or more of the following:
+  - (i) allow the use of land for the project (see section 21(1)(d) and clause 4(1)(a) of this schedule): (ii) protect land set aside for the project against anything that would prevent or hinder the project (see clause 4(1)(c)):
+  - (iii) restrict the use of any land, subsoil, airspace, or space occupied by water for the safe and efficient operation of the project (see clause 4(3)).
+  - Compare: 1991 No 69 s 166
+## Clause 4 — Effect of designation
+  - (1) If a designation is included in a land use plan,—
+  - (a) the designating authority may use land for a project in a way that contravenes a rule in a land use plan or a rule in a proposed land use plan that has legal effect if the use of land for the project is authorised by the designation; and
+  - (b) the designating authority may use land for a project in a way that contravenes a national rule if—
+  - (i) the use of land for the project is authorised by the designation; and (ii) section 46 provides that the designation prevails over, or is otherwise not required to comply with, the national rule; and
+  - (c) no person may do anything in relation to the land subject to the designation that would prevent or hinder the project to which the designation relates, unless the designating authority expressly approves it under clause 44 or 45.
+  - (2) The actions restricted by subclause
+  - (1)(c) include—
+  - (a) using the land; and
+  - (b) changing the character, intensity, or scale of any use of the land; and
+  - (c) subdividing the land.
+  - (3) A person must not breach a restriction in a designation on the use of any land, subsoil, airspace, or space occupied by water that is subject to the designation.
+  - (4) The other provisions of a land use plan or proposed land use plan apply to the land that is subject to a designation only to the extent that the land is used for a purpose that is not the designated purpose.
+  - (5) In this clause, other provisions means the provisions in the land use plan or proposed land use plan other than the designation.
+  - Compare: 1991 No 69 s 176
+## Clause 5 — Effect of proposed designation
+  - (1) A person must not, during the period described in subclause
+  - (3), do anything in relation to land subject to a proposed designation that would prevent or hinder the project to which the proposed designation relates, unless the designating authority expressly approves it under clause 44.
+  - (2) The actions restricted by subclause
+  - (1) include—
+  - (a) using the land; and
+  - (b) changing the character, intensity, or scale of any use of the land; and
+  - (c) subdividing the land.
+  - (3) The period—
+  - (a) starts on the following date (as applicable):
+  - (i) if the proposed designation is using the process in Part 3 of this schedule, the date on which the designating authority notifies it under clause 13: (ii) if the proposed designation is using the spatial planning process in Part 4 of this schedule, the date on which the designating authority provides the notice of the proposed designation to the spatial plan committee in accordance with clause 36(2)(b): (iii) if the proposed designation is a modified designation included in a proposed land use plan under clause 7(5)(a) of Schedule 3, the date of the designating authority’s response under clause 7(4) of that schedule: (iv) if the proposed designation is included in a proposed land use plan under clause 9(1)(a) or
+  - (b) of Schedule 3, the date on which the territorial authority decides to include the proposed designation in its proposed plan under that clause:
+  - (b) ends on the earliest of the following:
+  - (i) the date on which the proposed designation is included in the relevant land use plan as a designation: (ii) the date on which the proposed designation is cancelled: (iii) the date on which the proposed designation is withdrawn.
+  - (4) If the proposed designation applies to land subject to a designation held by another designating authority, subclause
+  - (1) does not apply to anything done by the other designating authority on the overlapping land in accordance with that designation.
+  - (5) A person who contravenes subclause
+  - (1) does not commit an offence against this Act unless the person knew, or could reasonably be expected to have known, of the existence of the proposed designation.
+  - Compare: 1991 No 69 s 178
+## Clause 6 — Earlier and later designations
+  - (1) This clause applies if the same area of land is subject to 2 or more overlapping designations held by different designating authorities. Designating authority that holds earlier designation may exercise designation without seeking approval
+  - (2) Despite clause 4(1)(c), a designating authority that holds an earlier designation—
+  - (a) may do anything authorised by that earlier designation on the area of land; and
+  - (b) is not required to seek the approval of a designating authority that holds any later designation. Designating authority that holds later designation must seek approval
+  - (3) A designating authority that holds a later designation must not do anything authorised by the later designation on the area of land that would prevent or hinder the project to which an earlier designation relates, unless expressly authorised by an approval granted under clause 45 from the designating authority that holds the earlier designation.
+  - (4) In this schedule,— earlier designation, in relation to any other designation on the same area of land, means a designation that began to apply to that area before the other designation (even if the conditions of that designation have been altered after the other designation applied to the area) later designation, in relation to any other designation on the same area of land, means a designation that began to apply to that area after the other designation.
+  - (5) For the purposes of subclause
+  - (4),—
+  - (a) a designation begins to apply to an area when the designation—
+  - (i) is incorporated into the land use plan or a proposed land use plan under clause 32 or 37 of this schedule or clause 31(2) of Schedule 3 in relation to that area; or (ii) is altered to apply to that area, if it did not previously apply to that area; and
+  - (b) if 2 or more designations on an area of land are incorporated into a land use plan or proposed land use plan at the same time, the designations must be treated as having begun to apply to the area in the order in which the relevant designating authority did the following (as applicable to the designation):
+  - (i) gave notice of a proposed designation under clause 13(1): (ii) provided notice of a proposed designation to the spatial plan committee under clause 36(2)(b): (iii) published the information required under clause 9(2) of Schedule 3.
+  - Compare: 1991 No 69 s 177
+## Clause 7 — Designation may not authorise use of land in coastal marine area
+  - A designation may not authorise the use of land in the coastal marine area for a project.
+### Part 2
+  - Designating authorities
+## Clause 8 — Designating authorities
+  - (1) Only the following persons (designating authorities) may propose or hold a designation:
+  - (a) a Minister of the Crown:
+  - (b) a local authority:
+  - (c) a water service provider as defined in section 4 of the Local Government (Water Services) Act 2025:
+  - (d) a core infrastructure operator approved as a designating authority under clause 10:
+  - (e) a person approved as a designating authority under clause 11.
+  - (2) A designating authority that is a Minister of the Crown may propose or hold a designation only for a project that is a public work that the Crown is financially responsible for.
+  - (3) A designating authority that is a local authority may propose or hold a designation only for a project that is—
+  - (a) a public work that the local authority is financially responsible for; or
+  - (b) the construction of eligible infrastructure—
+  - (i) that a responsible SPV or the local authority is financially responsible for; and (ii) for which the local authority is a responsible infrastructure authority.
+  - (4) A designating authority that is a person approved under clause 10 or 11 may propose or hold a designation only for a project that is within the scope of their approval.
+  - (5) In this clause,— construction of eligible infrastructure includes any work that is required to facilitate the future construction of eligible infrastructure public work has the same meaning as in section 2 of the Public Works Act 1981.
+  - Compare: 1991 No 69 ss 166 (definitions of requiring authority and relates to the construction of
+## Clause 9 — Meaning of core infrastructure operation and core infrastructure operator
+  - In this schedule, unless the context otherwise requires,— core infrastructure operation has a meaning that corresponds to the meaning of core infrastructure operator
+  - core infrastructure operator means a person who—
+  - (a) undertakes or proposes to undertake the distribution or transmission by pipeline of natural or manufactured gas, petroleum, biofuel, or geothermal energy; or
+  - (b) operates or proposes to operate a network for the purpose of—
+  - (i) telecommunication as defined in section 5 of the Telecommunications Act 2001; or (ii) radiocommunication as defined in section 2(1) of the Radiocommunications Act 1989; or
+  - (c) is an electricity operator or electricity distributor as defined in section 2 of the Electricity Act 1992 for the purpose of line function services as defined in that section; or
+  - (d) undertakes or proposes to undertake the distribution, or storage and distribution, of water for the purpose of supply (including for the purpose of irrigation); or
+  - (e) undertakes or proposes to undertake a drainage or sewerage system (including a stormwater network); or
+  - (f) constructs or operates, or proposes to construct or operate, a road, railway line, cycleway, walkway, or similar facility (such as light rail, a busway, or a shared-use path); or
+  - (g) is—
+  - (i) an airport authority as defined in section 2(1) of the Airport Authorities Act 1966 for the purpose of operating an airport as defined in that section; or (ii) an airport operator as defined in section 5 of the Civil Aviation Act 2023 for the purpose of operating an aerodrome for which that operator is registered under that Act; or
+  - (h) operates—
+  - (i) an inland port (not contiguous with the coastal marine area) associated with a coastal port operated under the Port Companies Act 1988; or (ii) the landward operations of a seaward port operated under the Port Companies Act 1988; or (iii) Northport (being the port at Marsden Point) or any inland port associated with Northport; or
+  - (i) is Health New Zealand in relation to any health facilities that it operates or proposes to operate to meet its obligations under the Healthy Futures (Pae Ora) Act 2022; or
+  - (j) is the New Zealand School Property Agency in relation to any education property as defined in section 10 of the Education and Training Act 2020; or
+  - (k) operates or proposes to operate facilities for an emergency service (such as an ambulance or a fire service); or
+  - (l) is a responsible SPV that constructs or proposes to construct eligible infrastructure; or
+  - (m) undertakes or proposes to undertake any operation that is prescribed by regulations as a core infrastructure operation.
+  - Compare: 1991 No 69 s 166 (definition of network utility operator)
+## Clause 10 — Minister may approve core infrastructure operator as designating
+  - authority
+  - (1) A core infrastructure operator may apply to the Minister for approval as a designating authority in relation to—
+  - (a) a particular project; or
+  - (b) a particular core infrastructure operation.
+  - (2) An application must be made in the manner prescribed by regulations (if any).
+  - (3) The Minister must not grant approval unless satisfied that—
+  - (a) approving the core infrastructure operator is appropriate for the purposes of carrying out the project or core infrastructure operation; and
+  - (b) the core infrastructure operator is likely to—
+  - (i) satisfactorily carry out all the responsibilities (including the financial responsibilities) of a designating authority under this Act; and (ii) give appropriate regard to the interests of those affected and to the interests of the built environment.
+  - (4) However, if the core infrastructure operator is a responsible SPV seeking approval for a project that is the construction of eligible infrastructure, the core infrastructure operator need not have financial responsibility for the construction for the Minister to be satisfied of the matter in subclause
+  - (3)(b)(i).
+  - (5) The Minister may inquire into the application and request any information that the Minister considers necessary or desirable.
+  - (6) The Minister may grant approval subject to any conditions (including provision of a bond) that the Minister considers necessary or desirable.
+  - (7) The Minister must notify an approval (including any conditions) in the Gazette.
+  - Compare: 1991 No 69 s 167(1)–(4A)
+## Clause 11 — Minister may approve other infrastructure operators as designating
+  - authority
+  - (1) A person may apply to the Minister for approval as a designating authority for a particular project that is other infrastructure.
+  - (2) An application must be made in the manner prescribed by regulations (if any).
+  - (3) The Minister must not grant approval unless satisfied that—
+  - (a) the project would provide a significant public benefit; and
+  - (b) approving the applicant is appropriate for the purposes of carrying out the project; and
+  - (c) the applicant is likely to—
+  - (i) satisfactorily carry out all the responsibilities (including the financial responsibilities) of a designating authority under this Act; and (ii) give appropriate regard to the interests of those affected and to the interests of the built environment.
+  - (4) In deciding whether a project would provide a significant public benefit, the Minister must have regard to—
+  - (a) the extent to which the project benefits the public generally versus a small section of the public; and
+  - (b) the economic benefits of the project; and
+  - (c) the size and scale of the project.
+  - (5) A project is not precluded from having a significant public benefit just because the operator charges a fee for access or obtains a commercial benefit from it.
+  - (6) In deciding whether approving the applicant is appropriate for the purposes of carrying out the project, the Minister must have regard to—
+  - (a) the extent to which the project could be more appropriately progressed using another process provided by this Act (such as a plan change or a land use consent); and
+  - (b) the extent to which the size and scale of the project justifies a designation.
+  - (7) The Minister may inquire into the application and request any information that the Minister considers necessary or desirable.
+  - (8) The Minister may grant approval subject to any condition (including provision of a bond) that the Minister considers necessary or desirable.
+  - (9) The Minister must notify an approval (including any conditions) in the Gazette.
+  - (10) In this clause, other infrastructure means—
+  - (a) facilities used to process (including to refine) or store any of the following:
+  - (i) natural or manufactured gas:
+  - (ii) petroleum: (iii) biofuel: (iv) geothermal energy:
+  - (b) facilities used to generate electricity for supply, excluding any facility that a person uses primarily to generate electricity for their own use:
+  - (c) lines (and any associated facilities, including support structures for those lines) used or intended to be used to convey electricity, excluding any lines or associated facilities that a person uses primarily in connection with a facility to generate electricity for their own use:
+  - (d) facilities used to store electricity or other energy:
+  - (e) facilities used for loading or unloading cargo or passengers transported on land by any means:
+  - (f) an aerodrome as defined in section 5 of the Civil Aviation Act 2023:
+  - (g) a navigation installation as defined in section 5 of the Civil Aviation Act 2023:
+  - (h) facilities used for loading or unloading cargo or passengers carried by sea, including a port related commercial undertaking as defined in section 2(1) of the Port Companies Act 1988:
+  - (i) an education property, a registered school, or an institution as those terms are defined in section 10 of the Education and Training Act 2020:
+  - (j) facilities used for an emergency service (such as an ambulance or a fire service):
+  - (k) defence facilities operated by the New Zealand Defence Force for defence purposes under the Defence Act 1990:
+  - (l) a corrections prison as defined in section 3(1) of the Corrections Act 2004:
+  - (m) resource recovery facilities or waste disposal facilities, including privately operated facilities that are open to the public.
+## Clause 12 — Revoking approval of designating authority
+  - (1) The Minister may revoke a designating authority’s approval if satisfied that—
+  - (a) the designating authority is unlikely to undertake or complete the project or core infrastructure operation for which they were approved as a designating authority; or
+  - (b) the designating authority is unlikely to satisfactorily carry out any of its responsibilities (including financial responsibilities) as a designating authority under this Act; or
+  - (c) if the designating authority was approved under clause 10, the designating authority is no longer a core infrastructure operator.
+  - (2) The Minister must notify a revocation in the Gazette.
+  - (3) On and from the date of a revocation, the Minister becomes the designating authority responsible for any designation or proposed designation held by the former designating authority.
+  - (4) The Minister may hold a designation transferred to them under this clause even if the Crown is not financially responsible for the project (as otherwise required by clause 8(2)).
+  - Compare: 1991 No 69 s 167(5), (6)
+### Part 3
+  - Securing designation
+## Clause 13 — Notice of proposed designation
+  - (1) A designating authority may, at any time, give notice to a territorial authority of a proposed designation for a project.
+  - (2) A notice of a proposed designation must—
+  - (a) describe the nature of the project; and
+  - (b) describe the intended effect of the proposed designation in terms of clause 3(b); and
+  - (c) set out the boundaries of the designation footprint; and
+  - (d) set out any conditions that the designating authority proposes for the designation; and
+  - (e) include an assessment of the effects of confirming the designation described in clause 26(1)(d) and
+  - (e); and
+  - (f) include an assessment of the strategic need for the project and designation in the general location of the designation footprint; and
+  - (g) state whether, or the extent to which, the designating authority is seeking to incorporate the details of a construction project plan into the designation for the purposes of clause 38(2)(a); and
+  - (h) be given in the manner, and include any information, prescribed by regulations.
+  - (3) However, an assessment of strategic need under subclause
+  - (2)(f) is not required if—
+  - (a) a regional spatial plan identifies the project in a location consistent with the location of the designation footprint; or
+  - (b) the designating authority has an interest in the land sufficient for undertaking the project.
+  - (4) The assessment required by subclause
+  - (2)(e) must include an assessment of the proposed designation against any relevant provisions of—
+  - (a) a national instrument in accordance with section 14; and
+  - (b) the land use plan and any proposed land use plan.
+  - (5) The information in the assessment need only be at a level of detail that is proportionate to the nature and significance of any adverse effects of the project on the built environment.
+  - (6) A territorial authority that wants to secure a proposed designation (in its capacity as a designating authority) may issue a notice under this clause.
+  - Compare: 1991 No 69 s 168; SR 2003/153 Schedule 1 form 18
+## Clause 14 — No duty under this Act to consult about proposed designation
+  - The following apply to a designating authority that gives notice of a proposed designation under clause 13 and the relevant territorial authority:
+  - (a) neither has a duty under this Act to consult any person about the proposed designation:
+  - (b) each must comply with a duty under any other legislation to consult any person about the proposed designation:
+  - (c) each may consult any person about the proposed designation.
+  - Compare: 1991 No 69 s 36A
+## Clause 15 — Option to incorporate proposed designation into proposed land use plan
+  - (1) This clause applies if a territorial authority intends to notify a proposed land use plan for public submissions no later than 40 working days after receiving a notice of proposed designation under clause 13.
+  - (2) The territorial authority may, with the written consent of the designating authority, incorporate the proposed designation into the proposed plan to be considered through the process in Schedule 3 (see clause 8 of Schedule 3).
+  - (3) If the territorial authority incorporates the proposed designation into the proposed plan, this Part ceases to apply to the proposed designation.
+  - Compare: 1991 No 69 s 170
+  - Deciding whether to notify for submissions
+## Clause 16 — Decision to notify for submissions
+  - A territorial authority must, no later than 10 working days after receiving a notice of a proposed designation under clause 13,—
+  - (a) decide (in accordance with clauses 17 to 19) whether to notify the proposed designation for public submissions; and
+  - (b) if it does not notify it for public submissions, decide (in accordance with clause 20) whether to notify it for targeted submissions.
+  - Compare: 1991 No 69 s 169(1)
+## Clause 17 — Deciding whether to notify for public submissions
+  - (1) A territorial authority must notify a proposed designation for public submissions if—
+  - (a) the designating authority requests notification for public submissions; or
+  - (b) a national rule or a rule in a land use plan requires notification for public submissions; or
+  - (c) the territorial authority decides (under clause 19) that confirming the proposed designation will or is likely to have adverse effects on the built environment that are more than minor; or
+  - (d) clause 18 applies (which relates to a failure to respond to a request for information or agree to commission a report).
+  - (2) The territorial authority must not notify a proposed designation for public submissions if a national rule or a rule in a land use plan precludes notification for public submissions, unless—
+  - (a) the designating authority requests public notification; or
+  - (b) clause 18 applies.
+  - (3) The territorial authority must not notify a proposed designation for public submissions if an infrastructure design solution precludes notification for public submissions.
+  - (4) Subclauses
+  - (2) and
+  - (3) override subclause
+  - (1)(c).
+  - Compare: 1991 No 69 ss 169(1)–(1C), 149ZCB
+## Clause 18 — Public notification decision: failing to respond to information request or
+  - commission report A territorial authority must notify a proposed designation for public submissions if—
+  - (a) the territorial authority has not already decided whether to notify the proposed designation for submissions; and
+  - (b) either—
+  - (i) the territorial authority requests further information from the designating authority under section 143 (as applied by clause 23), but the designating authority— (A) refuses to provide the information; or (B) does not provide it by the relevant deadline; or (ii) the territorial authority notifies the designating authority under section 144 (as applied by clause 23) that it wishes to commission a report, but the designating authority— (A) refuses to agree to commission the report; or
+  - (B) does not respond by the relevant deadline.
+  - Compare: 1991 No 69 s 169(1A), (1B)
+## Clause 19 — Public notification decision: determining if adverse effects on built
+  - environment are more than minor In deciding whether confirming a proposed designation will or is likely to have adverse effects on the built environment that are more than minor, the territorial authority must disregard—
+  - (a) any effects on persons who own or occupy—
+  - (i) the land to which the designation will apply; or (ii) any land adjacent to that land; and
+  - (b) any effect on a person who has given written approval for the proposed designation; and
+  - (c) an adverse effect of the project if a national rule or a rule in a land use plan permits an activity with that adverse effect.
+  - Compare: 1991 No 69 ss 169(1), 149ZCE
+## Clause 20 — Deciding whether to notify for targeted submissions
+  - (1) If a territorial authority decides not to notify a proposed designation for public submissions, it must decide if there are any of the following in relation to the proposed designation:
+  - (a) an affected person (under clause 21):
+  - (b) an affected protected customary rights group (under clause 22(1)):
+  - (c) an affected customary marine title group (under clause 22(2)).
+  - (2) The territorial authority must notify the proposed designation for targeted submissions to any affected person, unless a national rule, a rule in a land use plan, or an infrastructure design solution precludes notification for targeted submissions.
+  - (3) The territorial authority must notify the proposed designation for targeted submissions to an affected protected customary rights group or an affected customary marine title group even if a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect precludes notification for targeted submissions.
+  - Compare: 1991 No 69 ss 149ZCC, 169(1), (1C)
+## Clause 21 — Targeted notification decision: deciding if person is affected person
+  - (1) A territorial authority must decide that a person is an affected person in relation to a proposed designation if—
+  - (a) confirming the proposed designation will have adverse effects on the person that are more than minor; or
+  - (b) the person owns or occupies any land to which the proposed designation applies.
+  - (2) When making that decision, the territorial authority must—
+  - (a) have regard to every relevant statutory acknowledgement; and
+  - (b) disregard an adverse effect of confirming the designation on a person if a national rule or a rule in a land use plan permits an activity with that effect.
+  - (3) Despite subclauses
+  - (1) and
+  - (2), the territorial authority must decide that a person is not an affected person if—
+  - (a) the person has given, and not withdrawn, written approval for the proposed designation; or
+  - (b) it is unreasonable in the circumstances to seek the person’s written approval.
+  - Compare: 1991 No 69 ss 149ZCF, 169(1)
+## Clause 22 — Targeted notification: affected protected customary rights groups and
+  - affected customary marine title groups
+  - (1) A territorial authority must decide that a protected customary rights group is an affected protected customary rights group in relation to a proposed designation in the protected customary rights area relevant to that group if—
+  - (a) confirming the proposed designation may have adverse effects on a protected customary right carried out in accordance with Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011; and
+  - (b) the protected customary rights group has not given, or has withdrawn, written approval for the proposed designation.
+  - (2) A territorial authority must decide that a customary marine title group is an affected customary marine title group in relation to a proposed designation that is an accommodated activity in the customary marine title area relevant to that group if—
+  - (a) confirming the proposed designation may have adverse effects on the exercise of the rights applying to a customary marine title group under subpart 3 of Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011; and
+  - (b) the customary marine title group has not given, or has withdrawn, written approval for the proposed designation.
+  - Compare: 1991 No 69 ss 95F, 95G, 149ZCC, 169(1)
+## Clause 23 — Requests for further information or reports, submissions, conferences, and
+  - mediation
+  - (1) Sections 143, 144, 145, 154, 155, 156, and 157 apply to a proposed designation being considered using the process under this Part. Those sections apply with all necessary modifications and as if a reference to—
+  - (a) an application for planning consent were a reference to the proposed designation; and
+  - (b) an applicant were a reference to the designating authority; and
+  - (c) a planning consent were a reference to a designation; and
+  - (d) a consent authority were a reference to a territorial authority; and
+  - (e) an activity were a reference to the project; and
+  - (f) an affected person under section 151 were a reference to an affected person under clause 21; and
+  - (g) a decision on an application for planning consent were a reference to a recommendation under clause 26.
+  - (2) A territorial authority must not request further information about a proposed designation in accordance with section 143 (as applied by this clause) unless also satisfied that the information—
+  - (a) is necessary for the territorial authority to understand the proposed designation (including the effects on the built environment of confirming the proposed designation); and
+  - (b) is not information that would be more appropriately provided and considered through a construction project plan.
+  - Compare: 1991 No 69 ss 168A(2), 169(2)
+## Clause 24 — Recommending authority
+  - (1) A territorial authority must appoint 1 or more independent hearings commissioners to be the recommending authority for a proposed designation if any of the following apply:
+  - (a) the territorial authority is the designating authority for the proposed designation:
+  - (b) the proposed designation is notified for public submissions:
+  - (c) if the proposed designation is notified for targeted submissions, the designating authority or a submitter requests no later than 5 working days after the close of submissions that 1 or more hearings commissioners be appointed.
+  - (2) A territorial authority may appoint 1 or more independent hearings commissioners to be the recommending authority for a proposed designation in any other case.
+  - (3) If the territorial authority does not appoint independent hearings commissioners, the territorial authority is the recommending authority.
+  - (4) In this clause, independent hearings commissioner means a hearings commissioner who is not a member of the territorial authority.
+  - Compare: 1991 No 69 ss 100A, 168A(2), 169(2)
+## Clause 25 — Obligation to hold hearing
+  - (1) A hearing must not be held in relation to a proposed designation unless—
+  - (a) the designating authority has requested a hearing; or
+  - (b) subclause
+  - (2) applies.
+  - (2) This subclause applies if—
+  - (a) a submitter has requested to be heard and has not subsequently advised that they do not wish to be heard; and
+  - (b) the recommending authority considers a hearing will be the most effective and efficient means to test the information, and any issues, related to the proposed designation; and
+  - (c) the parties have attended a conference or mediation under section 157 (as applied by clause 23), if the recommending authority considers a conference or mediation to be appropriate.
+  - (3) A hearing must be a joint hearing or a combined hearing in the circumstances prescribed by regulations.
+  - (4) A hearing (including a joint hearing or a combined hearing) must be conducted in the manner prescribed by regulations.
+## Clause 26 — Recommendations on proposed designation
+  - (1) In considering a proposed designation and any submissions received, the recommending authority must have regard to—
+  - (a) the strategic need for the project and designation in the general location proposed; and
+  - (b) any relevant provisions of—
+  - (i) a national instrument in accordance with section 14; and (ii) the land use plan and any proposed land use plan; and (iii) an infrastructure design solution; and
+  - (c) whether confirming the designation would be consistent with the regional spatial plan; and
+  - (d) the following effects of confirming the designation:
+  - (i) any positive effect: (ii) any significant adverse effect on the built environment; and
+  - (e) any other adverse effect on the built environment of confirming the designation, but only if and to the extent that—
+  - (i) the recommending authority considers that effect cannot be appropriately managed through a construction project plan; or (ii) the designating authority is seeking to incorporate the details of a construction project plan into the designation for the purposes of clause 38(2)(a).
+  - (2) However, subclause
+  - (1)(a) does not apply if—
+  - (a) the relevant spatial plan identifies the project in a location consistent with the location of the designation footprint; or
+  - (b) the designating authority has an interest in the land within the designation footprint sufficient to undertake the project.
+  - (3) The recommending authority must disregard—
+  - (a) any effect that is outside the scope of this Act (see section 17):
+  - (b) any adverse effect on a person who has given, and not withdrawn, written approval for the proposed designation:
+  - (c) any adverse effect on the built environment if a national rule, a rule in a land use plan, or a rule in a proposed land use plan with legal effect permits an activity with that effect.
+  - (4) The requirement in subclause
+  - (1)(a) to have regard to the strategic need for the project and designation in the general location proposed—
+  - (a) requires consideration of—
+  - (i) how necessary the project and designation are to meet the designating authority’s objectives for seeking the designation; and (ii) whether the general location that is proposed for the designation is appropriate in light of those objectives; but
+  - (b) does not require—
+  - (i) an assessment or consideration of any alternative sites, routes, or methods of undertaking the project; or (ii) consideration of whether the project could have been better provided in any alternative location; or (iii) a granular or property-specific assessment of the location proposed.
+  - (5) The positive effects to be had regard to under subclause
+  - (1)(d)(i) may include any positive effect proposed or agreed by the designating authority to offset or compensate for any adverse effects on the built environment of confirming the designation.
+  - (6) The recommending authority—
+  - (a) may recommend to the designating authority that it—
+  - (i) confirm the proposed designation; or (ii) confirm the proposed designation, but modify it or impose conditions; or (iii) withdraw the proposed designation; and
+  - (b) must give reasons.
+  - Compare: 1991 No 69 ss 168A(3)–(4), 171
+## Clause 27 — Designation conditions
+  - (1) A recommending authority may recommend a condition on a proposed designation under clause 26 only if it is satisfied that the condition does not relate to a matter of detail that would be more appropriately addressed through a construction project plan.
+  - (2) However, subclause
+  - (1) does not apply if and to the extent that the designating authority is seeking to incorporate the details described in clause 39(2) into the designation for the purposes of clause 38(2)(a).
+  - (3) If the proposed designation relates to a wastewater network or a stormwater network (as those terms are defined in section 5 of the Water Services Act 2021) and the designating authority is relying on an infrastructure design solution, the recommending authority—
+  - (a) must not recommend a condition that is contrary to the requirements of the infrastructure design solution; and
+  - (b) subject to subclause
+  - (1), must recommend conditions that are no more or less restrictive than is necessary to comply with the infrastructure design solution.
+## Clause 28 — Decision of designating authority
+  - (1) A designating authority must, no later than 30 working days after receiving a recommendation under clause 26(6), advise the relevant territorial authority whether the designating authority—
+  - (a) accepts the recommendation in whole; or
+  - (b) accepts the recommendation in part and rejects it in part; or
+  - (c) rejects the recommendation in whole.
+  - (2) The designating authority may modify the proposed designation only if that modification—
+  - (a) is recommended by the recommending authority; or
+  - (b) is not inconsistent with the proposed designation as notified under clause 16.
+  - (3) The designating authority must advise the territorial authority of its reasons if it—
+  - (a) rejects the recommendation in whole or in part; or
+  - (b) modifies the proposed designation.
+  - (4) However, if the designating authority is the territorial authority, it must—
+  - (a) publish a notice of its decision within the deadline specified in subclause
+  - (1) in the manner prescribed by regulations; and
+  - (b) include any reasons required by subclause
+  - (3) in that notice.
+  - Compare: 1991 No 69 s 172
+## Clause 29 — Notice of decision on designation
+  - (1) A territorial authority must ensure that a notice of a decision under clause 28 is served on—
+  - (a) each person who made a submission; and
+  - (b) each land owner and occupier directly affected by the decision.
+  - (2) The notice must include a statement of the time within which an appeal against the decision may be lodged.
+  - (3) The territorial authority must serve the notice no later than—
+  - (a) 15 working days after receiving notice of the decision under clause 28 (if the territorial authority is not the designating authority); or
+  - (b) 10 working days after making the decision under clause 28 (if the territorial authority is the designating authority).
+  - (4) If the territorial authority does not include a full copy of the decision in the notice, it must—
+  - (a) make a copy of the decision available (whether physically or by electronic means) at all its offices and all public libraries in the district; and
+  - (b) include with the notice a statement of the places where a copy of the decision is available; and
+  - (c) send or provide, on request, a copy of the decision within 3 working days after the request is received.
+  - Compare: 1991 No 69 s 173
+## Clause 30 — Appeals against decision of designating authority
+  - (1) Any 1 or more of the following persons may appeal to the Environment Court against the whole or any part of a decision of a designating authority under clause 28:
+  - (a) the relevant territorial authority (unless the designating authority is that territorial authority):
+  - (b) a submitter.
+  - (2) A notice of appeal must—
+  - (a) state the reasons for the appeal and the relief sought; and
+  - (b) include any information prescribed by regulations; and
+  - (c) be lodged with the Environment Court and be served on the designating authority no later than 15 working days after the date of the notice given under clause 29.
+  - (3) The appellant must ensure that a copy of the notice of appeal is served on the territorial authority and every submitter no later than 5 working days after the notice is lodged with the court.
+  - Compare: 1991 No 69 s 174(1)–(3)
+## Clause 31 — Determining appeals
+  - (1) In determining an appeal, the Environment Court must have regard to the matters set out in clause 26(1) and comply with clauses 26(4) to
+  - (6) and 27 as if it were the recommending authority.
+  - (2) The court may—
+  - (a) confirm the proposed designation; or
+  - (b) confirm the proposed designation, but modify it or impose conditions; or
+  - (c) cancel the proposed designation.
+  - Compare: 1991 No 69 s 174(4)
+## Clause 32 — Designation to be incorporated into land use plan
+  - (1) Subclause
+  - (2) applies to a territorial authority if—
+  - (a) a designating authority makes a decision under clause 28; and
+  - (b) either of the following applies:
+  - (i) no appeal is lodged under clause 30 against the decision within the time period permitted by that clause: (ii) all appeals lodged under clause 30 are determined or withdrawn; and
+  - (c) as a result of the decision and any appeals, the proposed designation is confirmed with or without conditions or modifications (but not cancelled).
+  - (2) The territorial authority must, as soon as is practicable and without using the process in Schedule 3,—
+  - (a) incorporate the designation (as confirmed or modified) into its land use plan and any proposed land use plan; and
+  - (b) state in its land use plan and any proposed land use plan the name of the designating authority responsible for the designation.
+  - Compare: 1991 No 69 s 175
+## Clause 33 — Withdrawing proposed designation
+  - (1) A designating authority that has notified a proposed designation under clause 13 may withdraw the proposed designation at any time before—
+  - (a) the proposed designation is incorporated into the land use plan under clause 32; or
+  - (b) the relevant proposed land use plan becomes operative (if the proposed designation was incorporated into a proposed land use plan under clause 15).
+  - (2) The designating authority must give notice of any withdrawal to the territorial authority (unless the designating authority is the territorial authority).
+  - (3) The territorial authority must—
+  - (a) give public notice of any withdrawal; and
+  - (b) if the proposed designation had been notified for submissions, serve the notice on any person who made a submission; and
+  - (c) if the proposed designation was incorporated into a proposed land use plan under clause 15, amend the proposed plan without using the process in Schedule 3 to remove the proposed designation.
+  - Compare: 1991 No 69 s 168(4), (5), Schedule 1 cl 4(9), (10)
+### Part 4
+  - Securing designation through spatial planning process
+## Clause 34 — Designating authority may apply to notify proposed designation through
+  - spatial planning process
+  - (1) In response to a notice from a spatial plan committee under clause 12 of Schedule 2, a designating authority may apply to the committee to notify a proposed designation with the draft regional spatial plan that the committee is preparing and have it considered through that process.
+  - (2) The designating authority’s application must be made in the manner prescribed by regulations and must—
+  - (a) describe the project to which the proposed designation relates; and
+  - (b) explain why the designating authority considers the project meets the criteria in clause 35(2) of this schedule; and
+  - (c) state whether the designating authority would like the committee to consider identifying the indicative location of the designation in the regional spatial plan, if its application under this clause is declined; and
+  - (d) be made no later than the deadline specified in the spatial plan committee’s notice.
+## Clause 35 — Spatial plan committee must decide whether to accept application
+  - (1) A spatial plan committee must decide whether to accept an application made under clause 34.
+  - (2) The committee may accept the application only if satisfied that—
+  - (a) 1 or more of the following apply:
+  - (i) the project is nationally significant or regionally significant: (ii) the project will have regionally significant benefits: (iii) the project will cross territorial authority boundaries; and
+  - (b) it is appropriate in the circumstances for the proposed designation to be notified with the draft regional spatial plan and be considered through that process.
+  - (3) Subclause
+  - (4) applies if—
+  - (a) the committee declines the application; and
+  - (b) the designating authority’s application stated that it would like the committee to consider identifying the indicative location of the designation in the regional spatial plan.
+  - (4) The committee must—
+  - (a) consider whether to identify the indicative location of a future designation for the project to which the application relates in the draft regional spatial plan (see clauses 13 and 14 of Schedule 2); and
+  - (b) advise the designating authority in writing of the outcome, with its reasons.
+  - (5) A designating authority may apply to the Planning Tribunal to review a decision to decline an application made under clause 34.
+## Clause 36 — Designating authority must prepare notice of proposed designation
+  - (1) If the spatial plan committee accepts the application, it must advise the designating authority in writing that it accepts the application.
+  - (2) The designating authority may, no later than a deadline specified by the spatial plan committee in writing,—
+  - (a) prepare a notice of the proposed designation in accordance with clause 13(2) to
+  - (5); and
+  - (b) provide it to the spatial plan committee.
+  - (3) The spatial plan committee must notify the notice of a proposed designation with the draft regional spatial plan that it notifies under clause 18 of Schedule 2.
+## Clause 37 — Designation to be incorporated into land use plan and draft regional
+  - spatial plan
+  - (1) This clause applies if—
+  - (a) a designating authority makes a decision under clause 28 of Schedule 2; and
+  - (b) either of the following applies:
+  - (i) no appeal is lodged under clause 31 of Schedule 2 against the decision within the time period for making appeals: (ii) all appeals lodged under that clause, including any further appeals, are determined or withdrawn; and
+  - (c) as a result of the decision and any appeals, the proposed designation is confirmed with or without conditions or modifications (but not cancelled).
+  - (2) The spatial plan committee must, as soon as is practicable and without using any further process, identify the designation (as confirmed or modified) in the draft regional spatial plan.
+  - (3) The territorial authority of the relevant district must, as soon as practicable and without using the process in Schedule 3,—
+  - (a) incorporate the designation (as confirmed or modified) into its land use plan and any proposed land use plan; and
+  - (b) state in its land use plan and in any proposed land use plan the name of the designating authority responsible for the designation.
+  - Compare: 1991 No 69 s 175
+### Part 5
+  - Construction project plans
+## Clause 38 — When construction project plan is required
+  - (1) A construction project plan is required for a designation that authorises the construction of a project.
+  - (2) However, a construction project plan is not required—
+  - (a) if the details referred to in clause 39(2) are incorporated into the designation and the designation expressly states that a construction project plan is not required for the project; or
+  - (b) if the territorial authority waives the requirement for a construction project plan for the project or any specific construction activity or enabling activity (such as site clearance); or
+  - (c) for any construction activity or enabling activity that is otherwise authorised under this Act (whether or not the activity requires a natural resource permit under the Natural Environment Act 2026).
+  - (3) If a construction project plan is required for any construction activity or enabling activity, that activity must not begin until a construction project plan is confirmed under clause 41.
+  - (4) To avoid doubt, a territorial authority may waive a requirement for a construction project plan for a designation for which it is the designating authority.
+  - (5) In this clause, an activity is otherwise authorised under this Act if that activity is—
+  - (a) identified in the designation as an activity that may occur without a construction project plan; or
+  - (b) authorised by a land use consent; or
+  - (c) authorised by a water services standard; or
+  - (d) a permitted activity under this Act; or
+  - (e) otherwise permitted because it does not contravene a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect.
+  - Compare: 1991 No 69 s 176A(1), (2)
+## Clause 39 — Requirements of construction project plan
+  - (1) The purpose of a construction project plan for a project authorised by a designation is to—
+  - (a) confirm the final design of the project; and
+  - (b) set out how any adverse effects of the construction or operation of the project on the built environment will be avoided, remedied, or mitigated.
+  - (2) A construction project plan—
+  - (a) must set out the design of the project, including, if relevant,—
+  - (i) the location and dimensions of the project within the designation footprint (including the likely finished contour of the site); and (ii) the layout of the site, including any vehicular access, circulation, and any provision for parking; and (iii) the landscaping proposed; and
+  - (b) must identify any adverse effects on the built environment; and
+  - (c) must set out how the designating authority will avoid, remedy, or mitigate those effects; and
+  - (d) must set out any other matter that the designation specifies must be addressed in the construction project plan; and
+  - (e) may include any other comparable matter that is relevant to understanding the effects of the project on the built environment.
+  - (3) A designating authority may choose to prepare 2 or more construction project plans in relation to a designation, each covering different parts or stages of the project.
+  - (4) A construction project plan may include conditions.
+  - Compare: 1991 No 69 s 176A(3)
+## Clause 40 — Designating authority must submit construction project plan to territorial
+  - authority
+  - (1) A designating authority must submit any construction project plan that is required for a project to the territorial authority.
+  - (2) No later than 20 working days after receiving a construction project plan, the territorial authority—
+  - (a) may request that the designating authority make changes to the plan; but
+  - (b) must not request a change that is inconsistent with an infrastructure design solution that the project relies on.
+  - (3) The designating authority must notify the territorial authority of its decision on the request.
+  - (4) If the designating authority decides not to make a change requested, the territorial authority may appeal against that decision to the Environment Court.
+  - (5) A notice of appeal must—
+  - (a) state the reasons for the appeal and the relief sought; and
+  - (b) include any information prescribed by regulations; and
+  - (c) be lodged with the Environment Court and be served on the designating authority no later than 15 working days after the date of the notice under subclause
+  - (3).
+  - (6) In determining any appeal, the Environment Court must consider whether the changes requested by the territorial authority—
+  - (a) are necessary in order to manage the adverse effects of the project on the built environment, having regard to the scale and significance of those effects; and
+  - (b) will implement any infrastructure design solution that the project relies on.
+  - (7) This clause applies, with all necessary modifications, if the territorial authority is the designating authority.
+  - Compare: 1991 No 69 s 176A(1), (4), (5), (6), (7)
+## Clause 41 — When construction project plan is confirmed
+  - (1) If the territorial authority does not request any changes to a construction project plan, the plan is confirmed on the earlier of—
+  - (a) the date on which the territorial authority advises the designating authority that it requests no changes; or
+  - (b) the close of the period for requesting changes under clause 40(2).
+  - (2) If the designating authority accepts all changes requested by the territorial authority, the plan is confirmed when the designating authority notifies the territorial authority of its decision to accept the changes under clause 40(3).
+  - (3) If the designating authority decides not to make a change requested by the territorial authority, the plan is confirmed on—
+  - (a) the close of the appeal period in clause 40(5)(c), if no appeal is lodged; or
+  - (b) the date on which the appeal, and any further appeal, is determined or withdrawn.
+  - (4) As soon as is reasonably practicable after a plan is confirmed, the designating authority must publish it on an internet site to which the public has free access.
+## Clause 42 — Altering construction project plan
+  - (1) A designating authority may alter a construction project plan after it has been confirmed by submitting an amendment to the plan or stage of the plan (a proposed amendment) to the territorial authority.
+  - (2) Clauses 40 and 41 apply to a proposed amendment with all necessary modifications and as if a reference to—
+  - (a) a construction project plan were a reference to the proposed amendment; and
+  - (b) the adverse effects of the construction or operation of the project on the built environment were a reference to the change in the adverse effects of the construction or operation of the project on the built environment.
+## Clause 43 — Designating authority must comply with construction project plan
+  - A designating authority must comply with a construction project plan (including any conditions in that plan) as if it were a condition of the relevant designation.
+### Part 6
+  - Other matters Approval from designating authority
+## Clause 44 — Approval to use land subject to designation or proposed designation
+  - (1) A person may apply, in the manner prescribed by regulations, to a designating authority that holds a designation for approval to do something in relation to land subject to the designation that would otherwise contravene clause 4(1)(c).
+  - (2) A person may apply, in the manner prescribed by regulations, to a designating authority responsible for a proposed designation for approval to do something that would otherwise contravene clause 5(1).
+  - (3) The designating authority may request further information on an application in the manner prescribed by regulations.
+  - (4) A designating authority must, no later than 40 working days after receiving an application, notify the applicant (in the manner prescribed by regulations) of its decision to—
+  - (a) grant approval (with or without conditions); or
+  - (b) refuse approval.
+  - (5) The designating authority—
+  - (a) may decline approval only if satisfied that the thing proposed would prevent or hinder the project to which the designation relates; and
+  - (b) may impose a condition on an approval only if satisfied that the condition is necessary to avoid preventing or hindering the project.
+  - (6) If a designating authority does not notify the applicant of a decision within the deadline specified in subclause
+  - (4), the application must be treated as if it were approved without conditions.
+## Clause 45 — Approval to exercise later designation
+  - (1) A designating authority that holds a later designation may apply, in the manner prescribed by regulations, to a designating authority that holds an earlier designation for approval to do something in relation to land that would otherwise contravene clause 4(1)(c) or 6(3).
+  - (2) The designating authority that holds the earlier designation may request further information on an application in the manner prescribed by regulations.
+  - (3) A designating authority that holds an earlier designation must, no later than 40 working days after receiving an application, notify the other designating authority (in the manner prescribed by regulations) of its decision to—
+  - (a) grant approval (with or without conditions); or
+  - (b) refuse approval.
+  - (4) A designating authority that holds an earlier designation—
+  - (a) may decline approval only if satisfied that the thing proposed by the other designating authority would prevent or hinder the project to which the earlier designation relates; and
+  - (b) may impose a condition on an approval only if satisfied that the condition is necessary to avoid preventing or hindering the project to which the earlier designation relates.
+  - (5) If a designating authority that holds an earlier designation does not notify the other designating authority of a decision within the deadline specified in subclause
+  - (3), the application must be treated as if it were approved without conditions.
+## Clause 46 — Right of review if designating authority refuses approval
+  - (1) A person who is refused approval by a designating authority under clause 44 or 45, or is granted approval subject to a condition, may apply to the Planning Tribunal to review the decision.
+  - (2) An application for review must—
+  - (a) state the reasons for the appeal and the relief sought; and
+  - (b) include any information prescribed by regulations; and
+  - (c) be lodged with the Planning Tribunal and be served on the designating authority no later than 15 working days after the date on which the person received notice under clause 44(4) or 45(3).
+  - (3) In considering a review of a decision under clause 44, the tribunal must have regard to—
+  - (a) whether the decision of the designating authority would render the land that is subject to the designation or proposed designation incapable of reasonable use; and
+  - (b) whether the decision has caused or is likely to cause serious hardship to the person; and
+  - (c) the extent to which the decision may be modified without wholly or partly nullifying the effect of the designation or proposed designation.
+  - (4) In considering a review of a decision under clause 45, the tribunal must have regard to—
+  - (a) whether the decision of the designating authority would frustrate the implementation of the later designation; and
+  - (b) whether the decision has caused or is likely to cause serious hardship to the designating authority responsible for the later designation; and
+  - (c) the extent to which the decision may be modified without wholly or partly nullifying the effect of the earlier designation.
+  - (5) The tribunal may confirm, modify, or reverse the decision of the designating authority.
+  - Compare: 1991 No 69 s 179
+  - Altering designations
+## Clause 47 — Alterations to designations using process in Part 3
+  - (1) A designating authority that holds a designation may notify a territorial authority of a proposed alteration to the designation (a proposed alteration) that it seeks to be considered using the process in Part 3 of this schedule.
+  - (2) Part 3 of this schedule applies to a proposed alteration under this clause with all necessary modifications and as if a reference to—
+  - (a) a proposed designation were a reference to the proposed alteration; and
+  - (b) the project were a reference to the change to the project authorised by the designation; and
+  - (c) the effects of the project or proposed designation were a reference to the change to the effects of the project or proposed designation.
+  - Compare: 1991 No 69 s 181(1), (2)
+## Clause 48 — Alterations to designations using spatial plan process in Part 4
+  - (1) A designating authority that holds a designation may, after receiving an invitation from a spatial plan committee under clause 12 of Schedule 2, apply to the committee to notify an alteration to that designation (a proposed alteration) in the draft regional spatial plan that the committee is preparing.
+  - (2) Part 4 of this schedule applies to a proposed alteration under this clause with all necessary modifications and as if—
+  - (a) a reference to a proposed designation were a reference to the proposed alteration; and
+  - (b) a reference to the project were a reference to the change to the project authorised by the designation; and
+  - (c) a reference to the effects of the project or proposed designation were a reference to the change to the effects of the project or proposed designation; and
+  - (d) subclause
+  - (3) applied instead of clause 35(2).
+  - (3) The spatial plan committee may accept an application to notify a proposed alteration only if satisfied that—
+  - (a) 1 or more of the following applies:
+  - (i) the change to the project is nationally significant or regionally significant: (ii) the change to the project will have regionally significant benefits: (iii) the change to the project occurs across territorial authority boundaries: (iv) the proposed alteration supports, or is otherwise closely connected with, a proposed designation that a designating authority is requesting be notified through the draft regional spatial plan; and
+  - (b) it is appropriate in the circumstances for the proposed alteration to be notified through the draft regional spatial plan.
+## Clause 49 — Minor alterations to designations
+  - (1) A territorial authority may alter a designation in its land use plan or a proposed designation in a proposed land use plan, without using a process in Part 3 or 4 of this schedule, or Schedule 3, if—
+  - (a) the alteration—
+  - (i) involves no more than a minor change to the effects on the built environment; or (ii) involves only minor changes to the boundaries of the designation or proposed designation; and
+  - (b) the territorial authority and the designating authority agree to the alteration; and
+  - (c) written notice of the proposed alteration has been given to every owner or occupier of land directly affected by the alteration, and those owners or occupiers agree with the alteration.
+  - (2) A territorial authority may alter a designation in its land use plan or a proposed designation in a proposed land use plan, without using a process in Part 3 or 4 of this schedule or Schedule 3, if—
+  - (a) the effect of the alteration is to make any condition of the designation consistent with, or more consistent with, any rule in a land use plan or national rule that is more lenient than the current condition; and
+  - (b) the territorial authority and the designating authority agree to the alteration; and
+  - (c) written notice of the proposed alteration has been given to every owner or occupier of land directly affected by the alteration. Removing designations
+## Clause 50 — Removing designations
+  - (1) If a designating authority no longer wants all or part of a designation, it may give notice that it seeks the removal of all or part of that designation to—
+  - (a) the territorial authority; and
+  - (b) every person who is known by the designating authority to be the owner or occupier of any land to which the designation applies; and
+  - (c) any other person who, in the opinion of the designating authority, is likely to be affected by the designation.
+  - (2) As soon as is reasonably practicable after receiving the notice, the territorial authority must, without using the process in Schedule 3, amend its land use plan and any proposed land use plan to remove the designation or part of the designation.
+  - (3) However, if the territorial authority considers that the effect of removing part of the designation on the remaining parts of the designation is more than minor, it may, no later than 20 working days after receiving the notice, decline to remove that part of the designation.
+  - (4) A designating authority may apply to the Planning Tribunal to review a decision to decline to remove part of a designation under subclause
+  - (3).
+  - Compare: 1991 No 69 s 182
+  - Lapse of designation
+## Clause 51 — Lapse of designation
+  - (1) The lapse period of a designation—
+  - (a) is either—
+  - (i) 10 years after the date on which the designation is included in the land use plan; or (ii) any other period specified in the designation when it was incorporated into the plan; and
+  - (b) includes any extension to the lapse period under subclause
+  - (2)(b).
+  - (2) A designation lapses on the expiry of its lapse period unless—
+  - (a) it is given effect to before the end of that period; or
+  - (b) the territorial authority decides, on an application made by the designating authority no later than 3 months before the expiry of the lapse period, to extend the lapse period.
+  - (3) A territorial authority may extend a lapse period only if satisfied that substantial progress or effort has been made, and is continuing to be made, towards giving effect to the designation.
+  - (4) A lapse period can be extended more than once.
+  - (5) A designating authority may apply to the Planning Tribunal to review a territorial authority’s decision to refuse to extend a lapse period.
+  - (6) If a designation lapses,—
+  - (a) the designation ceases to have any legal effect; and
+  - (b) the territorial authority must, as soon as is reasonably practicable,—
+  - (i) amend its land use plan and any proposed land use plan to remove the lapsed designation without using the process in Schedule 3; and (ii) give notice on an internet site to which the public has free access that the designation has lapsed.
+  - (7) A territorial authority must not alter the lapse period of a designation other than in accordance with subclause
+  - (2)(b).
+  - (8) To avoid doubt,—
+  - (a) an alteration to a designation does not have a lapse period; and
+  - (b) if a designation is altered under clause 47, 48, or 49, the designation continues to have the lapse period it had before the alteration.
+  - Compare: 1991 No 69 ss 184, 184A
+  - Transferring designations
+## Clause 52 — Transferring designation to another designating authority
+  - (1) If financial responsibility for a project authorised by a designation is transferred from one designating authority to another,—
+  - (a) responsibility for any relevant designation is also transferred; and
+  - (b) the designating authority that is transferring responsibility must advise the Minister and the relevant territorial authority of the transfer.
+  - (2) The territorial authority must, without using the process in Schedule 3, amend its land use plan and any proposed land use plan to note the transfer.
+  - Compare: 1991 No 69 s 180
+## Clause 53 — Temporary transfer of designation to another designating authority
+  - (1) A designating authority that holds a designation (the original designating authority) may temporarily transfer responsibility for all or part of its designation to another designating authority (the new designating authority) to enable the new designating authority to relocate any infrastructure to which the designation relates.
+  - (2) The new designating authority must give the territorial authority and the Minister written notice of the temporary transfer that—
+  - (a) includes the original designating authority’s consent to the transfer; and
+  - (b) describes the infrastructure to be relocated.
+  - (3) If a construction project plan is required for the relocation under clause 38, the new designating authority may prepare the construction project plan as if it were the original designating authority.
+  - (4) The original designating authority must give the territorial authority and the Minister written notice of when the temporary transfer is complete, at which point responsibility for the designation transfers back to the original designating authority.
+  - (5) The territorial authority must, without using the process in Schedule 3, amend its land use plan and any proposed land use plan to—
+  - (a) note the transfer, as soon as practicable after it occurs; and
+  - (b) note the transfer back to the original designating authority, as soon as practicable after it occurs.
+  - Compare: 2023 No 46 s 541(2)
+## Clause 54 — Delegating functions, duties, and powers relating to designation to
+  - responsible SPV
+  - (1) This clause applies to a designating authority that is a local authority and holds a designation authorising construction work that—
+  - (a) is required to facilitate the future construction of eligible infrastructure for which the local authority is a responsible infrastructure authority; and
+  - (b) the local authority is financially responsible for.
+  - (2) If a responsible SPV (who is not a designating authority) proposes to take over the construction work, the designating authority may delegate to that responsible SPV any functions, duties, and powers in relation to the designation that relate to the construction work.
+  - (3) The responsible SPV must perform those delegated functions and duties and exercise those delegated powers in accordance with any conditions included in the designation or any construction project plan.
+  - (4) A delegation does not affect the performance or exercise of any function, duty, or power by the responsible infrastructure authority.
+  - Compare: 1991 No 69 s 180A
+  - Acquiring land
+## Clause 55 — Environment Court may order taking of land
+  - (1) An owner of an estate or interest in land (including a leasehold estate or interest) that is subject to a designation or proposed designation may apply to the Environment Court in the manner prescribed by regulations for an order requiring the designating authority responsible for the designation or proposed designation to acquire or lease all or part of the owner’s estate or interest in the land under the Public Works Act 1981.
+  - (2) The application must—
+  - (a) be in the form prescribed by regulations; and
+  - (b) be served on the designating authority and the relevant territorial authority in the manner prescribed by regulations.
+  - (3) The Environment Court may make an order if satisfied that—
+  - (a) the owner has tried but been unable to enter into an agreement for the sale of the estate or interest in the land subject to the designation or proposed designation at a price not less than the market value that the land would have had if it had not been subject to the designation or proposed designation; and
+  - (b) either—
+  - (i) the designation or proposed designation prevents reasonable use of the owner’s estate or interest in the land; or (ii) the applicant was the owner, or the spouse, civil union partner, or de facto partner of the owner, of the estate or interest in the land when the designation or proposed designation was created.
+  - (4) Before making an order, the court may direct the owner to take further action to try to sell the estate or interest in the land.
+  - (5) If the Environment Court makes an order to take an estate or interest in land under the Public Works Act 1981, the owner of that estate or interest is deemed to have entered into an agreement with the designating authority responsible for the designation or proposed designation for the purposes of section 17 of the Public Works Act 1981.
+  - (6) If subclause
+  - (5) applies in respect of a designating authority that is a core infrastructure operator approved under clause 10,—
+  - (a) any agreement is deemed to have been entered into with the Minister for Land Information on behalf of the core infrastructure operator as if the land were required for a Government work; and
+  - (b) all costs and expenses incurred by the Minister for Land Information in respect of the acquisition of the land are recoverable from the core infrastructure operator as a debt due to the Crown.
+  - (7) The amount of compensation payable for an estate or interest in land ordered to be taken under this clause must be assessed as if the designation or proposed designation had not been created.
+  - (8) Subclauses
+  - (9) and
+  - (10) apply if the designation or proposed designation to which the order relates is for a critical infrastructure project—
+  - (a) within the meaning of section 39AAB of the Public Works Act 1981; and
+  - (b) in relation to which the designating authority may use Part 2A of that Act to acquire the owner’s land.
+  - (9) The owner must be paid compensation in recognition of the land being acquired for a critical infrastructure project and, for that purpose, must be treated as if they were an owner of land entitled to the compensation specified in section 39AAK(2)(b) of that Act unless the exclusion in section 39AAL(1) of that Act applies.
+  - (10) To avoid doubt, the owner is not entitled to compensation under section 39AAK(2)(c) of that Act.
+  - Compare: 1991 No 69 s 185
+## Clause 56 — Compulsory acquisition on behalf of core infrastructure operator
+  - (1) A responsible core infrastructure operator may apply to the Minister for Land Information in the manner prescribed by regulations to have land required—
+  - (a) for a project that is a critical infrastructure project within the meaning of section 39AAB of the Public Works Act 1981 acquired or taken under Part 2A of that Act, and, if the Minister for Land Information agrees, that land may be acquired or taken:
+  - (b) for any other project acquired or taken under Part 2 of the Public Works Act 1981 as if the project were a Government work within the meaning
+  - of section 2 of that Act, and, if the Minister for Land Information agrees, that land may be acquired or taken.
+  - (2) The effect of any Proclamation taking land for the purposes of subclause
+  - (1) is to vest the land in the responsible core infrastructure operator instead of the Crown.
+  - (3) Any land held under any legislation or in any other manner by the Crown or a local authority may, with the consent of the Crown or that authority and on such terms and conditions (including price) that may be agreed, be set apart for a project of a responsible core infrastructure operator in the manner provided in sections 50 and 52 of the Public Works Act 1981 (with the necessary modifications), but the setting apart is not subject to sections 40 and 41 of that Act. Any land so set apart vests in the responsible core infrastructure operator.
+  - (4) Any claim for compensation under the Public Works Act 1981 in respect of land acquired or taken in accordance with this clause must be made against the Minister for Land Information.
+  - (5) All costs and expenses incurred by the Minister for Land Information in respect of the acquisition or taking of land in accordance with this clause (including any compensation payable by the Minister) are recoverable from the responsible core infrastructure operator as a debt due to the Crown.
+  - (6) Sections 40 and 41 of the Public Works Act 1981 apply to land acquired or taken in accordance with this clause as if the responsible core infrastructure operator concerned were the Crown.
+  - (7) However, this clause does not apply if the responsible core infrastructure operator is a responsible SPV and the land is protected Māori land as defined in section 11 of the Infrastructure Funding and Financing Act 2020.
+  - (8) For the purposes of this clause, an interest in land, including a leasehold interest, may be acquired or taken as if references to land were references to an interest in land.
+  - (9) In this clause, responsible core infrastructure operator, in relation to a project, means a core infrastructure operator that is a designating authority for—
+  - (a) the project; or
+  - (b) a core infrastructure operation to which the project relates.
+  - Compare: 1991 No 69 s 186

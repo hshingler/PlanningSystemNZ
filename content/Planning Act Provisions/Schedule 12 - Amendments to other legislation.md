@@ -1,0 +1,2478 @@
+#provision
+### Part 1
+  - Amendments to Acts that commence on day after this Act receives Royal assent Biosecurity Act 1993 (1993 No 95) In section 76(6), replace “section 291 of the Resource Management Act 1991” with “clause 49 of Schedule 9 of the Planning Act 2026”. In section 96(6), replace “section 291 of the Resource Management Act 1991” with “clause 49 of Schedule 9 of the Planning Act 2026”. In section 100F(3), replace “section 291 of the Resource Management Act 1991” with “clause 49 of Schedule 9 of the Planning Act 2026”. Building Act 2004 (2004 No 72) In section 7(1), definition of territorial authority, paragraph
+  - (a)(ii), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 212(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. Chatham Islands Council Act 1995 (1995 No 41) In section 2, insert in its appropriate alphabetical order: region, in relation to the purposes of the Natural Environment Act 2026 or the Planning Act 2026, means the area of the Chatham Islands Territory After section 7(1)(a)(iv), insert: (iva) the Planning Act 2026; and Replace section 7(1)(b) with:
+  - (b) a regional council under—
+  - (i) the Natural Environment Act 2026; or (ii) the Planning Act 2026; or (iii) the Resource Management Act 1991; and After section 26, insert: 26A Requirement for natural environment plan Despite anything in this Act or the Natural Environment Act 2026, a natural environment plan for the Chatham Islands Territory—
+  - (a) is required to cover the coastal marine area of the Territory; and
+  - Chatham Islands Council Act 1995 (1995 No 41)—continued
+  - (b) is not required for other areas. Civil Defence Emergency Management Act 2002 (2002 No 33) After section 17(3)(j), insert: (ja) Natural Environment Act 2026: (jb) Planning Act 2026: Conservation Act 1987 (1987 No 65) In section 2(1), definition of contaminant, replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 2(1), definition of effect, replace “section 3 of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. Replace section 17SD(3)(a) with:
+  - (a) in the form set out in Schedule 2 of the Natural Environment Act 2026; or Contract and Commercial Law Act 2017 (2017 No 5) In Schedule 5, Part 4, paragraph
+  - (s), replace “Resource Management Act 1991” with “Planning Act 2026”. Crown Minerals Act 1991 (1991 No 70) In section 2(1), definition of coastal marine area, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. In Schedule 1, clause 16(5), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. Crown Pastoral Land Act 1998 (1998 No 65) In Schedule 1AC, clause 44(a), replace “Resource Management Act 1991” with “Planning Act 2026”. Electricity Act 1992 (1992 No 122) In section 23F(6), replace “sections 310 to 313 of the Resource Management Act 1991” with “sections 255 to 258 of the Planning Act 2026”. In section 23F(9), replace “sections 299 to 308 of the Resource Management Act 1991” with “clauses 75 to 84 of Schedule 9 of the Planning Act 2026”. Energy Efficiency and Conservation Act 2000 (2000 No 14) In section 3, replace the definition of environment with:
+  - Energy Efficiency and Conservation Act 2000 (2000 No 14)—continued environment includes—
+  - (a) ecosystems and their constituent parts, including people and communities; and
+  - (b) all natural and physical resources; and
+  - (c) amenity values; and
+  - (d) the social, economic, aesthetic, and cultural conditions that affect the matters stated in paragraphs
+  - (a) to
+  - (c) or that are affected by those matters In section 3, insert in its appropriate alphabetical order: natural and physical resources has the meaning given in section 3 of the Natural Environment Act 2026 After section 11, insert: 11A Consistency with national instruments A strategy must be consistent with any national instruments in force under the Natural Environment Act 2026 and the Planning Act 2026. Environment Act 1986 (1986 No 127) In Schedule 2, insert in their appropriate alphabetical order: Natural Environment Act 2026 Planning Act 2026 In Schedule 3, insert in their appropriate alphabetical order: Natural Environment Act 2026 Planning Act 2026 Environmental Protection Authority Act 2011 (2011 No 14) In section 5, definition of environmental Act, after paragraph
+  - (b), insert: (ba) the Natural Environment Act 2026: (bb) the Planning Act 2026: Environmental Reporting Act 2015 (2015 No 87) In section 4, definition of structure, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72) In section 4(1), insert in its appropriate alphabetical order:
+  - Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72)—continued biological diversity means the variability among living organisms, and the ecological complexes of which they are a part, including diversity within species, between species, and of ecosystems In section 4(2), replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. Repeal section 4(2)(a). After section 7(2)(k), insert: (ka) Natural Environment Act 2026: (kb) Planning Act 2026: In section 88, repeal the definition of assessment of environmental effects. In section 88, definition of coastal marine area, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. Fast-track Approvals Act 2024 (2024 No 56) In section 11(1)(b)(ii)(A), delete “Mana Whakahono ā Rohe or”. In section 13(4)(j)(ii), delete “Mana Whakahono ā Rohe or”. In section 16(1), delete “a Mana Whakahono ā Rohe,”. In section 18(2)(j)(i), replace “any relevant Mana Whakahono ā Rohe or” with “relevant”. In section 18(2)(j)(ii), delete “Mana Whakahono ā Rohe and”. Repeal section 21(5)(a)(iv). In section 42(7A), replace “subsection
+  - (4)(a) or
+  - (d) may also” with “subsection
+  - (4)(c) may only”. In section 57(7), replace “a board of inquiry given authority to conduct a hearing under section 149J of the Resource Management Act 1991” with “an independent hearings panel given authority to conduct a hearing under the Planning Act 2026”. In Schedule 1, after clause 15, insert:
+### Part 3
+  - Provisions relating to Planning Act 2026 and Natural Environment Act 2026
+## Clause 16 — Interpretation
+  - In this Part,—
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued determined,—
+  - (a) in relation to a referral application, means the application has been granted or declined under section 21; and
+  - (b) in relation to a substantive application, means a decision document has been issued under section 88 RMA means the Resource Management Act 1991 specified transition date has the meaning given in clause 1(1) of Schedule 1 of the Planning Act 2026 transition period has the meaning given in clause 1(1) of Schedule 1 of the Planning Act 2026.
+## Clause 17 — Referral applications lodged before transition period
+  - If a referral application for a project that would otherwise require approval under the RMA is lodged before the date of commencement of the transition period, the application must continue to be processed and determined under this Act, and in relation to the RMA, as in force at the time the application was made.
+## Clause 18 — Referral applications lodged during transition period
+  - If a referral application for a project that would otherwise require approval under the RMA is lodged during the transition period and is not determined before the specified transition date, the application must continue to be processed and determined—
+  - (a) under this Act as in force immediately before it was amended by Part 5 of Schedule 12 of the Planning Act 2026; and
+  - (b) in relation to the RMA as in force at the time the application was made.
+## Clause 19 — Substantive applications lodged before transition period
+  - If a substantive application seeking an approval under section 42(4)(a),
+  - (b),
+  - (c), or
+  - (d) is lodged before the date of commencement of the transition period, the application must continue to be processed and determined under this Act, and in relation to the RMA, as in force at the time the application was made.
+## Clause 20 — Substantive applications lodged during transition period
+  - If a substantive application seeking an approval under section 42(4)(a),
+  - (b),
+  - (c), or
+  - (d) is lodged during the transition period and is not determined before the specified transition date, the application must continue to be processed and determined—
+  - (a) under this Act as in force immediately before it was amended by Part 5 of Schedule 12 of the Planning Act 2026; and
+  - (b) in relation to the RMA as in force at the time the application was made.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+## Clause 21 — Status of approvals sought under section 42(4)(a) where clause 20 applies
+  - (1) If clause 20 applies and a substantive application seeking an approval under section 42(4)(a) is granted,—
+  - (a) any land use consent or subdivision consent granted must be treated as—
+  - (i) a land use consent or subdivision consent granted under the Planning Act 2026; and (ii) subject to the same terms and conditions; and
+  - (b) any regional land use consent, discharge permit, water permit, or coastal permit granted must be treated as—
+  - (i) a land use permit, discharge permit, water permit, or coastal permit granted under the Natural Environment Act 2026; and (ii) subject to the same terms and conditions.
+  - (2) If clause 20 applies and a substantive application seeking an approval for resource consent that authorises activities that are regulated under both the Planning Act 2026 and the Natural Environment Act 2026 is granted, the resource consent must be treated (as applicable) as—
+  - (a) a land use consent or subdivision consent granted under the Planning Act 2026; and
+  - (b) a land use permit, discharge permit, water permit, or coastal permit granted under the Natural Environment Act 2026; and
+  - (c) subject to the same terms and conditions.
+  - (3) Subclauses
+  - (4) and
+  - (5) apply in respect of a resource consent described in subclause
+  - (2).
+  - (4) An application to vary any conditions of the resource consent or a council-initiated review of those conditions must be considered or carried out—
+  - (a) by the regional council or territorial authority whose functions relate to the conditions; and
+  - (b) in accordance with the Planning Act 2026 or the Natural Environment Act 2026, as applicable.
+  - (5) If the resource consent includes conditions relating to activities or effects that, under the Planning Act 2026 or the Natural Environment Act 2026, fall within the functions of an authority other than the relevant authority with those functions under the RMA, each condition is treated as a condition administered under the provisions of the Planning Act 2026 or the Natural Environment Act 2026 (as applicable) that regulate the relevant activity or effect.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+## Clause 22 — Status of approvals sought under section 42(4)(b) where clause 20 applies
+  - (1) If clause 20 applies and a substantive application seeking an approval under section 42(4)(b) is granted, nothing in clauses 33 to 37 of Schedule 1 of the Planning Act 2026 affects that approval.
+  - (2) To avoid doubt, the approval may result in changes to the conditions of the consent or permit.
+## Clause 23 — Status of approvals sought under section 42(4)(c) where clause 20 applies
+  - If clause 20 applies and a substantive application seeking an approval under section 42(4)(c) is granted,—
+  - (a) on the date that the certificate is issued, the certificate is treated as a certificate of compliance issued under—
+  - (i) section 208 of the Planning Act 2026, if the certificate relates to an activity that is regulated under that Act; and (ii) section 214 of the Natural Environment Act 2026, if the certificate relates to an activity that is regulated under that Act; and
+  - (b) the certificate lapses on the date on which it would have lapsed under the RMA.
+## Clause 24 — Status of approvals sought under section 42(4)(d)
+  - (1) Subclause
+  - (2) applies if—
+  - (a) clause 20 applies and a substantive application seeking an approval under section 42(4)(d) is granted; or
+  - (b) an approval under section 42(4)(d) is granted before the specified transition date, but the designation or alteration has not been included in a district plan before that date under clause 30 of Schedule 5; or
+  - (c) a designation or alteration is confirmed after the specified transition date and there is no operative land use plan.
+  - (2) If a designation or alteration is confirmed,—
+  - (a) the designation or alteration must be included in an operative land use plan and, if applicable, a proposed land use plan under clause 32 of Schedule 5 of the Planning Act 2026; and
+  - (b) if there is no operative land use plan,—
+  - (i) the designation or alteration must be treated as if it were included in an operative land use plan under clause 32 of Schedule 5 of the Planning Act 2026; and (ii) the designation cannot be altered by decisions on the proposed land use plan; and
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (c) the designation, including any alteration, must be treated as a designation under the Planning Act 2026. In Schedule 3, clause 5(1), delete “or any Mana Whakahono a Rohe”. In Schedule 5, clauses 13(b), 17(2)(c), 23(b), 24(1)(b), delete “Mana Whakahono ā Rohe or”. Fiordland (Te Moana o Atawhenua) Marine Management Act 2005 (2005 No 36) In Schedule 13, insert in their appropriate alphabetical order: Natural Environment Act 2026 Planning Act 2026 Fisheries Act 1996 (1996 No 88) In section 2(1), definition of aquaculture activities, after “Resource Management Act 1991”, insert “for resource consents under the Resource Management Act 1991 and the Natural Environment Act 2026 for natural environment plans under the Natural Environment Act 2026”. In section 2(1), replace the definition of coastal marine area and coastal permit with: coastal marine area has the meaning given in section 3 of the Natural Environment Act 2026 coastal permit has the meaning given in section 2(1) of the Resource Management Act 1991 In section 2(1), insert in their appropriate alphabetical order: land use plan has the meaning given in section 3 of the Planning Act 2026 natural environment plan has the meaning given in section 3 of the Natural Environment Act 2026 regional spatial plan has the meaning given in section 3 of the Planning Act 2026 After section 11(2)(a), insert: (aa) any regional spatial plan, land use plan, proposed regional spatial plan, or proposed land use plan under the Planning Act 2026; and (ab) any natural environment plan or proposed natural environment plan under the Natural Environment Act 2026; and In section 182, replace “sections 299 and 308 of the Resource Management Act 1991” with “clauses 75 and 84 of Schedule 9 of the Planning Act 2026”. In section 186C, replace the definition of determination with:
+  - Fisheries Act 1996 (1996 No 88)—continued determination,—
+  - (a) in relation to a coastal permit, means a decision by the chief executive that they are satisfied that the aquaculture activities authorised by the coastal permit will not have an undue adverse effect on fishing:
+  - (b) in relation to an aquaculture area, means a decision by the chief executive that they are satisfied that the aquaculture activities provided for within the aquaculture area will not have an undue adverse effect on fishing In section 186C, replace the definition of reservation with: reservation,—
+  - (a) in relation to a coastal permit, means a decision by the chief executive that they are not satisfied that the aquaculture activities authorised by the coastal permit will not have an undue adverse effect on fishing:
+  - (b) in relation to an aquaculture area, means a decision by the chief executive that they are not satisfied that the aquaculture activities provided for within the aquaculture area will not have an undue adverse effect on fishing In section 186C, insert in their appropriate alphabetical order: aquaculture area has the meaning given in section 3 of the Natural Environment Act 2026 aquaculture area decision means a determination or reservation in respect of an aquaculture area and the aquaculture activities that may be carried out in that area After section 186J, insert: Subpart 1A—Aquaculture area decisions 186JA Chief executive may seek information or consult certain persons for purpose of making aquaculture area decision
+  - (1) After receiving a request under clause 45 of Schedule 4 of the Natural Environment Act 2026 for an aquaculture area decision, the chief executive may, for the purpose of making an aquaculture area decision, seek information from—
+  - (a) the person who requested the aquaculture area decision:
+  - (b) any fisher whose interests may be affected:
+  - (c) the relevant regional council:
+  - (d) persons and organisations that the chief executive considers represent the classes of persons who have customary, commercial, or recreational fishing interests that may be affected by the aquaculture activities that may be carried out within the aquaculture area.
+  - Fisheries Act 1996 (1996 No 88)—continued
+  - (2) For the purposes of subsection
+  - (1), the chief executive—
+  - (a) may set a date by which information must be provided and may grant 1 or more extensions of that date if the chief executive considers it necessary to do so; and
+  - (b) is not required to consider or take into account any information received after that date or extended date (as the case may be).
+  - (3) Before making an aquaculture area decision under section 186JB or a decision to extend an aquaculture area decision under section 186JI, the chief executive may consult any of the persons or organisations specified in subsection
+  - (1).
+  - (4) For the purposes of subsection
+  - (3), the chief executive—
+  - (a) may set a date by which the consultation is to be completed and may grant 1 or more extensions of that date if they consider it necessary to do so; and
+  - (b) is not required to consider or take into account any submissions made for the purposes of the consultation received after that date or extended date (as the case may be). 186JB Chief executive to make aquaculture area decision
+  - (1) Within 4 months after receiving a request for an aquaculture area decision under clause 45 of Schedule 4 of the Natural Environment Act 2026, the chief executive must—
+  - (a) make a determination; or
+  - (b) make a reservation; or
+  - (c) make 1 or more determinations or reservations, or both, in relation to different parts of the aquaculture area to which the request relates.
+  - (2) The period of 4 months referred to in subsection
+  - (1) excludes—
+  - (a) a period during which the chief executive is undertaking consultation under section 186JA(3); and
+  - (b) a period during which the chief executive is, in compliance with section 186JC(1), making an aquaculture area decision in relation to a prior request.
+  - (3) In making an aquaculture area decision, the chief executive must have regard to—
+  - (a) information held by the Ministry; and
+  - (b) information supplied, or submissions made, to the chief executive under section 186JA(1) or
+  - (3); and
+  - (c) information that is forwarded by the person who requested the decision; and
+  - Fisheries Act 1996 (1996 No 88)—continued
+  - (d) any other information that the chief executive has requested and obtained.
+  - (4) For the purposes of this section, the chief executive is not required to consider or take into account any information received after the dates specified under section 186JA(2) and
+  - (4). 186JC Order in which requests for aquaculture area decisions to be processed
+  - (1) The chief executive must make aquaculture area decisions in the same order in which the requests for the aquaculture decisions or aquaculture area decisions are received.
+  - (2) However, the chief executive may make aquaculture area decisions in a different order from that required by subsection
+  - (1), but only if satisfied that making an aquaculture area decision out of order will not have an adverse effect on any other previously received requests for an aquaculture decision under section 114 of the Resource Management Act 1991. 186JD Provision of fisheries information relating to stock For the purposes of this subpart and subparts 1 and 4, the chief executive may, by notice in the Gazette, specify the manner and form in which fisheries information relating to stocks is to be made publicly available by the Ministry. 186JE Matters to be considered before aquaculture area decision made In making an aquaculture area decision, the chief executive must have regard only to the following matters:
+  - (a) the location of the aquaculture area in relation to areas in which fishing is carried out:
+  - (b) the likely effect of the aquaculture activities that may be carried out in the aquaculture area on fishing of any fishery, including the proportion of any fishery likely to become affected:
+  - (c) the degree to which those aquaculture activities, if carried out in the aquaculture area, will lead to the exclusion of fishing:
+  - (d) the extent to which fishing for a species in the location of the aquaculture area can be carried out in other areas:
+  - (e) the extent to which the occupation of the aquaculture area by aquaculture activities will increase the cost of fishing:
+  - (f) the cumulative effect on fishing of any authorised aquaculture activities, including any structures authorised before the introduction of any relevant stock to the quota management system:
+  - (g) the rules of the natural environment plan that apply to the relevant aquaculture area.
+  - Fisheries Act 1996 (1996 No 88)—continued 186JF Requirements for aquaculture area decision
+  - (1) An aquaculture area decision must—
+  - (a) be in writing; and
+  - (b) define the areas that are subject to the decision; and
+  - (c) provide reasons for the decision; and
+  - (d) be notified to—
+  - (i) the person that requested the decision; and (ii) the relevant consent authority; and (iii) the persons and organisations who supplied information to the chief executive under section 186JA(1); and (iv) the persons and organisations consulted by the chief executive under section 186JA(3).
+  - (2) The fact that an aquaculture area decision has been made and where a copy of the decision can be obtained must be—
+  - (a) notified in the Gazette; and
+  - (b) made accessible via an internet site.
+  - (3) If the chief executive makes a determination, the determination may—
+  - (a) specify any aquaculture area rule that is material to the decision and that relates to the character, intensity, or scale of the aquaculture activities within the aquaculture area; and
+  - (b) state that the aquaculture area rules may not be changed or cancelled until the chief executive makes a further aquaculture area decision in relation to the area affected by the change or cancellation.
+  - (4) If the chief executive makes a reservation, the reservation must also—
+  - (a) specify whether the reservation relates to customary, recreational, or commercial fishing, or a combination of them; and
+  - (b) if the reservation relates to commercial fishing, the stocks and areas concerned, specify any stocks subject to the quota management system and any other stock not subject to the quota management system; and
+  - (c) include any other matters required by regulations to be included.
+  - (5) The chief executive must include, in the notification under subsection
+  - (1)(d),—
+  - (a) the information specified in subsections
+  - (1)(b) and
+  - (c),
+  - (3), and
+  - (4), as appropriate; and
+  - (b) information about where a copy of the determination or reservation can be obtained.
+  - Fisheries Act 1996 (1996 No 88)—continued 186JG Judicial review of aquaculture area decision
+  - (1) Any person wishing to seek, under the Judicial Review Procedure Act 2016, judicial review of an aquaculture area decision must do so within 30 working days after the notification of the decision under section 186JF(2)(a).
+  - (2) The chief executive must notify the relevant regional council of—
+  - (a) any proceedings brought to seek judicial review of an aquaculture area decision; and
+  - (b) the result of those proceedings, including any appeals. 186JH Expiry of aquaculture area decision
+  - (1) An aquaculture area decision expires 10 years after the date on which the decision is notified under section 186JF(2)(a), except in the following circumstances:
+  - (a) if regulations under section 325 of the Natural Environment Act 2026 amend any relevant aquaculture area rules, the aquaculture area decision expires on the date on which the regulations come into force:
+  - (b) if, in accordance with Part 3 of the Natural Environment Act 2026, a regional council reviews a natural environment plan and approves changes to any relevant aquaculture area rules, the aquaculture area decision expires on the date on which the plan change becomes operative:
+  - (c) if a natural environment plan is undergoing its 10-yearly review under section 119 of the Natural Environment Act 2026, the aquaculture area decision does not expire until—
+  - (i) the date on which the new plan becomes operative; or (ii) the date on which a plan change that amends a relevant aquaculture area rule becomes operative; or (iii) the date on which the regional council publishes the results of the review, if there is no plan change that affects a relevant aquaculture area rule.
+  - (2) In this section, relevant aquaculture area rule means an aquaculture rule in a natural environment plan that is the subject of or affected by a determination under section 186JF(3). 186JI Extension of duration of aquaculture area decision If the chief executive receives a request for an extension of the duration of an aquaculture area decision under regulations made under the Natural Environment Act 2026 relating to the extension of the duration of an aquaculture decision, the chief executive may extend the expiry of the aquaculture area decision for a further 10 years if the chief executive is satisfied that there has been no
+  - Fisheries Act 1996 (1996 No 88)—continued significant change to the nature and extent of fishing in the aquaculture area since the previous aquaculture area decision. In section 186ZD, insert in their appropriate alphabetical order: proposed aquaculture activity means any aquaculture activity authorised by the coastal permit or any aquaculture activity provided for within the aquaculture area reservation means a reservation decision made under subpart 1 or 1A of Part 9A After section 186ZE, insert: 186ZEA Negotiator in respect of aquaculture area decisions
+  - (1) If an aquaculture area decision includes a reservation in relation to stocks subject to the quota management system, the Minister responsible for aquaculture must appoint a negotiator for the purpose of—
+  - (a) obtaining consent from quota owners (see section 186ZF) and registering an aquaculture agreement:
+  - (b) providing compensation to quota owners and registering a compensation declaration.
+  - (2) If an aquaculture agreement or a compensation declaration is registered by the negotiator, the negotiator must make the terms of the aquaculture agreement or compensation declaration available to any person who applies for a resource consent or an authorisation for an aquaculture activity in the aquaculture area.
+  - (3) The negotiator may be—
+  - (a) the Minister responsible for aquaculture; or
+  - (b) a person or body appointed by the Minister that represents aquaculture interests (including Te Ohu Kai Moana Trustee Limited). After section 186ZH(2)(b), insert:
+  - (c) notify the relevant consent authority that the agreement has been registered. After section 186ZHA(2)(b), insert:
+  - (c) notify the relevant consent authority that the declaration has been registered. Replace section 186ZI(1)(b) with:
+  - (b) within 6 months after the notification of—
+  - (i) the reservation under section 186H(2)(a) in relation to the coastal permit concerned; or (ii) the reservation under section 186JF(2)(a) in relation to an aquaculture area.
+  - Fisheries Act 1996 (1996 No 88)—continued In section 186ZI(4)(c), after “chief executive’s aquaculture decision”, insert “or aquaculture area decision”. Replace section 186ZIA(1)(b) with:
+  - (b) within 6 months after the date of the notification of—
+  - (i) the reservation under section 186H(2)(a) in relation to the coastal permit concerned; or (ii) the reservation under section 186JF(2)(a) in relation to an aquaculture area. In section 186ZIA(4)(c), after “chief executive’s aquaculture decision”, insert “or aquaculture area decision”. In section 186ZK(1), after “must”, insert “, in the case of an aquaculture decision or an aquaculture area decision,”. In section 186ZL(1) and
+  - (3)(a), after “section 186E”, insert “or 186JB”. In section 186ZL(2),—
+  - (a) after “section 186H”, insert “or 186JF”; and
+  - (b) after “section 186H(2)(a)”, insert “or 186JF(2)(a)”. After section 186ZN, insert: 186ZNA Compensation to be provided by negotiator if aquaculture agreement not lodged in respect of aquaculture area
+  - (1) This section applies if—
+  - (a) the chief executive has, in relation to an aquaculture area, made a reservation in relation to commercial fishing of quota management stock; and
+  - (b) the negotiator appointed under section 186ZEA has not lodged an aquaculture agreement in respect of the stock before the expiry of the period specified in section 186ZI(1)(b) or any extension of that period under section 186ZI(2), subject in either case to section 186ZI(4).
+  - (2) The negotiator must ensure that each affected quota owner is paid compensation for the loss of value of the owner’s affected quota as determined by an arbitrator appointed in accordance with section 186ZO.
+  - (3) In subsection
+  - (2), quota owner means a person who is a registered quota owner as at 5 pm on the date on which the relevant reservation is notified in the Gazette under section 186JF(2)(a). In section 186ZO(1),—
+  - (a) after “coastal permit”, insert “or the negotiator appointed under section 186ZEA”; and
+  - (b) after “section 186ZN”, insert “or 186ZNA”. Replace section 186ZO(2)(a) with:
+  - Fisheries Act 1996 (1996 No 88)—continued
+  - (a) by agreement—
+  - (i) between the holder of the coastal permit and all the quota owners if the reservation relates to a coastal permit; or (ii) between the negotiator and all the quota owners if the reservation relates to an aquaculture area; but In section 186ZP(3)(a), after “coastal permit”, insert “or the negotiator, as the case may be”. In section 186ZQ(2),—
+  - (a) after “coastal permit”, insert “or the negotiator, as the case may be,”; and
+  - (b) after “the site”, insert “or area”. After section 186ZQ(5), insert:
+  - (6) If, after the arbitrator has made an award, the negotiator decides not to proceed to register the compensation declaration, the negotiator must pay the quota owners’ reasonable costs and expenses, as determined by the arbitrator, for participating in the arbitration. In section 186ZR(1)(b), replace “the aquaculture activities authorised by a coastal permit” with “the proposed aquaculture activities”. In section 186ZR(3)(a)(ii), after “the site”, insert “or area”. Forests Act 1949 (1949 No 19) Replace section 67P(3) with:
+  - (3) For the purposes of this section, Schedule 9 of the Planning Act 2026 applies, with the necessary modifications, as if the decision appealed against were a planning consent under that Act. Government Roading Powers Act 1989 (1989 No 75) In section 43(1), definition of Environment Court, replace “constituted under the Resource Management Act 1991” with “continued under the Planning Act 2026”. Hauraki Gulf Marine Park Act 2000 (2000 No 1) In the heading to section 9, after “Resource Management Act 1991”, insert “, Natural Environment Act 2026, and Planning Act 2026”. In section 9(1), after “Local Government Act 2002”, insert “, and land use plan, national instrument, proposed land use plan, and regional spatial plan have the same meanings as in the Planning Act 2026, and natural environment plan and proposed natural environment plan have the same meanings as in the Natural Environment Act 2026”. After section 9(2), insert:
+  - Hauraki Gulf Marine Park Act 2000 (2000 No 1)—continued (2A) A regional council must ensure that any part of a natural environment plan or a proposed natural environment plan that applies to the Hauraki Gulf, its islands, and its catchments does not conflict with sections 7 and 8. After section 9(3), insert: (3A) A territorial authority must ensure that any part of a land use plan or a proposed land use plan that applies to the Hauraki Gulf, its islands, and its catchments does not conflict with sections 7 and 8. (3B) A regional council and a territorial authority must ensure that any part of a regional spatial plan that applies to the Hauraki Gulf, its islands, and its catchments does not conflict with sections 7 and 8. After section 9(5), insert: (5A) The provisions of section 52 of the Planning Act 2026 or section 77 of the Natural Environment Act 2026 apply as though sections 7 and 8 of this Act were a national instrument, and a regional council or a territorial authority must take action in accordance with that section and notify a change to a regional spatial plan, land use plan, natural environment plan, proposed land use plan, or proposed natural environment plan. In the heading to section 10, after “coastal policy statement”, insert “or national instrument”. After section 10(3), insert:
+  - (4) For the coastal environment of the Hauraki Gulf, sections 7 and 8 must be treated as national instruments issued under the Natural Environment Act 2026 and the Planning Act 2026.
+  - (5) For the coastal environment of the Hauraki Gulf, if there is a conflict between sections 7 and 8 and the provisions of any national instrument issued under the Natural Environment Act 2026 or the Planning Act 2026, the national instrument prevails. In Schedule 1, insert in their appropriate alphabetical order: Natural Environment Act 2026 Planning Act 2026 Hazardous Substances and New Organisms Act 1996 (1996 No 30) In section 2(1), definition of natural and physical resources, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26) In section 65(3)(c), after “Resource Management Act 1991”, insert “, the Natural Environment Act 2026, and the Planning Act 2026”.
+  - Infrastructure Funding and Financing Act 2020 (2020 No 47) In section 8(3), definition of natural hazard, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In section 9(6), definition of establishment costs, paragraph
+  - (b), after “1991”, insert “or the Planning Act 2026”. In section 11(2), definition of mana whenua, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. Lake Wanaka Preservation Act 1973 (1973 No 107) In section 8(1), after “Resource Management Act 1991”, insert “, the Natural Environment Act 2026, and the Planning Act 2026”. Land Drainage Act 1908 (1908 No 96) Replace section 2A with: 2A Relationship to Resource Management Act 1991, Natural Environment Act 2026, and Planning Act 2026 Nothing in this Act derogates from the Resource Management Act 1991, the Natural Environment Act 2026, or the Planning Act 2026. Land Transport Management Act 2003 (2003 No 118) After section 14(a)(ii), insert: (iii) is consistent with the regional spatial plan that is in force for the region under the Planning Act 2026 to the extent that— (A) the regional spatial plan is relevant to the content of the regional land transport plan; and (B) consistency with the regional spatial plan does not prevent compliance with subparagraph
+  - (i) or (ii); and After section 14(c)(ii), insert: (iia) relevant national instruments and any relevant natural environment plans that are for the time being in force under the Natural Environment Act 2026; and (iib) relevant national instruments and any relevant land use plans that are for the time being in force under the Planning Act 2026; and After section 15(d), insert:
+  - (e) be satisfied that the regional land transport plan is consistent with the regional spatial plan that is in force for the region under the Planning Act 2026 to the extent that consistency with the regional spatial plan does not prevent compliance with paragraph
+  - (d). After section 19B(b)(vi), insert:
+  - Land Transport Management Act 2003 (2003 No 118)—continued (vii) relevant national instruments and any relevant natural environment plans that are for the time being in force under the Natural Environment Act 2026; and (viii) relevant national instruments and any relevant land use plans that are for the time being in force under the Planning Act 2026. After section 20(3)(a)(ii), insert: (iii) any relevant national instruments and any relevant natural environment plans that are for the time being in force under the Natural Environment Act 2026; and (iv) any relevant national instruments and any relevant land use plans that are for the time being in force under the Planning Act 2026; and After section 22G(1)(b)(iii), insert: (iv) any relevant national instruments and any relevant natural environment plans that are for the time being in force under the Natural Environment Act 2026; and
+  - (v) any relevant national instruments and any relevant land use plans that are for the time being in force under the Planning Act 2026: After section 67(1)(b)(iii), insert: (iv) any relevant regional spatial plan that is in force under the Planning Act 2026; and
+  - (v) any relevant national instrument that is in force under the Natural Environment Act 2026; and (vi) any relevant national instrument that is in force under the Planning Act 2026; and After section 124(c)(ii), insert: (iiaaa) any relevant natural environment plan or proposed natural environment plan under the Natural Environment Act 2026; and (iiaab) any relevant regional spatial plan, proposed regional spatial plan, land use plan, or proposed land use plan under the Planning Act 2026; and Lawyers and Conveyancers Act 2006 (2006 No 1) In section 322(6), definition of conveyance, paragraph
+  - (a)(i), replace “section 2(1) of the Resource Management Act 1991” with “clause 1 of Schedule 7 of the Planning Act 2026”. Legal Services Act 2011 (2011 No 4) Replace section 7(1)(o) with:
+  - Legal Services Act 2011 (2011 No 4)—continued
+  - (o) all applications, submissions, and appeals under the Resource Management Act 1991, the Natural Environment Act 2026, or the Planning Act 2026 or to the Environment Court or the Planning Tribunal under any Act: Local Authorities (Members’ Interests) Act 1968 (1968 No 147) After section 6(3)(d), insert: (da) the preparation, recommendation, approval, or review of a regional spatial plan or land use plan under the Planning Act 2026; or (db) the preparation, recommendation, approval, or review of a natural environment plan under the Natural Environment Act 2026; or Local Government Act 1974 (1974 No 66) In section 2(1), definition of Environment Court, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In section 2(1), replace the definition of rural area with: rural area means an area zoned rural in a proposed or an operative district plan or a proposed land use plan under the Planning Act 2026 In section 336(4), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 346G(2), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 346G(3), replace “section 299 of the Resource Management Act 1991” with “clause 75 of Schedule 9 of the Planning Act 2026”. After section 517I(j), insert: (ja) identify any rules or proposed rules in any natural environment plan or proposed natural environment plan under the Natural Environment Act 2026 relating to the scheme; and Local Government Act 2002 (2002 No 84) In section 5(1), definition of natural hazard, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In section 48J(1)(a), after “Resource Management Act 1991,”, insert “the Natural Environment Act 2026, the Planning Act 2026,”. In section 79(3), after “Resource Management Act 1991”, insert “, the Natural Environment Act 2026, or the Planning Act 2026”. After section 82(5), insert: (5A) Despite what may be set out in a policy adopted under section 76AA, consultation on matters provided for in a regional spatial plan under the Planning Act
+  - Local Government Act 2002 (2002 No 84)—continued 2026 must be limited to options for dealing with those matters in a way that is consistent with the spatial plan. In Schedule 3, clause 2, definition of affected area, paragraph
+  - (d), after “Resource Management Act 1991”, insert “, the Natural Environment Act 2026, or the Planning Act 2026”. In Schedule 3, after clause 23(1)(e)(ii), insert: (iii) responsibilities, duties, and powers under the Natural Environment Act 2026; or (iv) responsibilities, duties, and powers under the Planning Act 2026. In Schedule 3, replace clause 23(3)(b) with:
+  - (b) include responsibility for preparing regional policy statements, regional plans, regional coastal plans, and district plans under the Resource Management Act 1991, natural environment plans under the Natural Environment Act 2026, and land use plans and regional spatial plans under the Planning Act 2026. In Schedule 3, after clause 43(1)(e)(ii), insert: (iii) the administration of an existing, proposed, or operative natural environment plan under the Natural Environment Act 2026: (iv) the administration of an existing, proposed, or operative land use plan under the Planning Act 2026. In Schedule 10, after clause 1, insert: 1A Implementation of regional spatial plan
+  - (1) A long-term plan must set out steps to implement or progress the actions identified in the relevant regional spatial plan for which the local authority is responsible under the Planning Act 2026.
+  - (2) The steps must provide for the local authority to implement or progress the actions in a way that the local authority considers appropriate, having regard to competing demands and any other relevant circumstances.
+  - (3) The steps must provide for the local authority to implement or progress the actions only to the extent that the local authority is reasonably able to do so—
+  - (a) in the period covered by the long-term plan; and
+  - (b) consistently with the local authority’s role, functions, duties, and powers under this Act and any other legislation. In Schedule 10, after clause 26, insert: 26A Statement on implementation of regional spatial plan An annual report must include a statement that sets out—
+  - Local Government Act 2002 (2002 No 84)—continued
+  - (a) the steps that the local authority has taken to implement or progress the actions identified in the relevant regional spatial plan for which the local authority is responsible under the Planning Act 2026; and
+  - (b) the steps that the local authority intended to take (but has not taken) to implement or progress the actions and an explanation of why the local authority has not taken them. Local Government (Auckland Council) Act 2009 (2009 No 32) In section 42B(3), after “Resource Management Act 1991”, insert “, a national instrument made under the Planning Act 2026, and a national instrument made under the Natural Environment Act 2026”. Local Government Official Information and Meetings Act 1987 (1987 No 174) In section 2(1), replace the definition of climate change with: climate change means a change of climate that is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and that is in addition to natural climate variability observed over comparable time periods In section 2(1), replace the definition of natural hazard with: natural hazard has the meaning given in section 3 of the Planning Act 2026 After section 45(1A), insert: (1AB) Despite subsections
+  - (1) and (1A), meeting, in relation to an independent hearings panel under the Planning Act 2026, is limited to any hearing that the independent hearings panel holds in relation to—
+  - (a) a regional spatial plan under Schedule 2 of the Planning Act 2026; or
+  - (b) a land use plan under Schedule 3 of the Planning Act 2026; or
+  - (c) a natural environment plan under section 102 of the Natural Environment Act 2026 that applies the provisions of Schedule 3 of the Planning Act 2026. After section 45A(c), insert:
+  - (d) an independent hearings panel given authority to conduct hearings under the Planning Act 2026. In Schedule 1, Part 1, before the item relating to irrigation boards, insert: Independent hearings panels established under the Planning Act 2026 (including their functions under the Natural Environment Act 2026, set out in Schedule 3 of the Planning Act 2026 and applied through section 102 of the Natural Environment Act 2026) In Schedule 1, Part 1, after the item relating to regional councils, insert: Spatial plan committees within the meaning given in section 3 of the Planning Act 2026
+  - Local Government (Rating) Act 2002 (2002 No 6) In Schedule 2, after item 3, insert: 3A The activities that are proposed to be permitted, controlled, restricted discretionary, or discretionary activities and the proposed rules for the area in which the land is situated under a proposed natural environment plan under the Natural Environment Act 2026 or proposed land use plan under the Planning Act 2026, but only if—
+  - (a) no submissions in opposition have been made under section 102 of the Natural Environment Act 2026 or clause 17 of Schedule 3 of the Planning Act 2026 on those proposed activities or rules, and the time for making submissions has expired; or
+  - (b) all submissions in opposition, and any appeals, have been determined, withdrawn, or dismissed. Local Government (Water Services) Act 2025 (2025 No 42) In section 17(2), definition of natural hazard, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In section 52(1)(q), replace “resource management planning and land use planning” with “land use planning, spatial planning, and natural environment planning (as relevant)”. Replace section 227(1)(b) with:
+  - (b) requirements relating to land use planning, spatial planning, and natural environment planning that are relevant to the water organisation’s service area; and In section 236(6), replace “territorial authority in whose district” with “territorial authority and regional council (if relevant) in whose district or region”. In section 236(6)(a), replace “the territorial authority’s resource management planning and land use planning” with “the land use planning, spatial planning, and natural environment planning (as relevant)”. In Schedule 2, replace clause 5(2)(b) with:
+  - (b) spatial planning, natural environment planning (as relevant), and land use planning (including resource consents, natural resource permits, and planning consents); and In Schedule 3, after clause 2(1)(f), insert: (fa) the steps that the water service provider will take to implement, or otherwise progress, any actions that the water service provider is responsible for as identified in a regional spatial plan or an implementation plan under the Planning Act 2026:
+  - Local Government (Water Services) Act 2025 (2025 No 42)—continued In Schedule 3, clause 2(1)(g), replace “a territorial authority’s resource management planning and land use planning” with “land use planning, spatial planning, and natural environment planning (as relevant)”. In Schedule 3, after clause 2(2), insert: (2A) The steps referred to in subclause
+  - (1)(fa) must provide for the water service provider to implement or progress the actions only to the extent that the provider is reasonably able to do so—
+  - (a) in the period covered by the water services strategy; and
+  - (b) consistently with the water service provider’s functions, duties, and powers under this Act and any other legislation. In Schedule 4, after clause 1(2), insert:
+  - (3) A water services annual report must include a statement that sets out—
+  - (a) the steps that the water service provider has taken to implement or progress any actions that the water service provider is responsible for as identified in a regional spatial plan or an implementation plan under the Planning Act 2026; and
+  - (b) the steps that the water service provider intended to take (but has not taken) to implement or progress the actions and an explanation of why the water service provider has not taken them. Maori Commercial Aquaculture Claims Settlement Act 2004 (2004 No 107) In section 4, definition of coastal marine area, replace “has the same meaning as in section 2(1) of the Resource Management Act 1991” with “has the meaning given in section 3 of the Natural Environment Act 2026”. In section 4, definition of new space, paragraph
+  - (a), after “section 116A of the Resource Management Act 1991”, insert “or section 97 of the Fast-track Approvals Act 2024”. In section 4, repeal the definition of public notice. In section 4, definition of regional council, replace “has the same meaning as in section 2(1) of the Resource Management Act 1991” with “has the meaning given in section 3 of the Natural Environment Act 2026”. In section 4, replace the definition of space with: space, in relation to the coastal marine area, means any part of the foreshore, seabed, and coastal water, and the airspace above the water Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3) In section 9(1), repeal the following definitions:
+  - (a) environment:
+  - (b) infrastructure:
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued
+  - (c) kaitiakitanga:
+  - (d) public notice:
+  - (e) regional council:
+  - (f) structure. In section 9(1), insert in their appropriate alphabetical order: environment includes—
+  - (a) ecosystems and their constituent parts, including people and communities; and
+  - (b) all natural and physical resources; and
+  - (c) amenity values; and
+  - (d) the social, economic, aesthetic, and cultural conditions that affect the matters in paragraphs
+  - (a) to
+  - (c) or that are affected by those matters infrastructure means—
+  - (a) pipelines that distribute or transmit natural or manufactured gas, petroleum, biofuel, or geothermal energy:
+  - (b) a network for the purpose of telecommunication as defined in section 5 of the Telecommunications Act 2001:
+  - (c) a network for the purpose of radiocommunication as defined in section 2(1) of the Radiocommunications Act 1989:
+  - (d) facilities for the generation of electricity, lines used or intended to be used to convey electricity, and support structures for lines used or intended to be used to convey electricity, excluding facilities, lines, and support structures if a person—
+  - (i) uses them in connection with the generation of electricity for the person’s use; and (ii) does not use them to generate any electricity for supply to any other person:
+  - (e) a water supply distribution system, including a system for irrigation:
+  - (f) a drainage or sewerage system:
+  - (g) structures for transport on land by cycleways, rail, roads, walkways, or any other means:
+  - (h) facilities for the loading or unloading of cargo or passengers transported on land by any means:
+  - (i) an aerodrome as defined in section 5 of the Civil Aviation Act 2023:
+  - (j) a navigation installation as defined in section 5 of the Civil Aviation Act 2023:
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued
+  - (k) facilities for the loading or unloading of cargo or passengers carried by sea, including a port related commercial undertaking as defined in section 2(1) of the Port Companies Act 1988:
+  - (l) any operation that is prescribed by regulations under the Planning Act 2026 as a core infrastructure operation kaitiakitanga has the meaning given in section 3 of the Natural Environment Act 2026 land use plan has the meaning given in section 3 of the Planning Act 2026 natural and physical resources has the meaning given in section 3 of the Natural Environment Act 2026 natural environment plan has the meaning given in section 3 of the Natural Environment Act 2026 proposed natural environment plan has the meaning given in section 3 of the Natural Environment Act 2026 regional council has the meaning given in section 3 of the Natural Environment Act 2026 structure has the meaning given in section 3 of the Natural Environment Act 2026 In section 9(1), definition of marine and coastal area, paragraph
+  - (b), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. After section 9(2), insert:
+  - (3) If this Act requires a person to give public notice of something, the person must—
+  - (a) publish on an internet site to which the public has free access a notice that—
+  - (i) includes all the information that is required to be publicly notified; and (ii) is in the prescribed form (if any); and (iii) is worded in a way that is clear and concise; and
+  - (b) publish a short summary of the notice, along with details of the internet site where the notice can be accessed, in 1 or more newspapers circulating in the entire area likely to be affected by the matter to which the notice relates. In section 11(6), replace “and district plans” with “district plans, natural environment plans, and land use plans”. In section 51(2)(e), replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”.
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued In section 58(1A)(a), delete “(within the meaning of section 2(1) of the Resource Management Act 1991)”. In section 58(1A)(b), delete “(within the meaning stated in paragraph
+  - (a))”. After section 62(1)(d)(ii), insert: (iii) the process for preparing, issuing, changing, reviewing, or revoking a national policy direction under the Natural Environment Act 2026 and the Planning Act 2026 (see section 77A); and After section 77, insert: 77A Consultation on national policy direction
+  - (1) If the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of the Natural Environment Act 2026 proposes to prepare, issue, change, review, or revoke a national policy direction in respect of the coastal marine area under section 92 of that Act, the Minister must seek and consider the views of the customary marine title groups recorded on the register.
+  - (2) If the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of the Planning Act 2026 proposes to prepare, issue, change, review, or revoke a national policy direction in respect of the coastal marine area under section 65 of that Act, the Minister must seek and consider the views of the customary marine title groups recorded on the register. After section 85(5)(d), insert:
+  - (e) the Natural Environment Act 2026:
+  - (f) the Planning Act 2026. In section 92, definition of regional document, after paragraph
+  - (b), insert:
+  - (c) a natural environment plan:
+  - (d) a proposed natural environment plan:
+  - (e) a land use plan prepared by a regional council, to the extent that it applies to the coastal marine area:
+  - (f) a proposed land use plan prepared by a regional council, to the extent that it applies to the coastal marine area In section 93(2), after “the Resource Management Act 1991,”, insert “the Natural Environment Act 2026, and the Planning Act 2026,”. In section 93(5)(a), after “Resource Management Act 1991”, insert “or Schedule 3 of the Planning Act 2026 (including as that schedule is applied for the purposes of the Natural Environment Act 2026)”. In section 93(6), after “relevant regional documents”, insert “made under the Resource Management Act 1991”.
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued After section 93(6), insert: (6A) A regional council must initiate a process to determine whether to alter its relevant regional documents made under the Natural Environment Act 2026 if and to the extent that any alteration would achieve the goals in section 13 of that Act (including as specified in relevant key instruments under that Act), in order to—
+  - (a) recognise and provide for any matters identified under subsection
+  - (2)(a); and
+  - (b) take into account any matters identified under subsection
+  - (2)(b). (6B) A regional council must initiate a process to determine whether to alter its relevant regional documents made under the Planning Act 2026 if and to the extent that any alteration would achieve the goals in section 13 of that Act (including as specified in relevant key instruments under that Act), in order to—
+  - (a) recognise and provide for any matters identified under subsection
+  - (2)(a); and
+  - (b) take into account any matters identified under subsection
+  - (2)(b). In section 93(7) and
+  - (8), replace “subsection
+  - (6)” with “subsections
+  - (6) to (6B)”. Replace section 93(9) with:
+  - (9) The obligations on a regional council under subsection
+  - (8) must be carried out in accordance with the applicable requirements and procedures that apply to the relevant regional document under the Resource Management Act 1991, the Natural Environment Act 2026, or the Planning Act 2026 (as the case requires). (9A) A regional council may, despite section 105 of the Natural Environment Act 2026 or section 102 of the Planning Act 2026, include a bespoke plan provision in a natural environment plan, proposed natural environment plan, land use plan, or proposed land use plan in order to carry out its obligations under this section. (9B) A regional council and any independent hearings panel are not required to prepare a justification report or further justification report (as would otherwise be required by Schedule 3 of the Planning Act 2026) in relation to a bespoke plan provision or provision on a specified topic that is included in a natural environment plan, proposed natural environment plan, land use plan, or proposed land use plan in order to meet the regional council’s obligations under this section. After section 93(10), insert: (10A) A regional council may decide, in conducting the process required by subsection (6A) or (6B), not to alter its relevant regional documents, but only on the grounds that the matters in the planning document—
+  - (a) are already provided for in a relevant regional document; or
+  - (b) would not achieve—
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued
+  - (i) the goals in section 13 of the Natural Environment Act 2026, including as specified in key instruments under that Act (in the case of a relevant regional document prepared under that Act); or (ii) the goals in section 13 of the Planning Act 2026, including as specified in key instruments under that Act (in the case of a relevant regional document prepared under that Act); or
+  - (c) would be more effectively and efficiently addressed in another way. In section 93(11), after “Resource Management Act 1991”, insert “, or notified in a proposed natural environment plan or proposed land use plan notified for submissions under clause 15 or 16 of Schedule 3 of the Planning Act 2026,”. After section 93(12), insert:
+  - (13) In this section, bespoke plan provision and specified topic have the meanings given in—
+  - (a) section 3 of the Natural Environment Act 2026, in relation to a natural environment plan or proposed natural environment plan; and
+  - (b) section 3 of the Planning Act 2026, in relation to a land use plan or proposed land use plan. Maritime Transport Act 1994 (1994 No 104) In section 276(2)(a) and
+  - (c), after “Resource Management Act 1991”, insert “, the Natural Environment Act 2026,”. In section 464(2), after “Resource Management Act 1991,”, insert “the Natural Environment Act 2026, the Planning Act 2026,”. Ngāti Rangi Claims Settlement Act 2019 (2019 No 40) In the heading above section 124(1), after “Resource Management Act 1991”, insert “, Natural Environment Act 2026, and Planning Act 2026”. In section 124(1), replace “or district plan” with “district plan, natural environment plan, land use plan, or regional spatial plan”. In section 124(1) and
+  - (2), after “local authority”, insert “or spatial plan committee”. In section 124(1)(b), after “Resource Management Act 1991”, insert “or Schedule 2 or 3 of the Planning Act 2026”. In section 124(2), replace “or district plan” with “district plan, natural environment plan, land use plan, or regional spatial plan”. In section 124(3), after “resource consent”, insert “, planning consent, or natural resource permit”. In section 124(3), replace “the consent authority” with “the consent authority under the Resource Management Act 1991 or the Planning Act 2026, or the permit authority under the Natural Environment Act 2026,”.
+  - Ngāti Rangi Claims Settlement Act 2019 (2019 No 40)—continued In Schedule 5, after clause 1(g), insert: (ga) Natural Environment Act 2026 (in relation to preparing, varying, changing, or approving a natural environment plan): In Schedule 5, after clause 1(h), insert: (ha) Planning Act 2026 (in relation to preparing, varying, changing, or approving a regional spatial plan or land use plan): In Schedule 5, after clause 2(b), insert: (ba) Natural Environment Act 2026, to the extent that it is not within clause 1(ga): (bb) Planning Act 2026, to the extent that it is not within clause 1(ha): Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010 (2010 No 119) After section 18(4)(b), insert: (ba) Natural Environment Act 2026: (bb) Planning Act 2026: Offshore Renewable Energy Act 2026 (2026 No 39) In section 14(a)(i), delete “Mana Whakahono ā Rohe or”. In section 23(1)(a)(i), delete “Mana Whakahono ā Rohe or”. In section 35(2)(a)(i), delete “Mana Whakahono ā Rohe or”. In section 62(e)(i), delete “Mana Whakahono ā Rohe or”. In section 68(5)(d)(i), delete “Mana Whakahono ā Rohe or”. Ombudsmen Act 1975 (1975 No 9) In Schedule 1, Part 3, insert in its appropriate alphabetical order: Spatial plan committees Overseas Investment Act 2005 (2005 No 82) In section 6(1), definition of historic heritage, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In section 6(1), definitions of kaitiakitanga, lake, natural and physical resources, and river, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. In Schedule 1, Part 1, table 1, item 8, after “Resource Management Act 1991”, insert “, or proposed land use plan under the Planning Act 2026”. Public Works Act 1981 (1981 No 35) In section 2, replace the definition of Environment Court with:
+  - Public Works Act 1981 (1981 No 35)—continued Environment Court has the meaning given in section 3 of the Planning Act 2026 In section 24(6A)(a), after “Resource Management Act 1991,”, insert “section 339 of the Planning Act 2026, or section 341 of the Natural Environment Act 2026,”. In section 24(14), replace “sections 299 and 308 of the Resource Management Act 1991” with “clauses 75 and 84 of Schedule 9 of the Planning Act 2026”. Repeal section 36A. In section 59, definition of notified, after paragraph
+  - (a), insert: (aa) made the subject of a proposed designation by a Minister of the Crown, a local authority, or a core infrastructure operator under the Planning Act 2026, or under the corresponding provisions of any former enactment; or In section 118(2), replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. Remuneration Authority Act 1977 (1977 No 110) In Schedule 4, after the item relating to the Parliamentary Commissioner for the Environment, insert: The Principal Adjudicator, Deputy Principal Adjudicator, and adjudicators of the Planning Tribunal established under clause 2 of Schedule 10 of the Planning Act 2026 Resource Management Act 1991 (1991 No 69) Repeal subpart 2 of Part 5. After section 68A(2), insert:
+  - (3) Despite subsection
+  - (1), a rule that is made operative after the commencement of this subsection may be included in a regional coastal plan that authorises as a permitted activity any aquaculture activity in the coastal marine area if the rule applies solely to a space where an aquaculture activity is authorised by a current coastal permit. In section 70(3), replace “subsection
+  - (1)(d),
+  - (f), or
+  - (g)” with “subsection
+  - (1)(c) to
+  - (g)”. In section 107(2A), replace “subsection
+  - (1)(g)” with “subsection
+  - (1)(c) to
+  - (g)” in each place. Replace section 342A(2) with:
+  - (2) A person must not—
+  - (a) enter into, or offer to enter into, a contract described in subsection
+  - (1); or
+  - (b) through a contract of insurance (as defined in section 7(1) of the Insurance (Prudential Supervision) Act 2010)—
+  - Resource Management Act 1991 (1991 No 69)—continued
+  - (i) indemnify, or offer to indemnify, another person for the other person’s liability to pay a fine or an infringement fee under this Act; or (ii) be indemnified, or agree to be indemnified, by another person for that person’s liability to pay a fine or an infringement fee under this Act; or (iii) pay to another person, or receive from another person, an indemnity for a fine or an infringement fee under this Act. In Schedule 12, after Part 11, insert:
+### Part 12
+  - Provisions relating to Planning Act 2026
+## Clause 68 — Application of amendments to section 70(3) (rules about discharges)
+  - The amendments to section 70(3) made by section 343 and Schedule 12 of the Planning Act 2026 apply to the following:
+  - (a) a proposed plan that is notified on or after the date on which that Act received Royal assent:
+  - (b) a proposed plan notified before the date on which that Act received Royal assent that is the subject of an appeal and any ongoing court proceedings.
+## Clause 69 — Effect of amendments to section 107(2A) on applications for discharge or
+  - coastal permits The amendments made to section 107(2A) by section 343 and Schedule 12 of the Planning Act 2026 apply to an application for a discharge permit or coastal permit—
+  - (a) that is lodged with a consent authority on or after the date on which that Act received Royal assent; or
+  - (b) that is lodged with a consent authority before the date on which that Act received Royal assent, but the consent authority has not, before that date, served notice of its decision on the application; or
+  - (c) if a consent authority has served notice of its decision to grant consent, but the consent is the subject of an appeal or any on-going court proceedings.
+  - Resource Management Act 1991 (1991 No 69)—continued Provisions relating to Manawatū-Whanganui Regional Council One Plan
+## Clause 70 — Modification of aspects of One Plan
+  - (1) Until the close of 31 December 2032, Rule LF-LW-R14 of One Plan must be treated as amended by replacing conditions 3b, 3c, and 3d with: b for commercial vegetable growing*, good management practices* will be implemented, and the growing area does not exceed the baseline commercial growing area*; or c for other intensive farming land* uses, good management practices* will be implemented; and d the good management practices* proposed under 3b and 3c above will be implemented within two years of the grant of the consent.
+  - (2) Until the close of 31 December 2032, Rule LF-LW-R14 of One Plan must be treated as amended by replacing matter of control 2 with: 2 the nitrogen leaching loss from the land* where relevant under condition 3a and the good management practices* and best management practices* (and additional measures where necessary) to limit nitrogen leaching loss from the land* to the limit specified in condition 3a and to avoid, remedy, or mitigate nutrient leaching and run-off, faecal contamination, and sediment losses from the land* 2A the good management practices* implemented under conditions 3b, 3c, and 3d to avoid, remedy, or mitigate nutrient leaching and run-off, faecal contamination, and sediment losses from the land*
+  - (3) Until the close of 31 December 2032, Rule LW-LF-R14 must be treated as amended by replacing matter of control 8 with: 8 compliance monitoring and reporting, including, where relevant under condition 3(a), the timing and frequency of supply to the regional council of nitrogen leaching estimates calculated using OVERSEER®
+  - (4) Until the close of 31 December 2032, the definition of Baseline Commercial Growing Area in One Plan must be treated as replaced by the following definition: Baseline Commercial Growing Area means the aggregated area of land utilised for commercial vegetable production in the 2012/2013 growing season and includes all land utilised for commercial vegetable production in the 2012/2013 growing season that: a. remains under the control (owned or leased) of a single grower or enterprise, and
+  - Resource Management Act 1991 (1991 No 69)—continued b. includes any area of land that has been brought under the control (purchased, leased or otherwise) of the grower or enterprise from another grower or enterprise since the 2012/2013 growing season, and c. excludes any area of land transferred out of the control (sold, leased, or otherwise) of the grower or enterprise to another grower or enterprise.
+  - (5) In this clause, One Plan means the operative Manawatū-Whanganui Regional Council One Plan as amended from time to time. Provisions relating to Waikato Regional Council’s Plan Change 1
+## Clause 71 — Provisions relating to Waikato Regional Council’s PC1
+  - Relevant dates
+  - (1) No relevant date under PC1 occurs before the close of 31 December 2032. Commercial vegetable production expansion
+  - (2) Commercial vegetable production expansion that occurred lawfully as a permitted activity under PC1 before the commencement of this clause—
+  - (a) continues to be a permitted activity until the close of 31 December 2032; and
+  - (b) remains subject to compliance with the minimum farming standards in Schedule C of PC1.
+  - (3) The provisions in the Waikato Regional Plan apply to commercial vegetable production expansion occurring after the commencement of this clause. Stock exclusion requirements
+  - (4) Despite PC1,—
+  - (a) any reference to “as soon as practicable” in relation to stock exclusion requirements in Schedule C of PC1 does not apply before the close of 31 December 2032; but
+  - (b) PC1 and the other provisions of Schedule C continue to apply subject to paragraph
+  - (a). General matters
+  - (5) Waikato Regional Council must, as soon as practicable after the commencement of this clause, make publicly available a version of PC1 that reflects the effect of the provisions of this clause without a process under Schedule 1 and thereafter keep the publicly available version up to date.
+  - (6) In this clause,— PC1 means the Proposed Plan Change 1 to the Waikato Regional Plan as notified on 22 October 2016, including amendments arising through decisions, variations, withdrawals, appeals, and other proceedings relating to that plan
+  - Resource Management Act 1991 (1991 No 69)—continued change and, once operative, includes Chapter 3.11 as incorporated into the Waikato Regional Plan relevant date means any date under PC1 that would require a person to—
+  - (a) prepare, certify, implement, lodge, submit for approval, or otherwise comply with a Farm Environment Plan; or
+  - (b) apply for a resource consent. Soil Conservation and Rivers Control Act 1941 (1941 No 12) In section 10A, replace “Harbours Act 1950 or the Resource Management Act 1991” with “Harbours Act 1950, the Resource Management Act 1991, or the Natural Environment Act 2026”. Summit Road (Canterbury) Protection Act 2001 (2001 No 3 (L)) In section 4(1), definition of Environment Court, replace “section 247 of the Resource Management Act 1991” with “clause 3 of Schedule 9 of the Planning Act 2026”. Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 (2017 No 7) After section 37(2)(b), insert: (ba) the rest of the Natural Environment Act 2026; and (bb) the rest of the Planning Act 2026; and In Schedule 2, after clause 1(o), insert: (oa) Natural Environment Act 2026 (in relation to preparing or changing a natural environment plan): In Schedule 2, after clause 1(p), insert: (pa) Planning Act 2026 (in relation to preparing or changing a regional spatial plan or land use plan): In Schedule 2, after clause 2(a), insert: (aa) Natural Environment Act 2026, to the extent that it is not within clause 1(oa): (ab) Planning Act 2026, to the extent that it is not within clause 1(pa): Te Ture Whenua Maori Act 1993 (1993 No 4) In section 99(3), replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In section 123(6A), replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”.
+  - Urban Development Act 2020 (2020 No 42) In section 58(b), replace “.” with “; or”. After section 58(b), insert:
+  - (c) the following instruments made under the Natural Environment Act 2026:
+  - (i) national policy direction: (ii) national standards: (iii) regulations; or
+  - (d) the following instruments made under the Planning Act 2026:
+  - (i) national policy direction: (ii) national standards: (iii) regulations. Repeal section 89(3). In section 95(b), after “Resource Management Act 1991”, insert “, the Natural Environment Act 2026, and the Planning Act 2026”. Replace the cross-heading above section 98 with: Regional, district, land use, or natural environment plan changes in transitional period In section 98(1), replace “district or regional plan” with “land use plan, natural environment plan, district plan, or regional plan”. In section 98(2), replace “resource management” with “resource management, land use, planning, or natural resource”. After section 108(1)(a), insert: (aa) to keep and maintain records under section 232 of the Natural Environment Act 2026: (ab) to keep and maintain records under section 220 of the Planning Act 2026: In the heading to section 130, replace “section 85 of Resource Management Act 1991” with “section 128 of Planning Act 2026 or section 128 of Natural Environment Act 2026”. In section 130,—
+  - (a) replace “section 299 of the Resource Management Act 1991” with “clause 75 of Schedule 9 of the Planning Act 2026 or section 248 of the Natural Environment Act 2026, which applies that schedule”; and
+  - (b) replace “section 85 of that Act” with “section 128 of the Planning Act 2026 or section 128 of the Natural Environment Act 2026”.
+  - Urban Development Act 2020 (2020 No 42)—continued In Schedule 3, clause 8(2), replace “were a board of inquiry with authority to conduct a hearing under section 149J of the Resource Management Act 1991” with “were an independent hearings panel with the authority to conduct a hearing under the Planning Act 2026”. Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 (2010 No 24) After section 17(4)(b), insert: (ba) Natural Environment Act 2026: (bb) Planning Act 2026: Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L)) Replace the cross-heading above section 9 with: Matters relating to Resource Management Act 1991, Natural Environment Act 2026, and Planning Act 2026 After section 9, insert: 9A Relationship between this Act and Natural Environment Act 2026 and Planning Act 2026 If a conflict arises between this Act and the Natural Environment Act 2026 or the Planning Act 2026, those Acts prevail. 9B Regional spatial plan
+  - (1) To the extent of any inconsistency, this Act prevails over a regional spatial plan prepared under subpart 1 of Part 3 of the Planning Act 2026.
+  - (2) When adopting or amending a regional spatial plan, the Council must ensure that its provisions are not inconsistent with the purpose of this Act or the objectives. 9C Natural environment plan
+  - (1) When preparing or reviewing a natural environment plan that affects the heritage area, the Council must give effect to the purpose of this Act and the objectives.
+  - (2) The requirements in subsection
+  - (1) are in addition to the requirements in sections 106 and 119 of the Natural Environment Act 2026.
+  - (3) When evaluating a proposed natural environment plan, change, or variation that affects the heritage area, the Council must also examine whether the plan, change, or variation is the most appropriate way to achieve the objectives (having regard to the purpose of this Act).
+  - Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L))—continued
+  - (4) The requirements in subsection
+  - (3) are in addition to the requirements in clause 10 of Schedule 3 of the Planning Act 2026. After section 11, insert: 11A Land use plans
+  - (1) When preparing or reviewing a land use plan that affects the heritage area, the Council must give effect to the purpose of this Act and the objectives.
+  - (2) The requirements in subsection
+  - (1) are in addition to the requirements in sections 103 and 120 of the Planning Act 2026.
+  - (3) When evaluating a proposed land use plan, change, or variation that affects the heritage area, the Council must examine whether the plan, change, or variation is the most appropriate way to achieve the objectives (having regard to the purpose of this Act).
+  - (4) The requirements in subsection
+  - (3) are in addition to the requirements in clause 10 of Schedule 3 of the Planning Act 2026. In the heading to section 16, after “declarations”, insert “in relation to Resource Management Act 1991”. In section 16(b),
+  - (c), and
+  - (d), replace “sections 10 to 15” with “sections 10, 11, and 12 to 15”. After section 16, insert: 16A Applications for declarations in relation to Natural Environment Act 2026 or Planning Act 2026
+  - (1) Sections 250 to 254 of the Natural Environment Act 2026 apply as if the matters referred to in subsection
+  - (3) were stated in section 251 of that Act as matters that a declaration may declare.
+  - (2) Sections 254 to 258 of the Planning Act 2026 apply as if the matters referred to in subsection
+  - (3) were stated in section 255 of that Act as matters that a declaration may declare.
+  - (3) The matters are—
+  - (a) the application of section 9A; or
+  - (b) the existence or extent of any function, power, right, or duty under any of sections 9B, 9C, and 11A; or
+  - (c) whether an act or omission, or a proposed act or omission, contravenes or is likely to contravene any of sections 9B, 9C, and 11A; or
+  - (d) any other issue or matter relating to the interpretation, administration, or enforcement of any of sections 9B, 9C, and 11A. In the heading to section 24, replace “Foreshore and Seabed Act 2004” with “Marine and Coastal Area (Takutai Moana) Act 2011”.
+  - Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L))—continued In section 24, replace “Foreshore and Seabed Act 2004” with “Marine and Coastal Area (Takutai Moana) Act 2011”. After section 28, insert: 28A Relationship between LAP and Planning Act 2026
+  - (1) The Council may include in its land use plan any part of a LAP that may be included in a land use plan under the Planning Act 2026.
+  - (2) For the purposes of subsection
+  - (1), the LAP or the parts of the LAP must be treated as a proposed plan change, and Part 1 of Schedule 3 of the Planning Act 2026 applies accordingly, with any necessary modification.
+  - (3) For the avoidance of doubt, a LAP or a provision of a LAP has no effect on any decision under the Planning Act 2026.
+  - (4) Subsection
+  - (3) is subject to subsections
+  - (1) and
+  - (2) and the Planning Act 2026. 28B Relationship between LAP and Natural Environment Act 2026
+  - (1) The Council may include in its natural environment plan any part of a LAP that may be included in a natural environment plan under the Natural Environment Act 2026.
+  - (2) For the purposes of subsection
+  - (1), the LAP or the parts of the LAP must be treated as a proposed plan change, and Part 1 of Schedule 3 of the Planning Act 2026 applies accordingly, with any necessary modification.
+  - (3) For the avoidance of doubt, a LAP or a provision of a LAP has no effect on any decision under the Natural Environment Act 2026.
+  - (4) Subsection
+  - (3) is subject to subsections
+  - (1) and
+  - (2) and the Natural Environment Act 2026. Replace section 35(b) with:
+  - (b) any statutory acknowledgement included in any enactment and listed in Schedule 11 of the Resource Management Act 1991, Schedule 7 of the Natural Environment Act 2026, or Schedule 13 of the Planning Act 2026: Waste Minimisation Act 2008 (2008 No 89) In section 5(1), replace the definition of environment with: environment includes—
+  - (a) ecosystems and their constituent parts, including people and communities; and
+  - (b) all natural and physical resources; and
+  - (c) amenity values; and
+  - Waste Minimisation Act 2008 (2008 No 89)—continued
+  - (d) the social, economic, aesthetic, and cultural conditions that affect the matters stated in paragraphs
+  - (a) to
+  - (c) or that are affected by those matters In section 5(1), insert in its appropriate alphabetical order: natural and physical resources has the meaning given in section 3 of the Natural Environment Act 2026 Water Services Act 2021 (2021 No 36) In section 5, definition of water, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. Water Services Authority—Taumata Arowai Act 2020 (2020 No 52) After section 5(f)(ii)(A), insert: (AA) take into account any relevant national instruments and natural environment plans issued under the Natural Environment Act 2026 that relate to freshwater; and After section 18(2)(e)(i)(B), insert: (C) any relevant national instruments made under Part 2 of the Natural Environment Act 2026; and (D) any natural environment plans prepared under the Natural Environment Act 2026:
+### Part 2
+  - Amendments to RMA that commence 1 month after this Act receives Royal assent Section 2 In section 2(1), insert in their appropriate alphabetical order: initial national standard has the meaning given in clause 10 of Schedule 1 of the Planning Act 2026 specified transition date has the meaning given in clause 1 of Schedule 1 of the Planning Act 2026 Section 4 In section 4(3), replace “Section 9(3) does not apply” with “Section 9(1), to the extent that it relates to a rule in an initial national standard, and section 9(3) do not apply”. Section 9 In section 9(1) and
+  - (5), after “national environmental standard”, insert “or a rule in an initial national standard”.
+  - Section 11 In section 11(1)(a), after “national environmental standard,”, insert “a rule in an initial national standard,”. Section 12 In section 12(1),
+  - (2), and
+  - (3), after “national environmental standard,”, insert “a rule in an initial national standard,”. In section 12(4)(b), after “national environmental standard”, insert “or a rule in an initial national standard”. In section 12(5), after “national environmental standard”, insert “or a rule in an initial national standard”. Section 13 In section 13(1), after “national environmental standard,”, insert “a rule in an initial national standard,”. In section 13(2), after “national environmental standard,”, insert “a rule in an initial national standard,”. Section 14 In section 14(1), after “national environmental standard,”, insert “a rule in an initial national standard,”. In section 14(3)(a), after “national environmental standard,”, insert “a rule in an initial national standard,”. Section 15 In section 15(1), after “regulations,”, insert “a rule in an initial national standard,”. In section 15(2), after “national environmental standard,”, insert “a rule in an initial national standard,”. In section 15(2A)(a), after “regulations”, insert “or a rule in an initial national standard”. Section 16 In section 16(2), after “national environmental standard,”, insert “rule in an initial national standard,”. Section 17 In section 17(1)(b), after “national environmental standard,”, insert “a rule in an initial national standard,”. New section 18B After section 18A, insert:
+  - New section 18B—continued 18B Additional procedural principles
+  - (1) This section applies to a person exercising a power or performing a function—
+  - (a) during the transition period; and
+  - (b) that relates to a decision on a resource consent or a decision or recommendation on a notice of requirement.
+  - (2) The person must take all practicable steps to—
+  - (a) ensure that all documents are succinct and use plain language that can be readily understood by the public:
+  - (b) ensure that they have sufficient and necessary information to understand the implications of their decision (if any), after considering—
+  - (i) the cost and feasibility of obtaining the information; and (ii) the scale and significance of the matter to which the decision relates:
+  - (c) act in a pragmatic way that supports practical solutions.
+  - (3) This section is additional to, and does not limit, the requirements of section 18A.
+  - (4) In this section, transition period has the meaning given in clause 1 of Schedule 1 of the Planning Act 2026. Section 28B In section 28B(d), replace “(as a result of amendments to the regional plan by regulations made under section 360A)” with “or in a rule in an initial national standard”. Section 32 In section 32(4), after “national environmental standard”, insert “or an initial national standard”. Section 35 In section 35(5)(ga), after “95G,”, insert “104AA,”. Section 36 In section 36(1)(ae), after “87BB”, insert “or 104AA”. In section 36(1)(caaa), after “any rule in a plan”, insert “or a rule in an initial national standard”. In section 36(1)(caab), after “a regulation,”, insert “a rule in an initial national standard,”. In section 36(1)(cb)(v), after “national environmental standard”, insert “, rules in initial national standards,”.
+  - Section 36—continued In section 36(1)(cc), after “section 43A(8)”, insert “or in accordance with an initial national standard”. New section 43AB After section 43A, insert: 43AB Certain references to standards to be read as references to rules in initial national standards
+  - (1) A reference to a national environmental standard or a standard in sections 43B to 43E must be read as a reference to a national environmental standard or a rule in an initial national standard.
+  - (2) Subsection
+  - (1) applies to sections 43B to 43E with all necessary modifications. 43AC Relationship between initial national standards and other instruments If there is any conflict or duplication between an initial national standard and any of the following documents, the initial national standard prevails:
+  - (a) a national policy statement:
+  - (b) a New Zealand coastal policy statement:
+  - (c) a national environmental standard:
+  - (d) a regional policy statement:
+  - (e) a plan or a proposed plan. Section 43B Before section 43B(1), insert: (1AAA) This section is subject to section 43AC. Section 43C Before section 43C(1), insert: (1AAA) This section is subject to section 43AC. Section 43D Before section 43D(1), insert: (1AAA) This section is subject to section 43AC. Section 43E Before section 43E(1), insert: (1AAA) This section is subject to section 43AC.
+  - Section 44A In the heading to section 44A, after “standards”, insert “and initial national standards”. After section 44A(8), insert:
+  - (9) In this section, a reference to a national environmental standard must be read as including a reference to an initial national standard.
+  - (10) This section is subject to section 43AC. Section 58JA In the heading to section 58JA, replace “31 December 2027” with “specified transition date”. In section 58JA, replace “31 December 2027” with “the specified transition date”. Section 58JB After section 58JB(4)(c), insert: (ca) an initial national standard: Section 58JD After section 58JD(5)(c), insert: (ca) an initial national standard: Section 76 After section 76(5), insert:
+  - (6) A rule must not require a resource consent for an activity solely because it relates to a matter specified in section 104(1A). New section 76A After section 76, insert: 76A Amendments to plans during transition period to remove or modify out- of-scope matters A territorial authority may, during the transition period, amend provisions in a district plan, without using the process in Schedule 1, to—
+  - (a) remove provisions relating to matters specified in section 104(1A):
+  - (b) modify provisions to the extent necessary to ensure that matters specified in section 104(1A) no longer apply or are no longer considered. New section 77SA After section 77S, insert:
+  - New section 77SA—continued 77SA Exemption from NPS-UD in specified transition period
+  - (1) All tier 1 and tier 2 local authorities are exempt from the following NPS-UD requirements until the specified transition date:
+  - (a) clause 3.10(2) (assessing demand and development capacity under a Housing and Business Development Capacity Assessment):
+  - (b) clause 3.12(1) (preparation of a Future Development Strategy):
+  - (c) clause 3.16 (review of a Future Development Strategy):
+  - (d) clause 3.18(1) (compliance with ongoing requirements for Future Development Strategy implementation plans):
+  - (e) clause 3.19(1) (obligation to prepare a Housing and Business Development Capacity Assessment).
+  - (2) This section overrides Part 1 of Schedule 3C and Part 10 of Schedule 12. Cross-heading above section 79 Repeal the cross-heading above section 79. Section 79 Repeal section 79. Subpart 5B heading in Part 5 In Part 5, in the subpart 5B heading, replace “31 December 2027” with “specified transition date”. Section 80O In section 80O, definition of exemption, replace “31 December 2027” with “specified transition date”. Section 80P In the heading to section 80P, replace “31 December 2027” with “specified transition date”. In section 80P(1), replace “31 December 2027” with “the specified transition date”. New section 80YA After section 80Y, insert: 80YA Application of subpart 5B to private plan changes
+  - (1) Despite anything to the contrary in this Act, on and after 1 January 2028 and until the specified transition date, a local authority must not notify a draft private plan change unless the Minister grants an exemption under this section.
+  - New section 80YA—continued
+  - (2) A local authority may apply in writing to the Minister for an exemption from the prohibition against notifying a draft private plan change.
+  - (3) Section 80V applies to the local authority’s application with any necessary modifications.
+  - (4) Section 80W applies to the Minister’s consideration of the application with any necessary modifications.
+  - (5) Sections 80X and 80Y apply to the Minister’s decision on the application with any necessary modifications. Section 86H In section 86H(2)(b), after “national environmental standard”, insert “or a rule in an initial national standard”. Section 87A In section 87A(2)(b) and
+  - (3)(a), after “national environmental standard,”, insert “initial national standard,”. In section 87A(6), after “(including a national environmental standard),”, insert “a rule in an initial national standard,”. After section 87A(8)(a), insert: (aa) any rule in an initial national standard; and Section 87BB In section 87BB(1)(a), after “(including any national environmental standard),”, insert “an initial national standard,”. After section 87BB(1), insert: (1A) In deciding whether to give notice under subsection
+  - (1)(d), a consent authority must disregard any effects described in section 104(1A) if, but for section 104(1A), the activity would require a district land use consent. Section 92 After section 92(2A), insert: (2AA) A consent authority must not request further information nor commission a report in relation to the effects of an application for a district land use consent that are described in section 104(1A). Section 95A Replace section 95A(4)(a) with:
+  - (a) if the answer is yes, do not publicly notify the application, but determine whether to give limited notification of the application under section 95B; and
+  - Section 95A—continued After section 95A(5)(a)(ii), insert: (iia) a rule in an initial national standard: Replace section 95A(7)(b) with:
+  - (b) if the answer is no, do not publicly notify the application but determine whether to give limited notification of the application under section 95B. Repeal section 95A(9) and the heading above section 95A(9). Section 95B After section 95B(6)(a)(ii), insert: (iia) a rule in an initial national standard: Section 95C In section 95C(4), after “national environmental standard”, insert “or rule in an initial national standard”. Section 95D In section 95D(b) and
+  - (c), after “national environmental standard”, insert “or a rule in an initial national standard”. After section 95D(e), insert:
+  - (f) must, if the application is for a district land use consent, disregard any effect described in section 104(1A). Section 95E In section 95E(2)(a) and
+  - (b), after “national environmental standard”, insert “or a rule in an initial national standard”. After section 95E(2)(c), insert:
+  - (d) must, if the application is for a district land use consent, disregard any effect described in section 104(1A). Section 104 In section 104(1)(a), after “activity”, insert “; subject to subsection (1A)”. After section 104(1)(b)(v), insert: (va) an initial national standard: After section 104(1), insert: (1A) When considering the effects of a district land use activity, a consent authority must disregard—
+  - (a) any of the following where they relate to residential activities (except in relation to the protection of historic heritage):
+  - (i) the area of glazing:
+  - Section 104—continued (ii) the presence or absence of balconies: (iii) the outdoor living space: (iv) the internal layout:
+  - (v) the size of a residential unit: (vi) the size of landscaped areas (except in relation to permeability):
+  - (b) negative effects of development on trade competition, including on competing providers of input goods and services:
+  - (c) effects on retail distribution:
+  - (d) in relation to a project,—
+  - (i) any lack of demand for the project; or (ii) the fact that the project is not financially viable:
+  - (e) the type of residents to be housed in a new development:
+  - (f) views from private property. (1B) When considering an application for a district land use consent, the consent authority may disregard a national environmental standard, a plan or proposed plan, a national policy statement, or a regional policy statement to the extent that it regulates or purports to regulate a matter described in subsection (1A). (1C) A person who exercises a power or performs a function under this Act must not, except as provided in Schedule 1 of the Planning Act 2026, consider elements of or instruments made under that Act or the Natural Environment Act 2026 in the determination of a resource consent application or notice of requirement lodged under this Act during the transition period. (1D) Despite subsection (1C), the consent authority must consider the extent to which its decision on a resource consent application is consistent with—
+  - (a) any relevant decided regional spatial plan; or
+  - (b) any relevant future development strategy published before the notification of that plan. In section 104(2), after “national environmental standard”, insert “, an initial national standard,”. New section 104AA After section 104, insert: 104AA Alternative permitted activity pathway
+  - (1) A consent authority may give a notice that a district land use activity that, despite non-compliance with a rule or standard relating to a matter specified in section 104(1A), is a permitted activity—
+  - (a) after receiving an application for a resource consent for the activity; or
+  - New section 104AA—continued
+  - (b) on its own initiative.
+  - (2) The notice must be in writing and must include—
+  - (a) a description of the activity; and
+  - (b) details of the site at which the activity is to occur; and
+  - (c) the consent authority’s reasons for its decision, and the information relied on in making that decision.
+  - (3) If a person has submitted an application for a resource consent for an activity that is a permitted activity under this section, the application need not be further processed, considered, or decided and must be returned to the applicant.
+  - (4) A notice given under subsection
+  - (1) lapses 5 years after the date of the notice unless the activity permitted by the notice is given effect to. Section 104A In section 104A(b)(i), after “national environmental standards,”, insert “, initial national standards,”. Section 104C In section 104C(1)(a) and
+  - (3)(a), after “national environmental standards,”, insert “initial national standards,”. Section 104D Replace section 104D(1)(a) with:
+  - (a) the adverse effects of the activity on the environment will be minor, other than any effect—
+  - (i) to which section 104(3)(a)(ii) applies: (ii) described in section 104(1A), if the application is for a district land use consent; or After section 104D(2), insert:
+  - (3) When forming an opinion under subsection
+  - (1)(b) on an application for a district land use consent, a consent authority must disregard any provision in a plan or proposed plan that regulates or purports to regulate an effect described in section 104(1A). Section 108AA In section 108AA(1)(b)(ii), after “national environmental standard”, insert “, or a rule in an initial national standard”. In section 108AA(4), after “national environmental standard”, insert “or a rule in an initial national standard”.
+  - Section 113 After section 113(1)(ab)(iv), insert: (iva) an initial national standard: Section 123A In section 123A(2)(c), after “national environmental standard”, insert “or an initial national standard”. Section 123B In section 123B(2)(b), after “national environmental standard,”, insert “an initial national standard,”. Section 127 In section 127(3B)(b), after “national environmental standard”, insert “or a rule in an initial national standard”. Section 128 In section 128(1)(ba), after “national environmental standards”, insert “, initial national standards,”. Section 137 In section 137(4)(b) and
+  - (d), after “national environmental standard”, insert “or a rule in an initial national standard”. Section 139 In section 139(8A), after “87BB(1)(d)”, insert “or 104AA(1)”. In section 139(10)(a), after “national environmental standard”, insert “or initial national standard”. Section 149L In section 149L(5)(a), after “national environmental standards,”, insert “initial national standards,”. Section 149ZCB In section 149ZCB(2)(c) and
+  - (3)(a), after “national environmental standard”, insert “or a rule in an initial national standard”. Section 149ZCC In section 149ZCC(2) and
+  - (3), after “national environmental standard”, insert “or a rule in an initial national standard”.
+  - Section 149ZCD In section 149ZCD(3), after “national environmental standard”, insert “or a rule in an initial national standard”. Section 149ZCE In section 149ZCE(b) and
+  - (c), after “national environmental standard”, insert “or a rule in an initial national standard”. After section 149ZCE(e), insert:
+  - (f) must, in the case of an application for a district land use consent or a notice of requirement, disregard any effect described in section 104(1A). Section 149ZCF In section 149ZCF(2)(a) and
+  - (b), after “national environmental standard”, insert “or a rule in an initial national standard”. After section 149ZCF(2)(c), insert:
+  - (d) must, in the case of an application for a district land use consent or a notice of requirement, disregard any effect described in section 104(1A). Section 165I In section 165I(4), after “If a regional coastal plan”, insert “or an initial national standard”. In section 165I(4), after “regulations under section 360A”, insert “or as a result of an initial national standard”. Section 165J In section 165J(1), after “that has legal effect”, insert “or an initial national standard”. In section 165J(3), after “regional coastal plan”, insert “or an initial national standard”. In section 165J(4)(b), after “operative”, insert “or the initial national standard has legal effect”. Section 165L In section 165L(1)(b)(i) and (ii), after “regional coastal plan”, insert “or an initial national standard”. Section 165ZFHHA In section 165ZFHHA(1), replace “3 September 2030” with “the day before the specified transition date”. Section 165ZFHI In section 165ZFHI(2)(aa)(ii), replace “3 September 2030” with “the day before the specified transition date”.
+  - Section 166 In section 166(1), definition of network utility operator, after paragraph (hb), insert: (hc) is Health New Zealand and operates or proposes to operate health facilities to meet its obligations under the Healthy Futures (Pae Ora) Act 2022; or (hd) operates or proposes to operate facilities for an emergency service (for example, an ambulance or fire service); or In section 166(1), definition of requiring authority, after paragraph
+  - (c), insert:
+  - (d) a designating authority under clause 8 of Schedule 5 of the Planning Act 2026, but only in relation to a designation or an alteration to a designation—
+  - (i) for which it is responsible; and (ii) that is included in a district plan under clauses 15(2) and
+  - (3) of Schedule 1 of that Act Section 168A After section 168A(3)(a)(i), insert: (ia) any relevant initial national standard: After section 168A(3A), insert: (3B) When considering the effects on the environment of allowing the requirement under subsection
+  - (3), the territorial authority must not have regard to any matters specified in section 104(1A). (3C) The territorial authority must consider the extent to which its decision on a notice of requirement application is consistent with—
+  - (a) any relevant decided regional spatial plan; or
+  - (b) any relevant future development strategy published before the notification of that plan. Section 169 In section 169(1B), after “national environmental standard”, insert “or initial national standard”. Section 171 After section 171(1)(a)(i), insert: (ia) any relevant initial national standard: After section 171(1B), insert: (1C) When considering the effects on the environment of allowing the requirement under subsection
+  - (1), the territorial authority must not have regard to any matters specified in section 104(1A).
+  - Section 171—continued (1D) The territorial authority must consider the extent to which its recommendation on a notice of requirement application is consistent with—
+  - (a) any relevant decided regional spatial plan; or
+  - (b) any relevant future development strategy published before the notification of that plan. Section 176 After section 176(3), insert:
+  - (4) A designation that is included in a district plan under clause 15(2) of Schedule 1 of the Planning Act 2026 does not authorise the contravention of a rule in a district plan that relates to indigenous biodiversity. Section 189A In section 189A(2B), after “national environmental standard”, insert “or initial national standard”. Section 190 In section 190(1B), after “national environmental standard”, insert “or a rule in an initial national standard”. Section 217B In section 217B. definition of certified freshwater farm plan, replace “as amended from time to time in accordance with section 217E(2) or
+  - (3)” with “as required by section 217E(3) and as amended from time to time in accordance with section 217E(5) or
+  - (6)”. In section 217B, insert in their appropriate alphabetical order: limited certified freshwater farm plan means the part of a freshwater farm plan certified under section 217G, as required by section 217E(4) and as amended from time to time in accordance with section 217E(5) or
+  - (6) prescribed activity means a farm activity identified in regulations as requiring a certified freshwater farm plan or a limited certified freshwater farm plan In section 217B, definition of specified instrument, after “national environmental standard,”, insert “initial national standard,”. Section 217E Replace section 217E with: 217E Main duties of farm operators
+  - (1) This clause applies to a farm operator of a farm that is required to have a freshwater farm plan.
+  - (2) The farm operator must—
+  - Section 217E—continued
+  - (a) prepare a freshwater farm plan in accordance with this Part and regulations; and
+  - (b) ensure that the farm operates in compliance with the freshwater farm plan; and
+  - (c) if the freshwater farm plan or a part of the plan is required to be certified, arrange for the farm to be audited in accordance with this Part and regulations for compliance with the freshwater farm plan.
+  - (3) The farm operator must submit the freshwater farm plan for certification if—
+  - (a) the farm is located in a catchment prescribed in regulations; or
+  - (b) the operator is required to submit the freshwater farm plan for certification to meet other regulatory requirements.
+  - (4) If the farm operator is undertaking 1 or more prescribed activities, the farm operator must submit the parts of the plan for certification that address the prescribed activities.
+  - (5) The farm operator must keep the certified freshwater farm plan or limited certified freshwater farm plan fit for purpose by—
+  - (a) amending the plan as necessary to reflect any changes in the farm; and
+  - (b) amending the plan as necessary to comply with this Part and regulations.
+  - (6) The farm operator must amend and submit for recertification a certified freshwater farm plan or a limited certified freshwater farm plan if any circumstances prescribed by regulations apply.
+  - (7) The farm operator must comply with the same freshwater farm plan certification requirements under this Act as a farm operator referred to in subsection
+  - (3) if—
+  - (a) the farm operator is not required under subsection
+  - (3) to have the farm’s freshwater farm plan certified; but
+  - (b) the farm operator chooses to have the farm’s freshwater farm plan certified.
+  - (8) The farm operator must comply with the same freshwater farm plan certification requirements under this Act as a farm operator referred to in subsection
+  - (3) if subsection
+  - (4) applies and the farm operator chooses to have all of the farm’s freshwater farm plan certified. Section 217F In section 217F(a), delete “any”. Section 217G Replace section 217G(1) with:
+  - Section 217G—continued
+  - (1) A farm operator who must submit a freshwater farm plan or part of the plan for certification must do so within the prescribed time frame. Replace section 217G(2) with:
+  - (2) The certifier must certify—
+  - (a) a freshwater farm plan if the certifier is satisfied that the plan complies with the requirements in section 217F; and
+  - (b) a part of a freshwater farm plan if the certifier is satisfied that the part of the plan complies with the requirements in section 217F. Replace section 217G(3)(a) and
+  - (b) with:
+  - (a) that a freshwater farm plan or part of a freshwater farm plan has been certified; and
+  - (b) if the certification relates to part of a freshwater farm plan, the prescribed activities to which the certification applies; and
+  - (c) the date on which the freshwater farm plan or part of a freshwater farm plan was certified. In section 217G(4), after “plan”, insert “or a limited certified freshwater farm plan”. Section 217H Replace section 217H(1) with:
+  - (1) A farm operator must, if the farm is required under section 217E(2)(c) to be audited, arrange, within the prescribed time frame, for an auditor to audit,—
+  - (a) for a certified freshwater farm plan, the farm for compliance with the plan; and
+  - (b) for a limited certified freshwater farm plan,—
+  - (i) the part or parts of the farm on which the prescribed activities are undertaken in relation to which the certification applies, for compliance with the relevant part or parts of the plan; and (ii) if mitigations have been put in place to manage the effects of the prescribed activities, the part or parts of the farm where the mitigations have been put in place for compliance with the relevant part or parts of the plan. Section 217I In section 217I(1)(c), after “certified”, insert “in whole or in part”. Section 217J Replace section 217J(a) and
+  - (b) with:
+  - (a) whether the farm’s freshwater farm plan or a part of a freshwater farm plan is required to be certified; and
+  - Section 217J—continued
+  - (b) if the plan or part of a plan is certified, the date on which it was certified; and
+  - (c) if the farm is required under section 217E(2)(c) to be audited, the date on which the farm was last audited for compliance with the freshwater farm plan; and (ca) in the case of a limited certified freshwater farm plan, the prescribed activity or activities to which certification relates; and Section 217L In section 217L(3), after “plan”, insert “or a limited certified freshwater farm plan”. Section 217M In section 217M(1)(ca), after “plan”, insert “or a limited certified freshwater farm plan”. In section 217M(1)(d)(i), replace “any adverse” with “adverse”. In section 217M(1)(e), after “plan”, insert “or part of a plan”. In section 217M(1)(f), after “plan”, insert “or a limited certified freshwater farm plan”. In section 217M(1)(g), replace “that must be audited for compliance with a freshwater farm plan” with “or part of a farm that must be audited for compliance with a freshwater farm plan or part of a freshwater farm plan”. Section 314 In section 314(1)(a)(i) and
+  - (b)(i), after “any regulations,”, insert “a rule in an initial national standard,”. Section 322 In section 322(1)(a)(i), after “any regulations,”, insert “a rule in an initial national standard,”. In section 322(1)(b)(i), after “a regulation,”, insert “a rule in an initial national standard,”. New section 325C and cross-heading After section 325B, insert: Adverse publicity orders 325C Adverse publicity orders
+  - (1) An order under this section (an adverse publicity order) to address non-compliance with this Act may—
+  - New section 325C and cross-heading—continued
+  - (a) be made by the Environment Court in enforcement proceedings on application by the local authority or the EPA; or
+  - (b) be made by the District Court in proceedings in that court for an offence under this Act on application by the prosecutor.
+  - (2) An adverse publicity order may be made against a person only if the person—
+  - (a) is convicted of an offence against this Act in relation to the non-compliance; or
+  - (b) is ordered to pay a pecuniary penalty under this Act in relation to the non-compliance.
+  - (3) An adverse publicity order may require the person to do 1 or more of the following:
+  - (a) take any specified action to publicise—
+  - (i) the non-compliance: (ii) any impacts on the environment or other consequences arising or resulting from the non-compliance: (iii) if applicable, any penalties imposed, or other orders made, by the court as a result of the non-compliance: (iv) any specified additional information:
+  - (b) take any specified action to notify a specified person or class of persons of the matters listed in paragraph
+  - (a).
+  - (4) If an appeal is lodged against the conviction or pecuniary penalty in relation to the non-compliance to which the adverse publicity order relates, the order is stayed until the appeal is determined.
+  - Compare: 2023 No 46 s 673
+  - Section 326 In section 326(2)(a), after “national environmental standard”, insert “or a rule in an initial national standard”. Section 332 In section 332(1), after “dwellinghouse”, insert “or marae”. In section 332(1)(a), after “any regulations,”, insert “a rule in an initial national standard,”. Replace section 332(2) with:
+  - (2) An enforcement officer may—
+  - (a) collect records of their inspection (including measurements, notes, sketches, drawings, photographs, and video recordings); and
+  - (b) take samples of water, air, soil, or organic matter.
+  - Section 334 Replace section 334(1) with:
+  - (1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), on an application made by a constable or an enforcement officer in the manner provided in subpart 3 of Part 4 of that Act, may issue a warrant authorising the entry and search of any place or vehicle if satisfied that there are reasonable grounds for believing that there is in, on, under, or over any place or vehicle anything—
+  - (a) in respect of which an offence has been or is suspected of having been committed against this Act or regulations made under this Act that is punishable by imprisonment; or
+  - (b) that will be evidence of an offence against this Act or regulations that is punishable by imprisonment; or
+  - (c) that is intended to be used for the purpose of committing an offence against this Act or regulations that is punishable by imprisonment. Section 335 Replace section 335 with: 335 Direction and execution of warrant for entry for search
+  - (1) Every search warrant issued under section 334 must be directed to any constable generally or enforcement officer generally.
+  - (2) If a warrant authorises the entry and search of a dwellinghouse or marae, it must be directed to and executed by any constable generally.
+  - (3) An enforcement officer must be accompanied by a constable during the initial entry of the place or vehicle to be searched.
+  - (4) Subject to the agreement of the enforcement officer, the constable may leave the place or vehicle at any time after the initial execution of the search warrant.
+  - Compare: 1991 No 69 s 335; 2023 No 46 s 731
+  - Section 338 After section 338(1)(d), insert:
+  - (e) an adverse publicity order under section 325C. Section 339 In section 339(2), replace “$10,000” with “$15,000”. In section 339(2), replace “$1,000” with “$1,500”. In section 339(3), replace “$1,500” with “$5,000”. Section 360F In section 360F(2)(d), after “87BB”, insert “or 104AA”.
+  - Section 360O Repeal section 360O. Schedule 3A Repeal clauses 15 to 18. Schedule 4 After clause 7(2), insert:
+  - (3) Despite anything in subclause
+  - (1), if the activity is a district land use, the assessment of environmental effects need not address any effect described in section 104(1A).
+### Part 3
+  - Amendments to Fast-track Approvals Act 2024 that commence 1 month after this Act receives Royal assent Schedule 5 After clause 5(4), insert: (4A) However, an assessment under subclause
+  - (4) in respect of a resource consent application for a district land use consent need not include any of the effects set out in section 104(1A) of the Resource Management Act 1991. In clause 12(1)(b), after “mitigated”, insert “(however, the information need not include information in respect of any of the effects set out in section 104(1A) of the Resource Management Act 1991)”.
+### Part 4
+  - Amendments to RMA relating to Planning Tribunal that commence on date set by Order in Council made under section 2(5) Section 2 In section 2(1), insert in its appropriate alphabetical order: Planning Tribunal means the Planning Tribunal established under clause 2 of Schedule 10 of the Planning Act 2026 Section 36 Repeal section 36(1)(af). In section 36(7), replace “Sections 357B to 358 (which deal with rights of objection and appeal against certain decisions) apply” with “A right of review to the Planning Tribunal applies”.
+  - Section 41D Replace section 41D(3) with:
+  - (3) A person whose submission is struck out by a local authority, in whole or in part, has a right of review under section 357.
+  - (4) A person whose submission is struck out by an authority that is not a local authority, in whole or in part, has a right of objection under section 357. Section 87E In section 87E(9), replace “section 357A(1)(e)” with “section 357A(1A)”. Section 88D In section 88D(1)(c), replace “section 357A(1)(e)” with “section 357A(1A)”. Section 88E In section 88E(2)(b)(ii), replace “an Environment Court order revoking” with “a Planning Tribunal order following a review of”. Section 91 Replace section 91(3) with:
+  - (3) The applicant may apply to the Planning Tribunal to review a determination under this section. Section 99 In section 99(9)(b) and
+  - (10)(c), replace “section 357A” with “section 357A(1A)”. Section 116 In section 116(1A), replace “an objection has been made” with “a review has been applied for”. In section 116(1AB),—
+  - (a) replace “an objection has been made” with “a review has been applied for”; and
+  - (b) replace “when the objection” with “when the review”. Section 120 Replace section 120(2) with:
+  - (2) This section is in addition to the rights provided for in section 357A (which provides for reviews by the Planning Tribunal). Section 125 In section 125(1B), replace “Sections 357A and 357C to 358 apply” with “Section 357A applies”.
+  - Section 126 In section 126(3), replace “Sections 357A and 357C to 358 apply” with “Section 357A applies”. Section 139 In section 139(9), replace “Sections 357A, 357AB, and 357C to 358 apply” with “Section 357A applies”. Section 139A In section 139A(10), replace “Sections 357A, 357AB, and 357C to 358 apply” with “Section 357A applies”. Section 149ZD In section 149ZD(7), after “object”, insert “or apply for a review”. Section 179 Replace section 179 with:
+## Clause 179 — Reviews relating to sections 176 to
+  - (1) Any person who has been refused consent by a requiring authority under section 176(1)(b), 177(2), or 178(2), or who has been granted consent subject to conditions, may apply to the Planning Tribunal for a review of the refusal or the conditions.
+  - (2) An application under this section must—
+  - (a) state the reasons for the review and the relief sought; and
+  - (b) state any matters required to be stated by regulations; and
+  - (c) be lodged with the tribunal and served on the requiring authority who made the decision within 15 working days of receiving the requiring authority’s decision under section 176(1)(b), 177(2), or 178(2).
+  - (3) In considering a review under this section, the tribunal must have regard to—
+  - (a) whether the decision being reviewed has caused or is likely to cause serious hardship to the appellant; and
+  - (b) whether the decision would render the land which is subject to the designation or requirement incapable of reasonable use; and
+  - (c) the extent to which the decision may be modified without wholly or partly nullifying the effect of the requirement or designation.
+  - (4) The tribunal may confirm or reverse the decision being reviewed or modify the decision in any manner the tribunal thinks fit.
+  - Section 182 In section 182(6), replace “object, under section 357, to” with “apply for a review, under section 357, of”. Section 184 In section 184(3), replace “object, under section 357, to” with “apply for a review, under section 357, of”. Section 357 In the heading to section 357, after “against”, insert “or review of”. In section 357(1),
+  - (6), and
+  - (7), replace “objection to the territorial authority” with “review by the Planning Tribunal”. Replace section 357(2) with:
+  - (2) A person whose submission to a local authority is struck out under section 41D has a right of review by the Planning Tribunal. (2A) A person whose submission to an authority that is not a local authority is struck out under section 41D has a right of objection to that authority. In section 357(3), replace “objection to the consent authority” with “review by the Planning Tribunal”. After section 357(9), insert:
+  - (10) A right of review by the Planning Tribunal conferred by this section or section 357A—
+  - (a) may be exercised by applying to the tribunal in accordance with Schedule 10 of the Planning Act 2026; and
+  - (b) when that application is made,—
+  - (i) nothing in sections 357C to 358 of this Act applies to a right of review to the Planning Tribunal; and (ii) Schedule 10 of the Planning Act 2026 applies instead (with any necessary modifications).
+  - (11) Despite subsection
+  - (10) and Schedule 10 of the Planning Act 2026,—
+  - (a) no appeal lies against a review under section 357(2) if the submission relates to an application for a resource consent, a review of a resource consent, or an application to change or cancel a condition of a resource consent:
+  - (b) no appeal lies against a review under section 357A(1)(f) or
+  - (g) in respect of a decision of a consent authority or hearings commissioner on an application or a review described in section 357A(2) to
+  - (4), if the right of appeal against the decision to the Environment Court in the first instance is excluded by section 120(1A).
+  - Section 357A In the heading to section 357A, replace “consent authority against” with “or review of”. In section 357A(1), replace “objection to a consent authority” with “review by the Planning Tribunal”. In section 357A(1)(a), replace “that authority” with “a consent authority”. Repeal section 357A(1)(d) and
+  - (e). After section 357A(1), insert: (1A) There is a right of objection to a consent authority,—
+  - (a) in respect of an application or a submission that a consent authority declines to process or to consider, as provided for by section 99(8), for the person who made the application or submission:
+  - (b) in respect of a decision of the authority under section 87E(5) to (6A), for a person who made a request under section 87D. Section 357AB Repeal section 357AB. Section 357B In the heading to section 357B, after “Right of”, insert “review or”. In section 357B, delete “of objection”. Replace section 357B(a) with:
+  - (a) of review to the Planning Tribunal for a person required by a local authority to pay an additional charge under section 36(5) or costs under section 149ZD(1) in respect of that requirement: In section 357B(ab) and
+  - (b), before “for”, insert “of objection”. Section 357C Repeal section 357C(2A). Section 357CA Repeal section 357CA. Section 357D Replace section 357D(1)(b) and
+  - (c) with:
+  - (b) uphold the objection in whole or in part. In section 357D(3), replace “section 357A(1)(e)” with “section 357A(1A)”. New section 357E After section 357D, insert:
+  - New section 357E—continued 357E Additional functions of Planning Tribunal On and after the commencement of this section, on application the Planning Tribunal may—
+  - (a) make declarations described in clause 20 of Schedule 10 of the Planning Act 2026, which applies with any necessary modifications:
+  - (b) review requests under clause 17 of Schedule 10 of the Planning Act 2026 for further information or the commissioning of a report from a person applying for a resource consent or designation, which applies with any necessary modifications:
+  - (c) review under clause 19 of Schedule 10 of the Planning Act 2026 the reasons for the application not being progressed in accordance with the relevant statutory time frame, which applies with any necessary modifications:
+  - (d) hear and resolve disputes under clause 19 of Schedule 10 of the Planning Act 2026 about the calculation of statutory time frames relating to the permit, consent, or change request, which applies with any necessary modifications:
+  - (e) review extensions of statutory time frames based on special circumstances that are granted under section 37A(4):
+  - (f) review decisions made under section 91 not to proceed with a resource consent because other consents are required:
+  - (g) review decisions to decline requests under section 179 for permission to undertake work on designated land. Section 358 In section 358(1), replace “section 357A(1)(a),
+  - (d),
+  - (f), or
+  - (g)” with “section 357A(1A)”. Repeal section 358(1A)(a). In section 358(1A)(b) and
+  - (d), replace “357(2)” with “357(2A)”. Schedule 1 In clause 98(2)(a) and
+  - (b), replace “section 357(2)” with “section 357(2A)”.
+### Part 5
+  - Amendments to Acts that commence on date set by Order in Council made under section 2(3) Airport Authorities Act 1966 (1966 No 51) In section 6(8), replace “section 11 and Part 10 of the Resource Management Act 1991” with “section 23 or Schedule 7 of the Planning Act 2026”. Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 (2004 No 109) In section 10(4), (4B), (4C),
+  - (5), and
+  - (6), replace “consent authority” with “permit authority” in each place. In section 10(4C), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 10(6), replace “object” with “apply for a review”. In section 10(6A)(a), replace “sections 120 and 121 of the Resource Management Act 1991 apply to the appeal as if it were an appeal against a decision on a review of consent conditions” with “sections 182 and 183 of the Natural Environment Act 2026 apply to the appeal as if it were an appeal against a decision on a review of permit conditions”. Replace section 10(6A)(b) with:
+  - (b) apply for a review of the decision to the Planning Tribunal under clause 21 of Schedule 10 of the Planning Act 2026 as if it were an application to review a decision on a review of the conditions of a permit under clause 21(3)(c) of Schedule 10 of that Act. In section 13(2), replace “section 122(3) and
+  - (4) of the Resource Management Act 1991” with “section 184(3) and
+  - (4) of the Natural Environment Act 2026”. In section 20(3), (3B), (3C),
+  - (4), and
+  - (5), replace “consent authority” with “permit authority” in each place. In section 20(3C), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 20(5), replace “object” with “apply for a review”. In section 20(5A)(a), replace “sections 120 and 121 of the Resource Management Act 1991 apply to the appeal as if it were an appeal against a decision on a review of consent conditions” with “sections 182 and 183 of the Natural Environment Act 2026 apply to the appeal as if it were an appeal against a decision on a review of permit conditions”. Replace section 20(5A)(b) with:
+  - (b) apply for a review of the decision to the Planning Tribunal under clause 21 of Schedule 10 of the Planning Act 2026 as if it were an application
+  - Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 (2004 No 109)—continued to review a decision on a review of the conditions of a permit under clause 21(3)(c) of Schedule 10 of that Act. In section 21(3), (3B), (3C),
+  - (4), and
+  - (5), replace “consent authority” with “permit authority” in each place. In section 21(3C), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 21(5), replace “object” with “apply for a review”. In section 21(5A)(a), replace “sections 120 and 121 of the Resource Management Act 1991 apply to the appeal as if it were an appeal against a decision on a review of consent conditions” with “sections 182 and 183 of the Natural Environment Act 2026 apply to the appeal as if it were an appeal against a decision on a review of permit conditions”. Replace section 21(5A)(b) with:
+  - (b) apply for a review of the decision to the Planning Tribunal under clause 21 of Schedule 10 of the Planning Act 2026 as if it were an application to review a decision on a review of the conditions of a permit under clause 21(3)(c) of Schedule 10 of that Act. Replace section 23 with:
+## Clause 23 — Regional councils may charge for review
+  - Section 331 of the Natural Environment Act 2026 applies in relation to the functions of a permit authority under sections 10, 20, and 21 as if a review under any of those sections were a review by a permit authority under section 200 of the Natural Environment Act 2026. In section 44L(1), replace “Section 165T of the principal Act” with “Clause 19 of Schedule 4 of the Natural Environment Act 2026”. In section 44L(2)(a), replace “regional coastal plan” with “natural environment plan”. In section 44L(3), replace “section 165S of the Resource Management Act 1991” with “clause 18 of Schedule 4 of the Natural Environment Act 2026”. In section 53(2),
+  - (3), (4A),
+  - (5), (5A), and
+  - (8), replace “consent authority” with “permit authority” in each place. Replace section 53(4) with:
+  - (4) Sections 148 and 149 of the Natural Environment Act 2026 apply, with all necessary modifications, to an application under this section as if it were an application for a natural resource permit. In section 53(5A), (5B), and (5C), replace “regional coastal plan” with “natural environment plan” in each place. Replace section 53(6) with:
+  - Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 (2004 No 109)—continued
+  - (6) Sections 182 and 183 of the Natural Environment Act 2026 apply to the decision of the permit authority under subsection
+  - (5) as if the decision were a decision on a review of permit conditions. Replace section 53(10) with:
+  - (10) The holder of a deemed coastal permit may apply for a review of the decision to the Planning Tribunal under clause 21 of Schedule 10 of the Planning Act 2026 as if it were an application to review a decision on a review of the conditions of a permit under clause 21(3)(c) of Schedule 10 of that Act. Replace section 53(11) with:
+  - (11) Section 331 of the Natural Environment Act 2026 applies to the functions of the permit authority under this section as if an application to amend a deemed coastal permit were an application for a natural resource permit under section 136 of that Act. In the heading to section 54, replace “Consent authority” with “Permit authority”. In section 54(2), replace “consent authority” with “permit authority”. Auckland City Council (St Heliers Bay Reserve) Act 1995 (1995 No 4 (L)) In section 6(1)(e), replace “section 326 of the Resource Management Act 1991” with “section 285 of the Planning Act 2026”. Auckland Improvement Trust Act 1971 (1971 No 9 (L)) In section 4(1D),—
+  - (a) replace “application of the Resource Management Act 1991” with “application of the Natural Environment Act 2026 or the Planning Act 2026”; and
+  - (b) replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. In section 5(1D),—
+  - (a) replace “application of the Resource Management Act 1991” with “application of the Natural Environment Act 2026 or the Planning Act 2026”; and
+  - (b) replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. Biosecurity Act 1993 (1993 No 95) In section 7(2), replace “Resource Management Act 1991” with “Natural Environment Act 2026, the Planning Act 2026”. In the heading to section 7A, replace “Resource Management Act 1991” with “Natural Environment Act 2026 and Planning Act 2026”.
+  - Biosecurity Act 1993 (1993 No 95)—continued In section 7A(1) and
+  - (1)(a), replace “Part 3 of the Resource Management Act 1991” with “subpart 2 of Part 2 of the Natural Environment Act 2026 or subpart 2 of Part 2 of the Planning Act 2026”. In section 7A(3)(a), after “consent authority”, insert “or permit authority, as relevant”. In section 7A(4), replace “Part 3 of the Resource Management Act 1991” with “subpart 2 of Part 2 of the Natural Environment Act 2026 or subpart 2 of Part 2 of the Planning Act 2026”. In section 7A(5)(a), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. In section 7A(5)(b), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. Replace section 7A(6) with:
+  - (6) For the purposes of this section,— consent authority has the same meaning as in section 3 of the Planning Act 2026 permit authority has the same meaning as in section 3 of the Natural Environment Act 2026. In section 7D(1)(a), replace “Part 3 of the Resource Management Act 1991” with “subpart 2 of Part 2 of the Natural Environment Act 2026 or subpart 2 of Part 2 of the Planning Act 2026”. Replace section 71(a)(iv) with: (iv) a natural environment plan prepared under the Natural Environment Act 2026; or Replace section 74(a)(iv) with: (iv) a natural environment plan prepared under the Natural Environment Act 2026; or Replace section 91(a)(iii) with: (iii) a natural environment plan prepared under the Natural Environment Act 2026; or Replace section 94(a)(iii) with: (iii) a natural environment plan prepared under the Natural Environment Act 2026; or Building Act 2004 (2004 No 72) In section 7(1), definition of heritage building,—
+  - (a) repeal paragraph
+  - (a)(iv); and
+  - (b) paragraph
+  - (a)(v), replace “included in a schedule of a district plan” with “subject to protection in a land use plan”.
+  - Building Act 2004 (2004 No 72)—continued In section 10, replace “Resource Management Act 1991” with “Planning Act 2026” in each place. In section 35(2), definition of special feature of the land concerned, paragraph
+  - (c), replace “district plan under the Resource Management Act 1991” with “land use plan under the Planning Act 2026”. In section 35A(3), replace “district plan and regional plan” with “land use plan and natural environment plan”. In the heading to section 37, replace “resource” with “planning”. In section 37(1)(a), replace “resource consent under the Resource Management Act 1991” with “planning consent under the Planning Act 2026”. In section 37(1)(b) and
+  - (2), replace “resource consent” with “planning consent”. In section 116A, replace “section 224(f) of the Resource Management Act 1991” with “clause 27 of Schedule 7 of the Planning Act 2026”. In section 133BW(4)(g), replace “resource consent under the Resource Management Act 1991” with “a natural resource permit under the Natural Environment Act 2026 or a planning consent under the Planning Act 2026”. Replace section 133BY with: 133BY Natural resource permit or planning consent not required for certain works A natural resource permit under the Natural Environment Act 2026 or a planning consent under the Planning Act 2026 is not required for works that are carried out under section 133BS, 133BV, or 133BW. In section 177(3)(h), replace “section 224(f) of the Resource Management Act 1991” with “clause 27 of Schedule 7 of the Planning Act 2026”. In Schedule 1, clause 1AA, definition of rural zone, replace “district plan” with “land use plan”. In Schedule 1, clause 41(2), replace “district plan” with “land use plan”. Burial and Cremation Act 1964 (1964 No 75) In section 45A(1)(c), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 45D(1), replace “consent has been obtained under the Resource Management Act 1991” with “planning consent has been obtained under the Planning Act 2026”. Canterbury Property Boundaries and Related Matters Act 2016 (2016 No 40) In section 10, replace “section 11 or Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”.
+  - Chatham Islands Council Act 1995 (1995 No 41) Repeal section 7(1)(a)(iv). Repeal section 7(1)(b)(iii). Replace the cross-heading above section 26 with: Natural environment and land use Replace section 27 with:
+## Clause 27 — Time periods for consent or permit hearings
+  - Where the Natural Environment Act 2026, the Planning Act 2026, or any regulations made under those Acts, specifies any period of time within which the consent authority or permit authority or any other person must perform any action in the course of the consent or permit hearing process, and where the consent or permit is required for an activity within the area of the Chatham Islands Territory, that time period is extended by 5 working days. In section 28, replace “section 38 of the Resource Management Act 1991” with “section 272 of the Natural Environment Act 2026 and section 275 of the Planning Act 2026”. Christ Church Cathedral Reinstatement Act 2017 (2017 No 52) In Schedule 2, repeal paragraph
+  - (h). In Schedule 2, after paragraph
+  - (e), insert: (ea) the Natural Environment Act 2026: (eb) the Planning Act 2026: Christchurch City Council (Robert McDougall Gallery) Land Act 2003 (2003 No 4 (L)) In section 9, replace “Resource Management Act 1991” with “Natural Environment Act 2026, the Planning Act 2026,”. Christchurch District Drainage Act 1951 (1951 No 21(L)) In section 43(1), replace “and of the Resource Management Act 1991,” with “, the Natural Environment Act 2026, and the Planning Act 2026,”. Christchurch District Drainage Amendment Act 1969 (1969 No 1 (L)) In section 4(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. Civil Aviation Act 2023 (2023 No 10) In section 234, replace “section 11 and Part 10 of the Resource Management Act 1991” with “section 23 and Schedule 7 of the Planning Act 2026”.
+  - Civil Defence Emergency Management Act 2002 (2002 No 33) Repeal section 17(3)(j). Replace section 111 with:
+## Clause 111 — Restricted application of Natural Environment Act 2026 and Planning Act
+  - 2026 If a state of emergency is declared, or notice of a transition period is given, under this Act,—
+  - (a) the Natural Environment Act 2026 applies to emergency works as provided for in section 316 of that Act; and
+  - (b) the Planning Act 2026 applies to emergency works as provided for in section 318 of that Act. Climate Change Response Act 2002 (2002 No 40) In section 4(1), repeal the definitions of district plan and regional plan. In section 4(1), definition of erosion-prone land, replace “regional plan or district plan” with “natural environment plan or land use plan”. In section 4(1), insert in their appropriate alphabetical order: land use plan has the meaning given in section 3 of the Planning Act 2026 natural environment plan has the meaning given in section 3 of the Natural Environment Act 2026 In section 182A(4)(a), replace “Resource Management Act 1991, including any plan under that Act, or the Forests Act 1949” with “Natural Environment Act 2026 and the Planning Act 2026, or the Resource Management Act 1991, including any plan under those Acts, or the Forests Act 1949”. In section 182C(1)(c)(i), replace “Resource Management Act 1991, including any plan under that Act or the Forests Act 1949” with “Natural Environment Act 2026 and the Planning Act 2026, or the Resource Management Act 1991, including any plan under those Acts, or the Forests Act 1949”. Conservation Act 1987 (1987 No 65) Replace section 17P with: 17P Relationship with Natural Environment Act 2026 and Planning Act 2026
+  - (1) Except as provided in subsection
+  - (2), this Part does not relieve any person from any obligation to obtain a natural resource permit under the Natural Environment Act 2026 or planning consent under the Planning Act 2026.
+  - (2) Section 23 and Schedule 7 of the Planning Act 2026 do not apply to any lease granted by the Minister. In section 23(1), replace “under the Resource Management Act 1991” with “or continued under the Natural Environment Act 2026”.
+  - Conservation Act 1987 (1987 No 65)—continued In section 24(5), replace “section 230 of the Resource Management Act 1991” with “clause 38 of Schedule 7 of the Planning Act 2026”. In section 24(7C), replace “section 355 of the Resource Management Act 1991” with “clause 77 of Schedule 7 of the Planning Act 2026”. Replace section 39(6A) with: (6A) It is a defence to a charge under subsection
+  - (4) if the defendant can show that the discharge of the contaminant was—
+  - (a) done in accordance with the conditions of a current discharge permit under the Natural Environment Act 2026; or
+  - (b) allowed by a national standard under subpart 5 of Part 2 of the Natural Environment Act 2026; or
+  - (c) authorised by any secondary legislation (including by way of an exemption) made under the Natural Environment Act 2026; or
+  - (d) a permitted activity in the relevant natural environment plan and any proposed natural environment plan, if there is one, under the Natural Environment Act 2026. Corrections Act 2004 (2004 No 50) In section 32(2A), replace “section 9 of the Resource Management Act 1991” with “section 21 of the Planning Act 2026”. In the heading to section 178, replace “Resource Management Act 1991” with “Planning Act 2026”. In section 178, replace “Part 8 of the Resource Management Act 1991” with “Schedule 5 of the Planning Act 2026”. Costs in Criminal Cases Act 1967 (1967 No 129) In sections 4(5), 7(3), and 10(2), replace “or the Resource Management Act 1991” with “the Natural Environment Act 2026, the Planning Act 2026, or the Resource Management Act 1991”. Crown Forest Assets Act 1989 (1989 No 99) In section 33(1) and
+  - (2), replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. Crown Minerals Act 1991 (1991 No 70) In section 2(1), definition of consent authority, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In section 2(1), definition of regulatory agency, after paragraph
+  - (b), insert: (ba) a permit authority: In section 2(1), definition of specified Act, replace paragraph
+  - (c) with:
+  - Crown Minerals Act 1991 (1991 No 70)—continued
+  - (c) Natural Environment Act 2026: (ca) Planning Act 2026: In section 2(1), insert in its appropriate alphabetical order: permit authority has the same meaning as in section 3 of the Natural Environment Act 2026 In section 29A(4)(b), after “government agency,”, insert “permit authority,”. Replace section 41C(3)(aa)(ii) with: (ii) Natural Environment Act 2026: (iia) Planning Act 2026: In sections 61(3) and 61B(3),—
+  - (a) replace “Resource Management Act 1991” with “Natural Environment Act 2026”; and
+  - (b) delete “(as defined in section 2(1) of that Act)”. In section 89B(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 89E(1)(a), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 90E(3), after “any consent authority”, insert “and to any permit authority”. In section 90E(3)(b)(i), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. Replace section 90E(3)(b)(ii) with: (ii) a consent authority in the performance or exercise of its functions, duties, or powers under the Planning Act 2026; or (iii) a permit authority in the performance or exercise of its functions, duties, or powers under the Natural Environment Act 2026. In Schedule 1, replace clause 12(1)(b) with:
+  - (b) the holder of the privilege continues to have the same statutory rights as the holder would have had if the principal Act, the Resource Management Act 1991, and the Planning Act 2026 or the Natural Environment Act 2026 had not been enacted (except that if any consent in respect of the privilege would, but for this subclause, be required and need to be sought under the Resource Management Act 1991, the Planning Act 2026, or the Natural Environment Act 2026, then the Planning Act 2026 or the Natural Environment Act 2026 (as applicable) does apply); and In Schedule 1, heading to clause 15, replace “Resource Management Act 1991 and” with “Natural Environment Act 2026, Planning Act 2026, and”.
+  - Crown Minerals Act 1991 (1991 No 70)—continued In Schedule 1, clause 15(1), replace “consent authority and the provisions of the Resource Management Act 1991” with “permit authority or consent authority and the provisions of the Natural Environment Act 2026 or the Planning Act 2026”. In Schedule 1, clause 15(1)(b), replace “section 30 or 31 of the Resource Management Act 1991 and” with “sections 228 and 229 of the Natural Environment Act 2026 and sections 216, 217, and 218 of the Planning Act 2026”. In Schedule 1, clause 15(3) and
+  - (4), replace “consent authority” with “permit authority or consent authority” in each place. In Schedule 1, clause 15(6), replace “section 332 of the Resource Management Act 1991” with “section 282 of the Natural Environment Act 2026 and section 289 of the Planning Act 2026, as relevant”. In Schedule 1, clause 15(8)(b), replace “section 30 or 31 of the Resource Management Act 1991” with “section 229 of the Natural Environment Act 2026 and section 218 of the Planning Act 2026”. In Schedule 1, clause 16(1)(a) and
+  - (c), replace “consent authority” with “permit authority or consent authority”. Crown Organisations (Criminal Liability) Act 2002 (2002 No 37) In section 3(b), replace “and the Resource Management Act 1991” with “the Natural Environment Act 2026, and the Planning Act 2026”. Replace section 6(1)(c) with:
+  - (c) an offence against the Natural Environment Act 2026: (ca) an offence against the Planning Act 2026: In section 7(a), replace “Resource Management Act 1991” with “Natural Environment Act 2026, the Planning Act 2026,”. In section 8(5), replace “section 4(9) of the Resource Management Act 1991” with “section 308(5) of the Natural Environment Act 2026 or section 311(5) of the Planning Act 2026”. Replace section 10(1)(b)(vii) with: (vii) section 281 of the Natural Environment Act 2026; or (viii) section 284 of the Planning Act 2026; or Crown Pastoral Land Act 1998 (1998 No 65) In section 96(1), replace “Resource Management Act 1991,” with “Planning Act 2026,”. Education and Training Act 2020 (2020 No 38) In section 563(1)(b), replace “district plans under the Resource Management Act 1991” with “land use plans under the Planning Act 2026”.
+  - Education and Training Act 2020 (2020 No 38)—continued Replace section 563(8) with:
+  - (8) If any proposed designation has been made under clause 13 of Schedule 5 of the Planning Act 2026 in respect of any work that has been transferred to an institution under this Act, the procedures specified in the Planning Act 2026 may be completed as if a Minister of the Crown continued to be financially responsible for the work and as if the work were a public work. Replace section 564(4)(c) with:
+  - (c) section 349 of the Natural Environment Act 2026. In section 571(5), replace “section 218 of the Resource Management Act 1991” with “clause 2 of Schedule 7 of the Planning Act 2026”. Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72) In section 3(4)(b), delete “or a board of inquiry hearing a resource consent application in relation to the same cross-boundary activity”. In section 3(9), delete “, including a cross-boundary activity that includes a matter of national significance”. In section 4(1), definition of existing interest, paragraph
+  - (c), replace “resource consent granted under the Resource Management Act 1991” with “natural resource permit granted or deemed to be granted under the Natural Environment Act 2026”. Repeal section 16(1)(b). In section 52A(1), delete “or 99A”. In section 88, definition of joint application for consent or joint application, replace “resource consent under the Resource Management Act 1991” with “natural resource permit under the Natural Environment Act 2026”. In section 88, repeal the definitions of relevant resource consent authority, resource consent, and resource consent authority. In section 88, insert in their appropriate alphabetical order: natural resource permit has the meaning given in section 133 of the Natural Environment Act 2026 permit authority has the meaning given in section 3 of the Natural Environment Act 2026 relevant permit authority means—
+  - (a) the permit authority responsible for the region in which part of a cross- boundary activity is or is intended to be undertaken; or
+  - (b) the Minister of Conservation, in relation to the coastal marine areas of the Kermadec Islands, the Snares Islands, the Bounty Islands, the Antipodes Islands, the Auckland Islands, Campbell Island, and the islands adjacent to Campbell Island
+  - Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72)—continued In section 89(1)(a), replace “resource consent” with “natural resource permit”. Repeal section 89(2). Replace section 90(a)(ii) with: (ii) the Natural Environment Act 2026, and any regulations, national instruments, or natural environment plans made under that Act, in relation to the part of the activity that relates to New Zealand; or In section 90(b), replace “resource consent” with “natural resource permit”. In section 91(1)(a), replace “relevant resource consent authority” with “relevant permit authority”. In section 91(3), replace “section 88(2)(b) of the Resource Management Act 1991” with “clause 1(3) of Schedule 2 of the Natural Environment Act 2026”. Repeal section 91(4). In section 92(b), replace “resource consent” with “natural resource permit”. In section 93(1), replace “resource consent” with “natural resource permit”. In section 93(2), replace “resource and marine consents” with “a natural resource permit and a marine consent”. In section 93(3)(a), replace “resource consent is lodged with it and the relevant resource consent authority” with “natural resource permit is lodged with it and the relevant permit authority”. In section 93(5), replace “resource consent” with “natural resource permit” in each place. Repeal section 94. In section 94A(1) and
+  - (3)(d), replace “resource consent” with “natural resource permit”. In section 94A(3)(a), replace “relevant resource consent authority” with “relevant permit authority”. Replace section 94A(4)(a) with:
+  - (a) the relevant permit authority must resume processing the application for a natural resource permit under the Natural Environment Act 2026; and In section 96(2),
+  - (2)(b), and
+  - (2)(d), replace “relevant resource consent authority” with “relevant permit authority”. In section 96(3)(a), replace “resource consent” with “a natural resource permit”. In the heading to section 97, replace “consent” with “permit”. In section 97(1) and
+  - (2), replace “relevant consent authority” with “relevant permit authority”.
+  - Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72)—continued In the heading to section 98, replace “resource consent” with “natural resource permit”. In section 98(1)(b), replace “relevant resource consent authority must decide the application for a resource consent” with “relevant permit authority must decide the application for a natural resource permit”. Replace section 98(3) with:
+  - (3) Sections 162 to 180 and 186 to 195 of the Natural Environment Act 2026 apply to the application for a natural resource permit. Repeal sections 99, 99A, and 100. In section 113I(1)(b), replace “relevant resource consent authority” with “relevant permit authority”. In section 142(e), delete “, 99, or 99A”. In section 158B(4), definition of regulatory agency, replace paragraph
+  - (a) with:
+  - (a) a permit authority as that term is defined in section 3 of the Natural Environment Act 2026: (aa) a consent authority as that term is defined in section 3 of the Planning Act 2026: In Schedule 3, clause 8(1)(b)(iii), replace “relevant resource consent authority” with “relevant permit authority”. In Schedule 4, clause 5(3)(c)(iii), replace “relevant resource consent authority” with “relevant permit authority”. Farm Debt Mediation Act 2019 (2019 No 73) In section 6(1), definition of property, paragraph
+  - (b), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. Fast-track Approvals Act 2024 (2024 No 56) In section 4(1), definition of administering agency, paragraph
+  - (a), replace “and the Resource Management Act 1991” with “, the Planning Act 2026, and the Natural Environment Act 2026”. In section 4(1), definition of aquaculture decision, replace “clause 20” with “clause 40”. In section 4(1), definition of determination, replace “section 42(4)(a) or
+  - (b)” with “section 42(4)(aa) or (ba)”. In section 4(1), definition of reservation, replace “section 42(4)(a) or
+  - (b)” with “section 42(4)(aa) or (ba)”. In section 4(1), definition of specified Act, after paragraph
+  - (e), insert:
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued (ea) the Natural Environment Act 2026: (eb) the Planning Act 2026: In section 4(1), definition of specified Act, repeal paragraph
+  - (g). Replace section 4(2)(a) with:
+  - (a) the Natural Environment Act 2026 or the Planning Act 2026, if they are defined in either of those Acts: In section 4(2)(b), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 5(1)(e)(ii),—
+  - (a) replace “section 42(4)(a) (resource consent)” with “section 42(4)(aa) (natural resource permit)”; and
+  - (b) replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 5(1)(g), replace “section 165J, 165M, 165Q, 165ZC, or 165ZDB of the Resource Management Act 1991” with “clause 9, 12, 16, 29, or 30 of Schedule 4 of the Natural Environment Act 2026”. In section 5(1)(l)(ii), replace “section 15B of the Resource Management Act 1991” with “section 26 of the Natural Environment Act 2026”. In section 5(1)(l)(iii), replace “section 15C of the Resource Management Act 1991” with “section 27 of the Natural Environment Act 2026”. In section 5(1)(n), replace “or the Resource Management Act 1991” with “, the Natural Environment Act 2026, or the Planning Act 2026”. In section 13(4)(i), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 13(4)(y)(i),—
+  - (a) replace “resource consent” with “planning consent”; and
+  - (b) replace “clause 2” with “clause 5”. After section 13(4)(y)(i), insert: (ia) an approval described in section 42(4)(aa) (natural resource permit), the information specified in clause 24 of Schedule 5: Replace section 13(4)(y)(ii) with: (ii) an approval described in section 42(4)(b) (change or cancellation of planning consent), the information specified in clause 6 of Schedule 5: (iia) an approval described in section 42(4)(ba) (change or cancellation of natural resource permit), the information specified in clause 25 of Schedule 5:
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued Replace section 13(4)(y)(iii) with: (iii) an approval described in section 42(4)(c) (certificate of compliance under the Planning Act 2026), the information specified in clause 7 of Schedule 5: (iiia) an approval described in section 42(4)(ca) (certificate of compliance under the Natural Environment Act 2026), the information specified in clause 26 of Schedule 5: In section 13(4)(y)(vi),—
+  - (a) replace “section 42(4)(a) or
+  - (d)” with “section 42(4)(aa)”; and
+  - (b) replace “clause 4A” with “clause 27”. In section 13(6), replace “notice of requirement” with “proposed designation”. In section 17(3)(a)(ii), replace “section 42(4)(a) (resource consent), any existing resource consents” with “section 42(4)(aa) (natural resource permit), any existing natural resource permits”. In section 18(2)(c), after “Resource Management Act 1991”, insert “, the Natural Environment Act 2026, or the Planning Act 2026”. In section 18(2)(j), replace “resource consent, change or cancellation of resource consent condition” with “planning consent, natural resource permit, change or cancellation of consent or permit condition”. In section 21(5)(f), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 21(5)(h), replace “section 42(4)(a) (resource consent), there are 1 or more existing resource consents” with “section 42(4)(aa) (natural resource permit), there are 1 or more existing natural resource permits”. In section 21(7), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 22(2)(a)(i), replace “spatial strategy” with “regional spatial plan”. In section 22(2)(a)(iii), delete “(within the meaning of policy 1 of the National Policy Statement on Urban Development 2020)”. In section 22(2)(a)(x), replace “regional planning documents, including spatial strategies” with “natural environment planning documents, including regional spatial plans”. In section 22(7)(b),—
+  - (a) replace “section 42(4)(a) (resource consent)” with “section 42(4)(aa) (natural resource permit)”; and
+  - (b) replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 23(1)(a),—
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (a) replace “network utility operator” with “core infrastructure operator”; and
+  - (b) replace “requiring authority” with “designating authority”. In section 27(3)(b)(v), replace “section 42(4)(a) (resource consent), there are any existing resource consents” with “section 42(4)(aa) (natural resource permit), there are any existing natural resource permits”. In the cross-heading above section 30, replace “resource consent” with “natural resource permit”. In the heading to section 30, replace “resource consent” with “natural resource permit”. In section 30(1)(a), replace “section 42(4)(a) (resource consent)” with “section 42(4)(aa) (natural resource permit)”. In section 30(1)(b),
+  - (3)(a),
+  - (4),
+  - (5),
+  - (6)(a), and
+  - (7)(a), replace “resource consent” with “natural resource permit” in each place. In section 30(3)(a), replace “section 124C(1)(c) or 165ZI of the Resource Management Act 1991” with “section 198(1)(c) or clause 42 of Schedule 4 of the Natural Environment Act 2026”. In section 30(3)(b), replace “resource consents” with “natural resource permits”. Replace section 30(4)(b)(i) with:
+  - (i) lodge an application for a natural resource permit under the Natural Environment Act 2026 that is affected by section 195(a) or clause 41 of Schedule 4 of that Act; or In section 30(4)(b)(ii), replace “section 42(4)(a) (resource consent)” with “section 42(4)(aa) (natural resource permit)”. In section 31(1), replace “section 42(4)(a) (resource consent)” with “section 42(4)(aa) (natural resource permit)”. In section 40(b), replace “section 42(4)(a) (resource consent)” with “section 42(4)(aa) (natural resource permit)”. In section 42(4)(a) to
+  - (d), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 42(4)(a) and
+  - (b), replace “resource consent” with “planning consent”. After section 42(4)(a), insert: (aa) a natural resource permit that would otherwise be applied for under the Natural Environment Act 2026 (but see subsection (5A)): After section 42(4)(b), insert: (ba) a change or cancellation of a natural resource permit condition that would otherwise be applied for under the Natural Environment Act 2026 (but see subsection
+  - (6)):
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued After section 42(4)(c), insert: (ca) a certificate of compliance that would otherwise be applied for under the Natural Environment Act 2026 (but see subsections
+  - (7) and (7B)): In section 42(4)(d), replace “notice of requirement” with “proposed designation”. Replace section 42(5) with:
+  - (5) A substantive application that seeks an approval described in subsection
+  - (4)(a) may seek that approval for an activity that is a prohibited activity under the Planning Act 2026. After section 42(5), insert: (5A) A substantive application that seeks an approval described in subsection
+  - (4)(aa)—
+  - (a) may seek that approval for an activity that is a prohibited activity under the Natural Environment Act 2026:
+  - (b) must, if section 30(6) applies, be lodged within the time frame specified in that section. In section 42(6), after “subsection
+  - (4)(b)”, insert “or (ba)”. In section 42(6)(a), replace “subsection
+  - (4)(a) or
+  - (d)” with “subsection
+  - (4)(a), (aa), or
+  - (d)”. In section 42(7), after “subsection
+  - (4)(c)”, insert “or (ca)”. In section 42(7), replace “subsection
+  - (4)(a) or
+  - (d)” with “subsection
+  - (4)(a), (aa), or
+  - (d)”. Replace section 42(7A) with: (7A) A substantive application that, under subsection
+  - (7), seeks an approval described in subsection
+  - (4)(c) may only seek an approval of that kind in relation to an activity that would not require a planning consent under the Planning Act 2026. (7B) A substantive application that, under subsection
+  - (7), seeks an approval described in subsection
+  - (4)(ca) may only seek an approval of that kind in relation to an activity that would not require a natural resource permit under the Natural Environment Act 2026. In section 42(9)(a), replace “subsection
+  - (4)(a) or
+  - (d)” with “subsection
+  - (4)(a), (aa), or
+  - (d)”. Replace section 43(3)(a) to
+  - (c) with:
+  - (a) for an approval described in section 42(4)(a) (planning consent), clauses 8 to 10 of Schedule 5: (aa) for an approval described in section 42(4)(aa) (natural resource permit), clauses 28 to 31 of Schedule 5:
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (b) for an approval described in section 42(4)(b) (change or cancellation of planning consent condition), clause 11 of Schedule 5: (ba) for an approval described in section 42(4)(ba) (change or cancellation of natural resource permit condition), clause 32 of Schedule 5:
+  - (c) for an approval described in section 42(4)(c) (certificate of compliance under the Planning Act 2026), clause 12 of Schedule 5: (ca) for an approval described in section 42(4)(ca) (certificate of compliance under the Natural Environment Act 2026), clause 33 of Schedule 5: In section 43(3)(d), replace “clauses 9 and 12” with “clause 13”. In section 46(1), replace “and relevant consent authorities” with “, relevant consent authorities, and relevant permit authorities”. In the heading to section 47, replace “resource consents” with “natural resource permits”. In section 47(1), replace “relevant consent authorities” with “relevant permit authorities”. In section 47(1)(b), replace “section 42(4)(a) (resource consent), whether there are any existing resource consents” with “section 42(4)(aa) (natural resource permits), whether there are any existing natural resource permits”. In the heading to section 47A, replace “resource consents” with “natural resource permits”. In section 47A(2)(a) and
+  - (3)(b), replace “consent authority” with “permit authority”. In the heading above section 47A(4), replace “resource consents” with “natural resource permits”. In section 47A(4) and
+  - (5), replace “resource consents” with “natural resource permits”. In section 47B(1)(b), replace “resource consents” with “natural resource permits”. In section 48(1)(a), replace “section 42(4)(a) or
+  - (b) (resource consent or change or cancellation of resource consent condition)” with “section 42(4)(aa) or (ba) (natural resource permit or change or cancellation of natural resource permit condition)”. In section 48(1)(b), replace “section 42(4)(a)” with “section 42(4)(aa)”. In section 48(1)(b)(i), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 48(1)(c), replace “section 42(4)(b)” with “section 42(4)(ba)”. In section 48(2), replace “clauses 14 to 16” with “clauses 34 to 36”. In section 48(4), replace “clause 14” with “clause 34”. In section 53(2)(m)(i),—
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (a) replace “section 42(4)(a) or
+  - (d) (resource consent or designation)” with “section 42(4)(a), (aa), or
+  - (d) (planning consent, natural resource permit, or designation)”; and
+  - (b) replace “clause 13” with “clause 2”. In section 71(2), replace “clause 15” with “clause 35”. In section 80(2),—
+  - (a) replace “clause 20” with “clause 40”; and
+  - (b) replace “section 42(4)(a) or
+  - (b) (resource consent or change or cancellation of resource consent condition)” with “section 42(4)(aa) or (ba) (natural resource permit or change or cancellation of natural resource permit condition)”. In section 80(3)(a)(i), replace “consent authority” with “permit authority”. Replace section 81(3)(a) to
+  - (e) with:
+  - (a) for an approval described in section 42(4)(a) (planning consent), clauses 14 and 15 of Schedule 5: (aa) for an approval described in section 42(4)(aa) (natural resource permits), clauses 37 to 42 of Schedule 5: (ab) for an approval described in section 42(4)(b) (change or cancellation of planning consent condition), clause 16 of Schedule 5:
+  - (b) for an approval described in section 42(4)(ba) (change or cancellation of natural resource permit condition), in relation to a condition of a coastal permit specified under section 186H(3) of the Fisheries Act 1996, clauses 40 to 42 of Schedule 5:
+  - (c) for any other approval described in section 42(4)(ba) (change or cancellation of natural resource permit condition), clause 43 of Schedule 5:
+  - (d) for an approval described in section 42(4)(c) (certificate of compliance under the Planning Act 2026), clause 19 of Schedule 5: (da) for an approval described in section 42(4)(ca) (certificate of compliance under the Natural Environment Act 2026), clause 44 of Schedule 5:
+  - (e) for an approval described in section 42(4)(d) (designation), clauses 17 and 18 of Schedule 5: Replace section 85(1)(c) and
+  - (d) with:
+  - (c) in the case of an approval described in section 42(4)(b) (change or cancellation of planning consent condition), the approval must be declined under clause 16 of Schedule 5: (ca) in the case of an approval described in section 42(4)(ba) (change or cancellation of natural resource permit condition), the approval must be declined under clause 43 of Schedule 5:
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (d) in the case of an approval described in section 42(4)(c) (certificate of compliance under the Planning Act 2026), the approval must be declined under clause 19 of Schedule 5: (da) in the case of an approval described in section 42(4)(ca) (certificate of compliance under the Natural Environment Act 2026), the approval must be declined under clause 44 of Schedule 5: In section 85(2),—
+  - (a) replace “section 42(4)(a) (resource consent)” with “section 42(4)(aa) (natural resource permit)”; and
+  - (b) replace “clause 17(5)” with “clause 37(5)”. Replace section 87(2)(b) with:
+  - (b) for an approval described in—
+  - (i) section 42(4)(a), (aa), or
+  - (d) (planning consent, natural resource permit, or designation), may specify a date on which the approval lapses in accordance with clause 3 of Schedule 5: (ii) section 42(4)(aa) or (ba) (natural resource permit or change or cancellation of natural resource permit condition), must comply with clause 42 of Schedule 5, if applicable: (iii) section 42(4)(c) (certificate of compliance under the Planning Act 2026), must comply with clause 20 of Schedule 5: (iv) section 42(4)(ca) (certificate of compliance under the Natural Environment Act 2026), must comply with clause 45 of Schedule 5: In section 89(2), replace “requirement for a designation” with “proposed designation”. In section 89(2)(a), replace “district plan and any proposed district plan under clause 30” with “land use plan and any proposed land use plan under clause 22”. Replace section 95(1)(b) with:
+  - (b) for an approval under a specified Act or an exploration permit or existing privilege referred to in section 42(11), is lodged more than 3 months before the existing approval is due to expire. Replace section 95(4)(b) with:
+  - (b) a right under section 191 of the Planning Act 2026 to continue operating under a planning consent: (ba) a right to continue operating under a natural resource permit under—
+  - (i) section 195(a) of the Natural Environment Act 2026, which applies section 191(3) of the Planning Act 2026; or
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued (ii) clause 41(2)(c) of Schedule 4 of the Natural Environment Act 2026: Replace section 96(2)(a) with:
+  - (a) for an approval described in section 42(4)(a),
+  - (b),
+  - (c), or
+  - (d) (planning consent, change or cancellation of planning consent condition, certificate of compliance, or designation), clauses 4 and 23 of Schedule 5: (aa) for an approval described in section 42(4)(aa), (ba), or (ca) (natural resource permit, change or cancellation of natural resource permit condition, or certificate of compliance), clauses 4 and 46 to 49 of Schedule 5: In section 97(2)(a),—
+  - (a) replace “section 42(4)(a) or
+  - (b)” with “section 42(4)(aa) or (ba)”; and
+  - (b) replace “clauses 22 and 35” with “clauses 42 and 48”. In section 97(2)(b), replace “clause 30” with “clause 22”. In section 100(4)(c), replace “section 42(4)(a) or
+  - (b)” with “section 42(4)(aa) or (ba)”. In section 103, replace the definition of administering agency with: administering agency has the meaning given in section 4(1), and also includes, in relation to their functions, duties, and powers under this Act,—
+  - (a) the chief executives of the departments that, with the authority of the Prime Minister, are responsible for administering—
+  - (i) the Natural Environment Act 2026; and (ii) the Planning Act 2026; and
+  - (b) the Ministry for Culture and Heritage; and
+  - (c) the Ministry for Primary Industries; and
+  - (d) the Office of Treaty Settlements and Takutai Moana—Te Tari Whakatau; and
+  - (e) the Ministry of Māori Development—Te Puni Kōkiri In Schedule 3, clause 5(1)(a), replace “resource consent applications or notice of requirement” with “resource consent, planning consent, or natural resource permit applications or proposed designations”. In Schedule 3, clause 5(1)(a), after “Resource Management Act 1991”, insert “, the Natural Environment Act 2026, or the Planning Act 2026”. In Schedule 3, replace clause 11 with:
+## Clause 11 — Protection of sensitive information
+  - (1) When a panel is assessing a proposed approval under the Planning Act 2026, section 339 of that Act applies with any necessary modifications, as if the panel were a relevant authority.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (2) When a panel is assessing a proposed approval under the Natural Environment Act 2026, section 341 of that Act applies with any necessary modifications, as if the panel were a relevant authority. Replace Schedule 5 with: Schedule 5 Approvals relating to Natural Environment Act 2026 and Planning Act 2026
+### Part 1
+  - Provisions applying to all approvals
+## Clause 1 — Interpretation
+  - In this schedule,— application for the change or cancellation of a condition means an application for an approval described in section 42(4)(b) or (ba) certificate of compliance means an approval of the kind described in section 42(4)(c) or (ca) coastal permit has the meaning given in section 133(a) of the Natural Environment Act 2026 designation means a designation for which an application is lodged under section 42(4)(d) natural resource permit application or permit application means an application for an approval described in section 42(4)(aa) planning consent application or consent application means an application for an approval described in section 42(4)(a) proposed designation means an application for an approval described in section 42(4)(d).
+## Clause 2 — Persons to be invited to provide written comments
+  - For the purposes of section 53(2)(m)(i), the persons or groups are—
+  - (a) the Director-General of Conservation:
+  - (b) iwi authorities and groups that represent hapū that are parties to relevant joint management agreements.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+## Clause 3 — Content of decision document for planning consent, natural resource
+  - permit, or designation
+  - (1) A decision document for a planning consent, natural resource permit, or designation may specify the date on which the approval lapses unless it is given effect to by the specified date.
+  - (2) A date specified under subclause
+  - (1) must be no less than 2 years after the approval commences.
+  - (3) If no date is specified under subclause
+  - (1), the approval lapses 2 years after it commences.
+## Clause 4 — Status of planning consents, natural resource permits, or certificates of
+  - compliance granted, or designations confirmed or modified, under this Act and role of local authority
+  - (1) This clause applies to the following:
+  - (a) a planning consent that is granted under this Act:
+  - (b) a planning consent for which a condition of the consent is changed or cancelled under this Act:
+  - (c) a natural resource permit that is granted under this Act:
+  - (d) a natural resource permit for which a condition of the permit is changed or cancelled under this Act:
+  - (e) a certificate of compliance that is granted under this Act:
+  - (f) a designation that is confirmed or modified and included in a land use plan.
+  - (2) The local authority that, but for this Act, would have had responsibility—
+  - (a) for granting a planning consent or certificate of compliance under the Planning Act 2026 has all the functions, powers, and duties in relation to a planning consent or certificate of compliance granted under this Act, or a planning consent with a condition changed or cancelled under this Act, as if it had granted the planning consent or certificate of compliance itself; and
+  - (b) for granting a natural resource permit or certificate of compliance under the Natural Environment Act 2026 has all the functions, powers, and duties in relation to a natural resource permit or certificate of compliance granted under this Act, or a natural resource permit with a condition changed or cancelled under this Act, as if it had granted the natural resource permit or certificate of compliance itself; and
+  - (c) for recommending, under the Planning Act 2026, that a designation be confirmed or modified, has all the functions, powers, and duties in relation to the designation as if it had dealt with the matter itself.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (3) Unless otherwise specified in this Act,—
+  - (a) a planning consent or certificate of compliance granted, or a designation confirmed or modified and included in a land use plan, or a planning consent with a condition changed or cancelled, under this Act has full force and effect for its duration, and according to its terms and conditions, as if it were granted under the Planning Act 2026; and
+  - (b) a natural resource permit or certificate of compliance granted, or a natural resource permit with a condition changed or cancelled, under this Act has full force and effect for its duration, and according to its terms and conditions, as if it were granted under the Natural Environment Act 2026; and
+  - (c) any provision of an enactment that refers to a planning consent or certificate of compliance granted, or a designation confirmed or modified and included in a land use plan, under the Planning Act 2026 (including any such provision in that Act) must be read, with any necessary modifications, as including a planning consent or certificate of compliance granted, or a designation confirmed and included in a land use plan, or a planning consent with a condition changed or cancelled, under this Act; and
+  - (d) any provision of an enactment that refers to a natural resource permit or certificate of compliance granted under the Natural Environment Act 2026 (including any such provision in that Act) must be read, with any necessary modifications, as including a natural resource permit or certificate of compliance granted, or a natural resource permit with a condition changed or cancelled, under this Act.
+  - (4) Despite subclause
+  - (3)(b), section 188 of the Natural Environment Act 2026 does not apply in respect of the commencement of coastal permits for aquaculture activities granted under this Act.
+  - (5) To avoid doubt, the functions, powers, and duties referred to in subclause
+  - (2) include—
+  - (a) determining any application to extend the period during which a consent may not lapse under section 194(2) or clause 51 of Schedule 5 of the Planning Act 2026; and
+  - (b) determining any application to extend the period during which a natural resource permit may not lapse under section 195 of the Natural Environment Act 2026, which applies section 194 of the Planning Act 2026; and
+  - (c) determining any application for a change or cancellation of a condition of a planning consent under section 197 of the Planning Act 2026; and
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (d) determining any application for a change or cancellation of a condition of a natural resource permit under section 199 of the Natural Environment Act 2026.
+### Part 2
+  - Provisions relating to Planning Act 2026 approvals Information required in referral application
+## Clause 5 — Information about planning consent or proposed designation required in
+  - referral application The information required to be provided under section 13(4)(y)(i) is an assessment of the project against—
+  - (a) any relevant national policy direction under the Planning Act 2026; and
+  - (b) any relevant national standards under the Planning Act 2026.
+## Clause 6 — Information about change or cancellation of condition required in referral
+  - application The information to be provided under section 13(4)(y)(ii) is information about whether the change or cancellation of the condition is material to the implementation or delivery of the project.
+## Clause 7 — Information about certificate of compliance required in referral
+  - application The information required to be provided under section 13(4)(y)(iii) is information that shows the activity that the certificate of compliance is intended to cover can be done lawfully in the particular location without a planning consent. Application requirements, etc, for substantive application
+## Clause 8 — Information required in planning consent application
+  - (1) For the purposes of section 43(3)(a), a planning consent application must include the following information:
+  - (a) a description of the proposed activity; and
+  - (b) a description and map of the site at which the activity is to occur, including whether the site is within or adjacent to—
+  - (i) a statutory area (as defined in the relevant Treaty settlement Act); or (ii) ngā rohe moana o ngā hapū o Ngāti Porou; or
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued (iii) a protected customary rights area under the Marine and Coastal Area (Takutai Moana) Act 2011; and
+  - (c) confirmation that the planning consent application complies with section 46(2)(a),
+  - (b), and
+  - (d); and
+  - (d) the full name and address of—
+  - (i) each owner of the site and of land adjacent to the site; and (ii) each occupier of the site and of land adjacent to the site whom the applicant is able to identify after reasonable inquiry; and
+  - (e) a description of any other activities that are part of the proposal to which the planning consent application relates; and
+  - (f) a description of any other planning consents, natural resource permits, proposed designations, or alterations to designations required for the project to which the planning consent application relates; and
+  - (g) an assessment of the activity against the goals in section 13 of the Planning Act 2026, to the extent relevant having regard to section 14 of that Act; and
+  - (h) an assessment of the activity against any relevant provisions in any of the documents listed in subclause
+  - (2); and
+  - (i) information about any Treaty settlements that apply in the area covered by the consent application, including—
+  - (i) identification of the relevant provisions in those Treaty settlements; and (ii) a summary of any redress provided by those settlements that affects natural and physical resources relevant to the project or project area; and
+  - (j) a list of any relevant customary marine title groups, protected customary rights groups, ngā hapū o Ngāti Porou (where an application is within, adjacent to, or directly affecting ngā rohe moana o ngā hapū o Ngāti Porou), or applicants under the Marine and Coastal Area (Takutai Moana) Act 2011; and
+  - (k) any conditions that the applicant proposes for the planning consent.
+  - (2) The documents referred to in subclause
+  - (1)(h) are the following:
+  - (a) a national instrument made under the Planning Act 2026:
+  - (b) regulations made under the Planning Act 2026:
+  - (c) a land use plan or proposed land use plan:
+  - (d) a planning document recognised by a relevant iwi authority and lodged with a local authority.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (3) An assessment under subclause
+  - (1)(h) must include an assessment of the activity against—
+  - (a) any relevant directions, directives, objectives, policies, or rules in a document listed in subclause
+  - (2); and
+  - (b) any requirement, condition, or permission in any rules in any of those documents; and
+  - (c) any other requirements in any of those documents.
+  - (4) A planning consent application must include an assessment of the activity’s effects on the built environment that includes the information required by, and covers the matters specified in, clause 9.
+  - (5) A planning consent application must also include the following information:
+  - (a) if a permitted activity is part of the proposal to which the planning consent application relates, a description that demonstrates that the activity complies with the requirements, conditions, and permissions for the permitted activity; and
+  - (b) if the activity is to occur in an area that is within the scope of a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011 or the environmental covenant prepared by ngā hapū o Ngāti Porou under section 19 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019, an assessment of the activity against any resource management matters set out in that document; and
+  - (c) if the activity is to occur in an area that is a taiāpure-local fishery, a mātaitai reserve, or an area that is subject to bylaws made under Part 9 of the Fisheries Act 1996, an assessment of the effects of the activity on the use or management of the area.
+  - (6) If the applicant is not able to supply the name and address of the owner and each occupier of the site and of land adjacent to the site because the land is Māori land in multiple ownership, the applicant must include a statement to that effect.
+  - (7) If the substantive application is to be lodged by more than 1 authorised person, the references to the applicant in subclauses
+  - (1)(d) and
+  - (k) and
+  - (6) must be read as references to the authorised person who is to be identified in the application as the proposed holder of the planning consent.
+## Clause 9 — Information required to assess effects
+  - (1) The assessment of an activity’s effects on the built environment under clause 8(4) must include the following information:
+  - (a) an assessment of the actual or potential effects on the built environment:
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (b) if the activity includes the use of hazardous installations, an assessment of any risks to the built environment that are likely to arise from such use:
+  - (c) a description of how any adverse effects on the built environment will be—
+  - (i) avoided, remedied, or mitigated, where practicable; or (ii) offset or compensated for, where appropriate:
+  - (d) identification of persons who may be affected by the activity and any response to the views of any persons consulted, including the views of iwi, hapū, or Treaty settlement entities that have been notified in relation to the proposal:
+  - (e) if iwi or hapū elect not to respond when consulted on the proposal, any reasons that they have specified for that decision:
+  - (f) if the scale and significance of the activity’s effects are such that monitoring is required, a description of how the effects will be monitored and by whom, if the activity is approved:
+  - (g) an assessment of any effects of the activity on the exercise of a protected customary right.
+  - (2) A consent application need not include any additional information specified in a relevant national rule or land use plan that would be required in an assessment of effects under clause 6 of Schedule 6 of the Planning Act 2026.
+## Clause 10 — Information required in application for subdivision
+  - In addition to the information required under clause 8, a planning consent application for a subdivision must include information that adequately defines the following:
+  - (a) the position of all new boundaries; and
+  - (b) the areas of all new allotments, unless the subdivision involves a cross lease, company lease, or unit plan; and
+  - (c) the locations and areas of new reserves to be created, including any esplanade reserves and esplanade strips; and
+  - (d) the locations and areas of existing esplanade reserves, esplanade strips, and access strips; and
+  - (e) the locations and areas of any part of the bed of a river or lake to be vested in a territorial authority under clause 20 of Schedule 7 of the Planning Act 2026; and
+  - (f) the locations and areas of any land within the coastal marine area that are to become part of the common marine and coastal area under clause 20 of Schedule 7 of the Planning Act 2026; and
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (g) the locations and areas of land to be set aside as new roads.
+## Clause 11 — Information required in application for change or cancellation of planning
+  - consent condition For the purposes of section 43(3)(b), an application for the change or cancellation of a planning consent condition must include the same information as required by clauses 8 to 10, and those clauses apply as if references to—
+  - (a) a planning consent were references to the change or cancellation of a condition; and
+  - (b) an activity were references to the effects of the change or cancellation of the condition.
+## Clause 12 — Information required in application for certificate of compliance under
+  - Planning Act 2026
+  - (1) For the purposes of section 43(3)(c), an application for a certificate of compliance must include the following information:
+  - (a) a description of the proposed activity; and
+  - (b) confirmation that the application for the certificate of compliance complies with section 46(2)(a),
+  - (b), and
+  - (d); and
+  - (c) a description of any other planning consents, natural resource permits, proposed designations, or alterations to designations required for the project to which the application for the certificate of compliance relates; and
+  - (d) an explanation of how the activity meets the relevant provisions of the land use plan and any relevant national standard.
+  - (2) If the activity is to occur in an area that is within the scope of a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011 or the environmental covenant prepared by ngā hapū o Ngāti Porou under section 19 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019, the application must include an assessment of the activity against any resource management matters set out in that document.
+## Clause 13 — Information required in proposed designation
+  - (1) For the purposes of section 43(3)(d), a proposed designation must include the following information:
+  - (a) a description and map of the site to which the proposed designation applies, including whether the site is within or adjacent to a statutory area (as defined in the relevant Treaty settlement Act); and
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (b) information on the effects of the proposed project or work on the built environment, together with a description of how any adverse effects will be mitigated; and
+  - (c) confirmation that the proposed designation complies with section 46(2)(a),
+  - (b), and
+  - (d); and
+  - (d) an assessment of the project or work against—
+  - (i) the goals in section 13 of the Planning Act 2026, to the extent relevant having regard to section 14 of that Act; and (ii) any relevant provisions in any of the documents listed in subclause
+  - (2); and
+  - (e) information about any Treaty settlements that apply in the area to which the substantive application relates, including—
+  - (i) identification of the relevant provisions in those Treaty settlements; and (ii) a summary of any redress provided by those settlements that affects natural and physical resources relevant to the area to which the substantive application relates; and
+  - (f) the full name and address of—
+  - (i) each owner of the land to which the proposed designation relates and of the land adjacent to that land; and (ii) each occupier of the land to which the proposed designation relates and of land adjacent to that land whom the designating authority is able to identify after reasonable inquiry; and
+  - (g) an assessment of whether the project or work and the designation sought are reasonably necessary for achieving the objectives of the designating authority; and
+  - (h) any consideration of alternative sites, routes, or methods of undertaking the project or work; and
+  - (i) a list of the planning consents and natural resource permits needed for the project or work and whether they have been applied for; and
+  - (j) a description of any consultation undertaken with parties likely to be affected by the project or work and the designation; and
+  - (k) any conditions that the designating authority proposes for the designation.
+  - (2) The documents referred to in subclause
+  - (1)(d)(ii) are the following:
+  - (a) a national policy direction:
+  - (b) a national standard:
+  - (c) regulations made under the Planning Act 2026.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (3) If the applicant is not able to supply the name and address of the owner and each occupier of the site and of land adjacent to the site because the land is Māori land in multiple ownership, the applicant must include a statement to that effect.
+  - (4) If the substantive application is to be lodged by more than 1 authorised person, the references to the applicant in subclause
+  - (3) must be read as references to the authorised person who is to be identified in the application as the proposed holder of the proposed designation. Panel decision
+## Clause 14 — Criteria and other matters for assessment of planning consent application
+  - (1) For the purposes of section 81, when considering a planning consent application, including conditions in accordance with clause 15, the panel must take into account, giving the greatest weight to paragraph
+  - (a),—
+  - (a) the purpose of this Act; and
+  - (b) the provisions of Parts 2 and 4 and Schedules 5 and 7 of the Planning Act 2026 that direct decision-making on an application for a consent; and
+  - (c) the relevant provisions of any other legislation that directs decision-making under the Planning Act 2026.
+  - (2) For the purpose of applying any provisions in subclause
+  - (1),—
+  - (a) if the consent application relates to an activity that is the subject of a determination under section 23 of this Act, the panel must treat the effects of the activity on the relevant land and on the rights or interests of Māori as a relevant matter under section 13(1)(i) of the Planning Act 2026; and
+  - (b) to avoid doubt, for the purposes of subclause
+  - (1)(b), any joint management agreement that is relevant to the approval is a relevant matter.
+  - (3) Subclause
+  - (4) applies to any provision of the Planning Act 2026 (including, for example, section 39 of the Planning Act 2026) or any other legislation referred to in subclause
+  - (1)(c) that would require a decision maker to decline an application for a planning consent.
+  - (4) For the purposes of subclause
+  - (1), the panel must take into account that the provision referred to in subclause
+  - (3) would normally require an application to be declined, but must not treat the provision as requiring the panel to decline the application the panel is considering.
+  - (5) For the purposes of subclause
+  - (1), the provisions referred to in that subclause must be read with all necessary modifications, including that a reference to a consent authority must be read as a reference to a panel.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (6) Section 190 of the Planning Act 2026 applies to a decision of the panel on the consent.
+## Clause 15 — Conditions on planning consent
+  - When setting conditions on a consent, the provisions of Part 4 and Schedule 7 of the Planning Act 2026 that are relevant to setting conditions on a planning consent apply to the panel, subject to all necessary modifications, including the following:
+  - (a) a reference to a consent authority must be read as a reference to a panel; and
+  - (b) a reference to services or works must be read as a reference to any activities that are the subject of the consent application.
+## Clause 16 — Criteria for assessment of application for change or cancellation of
+  - condition For the purposes of section 81, when considering an application for the change or cancellation of a condition,—
+  - (a) the panel must apply section 197(1) and
+  - (2) of the Planning Act 2026 as if,—
+  - (i) in section 197(2) of the Planning Act 2026, the reference to subparts 1 to 5 of Part 4 of that Act were to the provisions of those subparts that relate to decision-making on a planning consent; and (ii) the provisions of subparts 1 to 5 of Part 4 of that Act were read with all necessary modifications, including that a reference to a consent authority must be read as a reference to a panel; and
+  - (b) the panel must consider any joint management agreement that is relevant to the approval; and
+  - (c) to avoid doubt, section 197(3) of the Planning Act 2026 does not apply.
+## Clause 17 — Criteria and other matters for assessment of proposed designation
+  - (1) For the purposes of section 81, when considering a proposed designation, including conditions in accordance with clause 18, the panel must, giving the greatest weight to paragraph
+  - (a)(i),—
+  - (a) take into account—
+  - (i) the purpose of this Act; and (ii) the provisions of Schedule 5 of the Planning Act 2026 that direct decision-making on an application for a designation (except clause 15 of Schedule 5 of that Act); and (iii) the relevant provisions of any other legislation that directs decision-making under the Planning Act 2026; and
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (b) consider any joint management agreement that is relevant to the approval.
+  - (2) For the purpose of applying any provisions in subclause
+  - (1), if the proposed designation relates to an activity that is the subject of a determination under section 23 of this Act, the panel must treat the effects of the activity on the relevant land and on the rights or interests of Māori as a relevant matter under section 13 of the Planning Act 2026.
+  - (3) For the purposes of subclause
+  - (1), the provisions referred to in that subclause must be read with all necessary modifications, including (where appropriate) that a reference to a consent authority must be read as a reference to a panel.
+## Clause 18 — Conditions on designation
+  - When setting conditions on a designation, the provisions of Schedule 5 of the Planning Act 2026 relevant to setting conditions on a designation apply to the panel, subject to all necessary modifications, as if references to a consent authority were references to a panel.
+## Clause 19 — Criteria and other matters for assessment of applications for certificate of
+  - compliance
+  - (1) For the purposes of section 81, the panel must grant the certificate of compliance if the activity that the certificate is intended to cover can be done lawfully in the particular location without a planning consent.
+  - (2) The panel must not grant the certificate of compliance if—
+  - (a) the application under this Act for the certificate is made after a proposed plan is notified; and
+  - (b) the activity could not be done lawfully in the particular location without a planning consent under the proposed plan.
+  - (3) The panel must not grant a certificate of compliance under the Planning Act 2026 if a notice for the activity is in force under section 207(1)(d) of that Act.
+## Clause 20 — Content of decision document for certificate of compliance
+  - Section 208(2) of the Planning Act 2026 applies to a certificate of compliance issued under this Act. Provisions applying to approvals once granted
+## Clause 21 — Panel may waive requirement for construction project plan for
+  - designation If a panel grants a designation,—
+  - (a) it may waive the requirement for a construction project plan as required by Part 5 of Schedule 5 of the Planning Act 2026; but
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (b) if it does not waive the requirement under that Part, the construction project plan must be submitted to the territorial authority in accordance with that Part.
+## Clause 22 — Designations to be included in land use plans
+  - (1) This clause applies after a panel issues a decision document under section 88 confirming or modifying a designation (with or without modification).
+  - (2) The territorial authority must, without using Schedule 3 of the Planning Act 2026,—
+  - (a) include the designation in its land use plan and any proposed land use plan, as if it were a rule in the plan or proposed plan; and
+  - (b) state in the plan and any proposed plan the name of the designating authority that has the benefit of the designation.
+  - (3) The designation commences when it is included in a land use plan.
+## Clause 23 — Interim effect of designations
+  - Clause 5 of Schedule 5 of the Planning Act 2026 applies, with the necessary modifications, to an application for an approval described in section 42(4)(d).
+### Part 3
+  - Provisions relating to Natural Environment Act 2026 approvals Information required in referral application
+## Clause 24 — Information about natural resource permit required in referral
+  - application
+  - (1) The information required to be provided under section 13(4)(y)(ia) is—
+  - (a) an assessment of the project against—
+  - (i) any relevant national policy direction under the Natural Environment Act 2026; and (ii) any relevant national standards under the Natural Environment Act 2026; and
+  - (b) in relation to any proposed approval that is a natural resource permit, whether, to the best of the applicant’s knowledge, there are any existing natural resource permits of the kind referred to in section 30(3)(a).
+  - (2) If the referral application is to be lodged by more than 1 person, the reference to the applicant in subclause
+  - (1)(b) must be read as a reference to the person who is to be identified in the application as the proposed holder of the natural resource permit.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+## Clause 25 — Information about change or cancellation of condition required in referral
+  - application The information to be provided under section 13(4)(y)(iia) is information about whether the change or cancellation of the condition is material to the implementation or delivery of the project.
+## Clause 26 — Information about certificate of compliance required in referral
+  - application The information required to be provided under section 13(4)(y)(iiia) is information that shows the activity that the certificate of compliance is intended to cover can be done lawfully in the particular location without a natural resource permit.
+## Clause 27 — Information about standard freshwater fisheries activity
+  - The information required to be provided under section 13(4)(y)(vi) is the following:
+  - (a) whether an in-stream structure is proposed (including formal notification of any dam or diversion structure) and the extent to which the proposed structure may impede fish passage; and
+  - (b) whether any fish salvage activities are proposed. Application requirements, etc, for substantive application
+## Clause 28 — Information required in natural resource permit application
+  - (1) For the purposes of section 43(3)(aa), a natural resource permit application must include the following information:
+  - (a) a description of the proposed activity; and
+  - (b) a description and map of the site at which the activity is to occur, including whether the site is within or adjacent to—
+  - (i) a statutory area (as defined in the relevant Treaty settlement Act); or (ii) ngā rohe moana o ngā hapū o Ngāti Porou; or (iii) a protected customary rights area under the Marine and Coastal Area (Takutai Moana) Act 2011; and
+  - (c) confirmation that the natural resource permit application complies with section 46(2)(a),
+  - (b), and
+  - (d); and
+  - (d) the full name and address of—
+  - (i) each owner of the site and of land adjacent to the site; and (ii) each occupier of the site and of land adjacent to the site whom the applicant is able to identify after reasonable inquiry; and
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (e) a description of any other activities that are part of the proposal to which the natural resource permit application relates; and
+  - (f) a description of any other planning consents, natural resource permits, proposed designations, or alterations to designations required for the project to which the natural resource permit application relates; and
+  - (g) an assessment of the activity against the goals in section 13 of the Natural Environment Act 2026, to the extent relevant having regard to section 14 of that Act; and
+  - (h) an assessment of the activity against any relevant provisions in any of the documents listed in subclause
+  - (2); and
+  - (i) information about any Treaty settlements that apply in the area covered by the natural resource permit application, including—
+  - (i) identification of the relevant provisions in those Treaty settlements; and (ii) a summary of any redress provided by those settlements that affects natural and physical resources relevant to the project or project area; and
+  - (j) a list of any relevant customary marine title groups, protected customary rights groups, ngā hapū o Ngāti Porou (where an application is within, adjacent to, or directly affecting ngā rohe moana o ngā hapū o Ngāti Porou), or applicants under the Marine and Coastal Area (Takutai Moana) Act 2011; and
+  - (k) any conditions that the applicant proposes for the natural resource permit; and
+  - (l) if a notice under section 30(3)(b) or
+  - (5) has been received,—
+  - (i) a copy of that notice showing that it was received within the time frame specified in section 30(6)(b); and (ii) if a notice has been received under section 30(5), any more up-to- date information that the applicant is aware of about the existing natural resource permit referred to in the notice.
+  - (2) The documents referred to in subclause
+  - (1)(h) are the following:
+  - (a) national instruments made under the Natural Environment Act 2026:
+  - (b) regulations made under the Natural Environment Act 2026:
+  - (c) a natural environment plan or proposed natural environment plan:
+  - (d) a planning document recognised by a relevant iwi authority and lodged with a local authority.
+  - (3) An assessment under subclause
+  - (1)(h) must include an assessment of the activity against—
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (a) any relevant directions, directives, objectives, policies, or rules in a document listed in subclause
+  - (2); and
+  - (b) any requirement, condition, or permission in any rules in any of those documents; and
+  - (c) any other requirements in any of those documents.
+  - (4) A natural resource permit application must include an assessment of the activity’s effects that includes the information required by, and covers the matters specified in, clause 30.
+  - (5) A natural resource permit application must also include the following information:
+  - (a) if a permitted activity is part of the proposal to which the natural resource permit application relates, a description that demonstrates that the activity complies with the requirements, conditions, and permissions for the permitted activity; and
+  - (b) if the activity is to occur in an area that is within the scope of a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011 or the environmental covenant prepared by ngā hapū o Ngāti Porou under section 19 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019, an assessment of the activity against any resource management matters set out in that document; and
+  - (c) if the activity is to occur in an area that is a taiāpure-local fishery, a mātaitai reserve, or an area that is subject to bylaws made under Part 9 of the Fisheries Act 1996, an assessment of the effects of the activity on the use or management of the area.
+  - (6) If the applicant is not able to supply the name and address of the owner and each occupier of the site and of land adjacent to the site because the land is Māori land in multiple ownership, the applicant must include a statement to that effect.
+  - (7) If the substantive application is to be lodged by more than 1 authorised person, the references to the applicant in subclauses
+  - (1)(d),
+  - (k), and
+  - (l) and
+  - (6) must be read as references to the authorised person who is to be identified in the application as the proposed holder of the natural resource permit.
+## Clause 29 — Information required in application for reclamation
+  - In addition to the information required by clause 28, a natural resource permit application for a reclamation must include information to show the area to be reclaimed, including the following:
+  - (a) the location of the area to be reclaimed:
+  - (b) if practicable, the position of all new boundaries:
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (c) any part of the reclaimed area to be set aside as an esplanade reserve or esplanade strip.
+## Clause 30 — Information required to assess effects
+  - (1) The assessment of an activity’s effects under clause 28(4) must include the following information:
+  - (a) an assessment of the actual or potential effects on natural resources and people:
+  - (b) if the activity includes the use of hazardous installations, an assessment of any risks to natural resources and people that are likely to arise from such use:
+  - (c) if the activity includes the discharge of any contaminant, a description of—
+  - (i) the nature of the discharge and the sensitivity of the receiving environment to adverse effects; and (ii) any possible alternative methods of discharge, including discharge into any other receiving environment:
+  - (d) a description of how any adverse effects on natural resources and people will be—
+  - (i) avoided, remedied, or mitigated, where practicable; or (ii) offset or compensated for, where appropriate:
+  - (e) an assessment of whether there is a material risk that the proposal would breach any relevant environmental limits:
+  - (f) identification of persons who may be affected by the activity and any response to the views of any persons consulted, including the views of iwi or hapū that have been consulted in relation to the proposal:
+  - (g) if iwi or hapū elect not to respond when consulted on the proposal, any reasons that they have specified for that decision:
+  - (h) if the scale and significance of the activity’s effects are such that monitoring is required, a description of how the effects will be monitored and by whom, if the activity is approved:
+  - (i) an assessment of any effects of the activity on the exercise of a protected customary right.
+  - (2) A natural resource permit application need not include any additional information specified in a relevant national rule or natural environment plan that would be required in an assessment of effects under clause 4 of Schedule 2 of the Natural Environment Act 2026.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+## Clause 31 — Information required in application including standard freshwater
+  - fisheries activity For the purposes of section 43(3)(aa), an application for a natural resource permit for a project that includes a standard freshwater fisheries activity must include the following information:
+  - (a) in relation to the structure and any fish facility,—
+  - (i) a description of the type of structure or fish facility: (ii) the dimensions of the structure or fish facility: (iii) the design of the structure or fish facility: (iv) the placement of the structure or fish facility:
+  - (v) the water flows: (vi) the operating regime:
+  - (b) the freshwater species and values present (with particular focus on threatened, data-deficient, and at-risk species as defined in the New Zealand Threat Classification System):
+  - (c) the water quality and quantity in the surrounding habitat (at the proposed structure location, upstream and downstream):
+  - (d) how the passage of fish will be provided for or impeded.
+## Clause 32 — Information required in application for change or cancellation of natural
+  - resource permit condition For the purposes of section 43(3)(ba), an application for the change or cancellation of a natural resource permit condition must include the same information as required by clauses 28, 30, and 31, and those clauses apply as if references to—
+  - (a) a natural resource permit were references to the change or cancellation of a condition; and
+  - (b) an activity were references to the effects of the change or cancellation of the condition.
+## Clause 33 — Information required in application for certificate of compliance
+  - (1) For the purposes of section 43(3)(ca), an application for a certificate of compliance must include the following information:
+  - (a) a description of the proposed activity; and
+  - (b) confirmation that the application for the certificate of compliance complies with section 46(2)(a),
+  - (b), and
+  - (d); and
+  - (c) a description of any other planning consents, natural resource permits, proposed designations, or alterations to designations required for the
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued project to which the application for the certificate of compliance relates; and
+  - (d) an explanation of how the activity meets the relevant provisions of the natural environment plan and any relevant national standard.
+  - (2) If the activity is to occur in an area that is within the scope of a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011 or the environmental covenant prepared by ngā hapū o Ngāti Porou under section 19 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019, the application must include an assessment of the activity against any resource management matters set out in that document. Recommendation by relevant chief executive on aquaculture decision requested under section 48
+## Clause 34 — Chief executive may seek information or consult certain persons
+  - (1) For the purpose of making a recommendation on an aquaculture decision requested under section 48, the relevant chief executive may seek information relevant to the application for the natural resource permit from—
+  - (a) the applicant:
+  - (b) any fisher whose interests may be affected:
+  - (c) persons and organisations that the relevant chief executive considers represent the classes of persons who have customary, commercial, or recreational fishing interests that may be affected by the granting of the coastal permit or change to, or cancellation of, the conditions of the coastal permit.
+  - (2) Before making a recommendation on an aquaculture decision, the relevant chief executive may consult any of the persons or organisations specified in subclause
+  - (1).
+  - (3) If the relevant chief executive seeks information or consults persons or organisations under this clause,—
+  - (a) the relevant chief executive must do so at the same time as the panel seeks written comments on the application for the natural resource permit; and
+  - (b) the persons or organisations must provide the information or submissions to the relevant chief executive within 20 working days after the chief executive’s request.
+  - (4) The relevant chief executive must provide any information or submissions received under subclause
+  - (3)(b) to the EPA no later than 5 working days after
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued the date by which information or submissions must be received under that subclause.
+  - (5) The EPA must provide the information received under subclause
+  - (4) to the panel.
+  - (6) If the substantive application is lodged by more than 1 authorised person, the reference to the applicant in subclause
+  - (1)(a) must be read as a reference to the authorised person who is identified in the application as the proposed holder of the coastal permit.
+## Clause 35 — Relevant chief executive to make recommendation to panel on aquaculture
+  - decision
+  - (1) The relevant chief executive must, within 5 working days after receiving from the panel under section 71 draft permit conditions relating to the application for the natural resource permit, provide the EPA with a recommendation on an aquaculture decision consisting of—
+  - (a) a determination; or
+  - (b) a reservation; or
+  - (c) 1 or more determinations or reservations, or both, in relation to different parts of the area to which the request relates.
+  - (2) After having regard to the following, the relevant chief executive must make a recommendation under subclause
+  - (3):
+  - (a) information held by the Ministry that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Fisheries Act 1996; and
+  - (b) information supplied, or submissions made, to the relevant chief executive under clause 34(3)(b); and
+  - (c) information that is forwarded by the panel; and
+  - (d) any other information that the relevant chief executive has requested and obtained.
+  - (3) In making a recommendation on an aquaculture decision, the relevant chief executive must take into account sections 8 to 10 and 186GB of the Fisheries Act 1996.
+  - (4) A recommendation on an aquaculture decision must—
+  - (a) be in writing; and
+  - (b) define the areas that are subject to the recommendation; and
+  - (c) provide reasons for the recommendation; and
+  - (d) include the information described in subclause
+  - (2)(a),
+  - (b), and
+  - (d).
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (5) If the relevant chief executive recommends a determination, the recommended determination may—
+  - (a) specify any condition of the coastal permit that is material to the recommendation and that relates to the character, intensity, or scale of the aquaculture activities; and
+  - (b) state that the condition may not be changed or cancelled until the relevant chief executive makes a further aquaculture decision in relation to the area affected by the change or cancellation under the Fisheries Act 1996.
+  - (6) If the relevant chief executive recommends a reservation, the recommended reservation must also include—
+  - (a) whether the reservation relates to customary, recreational, or commercial fishing, or a combination of them; and
+  - (b) if the reservation relates to commercial fishing, the stocks and areas concerned, specifying any stocks subject to the quota management system and any other stock not subject to the quota management system; and
+  - (c) any other matters required to be included by regulations made under the Fisheries Act 1996, as if the recommended reservation were an aquaculture decision made under that Act.
+  - (7) The EPA must provide the recommendation on the aquaculture decision to the panel.
+## Clause 36 — Order in which recommendation requests to panel on aquaculture
+  - decisions to be processed
+  - (1) The relevant chief executive must make recommendations on aquaculture decisions in the same order in which the requests for the decisions are received.
+  - (2) For the purposes of subclause
+  - (1), the order in which recommendations must be made in relation to requests received on the same day is determined by the time when the requests are received.
+  - (3) If 2 or more requests for recommendations are received at the same time, the relevant chief executive must make recommendations in the order specified by the EPA.
+  - (4) The relevant chief executive must give higher priority to processing a request made by a panel under section 48 than a request made as a consequence of coastal permits granted under the Natural Environment Act 2026.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued Panel decision
+## Clause 37 — Criteria and other matters for assessment of natural resource permit
+  - application
+  - (1) For the purposes of section 81, when considering a natural resource permit application, including conditions in accordance with clauses 38 and 39, the panel must take into account, giving the greatest weight to paragraph
+  - (a),—
+  - (a) the purpose of this Act; and
+  - (b) the provisions of Parts 2 and 4 of the Natural Environment Act 2026 that direct decision-making on an application for a natural resource permit; and
+  - (c) the relevant provisions of any other legislation that directs decision-making under the Natural Environment Act 2026.
+  - (2) For the purpose of applying any provisions in subclause
+  - (1),—
+  - (a) if the natural resource application relates to an activity that is the subject of a determination under section 23 of this Act, the panel must treat the effects of the activity on the relevant land and on the rights or interests of Māori as a relevant matter under section 13(1)(g) of the Natural Environment Act 2026; and
+  - (b) to avoid doubt, for the purposes of subclause
+  - (1)(b), any joint management agreement that is relevant to the approval is a relevant matter.
+  - (3) Subclause
+  - (4) applies to any provision of the Natural Environment Act 2026 or any other legislation referred to in subclause
+  - (1)(c) that would require a decision maker to decline an application for a natural resource permit.
+  - (4) For the purposes of subclause
+  - (1), the panel must take into account that the provision referred to in subclause
+  - (3) would normally require an application to be declined, but must not treat the provision as requiring the panel to decline the application the panel is considering.
+  - (5) In the case of an application for a coastal permit for aquaculture activities, if the panel makes a reservation under clause 40 in relation to customary, recreational, or commercial fishing in relation to stocks or species not subject to the quota management system, the panel must not grant the coastal permit in respect of the areas covered by the reservation.
+  - (6) For the purposes of subclause
+  - (1), the provisions referred to in that subclause must be read with all necessary modifications, including that a reference to a permit authority must be read as a reference to a panel.
+  - (7) Sections 190 to 194 of the Natural Environment Act 2026 apply to a decision of the panel on the natural resource permit.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+## Clause 38 — Conditions on natural resource permit
+  - When setting conditions on a natural resource permit, the provisions of Part 4 and Schedule 5 of the Natural Environment Act 2026 that are relevant to setting conditions on a natural resource permit apply to the panel, subject to all necessary modifications, including the following:
+  - (a) a reference to a permit authority must be read as a reference to a panel; and
+  - (b) a reference to services or works must be read as a reference to any activities that are the subject of the natural resource permit application.
+## Clause 39 — Conditions on natural resource permit may deal with standard freshwater
+  - fisheries activity
+  - (1) A panel may set conditions on a natural resource permit in respect of a standard freshwater fisheries activity for which approval, dispensation, or authorisation is required, or for which a requirement may be imposed, under the following provisions:
+  - (a) regulation 42 of the Freshwater Fisheries Regulations 1983 (culvert or ford):
+  - (b) regulation 43 of the Freshwater Fisheries Regulations 1983 (dam or diversion structure):
+  - (c) regulation 65(2) of the Freshwater Fisheries Regulations 1983 (noxious fish):
+  - (d) section 26ZM(2)(a) or
+  - (3)(b) of the Conservation Act 1987 (transfer or release of live aquatic life).
+  - (2) If the panel sets conditions under subclause
+  - (1), they must be the conditions the panel considers necessary to manage the effects of the activity on freshwater fish species, taking into account—
+  - (a) best practice standards; and
+  - (b) the New Zealand Fish Passage Guidelines.
+  - (3) The provisions referred to in subclause
+  - (1)(a) to
+  - (d) do not apply to the holder of a natural resource permit issued under this Act who complies with the relevant conditions imposed under this clause. Guidance note The New Zealand Fish Passage Guidelines are available at https://niwa.co.nz/ freshwater/new-zealand-fish-passage-guidelines
+## Clause 40 — Panel to make aquaculture decision
+  - (1) For the purposes of section 80, an aquaculture decision may consist of—
+  - (a) a determination; or
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+  - (b) a reservation; or
+  - (c) 1 or more determinations or reservations, or both, in relation to different parts of the area to which the request relates.
+  - (2) The panel must have regard to the information described in clause 35(2).
+  - (3) In making an aquaculture decision, the panel must—
+  - (a) take into account, giving the greatest weight to subparagraph
+  - (i),—
+  - (i) the purpose of this Act; and (ii) sections 8 to 10 and 186GB of the Fisheries Act 1996; and
+  - (b) have regard to the recommendation of the relevant chief executive made under clause 35.
+  - (4) An aquaculture decision may differ from the recommendation made by the relevant chief executive.
+  - (5) If the panel makes a determination, the determination may—
+  - (a) specify any condition of the coastal permit that is material to the decision and that relates to the character, intensity, or scale of the aquaculture activities; and
+  - (b) state that the condition may not be changed or cancelled until the relevant chief executive makes a further aquaculture decision under the Fisheries Act 1996 in relation to the area affected by the change or cancellation.
+  - (6) If the panel makes a reservation, the reservation must also include—
+  - (a) whether the reservation relates to customary, recreational, or commercial fishing, or a combination of them; and
+  - (b) if the reservation relates to commercial fishing, the stocks and areas concerned, specifying any stocks subject to the quota management system and any other stock not subject to the quota management system; and
+  - (c) any other matters required to be included by regulations made under the Fisheries Act 1996, as if the reservation were an aquaculture decision made under that Act.
+  - (7) An aquaculture decision must—
+  - (a) be in writing; and
+  - (b) define the areas that are subject to the decision; and
+  - (c) provide reasons for the decision.
+## Clause 41 — Conditions to be included in coastal permit relating to reservation
+  - If the panel makes a reservation under section 80 in relation to commercial fishing in relation to stocks or species subject to the quota management system,
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued the panel must include permit conditions on the coastal permit noting the areas affected by the reservation.
+## Clause 42 — Content of decision document for coastal permit
+  - (1) If the panel makes a determination under section 80, the panel must note any conditions on the coastal permit that may not be changed or cancelled until a further aquaculture decision is made under the Fisheries Act 1996.
+  - (2) If the panel makes a reservation in relation to commercial fishing of stocks or species subject to the quota management system, the panel must notify the applicant that the permit will not commence in the area affected by the reservation unless—
+  - (a) an aquaculture agreement is registered in accordance with section 186ZH of the Fisheries Act 1996; or
+  - (b) a compensation declaration is registered under section 186ZHA of the Fisheries Act 1996.
+  - (3) If the substantive application was lodged by more than 1 authorised person, the reference to the applicant in subclause
+  - (2) must be read as a reference to the authorised person who was identified in the application as the proposed holder of the coastal permit.
+## Clause 43 — Criteria for assessment of application for change or cancellation of
+  - condition For the purposes of section 81, when considering an application for the change or cancellation of a condition,—
+  - (a) the panel must apply section 199(1) to
+  - (3) of the Natural Environment Act 2026 as if,—
+  - (i) in section 199(3) of the Natural Environment Act 2026, the reference to subparts 1 to 5 of Part 4 of that Act were to the provisions of those subparts that relate to decision-making on a natural resource permit; and (ii) the provisions of subparts 1 to 5 of Part 4 of that Act were read with all necessary modifications, including that a reference to a permit authority must be read as a reference to a panel; and
+  - (b) the panel must consider any joint management agreement that is relevant to the approval; and
+  - (c) to avoid doubt, section 199(6) of the Natural Environment Act 2026 does not apply.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+## Clause 44 — Criteria and other matters for assessment of applications for certificate of
+  - compliance
+  - (1) For the purposes of section 81, the panel must grant the certificate of compliance if the activity that the certificate is intended to cover can be done lawfully in the particular location without a natural resource permit.
+  - (2) The panel must not grant the certificate of compliance if—
+  - (a) the application under this Act for the certificate is made after a proposed plan is notified; and
+  - (b) the activity could not be done lawfully in the particular location without a natural resource permit under the proposed plan.
+  - (3) The panel must not grant a certificate of compliance under the Natural Environment Act 2026 if a notice for the activity is in force under section 213(1)(d) of that Act.
+## Clause 45 — Content of decision document for certificate of compliance
+  - Section 214 of the Natural Environment Act 2026 applies to a certificate of compliance issued under this Act. Provisions applying to approvals once granted
+## Clause 46 — Application of subpart 4 of Part 9A of Fisheries Act 1996
+  - (1) Subpart 4 of Part 9A of the Fisheries Act 1996 applies, subject to the modifications in this clause, in respect of—
+  - (a) a coastal permit issued under this Act; and
+  - (b) a reservation made by the panel under this Act, as if it were a reservation made by the chief executive under the Fisheries Act 1996.
+  - (2) Section 186ZD of the Fisheries Act 1996 must be read as if it included the following definition: panel means a panel as defined in section 4 of the Fast-track Approvals Act 2024
+  - (3) Section 186ZN of the Fisheries Act 1996 must be read as if subsection
+  - (3) were replaced with:
+  - (3) In subsection
+  - (2), quota owner means a person who is a registered quota owner as at 5 pm on the date on which the relevant reservation is made by a panel under the Fast-track Approvals Act 2024.
+## Clause 47 — Aquaculture decision by panel to be treated as determination for purposes
+  - of Fisheries Act 1996 A determination under clause 40(5)(b) must be treated as a determination under section 186H(3)(b) of the Fisheries Act 1996.
+  - Fast-track Approvals Act 2024 (2024 No 56)—continued
+## Clause 48 — Notification of aquaculture agreement or compensation declaration
+  - (1) If clause 42(2) applies and the relevant permit authority has been notified by the relevant chief executive that an aquaculture agreement or a compensation declaration has been registered for those stocks under section 186ZH or 186ZHA of the Fisheries Act 1996 (as the case may require), the permit authority must—
+  - (a) amend the permit so that it no longer shows the areas affected by the reservation:
+  - (b) provide the applicant with a copy of the amended permit:
+  - (c) notify the applicant that the permit (as amended) commences in respect of the area previously shown as subject to the reservation on the date of notification under this paragraph.
+  - (2) If the substantive application was lodged by more than 1 authorised person, the references to the applicant in subclause
+  - (1) must be read as references to the authorised person who was identified in the application as the proposed holder of the coastal permit.
+## Clause 49 — Natural Environment Act 2026 modified in respect of conditions made
+  - under clause 40(5)(b) In sections 140(2), 188(2), 199(4), and 200(4) of the Natural Environment Act 2026, the reference to a condition that has been specified under section 186H(1A) or 186H(3) of the Fisheries Act 1996 must be read as a condition imposed under section 81 in accordance with clause 40(5)(b) of this schedule in relation to a coastal permit for aquaculture activities granted under this Act. In Schedule 6, clause 31(1)(a)(i), replace “resource consent” with “planning consent, natural resource permit,”. In Schedule 8, clause 2(2), replace “section 42(4)(a) or
+  - (d)” with “section 42(4)(a), (aa), or
+  - (d)”. In Schedule 10, in the heading to clause 3, replace “section 42(4)(a)” with “section 42(4)(aa)”. In Schedule 10, clause 3(1), replace “section 42(4)(a)” with “section 42(4)(aa)”. In Schedule 10, clause 3(2), replace “environmental effects under the Resource Management Act 1991” with “effects under the Natural Environment Act 2026”. In Schedule 11, clause 3(d)(v), replace “resource consents” with “planning consents, natural resource permits,”. In Schedule 12, clause 3(1), replace “section 168A(3)(b) or 171(1)(b) of the Resource Management Act 1991” with “clause 26(4)(b) of Schedule 5 of the Planning Act 2026”.
+  - Fencing Act 1978 (1978 No 50) Replace section 3(1)(e) with:
+  - (e) land that is an esplanade reserve or an esplanade strip within the meaning of the Natural Environment Act 2026 or the Planning Act 2026. Fiordland (Te Moana o Atawhenua) Marine Management Act 2005 (2005 No 36) In section 4(1), repeal the definition of Southland Regional Coastal Plan. In section 4(2), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. Repeal section 11. In Schedule 3, replace clause 1(3)(a) with:
+  - (a) any natural resource permit under the Natural Environment Act 2026; and In Schedule 3, clause 4, replace “consent requirements in the Southland Regional Coastal Plan” with “permit requirements under the Natural Environment Act 2026”. Repeal Schedule 12. In Schedule 13, repeal “Resource Management Act 1991”. Fisheries Act 1996 (1996 No 88) In section 2(1), replace the definition of aquaculture activities with: aquaculture activity has the meaning given in section 3 of the Natural Environment Act 2026 In section 2(1), definition of coastal permit, replace “section 2(1) of the Resource Management Act 1991” with “section 133(a) of the Natural Environment Act 2026”. In section 2(1), repeal the definition of regional plan. In the heading to section 6, replace “Resource Management Act 1991” with “Natural Environment Act 2026 and Planning Act 2026”. In section 6(1), replace “regional plan” with “regional spatial plan, natural environment plan, land use plan,”. After section 6(1)(b), insert:
+  - (c) rules that control fishing in the coastal marine area defined in section 3 of the Natural Environment Act 2026 or section 3 of the Planning Act 2026. In section 6(2)(a), replace “section 30(1)(d) of the Resource Management Act 1991” with “section 229 of the Natural Environment Act 2026”. In section 6(3), definition of occupy, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. In section 186C, definition of application for a coastal permit,—
+  - Fisheries Act 1996 (1996 No 88)—continued
+  - (a) paragraph
+  - (a), replace “section 88 of the Resource Management Act 1991” with “section 136 of the Natural Environment Act 2026”; and
+  - (b) paragraph
+  - (b)(i), replace “section 127” with “section 199”; and
+  - (c) paragraph
+  - (b)(ii), replace “section 128” with “section 200”. In section 186C, definition of coastal permit, replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 186C, definition of regional council, replace “consent authority under the Resource Management Act 1991” with “permit authority under the Natural Environment Act 2026”. In section 186D(1), replace “section 107F of the Resource Management Act 1991” with “section 140 of the Natural Environment Act 2026”. In section 186E(1), replace “a regional council under section 114 of the Resource Management Act 1991” with “section 181 of the Natural Environment Act 2026”. In section 186F(3), replace “under section 114(5) of the Resource Management Act 1991” with “section 181(3) of the Natural Environment Act 2026”. In section 186GA(a)(ii) and
+  - (b), after “Resource Management Act 1991”, insert “or the Natural Environment Act 2026”. In section 186GA(d), replace “section 114(6) of the Resource Management Act 1991” with “section 181(4) of the Natural Environment Act 2026”. After section 186GA, insert: 186GAA Aquaculture decisions must not be made in relation to certain areas The chief executive must not make an aquaculture decision in relation to any part of an aquaculture area that is subject to a coastal permit for aquaculture activities for which an aquaculture area decision has already been made. In section 186JC(2), replace “under section 114 of the Resource Management Act 1991” with “section 181 of the Natural Environment Act 2026”. In section 186N(2), replace “resource consent or certificate of compliance under the Resource Management Act 1991” with “natural resource permit or certificate of compliance under the Natural Environment Act 2026”. In section 186R(2), replace—
+  - (a) “resource consent” with “natural resource permit” in each place; and
+  - (b) “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 186S(2)(a)(i) and (ii) and
+  - (b), replace “resource consent or certificate of compliance under the Resource Management Act 1991” with “natural resource permit or certificate of compliance under the Natural Environment Act 2026”. Replace section 186ZF(3) with:
+  - Fisheries Act 1996 (1996 No 88)—continued
+  - (3) After an aquaculture agreement is registered, no person whose consent is contained in the agreement may revoke the consent, but the consent and the aquaculture agreement itself come to an end when—
+  - (a) the coastal permit to which they relate comes to an end, unless it is replaced by a new permit in accordance with clause 41 of Schedule 4 of the Natural Environment Act 2026; or
+  - (b) the aquaculture area decision expires under section 186JH, unless it has been extended by the chief executive under section 186JI. Replace section 186ZF(4) with:
+  - (4) For the purposes of this section, subsection
+  - (2) applies to the persons specified in that subsection as at 5 pm on the date on which the chief executive gives notice of—
+  - (a) a reservation under section 186H(2)(a) in relation to the coastal permit concerned; or
+  - (b) a reservation under section 186JF(2)(a) in relation to an aquaculture area. In section 186ZM(1), replace “section 114 of the Resource Management Act 1991” with “section 140 of the Natural Environment Act 2026”. In section 186ZM(5)(b), replace “section 165ZH of the Resource Management Act 1991” with “section 181 of the Natural Environment Act 2026”. Food Act 2014 (2014 No 32) Replace section 368(3)(i) with:
+  - (i) the Natural Environment Act 2026; or Forestry Rights Registration Act 1983 (1983 No 42) In section 6, replace “Resource Management Act 1991” with “Planning Act 2026”. Forests Act 1949 (1949 No 19) In section 67L, replace “Resource Management Act 1991” with “Planning Act 2026”. Replace section 67V with: 67V Relationship of Part with Natural Environment Act 2026 and Planning Act 2026 Nothing in this Part derogates from any provision of the Natural Environment Act 2026 or the Planning Act 2026. In Schedule 2, replace clause 4 with:
+  - Forests Act 1949 (1949 No 19)—continued
+## Clause 4 — Plan to specify relevant requirements under Natural Environment Act
+  - 2026 and Planning Act 2026 The plan must specify the relevant details of all applicable natural environment plans under the Natural Environment Act 2026 and land use plans under the Planning Act 2026. Goods and Services Tax Act 1985 (1985 No 141) Repeal section 5(7B)(a) and (7C)(a). Government Roading Powers Act 1989 (1989 No 75) In section 48(8), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 61(10), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 73(e), replace “Harbours Act 1950 and the Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. In section 73(f), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 88(6), replace “section 238(1)(c) of the Resource Management Act 1991 and section 60” with “clause 30(2)(c) of Schedule 7 of the Planning Act 2026”. Hauraki Gulf Marine Park Act 2000 (2000 No 1) In the heading to section 9, replace “Resource Management Act 1991, Natural Environment Act 2026,” with “Natural Environment Act 2026”. In section 9(1), delete “district plan, plan, proposed plan, regional plan, regional policy statement, resource consent, and New Zealand coastal policy statement have the same meanings as in the Resource Management Act 1991, and”. In section 9(1), after “national instrument,”, insert “planning consent,”. In section 9(1), after “2026, and natural environment plan”, insert “, natural resource permit,”. Repeal section 9(2),
+  - (3), and
+  - (5). Replace section 9(4) with:
+  - (4) A permit authority must, when considering an application for a natural resource permit for the Hauraki Gulf, its islands, and catchments, have regard to sections 7 and 8 in addition to the matters contained in the Natural Environment Act 2026. (4A) A consent authority must, when considering an application for a planning consent for the Hauraki Gulf, its islands, and catchments, have regard to sections 7 and 8 in addition to the matters contained in the Planning Act 2026.
+  - Hauraki Gulf Marine Park Act 2000 (2000 No 1)—continued In the heading to section 10, delete “New Zealand coastal policy statement or”. Repeal section 10(1) to
+  - (3). In Schedule 1, repeal the item relating to the Resource Management Act 1991. Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025 (2025 No 54) Replace section 26(d) with:
+  - (d) any activity that is expressly allowed, without obtaining a natural resource permit, under regulations made under section 360(1)(a) and (ha) to (hh) of the Resource Management Act 1991 or under section 321(1)(3) and
+  - (16) to
+  - (21) of the Natural Environment Act 2026 that relate to the regulation of marine pollution: In section 26(e), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 26(h)(i), replace “regional coastal plan or resource consent” with “natural environment plan, land use plan, natural resource permit, or planning consent”. In section 38(2)(b), after “of the relevant”, insert “permit authority or”. Hawke’s Bay Endowment Land Empowering Act 2002 (2002 No 1 (L)) In section 5(3)(b), replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. Hazardous Substances and New Organisms Act 1996 (1996 No 30) In section 97(1)(h)(ii), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 97(2)(a), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. Replace section 142(4) and
+  - (5) with:
+  - (4) Nothing in this Act applies to a planning consent under the Planning Act 2026 until the time that the conditions on the planning consent are reviewed in accordance with section 198 of that Act, if the planning consent—
+  - (a) is a consent that relates to the storage, use, disposal, or transportation of any hazardous substance; and
+  - (b) was granted before the coming into force of any regulations made under this Act (other than regulations made under Parts 11 to 16).
+  - (5) Nothing in this Act applies to a natural resource permit under the Natural Environment Act 2026 until the time that the conditions on the natural resource permit are reviewed in accordance with section 200 of that Act, if the permit—
+  - Hazardous Substances and New Organisms Act 1996 (1996 No 30)—continued
+  - (a) is a coastal permit to do something that would otherwise contravene section 24 of the Natural Environment Act 2026 or is a discharge permit; and
+  - (b) was granted before the coming into force of any regulations made under this Act (other than regulations made under Parts 11 to 16). Health Act 1956 (1956 No 65) In section 54(7), after “Resource Management Act 1991”, insert “or a natural resource permit for that activity has been granted under the Natural Environment Act 2026 or a planning consent for that activity has been granted under the Planning Act 2026”. Health and Safety at Work Act 2015 (2015 No 70) Replace section 230 with: 230 Relationship between regulations relating to hazardous substances under this Act and Natural Environment Act 2026 and Planning Act 2026
+  - (1) Nothing prescribed in regulations made under this Act for the safe use, handling, manufacture, or storage of hazardous substances applies in relation to any natural resource permit or planning consent to which this subsection applies that is—
+  - (a) a land use consent relating to the use, handling, manufacture, or storage of any hazardous substance; or
+  - (b) a coastal permit to do something that would otherwise contravene section 24 of the Natural Environment Act 2026; or
+  - (c) a discharge permit under the Natural Environment Act 2026.
+  - (2) Subsection
+  - (1) applies where the natural resource permit or planning consent concerned was granted before the coming into force of any regulations made under the Hazardous Substances and New Organisms Act 1996 and until such time as the conditions on the natural resource permit or planning consent are reviewed in accordance with section 200 of the Natural Environment Act 2026 or section 198 of the Planning Act 2026.
+  - (3) In this section,— natural resource permit has the meaning given in section 133 of the Natural Environment Act 2026 planning consent has the meaning given in section 130 of the Planning Act 2026. Health Sector (Transfers) Act 1993 (1993 No 23) In Schedule 1, clause 5, replace “section 11 or Part 10 of the Resource Management Act 1991” with “section 23 or Schedule 7 of the Planning Act 2026”.
+  - Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26) Repeal section 13(1)(i). In section 27(1)(h), replace “resource consents” with “planning consents and natural resource permits”. In section 40(2)(a), delete “or the Resource Management Act 1991”. In section 46(5), replace “resource consent application or notice of requirement for a designation under the Resource Management Act 1991” with “planning consent application or proposed designation under the Planning Act 2026 or a natural resource permit application under the Natural Environment Act 2026”. In section 46(5)(a), replace “Resource Management Act 1991” with “Planning Act 2026 or the Natural Environment Act 2026”. In section 75(1)(a), replace “resource consent” with “planning consent or a natural resource permit”. In section 75(2)(b)(ii), replace “resource consent” with “consent or permit”. Housing Act 1955 (1955 No 51) Replace section 3A with: 3A Relationship to Natural Environment Act 2026 and Planning Act 2026 Nothing in this Part derogates from any of the provisions of the Natural Environment Act 2026 or the Planning Act 2026. In section 11(2), replace “Resource Management Act 1991” with “Planning Act 2026”. Housing Assets Transfer Act 1993 (1993 No 50) In section 7(4), replace “Resource Management Act 1991” with “Planning Act 2026”. Income Tax Act 2007 (2007 No 97) Replace section CB 14(2)(a) with:
+  - (a) the rules of an operative land use plan under the Planning Act 2026: Replace section CB 14(2)(e) to
+  - (g) with:
+  - (e) a natural resource permit granted under the Natural Environment Act 2026 or a planning consent granted under the Planning Act 2026:
+  - (f) the likelihood of a consent or permit being granted:
+  - (g) a decision of the Environment Court made under the Natural Environment Act 2026 or the Planning Act 2026: Replace section CB 14(2)(i) with:
+  - (i) the removal of a condition, covenant, designation, obligation, prohibition, or restriction under the Natural Environment Act 2026 or the Planning Act 2026:
+  - Income Tax Act 2007 (2007 No 97)—continued In section CB 14(2)(j), delete “heritage order,”. In section CB 14, list of defined terms, insert in their appropriate alphabetical order “natural resource permit” and “planning consent”. In the heading above section CB 28(7), replace “resource consent” with “natural resource permit or planning consent”. In section CB 28(7) and
+  - (8), replace “resource consent” with “natural resource permit or planning consent” in each place. In section CB 28, list of defined terms,—
+  - (a) delete “resource consent”; and
+  - (b) insert in their appropriate alphabetical order “natural resource permit” and “planning consent”. In section CG 7B(1)(c) and
+  - (2)(b), replace “resource consent” with “natural resource permit, a planning consent,”. In section CG 7B, list of defined terms, insert in their appropriate alphabetical order “natural resource permit” and “planning consent”. In the heading to section DB 19, replace “resource consent” with “natural resource permit or planning consent”. In section DB 19(1), replace “resource consent under the Resource Management Act 1991” with “natural resource permit under the Natural Environment Act 2026 or a planning consent under the Planning Act 2026”. In section DB 19(1)(b), (1B)(b), and
+  - (2)(b), replace “resource consent” with “natural resource permit or planning consent”. In section DB 19, list of defined terms, insert in their appropriate alphabetical order “natural resource permit” and “planning consent”. In section DB 46(8), replace “resource consent” with “natural resource permit or planning consent” in each place. In section DB 46, list of defined terms, insert in their appropriate alphabetical order “natural resource permit” and “planning consent”. In section DU 11(2)(b), replace “resource consents” with “natural resource permits or planning consents”. In section DU 11, list of defined terms, insert in their appropriate alphabetical order “natural resource permit” and “planning consent”. In section DU 12(a)(iii), replace “Resource Management Act 1991 or regulations made under that Act” with “Natural Environment Act 2026 or the Planning Act 2026 or national instruments or regulations made under those Acts”. In section EE 57(3)(cb), replace “or a resource consent under the Resource Management Act 1991” with “a natural resource permit under the Natural Environment Act 2026, or a planning consent under the Planning Act 2026”.
+  - Income Tax Act 2007 (2007 No 97)—continued In section EE 57, list of defined terms, insert in their appropriate alphabetical order “natural resource permit” and “planning consent”. In section YA 1, definition of contaminant, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. In section YA 1, definition of property, paragraph
+  - (a), after “Resource Management Act 1991”, insert “, the Natural Environment Act 2026, or the Planning Act 2026”. In section YA 1, repeal the definition of resource consent. In section YA 1, insert in their appropriate alphabetical order: natural resource permit has the meaning given in section 133 of the Natural Environment Act 2026 planning consent has the meaning given in section 130 of the Planning Act 2026 In Schedule 14, replace item 10 with:
+## Clause 10 — a consent granted under the Resource Management Act 1991 to do something
+  - that otherwise would contravene sections 12 to 15B of that Act or a natural resource permit under the Natural Environment Act 2026 that would otherwise contravene sections 21 to 26 of that Act (in either case, other than a consent or permit for a reclamation), being a consent or permit granted in or after—
+  - (a) the 1996–97 tax year, if the consent or permit relates to sections 12 to 15 of the Resource Management Act 1991 or sections 21 to 24 of the Natural Environment Act 2026; or
+  - (b) the 2014–15 income year, if the consent or permit relates to sections 15A and 15B of the Resource Management Act 1991 or sections 25 and 26 of the Natural Environment Act 2026 Infrastructure Funding and Financing Act 2020 (2020 No 47) In section 7(1), definition of financial contribution, after “1991”, insert “before its repeal”. Irrigation Schemes Act 1990 (1990 No 52) In the heading to section 12, replace “Section 11 and Part 10 of Resource Management Act 1991” with “Section 23 and Schedule 7 of Planning Act 2026, section 217 of Natural Environment Act 2026,”. In section 12, replace “Section 11 and Part 10 of the Resource Management Act 1991” with “Section 23 and Schedule 7 of the Planning Act 2026, section 217 of the Natural Environment Act 2026,”. Replace section 13 with:
+  - Irrigation Schemes Act 1990 (1990 No 52)—continued
+## Clause 13 — Activity permitted as of right
+  - To avoid doubt, if any irrigation scheme is sold or otherwise disposed of under this Part, any use for irrigation purposes of the land upon which the irrigation scheme is situated is deemed to be a permitted activity within the meaning of the Planning Act 2026 and the Natural Environment Act 2026. Joint Family Homes Act 1964 (1964 No 45) In section 3(3), replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. Lake Wanaka Preservation Act 1973 (1973 No 107) In section 6(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 8(1), replace “Resource Management Act 1991, the Natural Environment Act 2026,” with “Natural Environment Act 2026”. In section 11, replace “resource consent under the Resource Management Act 1991 authorising any activity in relation to the lake that is referred to in section 13 or section 14” with “natural resource permit under the Natural Environment Act 2026 authorising any activity in relation to the lake that is referred to in section 22 or 23”. Land Act 1948 (1948 No 64) In section 2, definition of Crown land, paragraph
+  - (f), replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. In section 66A(5), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. In section 82(3A)(b), replace “section 238 or 239 of the Resource Management Act 1991” with “clauses 30 and 31 of Schedule 7 of the Planning Act 2026”. In section 93(1), replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. In section 93(3), replace “section 238 of the Resource Management Act 1991” with “clause 30 of Schedule 7 of the Planning Act 2026”. In section 165(6A), replace “Resource Management Act 1991” with “Natural Environment Act 2026, the Planning Act 2026,”. Land Drainage Act 1908 (1908 No 96) Replace section 2A with: 2A Relationship to Natural Environment Act 2026 and Planning Act 2026 Nothing in this Act derogates from the Natural Environment Act 2026 or the Planning Act 2026.
+  - Land Transport Management Act 2003 (2003 No 118) Repeal section 14(c)(ii). In section 63(5)(a), replace “section 218 of the Resource Management Act 1991” with “clause 2 of Schedule 7 of the Planning Act 2026”. Repeal section 124(c)(ii). Local Authorities (Members’ Interests) Act 1968 (1968 No 147) Repeal section 6(3)(e). Local Electoral Act 2001 (2001 No 35) In section 5(1), definition of allotment, replace “section 218(2) of the Resource Management Act 1991” with “clause 3 of Schedule 7 of the Planning Act 2026”. Local Government Act 1974 (1974 No 66) In section 2(1), repeal the definition of district plan, operative. In section 2(1), replace the definition of rural area with: rural area means an area zoned rural in a proposed or an operative land use plan In section 2(1), insert in its appropriate alphabetical order: land use plan has the meaning given in section 3 of the Planning Act 2026 In section 315(1), replace the definition of survey plan with: survey plan has the meaning given in clause 4 of Schedule 7 of the Planning Act 2026 In section 319(1)(e), replace “district plan” with “land use plan”. In section 336(6), replace “district plan under the Resource Management Act 1991” with “land use plan under the Planning Act 2026”. In section 340(1), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 341(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 345(3), replace “(as defined in section 2(1) of the Resource Management Act 1991) for the purposes specified in section 229 of that Act” with “(as defined in clause 1 of Schedule 7 of the Planning Act 2026)”. In section 345(4), replace “district plan under section 77 of the Resource Management Act 1991” with “land use plan under section 111 of the Planning Act 2026”. In section 347, replace “Resource Management Act 1991” with “Planning Act 2026”. In section 348(6), replace “Resource Management Act 1991” with “Planning Act 2026”. Replace section 502 with:
+  - Local Government Act 1974 (1974 No 66)—continued 502 This Part subject to Natural Environment Act 2026 and Planning Act 2026 Nothing in this Part derogates from the provisions of the Natural Environment Act 2026 or the Planning Act 2026. Replace section 517A with: 517A This Part subject to Natural Environment Act 2026, Planning Act 2026, and Soil Conservation and Rivers Control Act 1941 Nothing in this Part derogates from the provisions of the Natural Environment Act 2026, the Planning Act 2026, or the Soil Conservation and Rivers Control Act 1941. In section 517B, definition of scheme asset, paragraph
+  - (e), replace “consent granted under the Resource Management Act 1991” with “natural resource permit granted under the Natural Environment Act 2026 or planning consent granted under the Planning Act 2026”. In section 517I(i), replace “district plans” with “land use plans”. Repeal section 517I(j). Replace section 517I(k) with:
+  - (k) identify any natural resource permits and planning consents relating to the scheme; and In section 517U(e), replace “Resource Management Act 1991” with “Natural Environment Act 2026, the Planning Act 2026”. In section 517Z(1)(b), replace “district plans” with “land use plans”. In section 517Z(3), replace—
+  - (a) “section 167 of the Resource Management Act 1991” with “clause 10 of Schedule 5 of the Planning Act 2026”; and
+  - (b) “requiring authority” with “designating authority” in each place. Replace section 517ZH with: 517ZH Section 23 and Schedule 7 of Planning Act 2026 and Part 21 of this Act not to apply Section 23 and Schedule 7 of the Planning Act 2026 and Part 21 of this Act do not apply to or in respect of the transfer of any land or interest in land under this Part, nor to any subdivision required in respect of any such transfer. Repeal section 517ZI. In Schedule 10, clause 6, replace “district plan” with “land use plan”. Local Government Act 2002 (2002 No 84) In section 5(1), repeal the definition of resource consent. In section 5(1), insert in their appropriate alphabetical order:
+  - Local Government Act 2002 (2002 No 84)—continued natural resource permit has the meaning given in section 133 of the Natural Environment Act 2026, and includes a change to a condition of a natural resource permit under section 199 of that Act planning consent has the meaning given in section 130 of the Planning Act 2026, and includes a change to a condition of a planning consent under section 197 of that Act In section 48J(1)(a), delete “the Resource Management Act 1991,”. In section 79(3), delete “the Resource Management Act 1991,”. In section 102(2)(d) and (3A)(a), delete “or financial contributions”. Repeal section 103(2)(h). In the heading to section 106, delete “or financial contributions”. Repeal section 106(1),
+  - (2)(b)(ii) and
+  - (f), and
+  - (4). In section 106(2), delete “or financial contributions” in each place. In section 106(2)(d), delete “or a financial contribution”. In section 106(5), replace “subsections
+  - (3) and
+  - (4)” with “subsection
+  - (3)”. In section 174(5)(b), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 197(1), definition of allotment, replace “section 218(2) of the Resource Management Act 1991” with “clause 3 of Schedule 7 of the Planning Act 2026”. In section 197(1), repeal the definition of network utility operator. In section 197(1), insert in its appropriate alphabetical order: core infrastructure operator has the meaning given in clause 9 of Schedule 5 of the Planning Act 2026 In section 197(2), repeal the definition of resource consent. Replace section 198(1)(a) with:
+  - (a) a planning consent is granted under the Planning Act 2026 for a development within its district: Replace section 202(1)(b)(i) with:
+  - (i) granting a planning consent under the Planning Act 2026; or In the heading to section 207, delete “or Resource Management Act 1991”. In section 207(2)(b), after “conditions imposed under those sections”, insert “, as if that Act had not been repealed”. Replace section 207D(3)(a) with:
+  - (a) grant a planning consent under the Planning Act 2026; or In section 207D(3)(d), replace “section 224 of the Resource Management Act 1991” with “clause 18 of Schedule 7 of the Planning Act 2026”.
+  - Local Government Act 2002 (2002 No 84)—continued In section 208(1)(a)(i), replace “section 224(c) of the Resource Management Act 1991” with “clause 18 of Schedule 7 of the Planning Act 2026”. In section 208(1)(a)(ii), replace “resource consent under the Resource Management Act 1991” with “planning consent under the Planning Act 2026”. Replace section 209(1)(a) with:
+  - (a) the planning consent—
+  - (i) lapses under section 194 of the Planning Act 2026; or (ii) is surrendered under section 206 of that Act; or In section 209(1)(c), replace “resource consent” with “planning consent”. In section 211, replace “Resource Management Act 1991” with “Planning Act 2026”. In section 212, repeal the definitions of plan and proposed plan. In the heading to section 222, replace “Resource Management Act 1991” with “Natural Environment Act 2026, Planning Act 2026,”. In section 222, replace “Resource Management Act 1991,” with “Natural Environment Act 2026, the Planning Act 2026,”. In section 290(a)(i) and
+  - (b), replace “resource consent” with “planning consent”. In Schedule 3, clause 2, definition of affected area, paragraph
+  - (d), replace “Resource Management Act 1991, the Natural Environment Act 2026,” with “Natural Environment Act 2026”. In Schedule 3, repeal clause 23(1)(e)(ii). In Schedule 3, replace clause 23(3)(b) with:
+  - (b) include responsibility for preparing a plan, variation, or plan change under the Natural Environment Act 2026 or the Planning Act 2026. In Schedule 3, replace clause 43(1)(e)(i) and (ii) with:
+  - (i) the administration of any natural resource permits under the Natural Environment Act 2026, but subject to sections 102(4) and 124 to 128, Part 4, and Schedule 4 of that Act: (ii) the administration of any designations, planning consents, and proposed designations under the Planning Act 2026, but subject to sections 123 to 128, Part 4, Part 3 of Schedule 3, and Schedule 5 of that Act: In Schedule 13, clause 3(1)(b), delete “or financial contributions”. In Schedule 14, replace clause 4(a) with:
+  - (a) a natural resource permit granted under the Natural Environment Act 2026 or a planning consent under the Planning Act 2026; or
+  - Local Government (Auckland Council) Act 2009 (2009 No 32) In section 42B(3), replace “a national environmental standard, a national policy statement, or a national planning standard made under Part 5 of the Resource Management Act 1991, a national instrument made under the Planning Act 2026,” with “a national instrument made under the Planning Act 2026”. Local Government Official Information and Meetings Act 1987 (1987 No 174) Replace section 7(2)(ba) with: (ba) in the case only of an application for a natural resource permit or water conservation order under the Natural Environment Act 2026, or a planning consent or proposed designation under the Planning Act 2026, avoid serious offence to tikanga Māori, or to avoid the disclosure of the location of wāhi tapu; or Replace section 44A(2)(aa)(ii) with: (ii) is not apparent from a land use plan under the Planning Act 2026: Replace section 45(1A) with: (1A) Despite subsections
+  - (1) and (1AB), meeting, in relation to a special tribunal appointed under Schedule 5 of the Natural Environment Act 2026, is limited to any hearing the special tribunal holds under clause 9 of Schedule 5 of that Act. (1AA) Despite subsections
+  - (1), (1A), and (1AB), meeting, in relation to a person given authority to conduct hearings under section 239 of the Natural Environment Act 2026 or section 229 of the Planning Act 2026, is limited to any hearing the person holds under—
+  - (a) section 157 or 158 of the Planning Act 2026; or
+  - (b) section 160(a) or
+  - (b) of the Natural Environment Act 2026, which applies those provisions of the Planning Act 2026. Replace section 45A with: 45A Application of this Part to certain local authorities Sections 48 and 53 are the only provisions of this Part that apply to the following local authorities:
+  - (a) an independent hearings panel established under the Planning Act 2026; and
+  - (b) a special tribunal given authority to conduct hearings under clause 5 of Schedule 5 of the Natural Environment Act 2026. In Schedule 1, Part 1, repeal the item relating to community boards, boards of inquiry, freshwater hearings panels, public bodies, special tribunals, and certain persons given authority to conduct hearings. In Schedule 1, Part 1, after the item relating to spatial plan committees, insert:
+  - Local Government Official Information and Meetings Act 1987 (1987 No 174)— continued Special tribunals appointed under Schedule 5 of the Natural Environment Act 2026, or any person given authority to conduct hearings under sections 226 to 229 of the Planning Act 2026 or sections 236 to 239 of the Natural Environment Act 2026 Local Government (Rating) Act 2002 (2002 No 6) In Schedule 2, replace item 2 with:
+## Clause 2 — The activities that are permitted, controlled, restricted discretionary, or discretionary for the area in which the land is situated, and the rules to which the land
+  - is subject under an operative natural environment plan under the Natural Environment Act 2026 or an operative land use plan under the Planning Act 2026. In Schedule 2, repeal item 3. Local Government (Water Services) Act 2025 (2025 No 42) In section 4, repeal the definition of district plan. In section 4, insert in their appropriate alphabetical order: land use plan has the meaning given in section 3 of the Planning Act 2026 regional spatial plan has the meaning given in section 3 of the Planning Act 2026 In section 4, definition of urban area, paragraph
+  - (a), replace “district plan or proposed district plan” with “land use plan or proposed land use plan”. In sections 70(3)(c) and 71(7)(c), replace “district plan prepared under the Resource Management Act 1991” with “land use plan prepared under the Planning Act 2026”. In section 109, definition of consent authority, paragraph
+  - (b), replace “Resource Management Act 1991 (see section 2(1) of that Act)” with “Planning Act 2026 (see section 3 of that Act)”. In section 109, insert in their appropriate alphabetical order: core infrastructure operator has the meaning given in clause 9 of Schedule 5 of the Planning Act 2026 planning consent has the meaning given in section 130 of the Planning Act 2026, and includes a change to a condition of a planning consent under section 197 of that Act In section 109, definition of development, paragraph
+  - (b), replace “network utility operator” with “core infrastructure operator”. In section 109, replace the definition of financial contribution with: financial contribution means a financial contribution that was received under the Resource Management Act 1991 In section 109, repeal the definitions of network utility operator and resource consent.
+  - Local Government (Water Services) Act 2025 (2025 No 42)—continued In section 113(1)(a),
+  - (3), and
+  - (4)(a), replace “resource consent” with “planning consent”. In section 116(5), delete “or financial contribution”. In the heading to section 117, delete “or financial contributions”. In section 117(1)(a), delete “or financial contributions”. In section 117(5), replace “resource consent” with “planning consent”. Repeal section 117(6) to
+  - (8) and the heading above section 117(6). In section 120(5), replace “resource consent” with “planning consent”. In section 127(6)(a), replace “resource consent” with “planning consent”. In section 129(3)(a)(i), replace “resource consents” with “planning consents”. Replace section 141(3)(a) with:
+  - (a) grant a planning consent under the Planning Act 2026; or In section 141(3)(d), replace “section 224(c) of the Resource Management Act 1991” with “clause 18 of Schedule 7 of the Planning Act 2026”. In section 144(1)(a) and
+  - (5)(a),—
+  - (a) replace “section 224(c) of the Resource Management Act 1991” with “clause 18 of Schedule 7 of the Planning Act 2026”; and
+  - (b) replace “resource consent under the Resource Management Act 1991” with “planning consent under the Planning Act 2026”. In section 145(1)(a) and
+  - (c), replace “resource consent” with “planning consent”. In section 145(1)(a)(i), replace “section 125 of the Resource Management Act 1991” with “section 194 of the Planning Act 2026”. In section 145(1)(a)(ii), replace “section 138” with “section 206”. In section 147(4)(c), replace “resource consents” with “planning consents”. In section 148, replace “Resource Management Act 1991” with “Planning Act 2026”. In section 168(6), replace “resource consent” with “natural resource permit, planning consent,”. Replace section 203(2)(b) with:
+  - (b) may refer to any relevant management plans prepared by a territorial authority, regional council, or a water organisation under the Natural Environment Act 2026. Replace section 209(1)(b) with:
+  - (b) without a natural resource permit required under the Natural Environment Act 2026 for the activity; or
+  - (c) without a planning consent required under the Planning Act 2026 for the activity.
+  - Local Government (Water Services) Act 2025 (2025 No 42)—continued In section 212(1) and
+  - (2), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 213(2), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In Schedule 2, clause 3(1)(g), replace “resource consents” with “natural resource permits, planning consents,”. In Schedule 2, clause 5(2)(b), replace “resource consents, natural resource permits,” with “natural resource permits”. Maori Commercial Aquaculture Claims Settlement Act 2004 (2004 No 107) In section 4, replace the definition of aquaculture activities with: aquaculture activity has the meaning given in section 3 of the Natural Environment Act 2026 In section 4, definition of authorisation, replace “has the same meaning as in section 165C of the Resource Management Act 1991” with “has the meaning given in clause 1(1) of Schedule 4 of the Natural Environment Act 2026”. In section 4, definition of coastal permit, replace “has the same meaning as in section 2(1) of the Resource Management Act 1991” with “has the meaning given in section 133(a) of the Natural Environment Act 2026”. In section 4, definition of new space, paragraph
+  - (a), replace “section 116A of the Resource Management Act 1991” with “section 188 of the Natural Environment Act 2026”. In section 4, definition of occupy, replace “has the same meaning as in section 2(1) of the Resource Management Act 1991” with “has the meaning given in section 3 of the Natural Environment Act 2026”. In section 5(1)(aa), replace “in accordance with an Order in Council under section 165K, or a notice in the Gazette under section 165N, of the Resource Management Act 1991” with “in accordance with an Order in Council under clause 10 of Schedule 4, or a notice in the Gazette under clause 13 of Schedule 4, of the Natural Environment Act 2026”. After section 11(2)(b)(ii), insert: (iii) if no resource consent applications for the purpose of aquaculture activities have been received by the date this subclause commences, within 2 years after the receipt of the first natural resource permit application for the purpose of aquaculture activities under the Natural Environment Act 2026 (not being an application to which clause 41 of Schedule 4 of the Natural Environment Act 2026 applies). In section 12(3), replace “Section 165E of the Resource Management Act 1991” with “Clause 3 of Schedule 4 of the Natural Environment Act 2026”.
+  - Maori Commercial Aquaculture Claims Settlement Act 2004 (2004 No 107)— continued In section 13(6), replace “section 165R of the Resource Management Act 1991” with “clause 17 of Schedule 4 of the Natural Environment Act 2026”. In section 14(4)(d)(iv)(A), replace “a resource consent under the Resource Management Act 1991 that could commence under section 116A” with “a natural resource permit under the Natural Environment Act 2026 that could commence under section 188”. In section 14(4)(d)(iv)(B), replace “the resource consent” with “the natural resource permit”. In section 16A(1), replace “Section 165T of the Resource Management Act 1991” with “Clause 19 of Schedule 4 of the Natural Environment Act 2026”. In section 16A(2)(a), after “resource consent application”, insert “or natural resource permit application”. In section 16A(2)(b), after “Resource Management Act 1991”, insert “or a natural resource permit has been cancelled under section 188(3) or
+  - (7) of the Natural Environment Act 2026”. In section 16A(3), after “Resource Management Act 1991”, insert “or a notice of transfer of the authorisation to the regional council under clause 18 of Schedule 4 of the Natural Environment Act 2026”. In section 50(6), replace “sections 135 and 165S of the Resource Management Act 1991” with “section 208 and clause 18 of Schedule 4 of the Natural Environment Act 2026”. Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3) In section 3(6)(a)(i), replace “resource consent” with “natural resource permit and planning consent”. In section 9(1), repeal the following definitions:
+  - (a) aquaculture activities:
+  - (b) coastal permit:
+  - (c) consent authority:
+  - (d) plan:
+  - (e) proposed plan:
+  - (f) regional document:
+  - (g) resource consent:
+  - (h) RMA permission right. In section 9(1), insert in their appropriate alphabetical order: aquaculture activity has the meaning given in section 3 of the Natural Environment Act 2026
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued coastal permit has the meaning given in section 133(a) of the Natural Environment Act 2026 consent authority has the meaning given in section 3 of the Planning Act 2026 customary marine title permitted activity rule,—
+  - (a) in relation to a natural environment plan or proposed natural environment plan, has the meaning given in section 3 of the Natural Environment Act 2026; and
+  - (b) in relation to a land use plan or proposed land use plan, has the meaning given in section 3 of the Planning Act 2026 natural resource permit has the meaning given in section 3 of the Natural Environment Act 2026 NEP permission right means the right held by a customary marine title group under a customary marine title order or agreement as provided for in sections 66 to 68 permit authority has the meaning given in section 3 of the Natural Environment Act 2026 planning consent has the meaning given in section 3 of the Planning Act 2026 proposed land use plan has the meaning given in section 3 of the Planning Act 2026 In section 9(2), replace “section 3 of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. In section 11(5)(d), replace “resource consents or permits” with “natural resource permits or planning consents”. In section 11(6), delete “regional plans, district plans,”. In section 14(2)(b), replace “resource consent” with “natural resource permit, planning consent,”. In section 18(4), replace “resource consent” with “natural resource permit”. In section 19(3)(b), replace “resource consent” with “natural resource permit”. In section 19(3A)(b), replace “section 12(7) of the Resource Management Act 1991” with “section 21(8) of the Natural Environment Act 2026 and section 22(4) of the Planning Act 2026”. In section 19(3C), replace “regional coastal plan” with “natural environment plan” in each place. In section 19(3C)(b), replace “resource consent” with “natural resource permit”. In section 20(b), replace “resource consent” with “natural resource permit or planning consent”.
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued In section 23(4), replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. In section 26(4), replace “regional plans, and district plans” with “natural environment plans, and land use plans”. In section 27(5), replace “regional plans, and district plans” with “natural environment plans, and land use plans”. In section 29(1), definition of developer, replace “resource consent” with “natural resource permit” in each place. In section 30(2), replace “section 245(5) of the Resource Management Act 1991” with “clause 73(3) of Schedule 7 of the Planning Act 2026”. In section 35(2),—
+  - (a) replace “network utility operator” with “core infrastructure operator” in each place; and
+  - (b) replace “network utility operation” with “core infrastructure operation”. Replace section 35(7) with:
+  - (7) In this section, core infrastructure operation and core infrastructure operator have the meanings given in clause 9 of Schedule 5 of the Planning Act 2026. In section 36(2)(d), replace “resource consent” with “natural resource permit”. In section 39(1)(c), replace “section 245(5)(b) of the Resource Management Act 1991” with “clause 73(3) of Schedule 7 of the Planning Act 2026”. In section 43(5), replace “section 245(5)(b) of the Resource Management Act 1991” with “clause 73(3) of Schedule 7 of the Planning Act 2026”. Replace section 52(1) and
+  - (2) with:
+  - (1) A protected customary right may be exercised under a protected customary rights order or an agreement without a natural resource permit or planning consent despite—
+  - (a) any prohibition, restriction, or imposition that would otherwise apply in or under section 21, 22, 23, 24, or 29 of the Natural Environment Act 2026 or section 21, 22, 31, or 32 of the Planning Act 2026; and
+  - (b) any of the following that may restrict or prohibit the exercise of that right:
+  - (i) regulations under the Natural Environment Act 2026 or Planning Act 2026: (ii) a rule set in or required by a national instrument under the Natural Environment Act 2026 or Planning Act 2026.
+  - (2) In exercising a protected customary right, a protected customary rights group is not liable for—
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued
+  - (a) natural resource levies imposed under section 328 of the Natural Environment Act 2026; or
+  - (b) royalties for sand and shingle imposed by regulations made under the Natural Environment Act 2026. In the heading to section 55, replace “resource consent” with “natural resource permit or planning consent”. In section 55(1), replace “resource consent” with “natural resource permit or planning consent”. In section 55(2),—
+  - (a) replace “A consent authority” with “A permit authority or consent authority”; and
+  - (b) replace “resource consent” with “natural resource permit or planning consent”. In section 55(3)(a), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. Replace section 55(3)(b) with:
+  - (b) a natural resource permit under section 315 of the Natural Environment Act 2026 for an emergency activity (within the meaning of section 63) undertaken in accordance with section 313 or 314 of that Act, as if the emergency activity were an emergency work to which section 313 or 314 applies; or (ba) a planning consent under section 317 of the Planning Act 2026 for an emergency activity (within the meaning of section 63) undertaken in accordance with section 315 or 316 of that Act, as if the emergency activity were an emergency work to which section 315 or 316 applies; or In section 55(3)(c), replace “resource consent” with “natural resource permit or planning consent” in each place. In section 55(3)(d), replace “resource consent” with “natural resource permit or planning consent”. In section 55(4),—
+  - (a) before “consent authority”, insert “permit authority or”; and
+  - (b) replace “resource consent” with “natural resource permit or planning consent”. In section 57B(f), after “resource consent”, insert “, natural resource permit, or planning consent”. In section 59(4)(b)(ii), replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In section 60(2)(a), replace “resource consent,” with “natural resource permit, planning consent,”. Replace section 60(2)(b) with:
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued
+  - (b) is not liable for payment, in relation to the customary marine title area, of—
+  - (i) natural resource levies imposed under section 328 of the Natural Environment Act 2026; or (ii) royalties for sand and shingle imposed by regulations made under the Natural Environment Act 2026. In section 62(1)(a), delete “Resource Management Act 1991 (RMA)”. In section 62(2), replace “resource consent” with “natural resource permit or planning consent”. In the heading to section 62A, replace “resource consents” with “natural resource permits or planning consents”. In section 62A(1) and
+  - (2), replace “resource consent” with “natural resource permit or planning consent” in each place. In section 62A(3),—
+  - (a) before “consent authority”, insert “permit authority or”; and
+  - (b) replace “section 88 of the Resource Management Act 1991” with “section 143 of the Natural Environment Act 2026 or section 139 of the Planning Act 2026 (as the case requires)”. In section 63, definition of accommodated activities, paragraph
+  - (a), replace “RMA permission right” with “NEP permission right”. In section 63, definition of accommodated infrastructure, paragraph
+  - (b)(iii), replace “a network utility operator (within the meaning of section 166 of the Resource Management Act 1991)” with “a core infrastructure operator (within the meaning of clause 9 of Schedule 5 of the Planning Act 2026)”. In section 63, definition of associated operations, paragraph
+  - (a), replace “resource consent granted under the Resource Management Act 1991” with “natural resource permit or planning consent”. In section 63, definition of emergency activity, paragraph
+  - (c)(vi), replace “section 330 of the Resource Management Act 1991” with “section 313 or 314 of the Natural Environment Act 2026 or section 315 or 316 of the Planning Act 2026”. In section 63, definition of existing, after “resource consents”, insert “, natural resource permits, or planning consents”. In section 64(1)(b), replace “RMA permission right” with “NEP permission right”. In section 64(2)(a),—
+  - (a) after “resource consent,”, insert “natural resource permit, or planning consent,”; and
+  - (b) after “for the consent”, insert “or permit”; and
+  - (c) after “accepted by the”, insert “permit authority or”.
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued In section 64(2)(b), after “resource consent,”, insert “natural resource permit, or planning consent,”. In section 64(2)(d), replace “resource consent” with “natural resource permit or planning consent”. In section 64(2)(e), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 65(1)(a)(iv)(A), replace “consents” with “natural resource permits and planning consents”. In section 65(1)(a)(iv)(B), replace “resource consents” with “natural resource permits and planning consents”. In section 65(2),—
+  - (a) before “consent authority”, insert “permit authority or”; and
+  - (b) replace “resource consent” with “natural resource permit or planning consent” in each place. Replace the cross-heading above section 66 with: NEP permission right Replace sections 66 to 68 with:
+## Clause 66 — Scope of NEP permission right
+  - (1) A natural environment and planning permission right (an NEP permission right) applies to activities that are to be carried out under any of the following, to the extent that the activity is to be carried out within a customary marine title area:
+  - (a) a natural resource permit (including a natural resource permit for a controlled activity):
+  - (b) a planning consent:
+  - (c) a customary marine title permitted activity rule in a natural environment plan, a proposed natural environment plan, a land use plan, or a proposed land use plan.
+  - (2) A customary marine title group may give or decline permission, on any grounds, for an activity to which an NEP permission right applies.
+  - (3) Permission given by a customary marine title group cannot be revoked.
+  - (4) An NEP permission right does not apply to—
+  - (a) the grant or exercise of a natural resource permit or a planning consent for an accommodated activity; or
+  - (b) any activity that is carried out under a customary marine title permitted activity rule for an accommodated activity.
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued
+  - (5) An NEP permission right, or permission given under such a right, does not limit the discretion of a permit authority or a consent authority—
+  - (a) to decline an application for a natural resource permit or a planning consent; or
+  - (b) to impose conditions.
+  - (6) In this section,— consent authority includes the Minister of Conservation exercising the powers of a consent authority under section 213 of the Planning Act 2026 permit authority includes the Minister of Conservation exercising the powers of a permit authority under section 219 of the Natural Environment Act 2026.
+## Clause 67 — Procedural matters relevant to exercise of NEP permission right
+  - (1) A person seeking to carry out an activity to which an NEP permission right applies (the person)—
+  - (a) must make a request for permission by notice in writing to the relevant customary marine title group; and
+  - (b) may do so at any time before—
+  - (i) the natural resource permit or planning consent commences (in the case of an activity to be carried out under a natural resource permit or planning consent); or (ii) the activity commences (in the case of an activity to be carried out under a customary marine title permitted activity rule).
+  - (2) The customary marine title group must—
+  - (a) notify in writing its decision on a request for permission to—
+  - (i) the person; and (ii) the consent authority, permit authority, or local authority responsible for administering the customary marine title permitted activity rule (as the case requires); and
+  - (b) if permission is given, specify—
+  - (i) the activity for which permission is given; and (ii) the person who is to have the benefit of the permission; and (iii) the duration of the permission.
+  - (3) Unless the customary marine title group has already notified its decision to the applicant under subsection
+  - (2), it must do so no later than—
+  - (a) 40 working days after it receives a notice from the applicant that the applicant has been granted the natural resource permit or planning consent (in the case of an activity to be carried out under a natural resource permit or planning consent); or
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued
+  - (b) 40 working days after a request under subsection
+  - (1)(a) (in the case of an activity to be carried out under a customary marine title permitted activity rule).
+  - (4) The permission of the customary marine title group is to be treated as having been given for—
+  - (a) the natural resource permit or planning consent, for its duration, if notice of the customary marine title group’s decision is not received by the person in accordance with subsection
+  - (3)(a); or
+  - (b) the activity to be undertaken under the customary marine title permitted activity rule, if notice of the customary marine title group’s decision is not received by the person in accordance with subsection
+  - (3)(b).
+  - (5) In subsection
+  - (3)(a),—
+  - (a) the grant of a natural resource permit means that the permit has been granted and any appeal rights exhausted, and that the permit would, but for the requirement for the permission of the customary marine title group, commence under section 186 of the Natural Environment Act 2026; and
+  - (b) the grant of a planning consent means that the consent has been granted and any appeal rights exhausted, and that the consent would, but for the requirement for the permission of the customary marine title group, commence under sections 185 to 187 of the Planning Act 2026.
+  - (6) Subsection
+  - (3)(a) applies whether or not the person had previously notified the customary marine title group of the application.
+  - (7) When a permit authority or consent authority receives an application for a natural resource permit or planning consent to which an NEP permission right applies, it must refer the application to the relevant customary marine title group as soon as practicable unless the group has already notified its decision in accordance with subsection
+  - (2).
+## Clause 68 — Effect of NEP permission right
+  - (1) The holder of a natural resource permit or a planning consent for an activity in a customary marine title area to which an NEP permission right applies must not commence the activity to which the permit or consent applies unless—
+  - (a) permission has been given by the relevant customary marine title group under section 66(2) (or is treated as given under section 67(4)) for that activity; and
+  - (b) the permission covers the activity to which the permit or consent applies.
+  - (2) A customary marine title permitted activity rule does not authorise a person to carry out an activity in a customary marine title area to which an NEP permission right applies unless, before the person commences the activity,—
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued
+  - (a) permission has been given by the relevant customary marine title group under section 66(2) (or is treated as given under section 67(4)) for that activity; and
+  - (b) the permission covers that activity.
+  - (3) To avoid doubt, a decision of a customary marine title group to give or to decline permission for an activity is not subject to—
+  - (a) a right of appeal; or
+  - (b) a right to apply to the Planning Tribunal for review. In section 69(1), replace “RMA permission right” with “NEP permission right”. Replace section 70(1) with:
+  - (1) Subsection
+  - (3) applies only if,—
+  - (a) in relation to the exercise of a natural resource permit or a planning consent,—
+  - (i) an NEP permission right applies; and (ii) the natural resource permit or planning consent is exercised without the permission of the customary marine title group being obtained; or
+  - (b) in relation to an activity carried out in reliance on a customary marine title permitted activity rule,—
+  - (i) an NEP permission right applies; and (ii) the activity is carried out without the permission of the customary marine title group being obtained. In section 84(2)(b), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. Repeal section 85(5)(d). In section 87, replace “resource consents” with “natural resource permits or planning consents”. In section 91(2)(b)(i), replace “the Resource Management Act 1991” with “the Natural Environment Act 2026”. In section 91A, replace “section 360B of the Resource Management Act 1991” with “section 326 of the Natural Environment Act 2026”. In section 92, definition of regional document, repeal paragraphs
+  - (a) and
+  - (b). In the heading above section 93(2), replace “resource management” with “certain”. In section 93(2), replace “that relate to resource management issues within its functions under the Resource Management Act 1991, the Natural Environment Act 2026, and the Planning Act 2026” with “that relate to issues within its functions under the Natural Environment Act 2026 and the Planning Act 2026”.
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued In section 93(3), replace “section 104 of the Resource Management Act 1991” with “section 164 of the Natural Environment Act 2026 or section 164 of the Planning Act 2026”. In section 93(3),—
+  - (a) replace “section 104 of the Resource Management Act 1991” with “section 164 of the Natural Environment Act 2026 or section 164 of the Planning Act 2026”; and
+  - (b) replace “resource consent” with “natural resource permit or planning consent”; and
+  - (c) before “consent authority”, insert “permit authority or”. In section 93(5)(a), delete “Schedule 1 of the Resource Management Act 1991 or”. Repeal section 93(6). In section 93(7) and
+  - (8), replace “subsections
+  - (6) to (6B)” with “subsections (6A) and (6B)”. In section 93(9), replace “the Resource Management Act 1991, the Natural Environment Act 2026, or the Planning Act 2026” with “the Natural Environment Act 2026 or the Planning Act 2026”. Repeal section 93(10). In section 93(11), delete “a proposed policy statement or plan that is notified under clause 5 of Schedule 1 of the Resource Management Act 1991 or”. Replace section 93(12) with:
+  - (12) If a change request to a natural environment plan or land use plan is made under Part 2 of Schedule 3 of the Planning Act 2026 that applies to a customary marine title area in respect of which a planning document has been lodged,—
+  - (a) the provisions of Part 2 of that schedule apply to the change request, subject to the regional council having regard to any matters in the planning document when making a decision under clause 51 of that schedule; and
+  - (b) if the change request is not rejected or treated as a natural resource permit or planning consent application, the regional council must adopt the request and initiate the process required by subsection (6A) or (6B) (as the case requires). Replace the Schedule 1 heading with:
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued Schedule 1 Natural resource permits, planning consents, and controls in protected customary rights area In Schedule 1, clause 1, before “consent authority”, insert “permit authority or”. In Schedule 1, clause 1(f), replace “resource consent” with “natural resource permit or planning consent”. In Schedule 1, clause 2, replace “resource consent” with “natural resource permit or planning consent” in each place. In Schedule 1, heading to clause 3, replace “resource consent” with “natural resource permit or planning consent”. In Schedule 1, clause 3,—
+  - (a) replace “resource consent” with “natural resource permit or planning consent” in each place; and
+  - (b) before “consent authority”, insert “permit authority or” in each place. In Schedule 1, replace clause 6(b) with:
+  - (b) may have regard to—
+  - (i) any relevant national instrument under the Natural Environment Act 2026 or the Planning Act 2026: (ii) the relevant regional spatial plan: (iii) any relevant natural environment plan, proposed natural environment plan, land use plan, or proposed land use plan. In Schedule 1, replace clause 10(d) with:
+  - (d) may have regard to—
+  - (i) any relevant national instrument under the Natural Environment Act 2026 or the Planning Act 2026: (ii) the relevant regional spatial plan: (iii) any relevant natural environment plan, proposed natural environment plan, land use plan, or proposed land use plan. In Schedule 2, clause 1, replace “the Resource Management Act 1991 for any resource consents” with “the Natural Environment Act 2026 for any natural resource permits, or the Planning Act 2026 for any planning consents,”. In Schedule 2, clause 3(b), replace “resource consents” with “natural resource permits or planning consents”. In Schedule 2, clause 6(b), replace “RMA” with “NEP”. In Schedule 2, clause 10(a),—
+  - Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3)—continued
+  - (a) replace “RMA” with “NEP”; and
+  - (b) replace “resource consents” with “natural resource permits or planning consents”. In Schedule 2, clause 10(c), replace “resource consent” with “natural resource permit or planning consent”. In Schedule 2, clause 10(d),—
+  - (a) before “consent authority”, insert “permit authority or”; and
+  - (b) replace “resource consents” with “natural resource permits or planning consents”; and
+  - (c) replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In Schedule 2, clause 11(a), replace “resource consents” with “natural resource permits or planning consents”. In Schedule 2, clause 13, replace “resource consent” with “natural resource permit or planning consent” in each place. In Schedule 2, clause 14(2)(b), replace “resource consent” with “natural resource permit or planning consent”. Maritime Transport Act 1994 (1994 No 104) In section 4(2), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. Replace section 33I(4)(a) with:
+  - (a) the Natural Environment Act 2026; and (aa) the Planning Act 2026; and Replace section 33M(2)(d)(ii) with: (ii) the Natural Environment Act 2026; or (iia) the Planning Act 2026; or In section 110(1)(d), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 225, definition of pollution incident, replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 227(1)(b), replace “section 15B of the Resource Management Act 1991” with “section 26 of the Natural Environment Act 2026”. In section 227(6), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 232(1) and (1A), replace “Resource Management Act 1991” with “Natural Environment Act 2026”.
+  - Maritime Transport Act 1994 (1994 No 104)—continued In section 233(1)(a), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 235(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. Replace section 261(5)(a) with:
+  - (a) a natural resource permit granted under the Natural Environment Act 2026; or Replace section 272(1)(e)(iii) and (iv) with: (iii) section 25, 26, or 27 of the Natural Environment Act 2026; or (iv) any regulations made under any of paragraphs
+  - (16) to
+  - (19) of section 321(1) of the Natural Environment Act 2026; or Replace section 291(2)(c) with:
+  - (c) the natural environment plan applying to that region under the Natural Environment Act 2026, and any relevant national instruments prepared under that Act. In section 397(2) and
+  - (7), replace “Resource Management Act 1991” with “Natural Environment Act 2026” in each place. In section 463(2B)(b), replace “section 15B of the Resource Management Act 1991” with “section 26 of the Natural Environment Act 2026”. In the heading to section 467, replace “Resource Management Act 1991” with “Natural Environment Act 2026 and Planning Act 2026”. In section 467, replace “sections 9, 12, 13, 14, 15, 15A, 15B, and 15C of the Resource Management Act 1991” with “sections 20 to 27 of the Natural Environment Act 2026 and section 21 of the Planning Act 2026”. Mauao Historic Reserve Vesting Act 2008 (2008 No 31) Repeal section 11(1). National Parks Act 1980 (1980 No 66) In section 7(6), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. National War Memorial Park (Pukeahu) Empowering Act 2012 (2012 No 76) Replace section 8(4) with:
+  - (4) The following provisions of the Planning Act 2026 do not apply in relation to the resource consents granted by this section:
+  - (a) section 181 (which provides for appeal rights):
+  - (b) sections 198 to 202 (which provide for the review of consent conditions):
+  - National War Memorial Park (Pukeahu) Empowering Act 2012 (2012 No 76)— continued
+  - (c) section 203 (which relates to the power of the Environment Court to change or cancel a consent). (4A) The following provisions of the Natural Environment Act 2026 do not apply in relation to the resource consents granted by this section:
+  - (a) section 182 (which provides for appeal rights):
+  - (b) sections 200 to 204 (which provide for the review of permit conditions):
+  - (c) section 205 (which relates to the power of the Environment Court to change or cancel a permit). In section 9(4), replace “Resource Management Act 1991” with “Planning Act 2026”. Replace section 9(5) with:
+  - (5) The following provisions of the Planning Act 2026 do not apply in relation to the designation provided by this section:
+  - (a) section 181 (which provides for appeal rights):
+  - (b) clause 4(1)(c) and
+  - (2) of Schedule 5 (which prohibits certain actions from being carried out to or on land that is subject to a designation without the consent of the designating authority), but only in respect of the construction, operation, and maintenance of the Park. In section 38(1), replace “section 8(4)” with “section 8(4) and (4A)”. In section 38(1), replace “Resource Management Act 1991” with “Planning Act 2026 or the Natural Environment Act 2026”. In section 38(2), replace “Resource Management Act 1991” with “Planning Act 2026”. Natural Hazards Insurance Act 2023 (2023 No 1) In section 44, replace “district plan” with “land use plan” in each place. In section 44(6), repeal the definitions of district plan and district plan minimum area. In section 44(6), insert in their appropriate alphabetical order: land use plan means the land use plan (within the meaning of section 3 of the Planning Act 2026) for the district where the damaged residential land is situated land use plan minimum area means the minimum area (in square metres) allowable under the land use plan for land that is used for the purpose for which the damaged residential land was being used at the time the natural hazard damage occurred
+  - New Plymouth District Council (Waitara Lands) Act 2018 (2018 No 2 (L)) In the heading to section 53, replace “Resource Management Act 1991” with “Planning Act 2026”. In section 53, replace “Section 11 and Part 10 of the Resource Management Act 1991” with “Section 23 and Schedule 7 of the Planning Act 2026”. New Zealand Railways Corporation Act 1981 (1981 No 119) Replace section 3A with: 3A Relationship to Natural Environment Act 2026 and Planning Act 2026 The Corporation is not an instrument of the Executive Government of New Zealand for the purposes of the Natural Environment Act 2026 or the Planning Act 2026. Replace section 31(9) with:
+  - (9) Nothing in this section derogates from the provisions of subpart 2 of Part 2 of the Natural Environment Act 2026 or subpart 2 of Part 2 of the Planning Act 2026. New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105) In section 12(3), replace “Section 11(1) of the Resource Management Act 1991” with “Section 23(1) of the Planning Act 2026”. In section 25A(1), replace “section 11 and Part 10 of the Resource Management Act 1991” with “section 23 and Schedule 7 of the Planning Act 2026”. In section 25A(2)(b) and
+  - (6)(a), replace “Resource Management Act 1991” with “Planning Act 2026” in each place. In section 25A(12), replace the definition of allotment with: allotment has the meaning given in clause 3 of Schedule 7 of the Planning Act 2026 Ngāti Rangi Claims Settlement Act 2019 (2019 No 40) In the heading above section 124(1), replace “Resource Management Act 1991, Natural Environment Act 2026,” with “Natural Environment Act 2026”. In section 124(1), delete “regional policy statement, regional plan, district plan,”. In section 124(1)(b), delete “Schedule 1 of the Resource Management Act 1991 or”. In section 124(2), delete “regional policy statement, regional plan, district plan,”. In section 124(3), replace “resource consent, planning consent,” with “planning consent”. In section 124(3), replace “the consent authority under the Resource Management Act 1991 or the Planning Act 2026,” with “the consent authority under the Planning Act 2026”.
+  - Ngāti Rangi Claims Settlement Act 2019 (2019 No 40)—continued In Schedule 5, repeal—
+  - (a) clause 1(j); and
+  - (b) clause 2(c). Offshore Renewable Energy Act 2026 (2026 No 39) In section 4, definition of consent authority, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In section 4, insert in their appropriate alphabetical order: natural resource permit has the meaning given in section 3 of the Natural Environment Act 2026 natural resource permit authority means a permit authority as defined in section 3 of the Natural Environment Act 2026 planning consent has the meaning given in section 3 of the Planning Act 2026 In section 4, repeal the definition of resource consent. In section 10(5), replace “Resource Management Act 1991” with “Natural Environment Act 2026, the Planning Act 2026”. Replace the guidance note after section 11(1) with: Guidance note A person must have a feasibility permit before they can apply for— • a natural resource permit for ORE generation infrastructure activities (see section 142 of the Natural Environment Act 2026): • a planning consent for ORE generation infrastructure activities (see section 138 of the Planning Act 2026): • a marine consent for ORE generation infrastructure activities (see section 38A of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012): • a commercial permit (see section 25(a)). In section 11(2), replace “resource consent” with “natural resource permit, planning consent,”. In section 12(1), replace “resource consent” with “natural resource permit, planning consent,”. In section 12, guidance note, replace “and section 88AB of the Resource Management Act 1991, which provide that consents” with “, section 195(f) of the Natural Environment Act 2026, and section 196 of the Planning Act 2026, which provide that consents and permits”. In section 32(h), replace “or a resource consent” with “, a natural resource permit, or a planning consent”.
+  - Offshore Renewable Energy Act 2026 (2026 No 39)—continued In section 34(3)(f), replace “resource consent” with “natural resource permit, planning consent,”. In section 39, guidance note, replace “or resource consent under the Resource Management Act 1991” with “, natural resource permit under the Natural Environment Act 2026, or planning consent under the Planning Act 2026”. In section 50(f), replace “resource consent” with “natural resource permit, planning consent,”. In section 61(4)(b)(i), replace “or a resource consent” with “, a natural resource permit, or a planning consent”. In section 62(c), replace “or resource consent” with “, natural resource permit, or planning consent”. In section 68(5)(b), replace “or resource consent” with “, natural resource permit, or planning consent”. In section 69, replace “or resource consent” with “, natural resource permit, or planning consent”. In section 70(b), replace “consent authority” with “natural resource permit authority”. In section 74(2), replace “Resource Management Act 1991” with “Natural Environment Act 2026, the Planning Act 2026,”. In section 75(4), replace “or marine consent or resource consent” with “marine consent, natural resource permit, or planning consent”. In section 78(1)(a), replace “Resource Management Act 1991” with “Natural Environment Act 2026, the Planning Act 2026”. In section 78(3), replace “section 87(c) of the Resource Management Act 1991” with “section 133(a) of the Natural Environment Act 2026”. After section 123(2)(m), insert: (ma) a natural resource permit authority: In section 134(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026, the Planning Act 2026”. In section 151(1), replace “resource consent” with “natural resource permit, planning consent,”. Overseas Investment Act 2005 (2005 No 82) In section 61B(c)(vii), replace “Resource Management Act 1991” with “Planning Act 2026”. In Schedule 1, Part 1, table 1, item 8, replace “land that a district plan or proposed district plan under the Resource Management Act 1991” with “land that a land use plan or proposed land use plan under the Planning Act 2026”. In Schedule 1, Part 1, table 1, repeal item 9.
+  - Overseas Investment Act 2005 (2005 No 82)—continued In Schedule 5, clause 21, replace “section 11 and Part 10 of the Resource Management Act 1991” with “section 23 and Schedule 7 of the Planning Act 2026”. Property Law Act 2007 (2007 No 91) In section 325(4), replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. In section 326, definition of reasonable access, replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 330(3), replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. Repeal section 336(2). In section 340(1), replace “section 11 or Part 10 of the Resource Management Act 1991” with “section 23 or Schedule 7 of the Planning Act 2026”. In Schedule 2, Part 1, replace clause 4(b)(i) with:
+  - (i) the Natural Environment Act 2026, the Planning Act 2026, or any consent given, or any notice, order, or requirement made, under those Acts or under the rules of any natural environment plan or land use plan; and In Schedule 2, Part 1, clause 14(2)(a), replace “Resource Management Act 1991” with “Planning Act 2026”. Prostitution Reform Act 2003 (2003 No 28) Replace the cross-heading above section 15 with: Planning consents In the heading to section 15, replace “Resource” with “Planning”. In section 15(1), replace “resource consent under the Resource Management Act 1991” with “planning consent under the Planning Act 2026”. Replace section 15(2) with:
+  - (2) Having considered the matters in subsection
+  - (1)(a) and
+  - (b) as well as the matters it is required to consider under the Planning Act 2026, the territorial authority may, in accordance with section 174 of that Act, grant or refuse to grant a planning consent, or, in accordance with sections 177 and 178 of that Act, impose conditions on any planning consent granted. In section 15(3),—
+  - (a) replace “Resource Management Act 1991” with “Planning Act 2026”; and
+  - (b) replace “district plan or proposed district plan” with “land use plan or proposed land use plan”.
+  - Public Safety (Public Protection Orders) Act 2014 (2014 No 68) In section 114(4), replace “Resource Management Act 1991” with “Planning Act 2026”. Public Works Act 1981 (1981 No 35) In section 24(6A)(a), replace “section 39(1) of the Resource Management Act 1991, section 339 of the Planning Act 2026,” with “section 339 of the Planning Act 2026”. In section 27(8), replace “Part 3 of the Resource Management Act 1991” with “subpart 2 of Part 2 of the Natural Environment Act 2026 or subpart 2 of Part 2 of the Planning Act 2026”. In section 39AAH(1), in the subsection (1AA) that is to be read as if it were one of the subsections replacing section 23(1),—
+  - (a) in paragraph
+  - (a)(i), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”; and
+  - (b) in paragraph
+  - (a)(ii), replace “section 166(1) of the Resource Management Act 1991” with “clause 3 of Schedule 5 of the Planning Act 2026”; and
+  - (c) replace paragraph
+  - (a)(iii) with: (iii) a notice of a proposed designation for the project has been given under clause 13 of Schedule 5 of the Planning Act 2026: In section 46(3), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. In section 52(5), replace “district plan” with “land use plan”. In section 59, definition of notified, repeal paragraph
+  - (a). In section 59, definition of notified, replace paragraph
+  - (b) with:
+  - (b) designated for a public work or a project or work, in an operative or a proposed land use plan under the Planning Act 2026; or After section 71(1)(a), insert: (aa) the date on which a proposed designation was notified under clause 17 or 20(2) of Schedule 5 of the Planning Act 2026; or In section 71(9), replace “Resource Management Act 1991” with “Planning Act 2026”. Replace section 111A(1)(ba) with: (ba) a core infrastructure operator within the meaning of clause 9 of Schedule 5 of the Planning Act 2026 that is a designating authority under that Act; or In section 166(e) and
+  - (g), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. In section 166(f), replace “Resource Management Act 1991” with “Natural Environment Act 2026”.
+  - Public Works Act 1981 (1981 No 35)—continued In section 190(3), replace “on him by the Harbours Act 1950 or by any other Act, but subject to the Resource Management Act 1991” with “by any Act, but subject to the Natural Environment Act 2026 and the Planning Act 2026”. In section 191(9), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 218(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. Replace section 224(20) with:
+  - (20) For the purposes of any agreement under this section, any party to the agreement that is a designating authority, in their or its own name or on behalf of all parties, may propose any designation under Schedule 5 of the Planning Act 2026, and make an application under any statutory provision for consent, authorisation, permission, a licence, a permit, a right, or any other type of approval. Racing Industry Act 2020 (2020 No 28) Replace section 32(12) and the heading above section 32(12) with: Application of Planning Act 2026
+  - (12) Section 23 and Schedule 7 of the Planning Act 2026 do not apply to—
+  - (a) the vesting of a surplus venue under this subpart; or
+  - (b) any matter incidental to, or required for the purpose of, the vesting. Railways Act 2005 (2005 No 37) In section 77(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. Rating Valuations Act 1998 (1998 No 69) In section 2, repeal the definition of district plan. Reserves Act 1977 (1977 No 66) In section 14(2),—
+  - (a) replace “a district plan” with “a land use plan”; and
+  - (b) replace “district plan under the Resource Management Act 1991” with “land use plan under Part 3 of the Planning Act 2026”. In section 15(2), replace “district plan under the Resource Management Act 1991” with “land use plan under Part 3 of the Planning Act 2026”. Replace section 15AA(1) to
+  - (3) with:
+  - Reserves Act 1977 (1977 No 66)—continued
+  - (1) A person may apply to the administering body of a recreation reserve to exchange all or part of the land comprised in the reserve (the recreation reserve land) for other land to be held for the same purposes if—
+  - (a) the application is made jointly with—
+  - (i) an application for a planning consent under section 134 of the Planning Act 2026; or (ii) an application for a natural resource permit under section 138 of the Natural Environment Act 2026; or (iii) a request for a change to a land use plan under clause 48 of Schedule 3 of the Planning Act 2026; or (iv) a request for a change to a natural environment plan under section 102(3) of the Natural Environment Act 2026; and
+  - (b) the recreation reserve land is vested in the administering body for the reserve; and
+  - (c) the administering body of the reserve is also the relevant local authority under the Natural Environment Act 2026 or the Planning Act 2026.
+  - (2) If an application is made under subsection
+  - (1)(a)(i), subsection
+  - (4) applies if—
+  - (a) the application to exchange the recreation reserve land has been—
+  - (i) processed in accordance with section 134 of the Planning Act 2026; and (ii) publicly notified under section 148 of the Planning Act 2026; and
+  - (b) the planning consent—
+  - (i) has been granted; but (ii) is subject to the granting of the application to exchange the recreation reserve land; and
+  - (c) the time allowed under the Planning Act 2026 for appeals against the decision to grant the planning consent has expired and any appeals have been determined. (2A) If an application is made under subsection
+  - (1)(a)(ii), subsection
+  - (4) applies if—
+  - (a) the application to exchange the recreation reserve land has been—
+  - (i) processed in accordance with section 138 of the Natural Environment Act 2026; and (ii) publicly notified under section 153 of the Natural Environment Act 2026; and
+  - (b) the natural resource permit—
+  - (i) has been granted; but
+  - Reserves Act 1977 (1977 No 66)—continued (ii) is subject to the granting of the application to exchange the recreation reserve land; and
+  - (c) the time allowed under the Natural Environment Act 2026 for appeals against the decision to grant the planning consent has expired and any appeals have been determined.
+  - (3) If an application is made under subsection
+  - (1)(a)(iii), subsection
+  - (4) applies if—
+  - (a) the application to exchange the recreation reserve land has been processed in accordance with clause 49 of Schedule 3 of the Planning Act 2026; and
+  - (b) the plan change—
+  - (i) has been approved by the local authority; but (ii) is subject to the granting of the application to exchange the recreation reserve land; and
+  - (c) the time allowed under the Planning Act 2026 for appeals against the decision to change the plan has expired and any appeals have been determined. (3A) If an application is made under subsection
+  - (1)(a)(iv), subsection
+  - (4) applies if—
+  - (a) the application to exchange the recreation reserve land has been processed in accordance with clause 49 of Schedule 3 of the Planning Act 2026 (as applied by section 102 of the Natural Environment Act 2026); and
+  - (b) the plan change—
+  - (i) has been approved by the local authority; but (ii) is subject to the granting of the application to exchange the recreation reserve land; and
+  - (c) the time allowed under the Natural Environment Act 2026 for appeals against the decision to change the plan has expired and any appeals have been determined. In section 15AA(5)(a), replace “RMA” with “Natural Environment Act 2026 or the Planning Act 2026”. Replace section 16(2A)(g) with:
+  - (g) created under Schedule 7 of the Planning Act 2026— In section 16(5)(b), replace “district plan under the Resource Management Act 1991” with “land use plan under the Planning Act 2026”. In section 23(2)(a), after “Part 10 of the Resource Management Act 1991”, insert “or under Schedule 7 of the Planning Act 2026”.
+  - Reserves Act 1977 (1977 No 66)—continued In section 24(7), replace “resource consent under the Resource Management Act 1991” with “natural resource permit under the Natural Environment Act 2026 or planning consent under the Planning Act 2026”. Replace section 24A(3)(a) with:
+  - (a) the operative land use plan in force under the Planning Act 2026 for the region in which the reserve is situated: In section 48(1), replace “and to the Resource Management Act 1991” with “, the Planning Act 2026, and the Natural Environment Act 2026”. In section 53(1)(i), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 53(1)(j), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. Replace section 54(2A)(b) with:
+  - (b) is made following the granting of a planning consent under the Planning Act 2026 where the application for the consent was notified in accordance with section 148(b) of that Act; or
+  - (c) is made following the granting of a natural resource permit under the Natural Environment Act 2026 where the application for the consent was notified in accordance with section 153(c) of that Act. In section 55(1)(d) and
+  - (2)(f), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. Replace section 56(3)(b) with:
+  - (b) is made following the granting of any appropriate natural resource permits under the Natural Environment Act 2026 or planning consents under the Planning Act 2026. Replace section 58A(3)(b) with:
+  - (b) is made following the granting of any appropriate natural resource permits under the Natural Environment Act 2026 or planning consents under the Planning Act 2026. River Boards Act 1908 (1908 No 165) In section 76(d) and
+  - (f), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 86(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. Sale and Supply of Alcohol Act 2012 (2012 No 120) In section 47A(4), replace “section 9 of the Resource Management Act 1991” with “section 21 of the Planning Act 2026” in each place.
+  - Sale and Supply of Alcohol Act 2012 (2012 No 120)—continued In section 100(f), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 143(1)(b), replace “Resource Management Act 1991” with “Planning Act 2026”. Search and Surveillance Act 2012 (2012 No 24) In Schedule 2, repeal the item relating to the Resource Management Act 1991. In Schedule 2, insert in their appropriate alphabetical order: Natural Environment 276(1) Constable or enforcement officer may All (except that Act 2026 obtain and execute search warrant if sections 118 and 119 issuing officer is satisfied that there apply to constables are reasonable grounds for believing only) that in, on, over, or under any place or vehicle there is anything in respect of which an imprisonable offence under Natural Environment Act 2026 or any regulations made under that Act has been committed or anything that is evidence of such offence or that is intended to be used to commit such offence Planning Act 2026 252(1) Constable or enforcement officer may All (except that obtain and execute search warrant if sections 118 and 119 issuing officer is satisfied that there apply to constables are reasonable grounds for believing only) that in, on, over, or under any place or vehicle there is anything in respect of which an imprisonable offence under Planning Act 2026 or any regulations made under that Act has been committed or anything that is evidence of such offence or that is intended to be used to commit such offence Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L)) In section 3(8), replace “Resource Management Act 1991” with “Planning Act 2026”. Sentencing Act 2002 (2002 No 9) In section 4(4), replace “Resource Management Act 1991,” with “Natural Environment Act 2026, the Planning Act 2026,”. Sharemilking Agreements Act 1937 (1937 No 37) In the Schedule, clause 1, note, second sentence, after “consents”, insert “or permits”. In the Schedule, note above clause 67,—
+  - (a) replace “Resource Management Act 1991” with “Natural Environment Act 2026”; and
+  - Sharemilking Agreements Act 1937 (1937 No 37)—continued
+  - (b) replace “resource consents” with “natural resource permits”. In the Schedule, clause 68(a), replace “resource consent” with “natural resource permit”. Soil Conservation and Rivers Control Act 1941 (1941 No 12) Replace section 10A with: 10A Relationship to Natural Environment Act 2026 Despite section 10, nothing in this Act derogates from the provisions of sections 176 to 182 of the Harbours Act 1950 or the Natural Environment Act 2026. State-Owned Enterprises Act 1986 (1986 No 124) In section 23(1)(ba), replace “district plans under the Resource Management Act 1991” with “land use plans under the Planning Act 2026”. In section 27D(5), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 29(1), definition of assets, paragraph
+  - (e), replace “Resource Management Act 1991” with “Planning Act 2026 or permit granted under the Natural Environment Act 2026”. Summit Road (Canterbury) Protection Act 2001 (2001 No 3 (L)) In section 4(1), definition of subdivision, replace “section 218 of the Resource Management Act 1991” with “clause 2 of Schedule 7 of the Planning Act 2026”. Replace section 8(1) with:
+  - (1) In relation to the protected land, the Authority is deemed to be a nearby local authority under clauses 5 and 15(3) of Schedule 3 of the Planning Act 2026. In section 8(2),—
+  - (a) replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”; and
+  - (b) replace “policy statement or plan referred to in that Act” with “plan referred to in those Acts”. In section 12(2)(b), replace “Resource Management Act 1991” with “Planning Act 2026”. Replace section 15 with:
+## Clause 15 — Joint hearings with consent authorities under Natural Environment Act
+  - 2026 or Planning Act 2026 Any hearing under section 14 relating to a proposal in respect of which a planning consent is also sought under the Planning Act 2026 or a natural resource
+  - Summit Road (Canterbury) Protection Act 2001 (2001 No 3 (L))—continued permit is sought under the Natural Environment Act 2026 may be held jointly with a hearing held by 1 or more consent authorities under those Acts to consider the application for the consent or permit. Replace section 24(2)(b) with:
+  - (b) state any matters that regulations made under the Planning Act 2026 require to be stated in the case of an appeal under section 181 of that Act; and Replace section 27 with:
+## Clause 27 — Service of notices
+  - A notice must be served in accordance with section 340 of the Planning Act 2026 as if it were a notice under that Act. In section 29(1)(a),—
+  - (a) replace “section 314 of the Resource Management Act 1991” with “section 259 of the Planning Act 2026”; and
+  - (b) replace “section 322 of the Resource Management Act 1991” with “section 268 of that Act”. In section 29(2), replace “section 315 of the Resource Management Act 1991” with “section 260 of the Planning Act 2026”. In section 29(3),—
+  - (a) replace “under section 314 of the Resource Management Act 1991” with “under section 259 of the Planning Act 2026”; and
+  - (b) replace “likely to contravene, the Resource Management Act 1991” with “likely to contravene, that Act”. Tax Administration Act 1994 (1994 No 166) In section 91AAN(4)(d), replace “resource consent” with “natural resource permit or planning consent”. Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 (2017 No 7) Repeal section 37(2)(c). In Schedule 2, repeal clause 1(s). In Schedule 2, repeal clause 2(c). Telecommunications Act 2001 (2001 No 103) In section 3(2), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In the cross-heading above section 69XI, replace “Resource Management Act 1991” with “Planning Act 2026”.
+  - Telecommunications Act 2001 (2001 No 103)—continued Replace the heading to section 69XI with “Designating authority status under Planning Act 2026”. In section 69XI(1), replace “requiring authority, as a network utility operator, under the Resource Management Act 1991” with “designating authority, as a core infrastructure operator, under the Planning Act 2026”. Replace section 69XI(2) with:
+  - (2) Schedule 5 of the Planning Act 2026 applies with necessary modifications as if the approval had been given under clause 10 of Schedule 5 of that Act. In section 69XJ(3), replace “section 177 of the Resource Management Act 1991” with “clause 6 of Schedule 5 of the Planning Act 2026”. In section 69XJ(4),—
+  - (a) replace “Part 8 of the Resource Management Act 1991” with “Schedule 5 of the Planning Act 2026”; and
+  - (b) replace “that Part” with “that schedule”. In section 117(2), replace “district plan or regional plan under the Resource Management Act 1991” with “natural environment plan under the Natural Environment Act 2026 or land use plan under the Planning Act 2026”. Te Ture Whenua Maori Act 1993 (1993 No 4) In section 4, definition of subdivision consent, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In the heading to section 301, replace “Resource Management Act 1991” with “Planning Act 2026”. In section 301(2), replace “the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. In section 301(3)(a), replace “section 218 of the Resource Management Act 1991” with “clause 2 of Schedule 7 of the Planning Act 2026”. In section 301(3)(b), replace “sections 120 and 121 of the Resource Management Act 1991” with “sections 181 and 182 of the Planning Act 2026”. In section 301(4), replace “section 230(3) to
+  - (5) of the Resource Management Act 1991” with “clause 38 of Schedule 7 of the Planning Act 2026”. In section 302(1) and
+  - (2), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 302(2)(b), replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. In section 303(1), replace “Resource Management Act 1991” with “Planning Act 2026”.
+  - Te Ture Whenua Maori Act 1993 (1993 No 4)—continued In section 303(2)(a), replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. In section 303(2)(b), replace “sections 229 to 237H of the Resource Management Act 1991” with “subpart 1 of Part 3 of Schedule 7 of the Planning Act 2026”. In section 303(3), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 304(3)(b), replace “sections 229 to 237H of the Resource Management Act 1991” with “subpart 1 of Part 3 of Schedule 7 of the Planning Act 2026”. In section 304(4), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 326D(5), replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026”. Unit Titles Act 2010 (2010 No 22) In the heading to section 13, replace “Resource Management Act 1991” with “Planning Act 2026”. In section 13(1), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 13(2), replace “section 11 or Part 10 of the Resource Management Act 1991” with “section 23 or Schedule 7 of the Planning Act 2026”. In section 26,—
+  - (a) replace “district plan” with “land use plan”; and
+  - (b) replace “section 223 of the Resource Management Act 1991” with “clauses 17 and 18 of Schedule 7 of the Planning Act 2026”. In the heading to section 28, replace “Resource Management Act 1991” with “Planning Act 2026”. In section 28(1), replace “section 11 or Part 10 of the Resource Management Act 1991” with “section 23 or Schedule 7 of the Planning Act 2026”. In section 28(1)(a) and
+  - (2), replace “section 224(c)” with “clause 18 of Schedule 7” in each place. In section 28(1)(b), replace “section 224(e)” with “clause 22(2) of Schedule 7”. In section 28(2), replace “Section 11 and Part 10 of the Resource Management Act 1991” with “Section 23 or Schedule 7 of the Planning Act 2026”. In section 28(3) and
+  - (4), replace “section 224(c) of the Resource Management Act 1991” with “clause 18 of Schedule 7 of the Planning Act 2026”. In the heading to section 29, replace “section 224(c) of Resource Management Act 1991” with “clause 18 of Schedule 7 of Planning Act 2026”.
+  - Unit Titles Act 2010 (2010 No 22)—continued In section 29(1) and
+  - (2), replace “section 224(c) of the Resource Management Act 1991” with “clause 18 of Schedule 7 of the Planning Act 2026”. In section 29(1)(b)(ii), replace “section 224(c)(i), (ii), and (iii) of the Resource Management Act 1991” with “clause 23(4)(a)(i), (ii), and (iii) of Schedule 7 of the Planning Act 2026”. In section 35(b) and
+  - (c), replace “district plan” with “land use plan”. In section 36(3), replace “district plan or the requirements of the Resource Management Act 1991” with “land use plan or the requirements of the Planning Act 2026”. Urban Development Act 2020 (2020 No 42) Replace section 5(1)(b) with:
+  - (b) have regard to the goals set out in section 13 of the Natural Environment Act 2026; and
+  - (c) have regard to the goals set out in section 13 of the Planning Act 2026. Repeal section 5(2). Replace section 7(2)(a) with:
+  - (a) consenting and designations under the Planning Act 2026 (see subpart 2 of Part 3): In section 9, repeal the following definitions:
+  - (a) amenity values:
+  - (b) combined planning instrument:
+  - (c) district plan:
+  - (d) limited notification:
+  - (e) network utility operator:
+  - (f) public notice:
+  - (g) regional plan:
+  - (h) regional policy statement:
+  - (i) requiring authority:
+  - (j) resource consent. In section 9, insert in its appropriate alphabetical order: targeted notification,—
+  - (a) in relation to an application for a natural resource permit, is the form of notification described in section 154(3) and
+  - (6) of the Natural Environment Act 2026; and
+  - (b) in relation to an application for a planning consent, is the form of notification described in section 149(3) and
+  - (6) of the Planning Act 2026
+  - Urban Development Act 2020 (2020 No 42)—continued In section 9, replace the definition of dwelling house with: dwelling house—
+  - (a) means any building, whether permanent or temporary, that is occupied, in whole or in part, as a residence; and
+  - (b) includes any structure or outdoor living area that is accessory to, and used wholly or principally for the purposes of, the residence; but
+  - (c) does not include the land upon which the residence is sited In section 9, replace the definition of planning instrument with: planning instrument means a natural environment plan under the Natural Environment Act 2026 or a regional spatial plan or land use plan under the Planning Act 2026 In section 9, definition of coastal marine area, replace “same meaning as in section 2(1) of the Resource Management Act 1991” with “meaning given in section 3 of the Natural Environment Act 2026”. In section 9, definition of designation, replace paragraph
+  - (a) with:
+  - (a) has the meaning given in section 3 of the Planning Act 2026; and In section 9, definition of development contribution, replace paragraph
+  - (a) with:
+  - (a) includes a specified reserve or esplanade reserve (other than in relation to a subdivision consent within the meaning given in section 130(b) of the Planning Act 2026); and In section 9, definition of historic heritage, replace “same meaning as in section 2(1) of the Resource Management Act 1991” with “meaning given in section 3 of the Planning Act 2026”. In section 9, definition of infrastructure, replace “same meaning as in section 2(1) of the Resource Management Act 1991” with “meaning given in section 3 of the Planning Act 2026”. In section 9, definition of infrastructure operator, replace “network utility operator” with “core infrastructure operator”. In section 9, definition of iwi authority, replace “same meaning as in section 2(1) of the Resource Management Act 1991” with “meaning given in section 3 of the Planning Act 2026”. In section 9, definition of iwi participation legislation, replace “same meaning as in section 58L of the Resource Management Act 1991” with “meaning given in section
+## Clause 3 — of the Planning Act 2026”.
+  - In section 9, definition of iwi planning document, replace paragraph
+  - (a) with:
+  - (a) the Natural Environment Act 2026; or (aa) the Planning Act 2026; or
+  - Urban Development Act 2020 (2020 No 42)—continued In section 9, definition of land, replace “same meaning as in section 2(1) of the Resource Management Act 1991” with “meaning given in section 3 of the Planning Act 2026”. In section 9, definition of nationally significant infrastructure, paragraph
+  - (g), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 9, definition of participation arrangement, replace “Resource Management Act 1991” with “Natural Environment Act 2026, the Planning Act 2026,”. In section 9, definition of participation arrangement, paragraph
+  - (c), replace “resource consent” with “permit or consent”. In section 9, definition of working day, replace “same meaning as in section 2(1) of the Resource Management Act 1991” with “meaning given in section 3 of the Planning Act 2026”. In section 14(1)(b), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”. In section 17(5), definition of mana whenua, replace “same meaning as in section 2(1) of the Resource Management Act 1991” with “meaning given in section 3 of the Planning Act 2026”. Replace section 28(b)(ii) with: (ii) existing national instruments under the Natural Environment Act 2026; and (iii) existing national instruments under the Planning Act 2026; and In section 33(4)(f), replace “the requiring authorities of any land or airspace designated for defence purposes under the Resource Management Act 1991,” with “the designating authorities of any land or airspace designated for defence purposes under the Planning Act 2026,”. Replace section 48(1)(b)(ii) and (iii) with: (ii) natural resource permit and planning consent applications in the project area: (iii) changes or cancellations of conditions of natural resource permits and planning consents in the project area: Replace section 48(1)(c) with:
+  - (c) a permit authority may transfer its permitting functions in the project area to Kāinga Ora as if Kāinga Ora were a public authority under section 236 of the Natural Environment Act 2026: (ca) a consent authority may transfer its consenting functions in the project area to Kāinga Ora as if Kāinga Ora were a public authority under section 226 of the Planning Act 2026:
+  - Urban Development Act 2020 (2020 No 42)—continued In section 51(1)(b), replace “resource consent” with “planning consent applications, natural resource permit”. In section 51(2), replace “accredited (within the meaning of section 2(1) of the Resource Management Act 1991)” with “accredited in accordance with any regulations made under the Planning Act 2026 or the Natural Environment Act 2026”. Repeal section 58(a). After section 58(b), insert:
+  - (c) the following instruments made under the Natural Environment Act 2026 or the Planning Act 2026:
+  - (i) a national policy direction: (ii) national standards. In section 60(5)(b), after “management”, insert “, natural resource, land use, or planning”. In section 63(5)(a), replace “district plan” with “land use plan”. Replace section 64(1) and
+  - (2) with:
+  - (1) A development plan may incorporate material by reference,—
+  - (a) applying the provisions of the Natural Environment Act 2026 with all necessary modifications, as if—
+  - (i) a reference to a natural environment plan included a development plan: (ii) a reference to a regional council were a reference to Kāinga Ora: (iii) a reference to the Minister were a reference to the responsible Minister under this Act:
+  - (b) applying the provisions of the Planning Act 2026 with all necessary modifications, as if—
+  - (i) a reference to a spatial plan or land use plan included a development plan: (ii) a reference to a territorial authority or regional council were a reference to Kāinga Ora: (iii) a reference to the Minister were a reference to the responsible Minister under this Act.
+  - (2) Any objectives, policies, methods, or rules of a development plan that override, add to, or suspend any provisions of a natural environment plan made under the Natural Environment Act 2026 must—
+  - (a) not go beyond the scope provided for natural environment plans made under the Natural Environment Act 2026; and
+  - Urban Development Act 2020 (2020 No 42)—continued
+  - (b) provide for classes of activities to be specified that are consistent with those set out in sections 34 to 39 of the Natural Environment Act 2026; and
+  - (c) be clearly identified in the development plan; and
+  - (d) if relevant, enable the provision of all necessary infrastructure for a specified development project. (2A) Any objectives, policies, methods, or rules of a development plan that override, add to, or suspend any provisions of a spatial plan or land use plan made under the Planning Act 2026 must—
+  - (a) not go beyond the scope provided for spatial plans or land use plans made under the Planning Act 2026; and
+  - (b) provide for classes of activities to be specified that are consistent with those set out in sections 37 to 42 of the Planning Act 2026; and
+  - (c) be clearly identified in the development plan; and
+  - (d) if relevant, enable the provision of all necessary infrastructure for a specified development project. In section 65, replace “requiring authority” with “designating authority” in each place. In section 66, replace “requiring authority” with “designating authority” in each place. In section 66(7), replace “network utility operation” with “core infrastructure operation”. In section 66(9), replace “requiring authority’s” with “designating authority’s”. In section 67(1), replace “requirement for a designation” with “proposed designation”. Replace section 68(1)(b)(i) with:
+  - (i) any relevant regional spatial plans and land use plans made under the Planning Act 2026 and natural environment plans made under the Natural Environment Act 2026: In section 68(1)(b)(vi), replace “resource management” with “resource management, natural resource, land use, or planning”. Replace section 72(8) with:
+  - (8) If the draft development plan provides for the revocation or cancellation of a conservation interest in land that is not owned by Kāinga Ora, Kāinga Ora must obtain the land owner’s agreement to the revocation or cancellation, subject to any conditions that the Minister of Conservation may impose on the use of the land. Replace section 72(9) with:
+  - Urban Development Act 2020 (2020 No 42)—continued
+  - (9) Subsection (9A) applies if a specified development project is within, or includes any part of, the coastal marine area, a specified reserve, or land subject to any conservation interest. (9A) Before the draft development plan is publicly notified, Kāinga Ora must obtain the approval of the Minister of Conservation for any conditions applying to a proposal—
+  - (a) to set apart, classify, or vest an existing specified reserve or a proposed reserve:
+  - (b) that relates to a covenant over land. In section 72(10)(f), replace “section 229 of the Resource Management Act 1991” with “clause 37 of Schedule 7 of the Planning Act 2026”. In section 75(1)(c)(i), replace “section 72(9)(a)” with “section 72(8) or (9A)”. In section 75(1)(c)(ii), replace “or
+  - (9)” with “or (9A)”. Repeal section 83(4). In section 83(7)(a)(i), replace “notice of requirement” with “proposed designation”. In section 83(7)(a)(ii), replace “notices of requirement” with “proposed designations”. In section 85(2), replace “notice of requirement” with “proposed designation”. In section 86(a), replace “resource consent applications to the” with “planning consent applications to the relevant”. In section 86(b), replace “district plan” with “land use plan”. In section 86(c), replace “notices of requirement lodged by requiring authorities” with “proposed designations lodged by designating authorities”. In section 87(2), replace “district plan” with “land use plan”. In section 93(2), replace “Part 2 of Schedule 1 of the Resource Management Act 1991” with “Part 2 of Schedule 3 of the Planning Act 2026, and section 102(2) of the Natural Environment Act 2026, which applies that Part,”. In section 95(b), replace “Resource Management Act 1991” with “Natural Environment Act 2026”. In section 96(1), replace “Schedule 1 of the Resource Management Act 1991” with “Schedule 3 of the Planning Act 2026 or section 102 of the Natural Environment Act 2026, which applies that schedule”. Replace section 97(1) with:
+  - (1) In the transitional period for a specified development project, a local authority may transfer to Kāinga Ora any 1 or more of the local authority’s functions, powers, or duties as—
+  - Urban Development Act 2020 (2020 No 42)—continued
+  - (a) a permit authority under the Natural Environment Act 2026 for natural resource permit applications in the project area:
+  - (b) a consent authority under the Planning Act 2026 for planning consent applications in the project area. In section 97(2), replace “Section 33 of the Resource Management Act 1991” with “Section 236 of the Natural Environment Act 2026 or section 226 of the Planning Act 2026”. In section 97(4),—
+  - (a) replace “resource consent” with “natural resource permit or planning consent”; and
+  - (b) after “local authority is the”, insert “permit authority or the”. Replace the cross-heading above section 98 with: Land use or natural environment plan changes in transitional period In section 98(1), replace “land use plan, natural environment plan, district plan, or regional plan” with “land use plan or natural environment plan”. In section 98(2), delete “resource management,”. In section 99(1), replace “change to a district or regional plan” with “plan change to a land use plan or natural environment plan”. Replace section 99(2) with:
+  - (2) The relevant local authority must notify Kāinga Ora of that fact, in writing, at least 20 working days before the operative date under clause 44 of Schedule 3 of the Planning Act 2026 (including as that clause is applied for the purposes of the Natural Environment Act 2026 by section 102 of that Act). In section 100(1), replace “clause 17, 18, or 83(1) of Schedule 1 of the Resource Management Act 1991” with “clause 44 of Schedule 3 of the Planning Act 2026 (including as that clause is applied for the purposes of the Natural Environment Act 2026 by section 102 of that Act)”. In section 100(7), replace “or the Resource Management Act 1991” with “, the Natural Environment Act 2026, or the Planning Act 2026”. In section 101(1)(c), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. Replace the cross-heading above section 102 with: Decisions on natural resource permits and planning consents in transitional period In section 102(1)(a) and
+  - (b), replace “resource consent” with “natural resource permit or planning consent”.
+  - Urban Development Act 2020 (2020 No 42)—continued In section 102(4), replace “consent authority under the Resource Management Act 1991” with “permit authority under the Natural Environment Act 2026 or consent authority under the Planning Act 2026”. In the heading to section 103, after “What”, insert “permit authority or”. In section 103(1), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 103(2),
+  - (3), and
+  - (4), replace “consent authority” with “permit authority or consent authority” in each place. In section 103(2), replace “resource consent” with “natural resource permit or planning consent” in each place. In section 103(2)(a), replace “consent authority’s” with “permit authority’s or consent authority’s”. In section 103(3), replace “grant the consent” with “grant the permit or consent”. In section 103(5), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 104(1), replace “consent authority” with “permit authority or consent authority” in each place. In section 104(1)(a), replace “resource consent” with “natural resource permit or planning consent” in each place. Replace section 104(3) with:
+  - (3) When exercising a power under subsection
+  - (1) in relation to a planning consent, sections 162 to 179 of the Planning Act 2026 apply to Kāinga Ora as if it were the consent authority.
+  - (4) When exercising a power under subsection
+  - (1) in relation to a natural resource permit, sections 162 to 179 of the Natural Environment Act 2026 apply to Kāinga Ora as if it were the permit authority. In section 105(1), replace “consent holder” with “permit holder or consent holder”. Replace section 105(3) with:
+  - (3) An objection must be made by notice in writing no later than 15 working days after the decision is notified to the applicant or the permit holder or consent holder, or within any longer time allowed by Kāinga Ora.
+  - (4) A notice of objection must set out the reasons for the objection.
+  - (5) The hearings commissioner may—
+  - (a) require the person who made the objection, or Kāinga Ora, to provide further information:
+  - (b) commission a report on any matter raised in the objection.
+  - Urban Development Act 2020 (2020 No 42)—continued
+  - (6) However, the hearings commissioner must not require further information or commission a report unless they consider that the information or report will assist them in making a decision on the objection.
+  - (7) The hearings commissioner may—
+  - (a) dismiss the objection; or
+  - (b) uphold the objection in whole or in part.
+  - (8) Kāinga Ora must, within 15 working days after the hearings commissioner makes their decision on the objection, give the person who made the objection, and any other person whom Kāinga Ora considers appropriate, notice in writing of the decision and the reasons for it. After section 105, insert: 105A Appeal against decision on objection
+  - (1) A person who has made an objection under section 105 may appeal to the Environment Court against a decision on the objection.
+  - (2) A notice of an appeal under this section must—
+  - (a) be in the form prescribed by the chief executive of the Ministry; and
+  - (b) state the reasons for the appeal; and
+  - (c) be lodged with the Environment Court within 15 working days after the person was notified of the decision under section 105(8) or within such further time as the Environment Court allows.
+  - (3) A person lodging an appeal under this section must ensure that a copy of the notice of the appeal is served on Kāinga Ora at the same time as the notice is lodged with the Environment Court.
+  - (4) This section does not apply to any person who has already exercised a right of appeal in respect of the same matter under section 106. Repeal section 108(1)(a). In Part 3, replace the subpart 2 heading with:
+## Subpart 2—Natural resource permitting, planning consenting, and
+  - designations for specified development project In the heading to section 109, replace “resource consent” with “natural resource permit and planning consent”. In section 109(1)(a), replace “Resource Management Act 1991 for all resource consent applications” with “Planning Act 2026 for all planning consent applications”. Repeal section 109(1)(b)(i). In section 109(1)(b), replace “.” with “; and”. After section 109(1)(b), insert:
+  - Urban Development Act 2020 (2020 No 42)—continued
+  - (c) is not the permit authority under the Natural Environment Act 2026. In section 109(2)(a), replace “resource consents” with “planning consents”. In section 109(2)(b) and
+  - (c), replace “district plan” with “land use plan”. In section 109(2)(c), replace “resource consent” with “planning consent”. In section 109(3), replace “section 38 of the Resource Management Act 1991” with “section 275 of the Planning Act 2026”. In section 109(4),—
+  - (a) replace “resource consent” with “planning consent”; and
+  - (b) replace “sections 332, 334, and 335 of the Resource Management Act 1991” with “sections 289, 291, and 292 of the Planning Act 2026”. In section 110, replace “Part 10 of the Resource Management Act 1991” with “Schedule 7 of the Planning Act 2026” in each place. Replace the cross-heading above section 113 with: Basis of decision-making in relation to natural resource permit and planning consent applications under this Part In the heading to section 113, replace “Resource consents:” with “Natural resource permits and planning consents:”. In section 113(1), replace “resource consent” with “natural resource permit or planning consent”. In section 113(1)(b), replace “sections 104 to 107 of the Resource Management Act 1991” with “subpart 4 of Part 4 of the Planning Act 2026 and subpart 4 of Part 4 of the Natural Environment Act 2026”. Replace section 113(2) with:
+  - (2) The modification referred to in subsection
+  - (1)(b) is that a reference to a land use plan or natural environment plan is to be read as a reference to a plan as overridden by, added to, or suspended by a development plan. In section 113(3), replace “resource consent” with “planning consent or natural resource permit” in each place. In section 113(3)(a), replace “district plan” with “land use plan or natural environment plan”. In section 113(4), replace “district plan” with “land use plan”. Replace the cross-heading above section 114 with: Application of provisions of Natural Environment Act 2026 and Planning Act 2026 In the heading to section 114, replace “Resource consents” with “Natural resource permits and planning consents”.
+  - Urban Development Act 2020 (2020 No 42)—continued In section 114(1), replace “sections 9 to 15 of the Resource Management Act 1991” with “sections 20 to 24 of the Natural Environment Act 2026 and sections 21, 23, and
+## Clause 26 — of the Planning Act 2026”.
+  - Replace section 114(2) with:
+  - (2) Sections 32 to 43, 133, and 213 of the Natural Environment Act 2026 and sections 35 to 46, 130, and 207 of the Planning Act 2026 apply, to the extent that they are relevant, to a specified development project, modified as follows:
+  - (a) a reference to a land use plan or natural environment plan is to be read as a reference to a plan as overridden by, added to, or suspended by a development plan; and
+  - (b) a reference to a consent authority or a permit authority includes a reference to Kāinga Ora. Repeal section 114(3). Replace the cross-heading above section 115 with: Natural resource permit and planning consent processes In the heading to section 115, replace “resource consents” with “natural resource permits and planning consents”. In section 115(1), replace “consent authority for a resource consent” with “permit authority for a natural resource permit or to the consent authority for a planning consent”. Replace section 115(2) with:
+  - (2) An application for a planning consent must be made in the manner prescribed under section 132 of the Planning Act 2026 (with the necessary modifications) and must include—
+  - (a) information relating to the activity, including information specified by the development plan; and
+  - (b) an assessment of effects that complies, to the extent that is relevant, with Schedule 6 of that Act. (2A) An application for a natural resource permit must be made in the manner prescribed under section 136 of the Natural Environment Act 2026 (with the necessary modifications) and must include—
+  - (a) information relating to the activity, including information specified by the development plan; and
+  - (b) an assessment of effects that complies, to the extent that is relevant, with Schedule 2 of that Act. In section 115(3)(a), replace “environmental effects (see subsection
+  - (2)(b))” with “effects (see subsections
+  - (2)(b) and (2A)(b))”.
+  - Urban Development Act 2020 (2020 No 42)—continued In section 115(4), replace “consent authority” with “permit authority or consent authority”. Repeal section 115(6). In section 116(1), replace “consent authority” with “permit authority or consent authority”. Replace section 116(2) with:
+  - (2) Sections 133, 135, 136, 141, and 142 of the Planning Act 2026 apply to the processing of any planning consent applications in a project area. Replace section 116(3) with:
+  - (3) Section 140 of the Planning Act 2026 applies, modified by reading the reference to other consents under the Planning Act 2026 as a reference to other consents under a development plan or under the Planning Act 2026 (see section 140(1)(a) of that Act).
+  - (4) Sections 137, 139, 146, and 147 of the Natural Environment Act 2026 apply to the processing of any natural resource permit applications in a project area.
+  - (5) Section 145 of the Natural Environment Act 2026 applies, modified by reading the reference to other permits under the Natural Environment Act 2026 as a reference to other permits under a development plan or under the Natural Environment Act 2026 (see section 145(1)(a) of that Act). In section 117, replace “Sections 91A to 91F of the Resource Management Act 1991” with “Regulations made under section 324 of the Planning Act 2026”. In section 118(1), replace “section 92 of the Resource Management Act 1991” with “sections 143 and 144 of the Planning Act 2026”. In section 118(2), replace “Sections 92A and 92B of the Resource Management Act 1991 apply” with “Section 145 of the Planning Act 2026 applies”. After section 118(2), insert:
+  - (3) A permit authority may at any time, in accordance with sections 148 and 149 of the Natural Environment Act 2026, request further information before hearing an application under this subpart.
+  - (4) Section 150 of the Natural Environment Act 2026 applies if a request is made under subsection
+  - (3). In section 119(1), replace “consent authority” with “permit authority or consent authority” in each place. In section 119(1), replace “resource consents” with “natural resource permits or planning consents”. Replace section 119(3) with:
+  - (3) For applications for a natural resource permit other than those required to be notified by rules in a development plan or natural environment plan, the permit
+  - Urban Development Act 2020 (2020 No 42)—continued authority must determine whether to notify the application, applying sections 152 to 158 of the Natural Environment Act 2026, modified by reading—
+  - (a) a reference to a natural environment plan as including a reference to a development plan; and
+  - (b) a reference to a rule as including a reference to a rule in a development plan; and
+  - (c) the time limits required under subsection
+  - (4) instead of those provided for in section 152 of the Natural Environment Act 2026. (3A) For applications for a planning consent other than those required to be notified by rules in a development plan or land use plan, the consent authority must determine whether to notify the application, applying sections 147 to 153 of the Planning Act 2026, modified by reading—
+  - (a) a reference to a land use plan as including a reference to a development plan; and
+  - (b) a reference to a rule as including a reference to a rule in a development plan; and
+  - (c) the time limits required under subsection
+  - (4) instead of those provided for in section 147 of the Planning Act 2026. In section 119(4)(a), delete “controlled and”. Repeal section 119(5). In section 119(6), replace “district or regional plan under the Resource Management Act 1991” with “natural environment plan under the Natural Environment Act 2026 or land use plan under the Planning Act 2026”. In section 120(1) and
+  - (2), replace “consent authority” with “permit authority or consent authority”. In section 120(1), replace “resource consent” with “natural resource permit or planning consent”. In section 120(1)(a), delete “controlled or”. Replace section 120(3) with:
+  - (3) This section applies instead of any time limits set in regulations made under—
+  - (a) the Planning Act 2026; or
+  - (b) the Natural Environment Act 2026. Replace section 121(1) with:
+  - (1) If an application for a natural resource permit is given public or targeted notification, sections 159 and 160 of the Natural Environment Act 2026 apply, with the necessary modifications, as to—
+  - (a) who may make a submission:
+  - Urban Development Act 2020 (2020 No 42)—continued
+  - (b) service of submissions:
+  - (c) time limits for serving submissions. (1A) If an application for a planning consent is given public or targeted notification, sections 154 to 159 of the Planning Act 2026 apply, with the necessary modifications, as to—
+  - (a) who may make a submission:
+  - (b) service of submissions:
+  - (c) time limits for serving submissions. In section 121(2), replace “consent authority” with “permit authority or consent authority”. Repeal section 121(3). In section 122(1) and
+  - (4), replace “consent authority” with “permit authority or consent authority”. In section 122(5),—
+  - (a) replace “resource consents” with “planning consents”; and
+  - (b) delete “controlled or”; and
+  - (c) replace “district plan” with “land use plan”. In section 122(6), replace “section 41D of the Resource Management Act 1991” with “section 159(4) of the Natural Environment Act 2026 and section 156 of the Planning Act 2026”. Replace section 123 with:
+## Clause 123 — Hearings
+  - Section 160 of the Natural Environment Act 2026 and sections 157 to 159 of the Planning Act 2026 apply to the conduct of a hearing by a consent authority or permit authority. In the heading to section 124, after “consent”, insert “or permit”. In section 124, replace “resource consent” with “resource consent, natural resource permit, or planning consent”. In section 124(b), replace “regional or district plan” with “natural environment plan or land use plan”. Replace the cross-heading above section 125 with: Conditions of natural resource permits and planning consents Replace section 125 with:
+  - Urban Development Act 2020 (2020 No 42)—continued
+## Clause 125 — Conditions and other obligations
+  - (1) Sections 171 and 175 to 179 of the Planning Act 2026 apply to planning consents granted under this subpart.
+  - (2) Sections 171 and 175 to 179 of the Natural Environment Act 2026 apply to natural resource permits granted under this subpart. Replace section 126 with:
+## Clause 126 — Form and service of decision
+  - (1) Section 180 of the Planning Act 2026 applies to decisions made on planning consent applications under this subpart.
+  - (2) Section 180 of the Natural Environment Act 2026 applies to decisions made on natural resource permits granted under this subpart.
+  - (3) Kāinga Ora must serve a copy of its decision on the relevant local authority. In the cross-heading above section 127, replace “resource consents” with “planning consents or natural resource permits”. Replace section 127 with:
+## Clause 127 — Commencement of planning consents and natural resource permits
+  - (1) Sections 185 to 189 of the Planning Act 2026 apply, as far as relevant, to planning consents granted under this subpart, including an application subject to the grant of an application to exchange reserve land under the Reserves Act 1977.
+  - (2) Sections 186 to 188 of the Natural Environment Act 2026 apply, as far as relevant, to natural resource permits granted under this subpart. Replace section 128 with:
+## Clause 128 — Rights of objection under this Act
+  - (1) An objection to a decision of Kāinga Ora under section 134(5) must be heard by a hearings commissioner.
+  - (2) An objection to a decision of the IHP under clauses 13 and 19 of Schedule 3 must be heard by the IHP.
+  - (3) An objection must be made by notice in writing no later than 15 working days after the decision is notified to the local authority, designating authority, or submitter (as applicable), or within any longer time allowed by Kāinga Ora.
+  - (4) A notice of objection must set out the reasons for the objection.
+  - (5) When hearing an objection under section 134(5), the hearings commissioner may—
+  - (a) require the person who made the objection, or Kāinga Ora, to provide further information:
+  - (b) commission a report on any matter raised in the objection.
+  - Urban Development Act 2020 (2020 No 42)—continued
+  - (6) However, the hearings commissioner must not require further information or commission a report unless they consider that the information or report will assist them in making a decision on the objection.
+  - (7) The hearings commissioner, in relation to an objection under section 134(5), and the IHP, in relation to an objection under clauses 13 and 19 of Schedule 3, may—
+  - (a) dismiss the objection; or
+  - (b) uphold the objection in whole or in part.
+  - (8) The hearings commissioner or the IHP (as applicable) must, within 15 working days after making its decision on the objection, give to the objector, and to every person whom the hearings commissioner or the IHP (as applicable) considers appropriate, notice in writing of its decision on the objection and the reasons for it. 128A Appeal against decision on objection
+  - (1) A person who has made an objection under section 128 may appeal to the Environment Court against a decision on the objection.
+  - (2) A notice of an appeal under this section must—
+  - (a) be in the form prescribed by the chief executive of the Ministry; and
+  - (b) state the reasons for the appeal; and
+  - (c) be lodged with the Environment Court within 15 working days after the person was notified of the decision under section 128(8) or within such further time as the Environment Court allows.
+  - (3) A person lodging an appeal under this section must ensure that a copy of the notice of the appeal is served on Kāinga Ora, and the IHP if the objection relates to clause 13 or 19 of Schedule 3, at the same time that the notice is lodged with the Environment Court.
+  - (4) This section does not apply to any person who has already exercised a right of appeal in respect of the same matter under section 129. In the heading to section 129, replace “resource consents” with “planning consents and natural resource permits”. In section 129(1), replace “consent authority” with “consent authority or permit authority”. In section 129(1)(a), replace “consent holder” with “consent or permit holder”. Repeal section 129(1)(c). In section 129(2), replace “resource consent” with “planning consent or natural resource permit”.
+  - Urban Development Act 2020 (2020 No 42)—continued In section 129(3), replace “section 120 of the Resource Management Act 1991” with “section 181 of the Planning Act 2026 or section 182 of the Natural Environment Act 2026 (as applicable)”. Replace section 129(4) with:
+  - (4) Section 182 of the Planning Act 2026 applies to an appeal under this section, except that the reference in section 182(1)(c) of that Act to the consent authority must be read as including Kāinga Ora if Kāinga Ora is not the consent authority. (4A) Section 183 of the Natural Environment Act 2026 applies to an appeal under this section, except that the reference in section 183(1)(c) of that Act to the permit authority must be read as including Kāinga Ora if Kāinga Ora is not the permit authority. In the heading to section 131, replace “requiring authority” with “designating authority”. In section 131(1), replace “network utility operator and a requiring authority under section 167 of the Resource Management Act 1991” with “core infrastructure operator and a designating authority under clause 10 of Schedule 5 of the Planning Act 2026”. In section 131(2) and
+  - (3), replace “requiring authority” with “designating authority”. In the heading to section 132, replace “Notices of requirements for” with “Proposed”. In section 132(1), replace “requiring authority” with “designating authority”. Replace section 132(3) with:
+  - (3) Part 3 of Schedule 5 (but not clause 15 of Schedule 5) of the Planning Act 2026 applies with the necessary modifications. In section 132(4), replace “sections 175, 176, 177, and 181 of the Resource Management Act 1991” with “clauses 32, 37, and 47 of Schedule 5 of the Planning Act 2026”. In section 132(5),—
+  - (a) replace “Section 180 of the Resource Management Act 1991” with “Clause 52 of Schedule 5 of the Planning Act 2026”; and
+  - (b) delete “, as well as the Minister for the Environment”. In section 132(6), replace “Section 186 of the Resource Management Act 1991” with “Clause 56 of Schedule 5 of the Planning Act 2026”. In the heading to section 133, replace “Part 8 of Resource Management Act 1991” with “Schedule 5 of Planning Act 2026”. In section 133(1),
+  - (2),
+  - (5), and
+  - (6), replace “requiring authority” with “designating authority”.
+  - Urban Development Act 2020 (2020 No 42)—continued In section 133(1), replace “section 176(1) of the Resource Management Act 1991” with “clause 4(1),
+  - (2), and
+  - (3) of Schedule 5 of the Planning Act 2026”. In section 133(2), replace “section 176(1)(b) of the Resource Management Act 1991” with “clause 4(1)(c) of Schedule 5 of the Planning Act 2026”. Replace section 133(3) with:
+  - (3) In applying clause 6 of Schedule 5 of the Planning Act 2026, a designation for which Kāinga Ora is the designating authority must be treated as the earliest designation that applies in the project area. In section 133(5), replace “Section 171(1) of the Resource Management Act 1991 must be applied as if, for the purpose of applying Part 8 of that Act” with “Clause 26(1) of Schedule 5 of the Planning Act 2026 must be applied as if, for the purpose of applying Schedule 5 of that Act”. Repeal section 133(5A). In section 133(6), replace “Section 178(2) to
+  - (6) of the Resource Management Act 1991 (interim effect of requirements for designations)” with “Clause 5 of Schedule 5 of the Planning Act 2026 (effect of proposed designation)”. In the heading to section 134, replace “notice of requirement for new designations” with “proposed designation”. In section 134(1),
+  - (2),
+  - (3)(b), and
+  - (5), replace “requiring authority” with “designating authority” in each place. In section 134(1),
+  - (2),
+  - (5), and
+  - (6), replace “notice of requirement” with “proposed designation”. In section 134(4), replace “include the requirement” with “include the proposed designation”. In section 134(4)(c), replace “notice of a requirement” with “a proposed designation”. Repeal section 135. In section 136(2),—
+  - (a) replace “notice of requirement” with “proposed designation”; and
+  - (b) replace “section 168 of the Resource Management Act 1991” with “clause 13 of Schedule 5 of the Planning Act 2026”. In section 136(3), replace “notice of requirement” with “proposed designation”. Replace section 136(4) with:
+  - (4) Part 3 of Schedule 5 (but not clause 32 of Schedule 5) of the Planning Act 2026 applies, with the necessary modifications, to a proposed designation or designation, as the case may be. Replace section 136(5) with:
+  - Urban Development Act 2020 (2020 No 42)—continued
+  - (5) The modifications to the Planning Act 2026 provided in section 132(3) to
+  - (6) apply to a proposed designation or a designation, as the case requires. In section 136(7), replace “district plan, as required by section 175 of the Resource Management Act 1991” with “land use plan, as required by clause 32 of Schedule 5 of the Planning Act 2026”. In section 136(8)(b) and
+  - (9), replace “district plan” with “land use plan”. In section 136(9), replace “Schedule 1 of the Resource Management Act 1991” with “Schedule 3 of the Planning Act 2026”. In section 144(3)(c), replace “district plan” with “land use plan”. In section 161(3)(d)(ii), replace “resource consent” with “natural resource permit or planning consent”. In section 169(3)(b), replace “network utility operators” with “core infrastructure operators”. In section 220(b)(i), replace “network utility operator” with “core infrastructure operator”. In section 223(1)(a) and
+  - (2), replace “resource consent” with “planning consent”. In section 223(1)(a), replace “Resource Management Act 1991” with “Planning Act 2026”. In section 224(1)(a), replace “resource consent” with “planning consent”. In section 232(1)(a), replace “resource consent is granted” with “planning consent is granted”. In section 232(1)(a)(i), replace “section 224(c) of the Resource Management Act 1991” with “clause 18 of Schedule 7 of the Planning Act 2026”. In section 232(1)(a)(ii), replace “resource consent under the Resource Management Act 1991” with “planning consent under the Planning Act 2026”. In section 233(1)(a) and
+  - (c), replace “resource consent” with “planning consent”. In section 235(4)(a), replace “resource consent” with “natural resource permit or planning consent”. In section 235(4)(d), replace “section 224(c) of the Resource Management Act 1991” with “clause 18 of Schedule 7 of the Planning Act 2026”. In section 242(2)(a), replace “consent holder, or requiring authority” with “consent or permit holder, or designating authority”. In section 244, replace “resource consent” with “planning consent” in each place. In section 244(1)(c),
+  - (d)(iii), and
+  - (3), replace “requiring authority” with “designating authority”. In section 244(1)(d)(iii), replace “requirement for a designation” with “proposed designation”.
+  - Urban Development Act 2020 (2020 No 42)—continued In section 244(1)(g)(ii), replace “section 128(1)(a) or
+  - (c) of the Resource Management Act 1991” with “section 198(1)(a) or
+  - (d) of the Planning Act 2026”. In section 244(1)(g)(iii), replace “section 128(2) of the Resource Management Act 1991” with “section 198(2) of the Planning Act 2026”. In section 244(1)(h), replace “section 43A(8) of the Resource Management Act 1991” with “section 58(5)(b) of the Planning Act 2026”. In section 244(1)(j)(i), replace “section 36 of the Resource Management Act 1991 (see section 36(1)(g) of that Act)” with “section 329(1)(n) of the Planning Act 2026”. In section 265(4)(a), replace “resource consent” with “planning consent or natural resource permit”. In section 265(4)(d), replace “section 224(c) of the Resource Management Act 1991” with “clause 18 of Schedule 7 of the Planning Act 2026”. In Schedule 2, clause 2, definition of assets, paragraph
+  - (b), replace “resource consents” with “planning consents”. In Schedule 2, clause 2, definition of transferee, paragraph
+  - (c), replace “network utility operator” with “core infrastructure operator”. In Schedule 2, clause 8(1)(d), replace “district plan” with “land use plan”. In Schedule 2, clause 10(2)(b), replace “section 10, 10A, 10B, or 20A(2) of the Resource Management Act 1991” with “sections 26 to 30 of the Planning Act 2026 or section 28 of the Natural Environment Act 2026”. In Schedule 2, clause 10(3), replace “Schedule 1 of the Resource Management Act 1991” with “Schedule 3 of the Planning Act 2026 or section 102 of the Natural Environment Act 2026, which applies that schedule”. In Schedule 2, clause 10(3)(a) and
+  - (5), replace “resource management objectives” with “natural resource, land use, or planning objectives”. In Schedule 2, clause 10(3)(b), replace “district plans” with “land use plans”. In Schedule 3, replace clause 1(2) with:
+  - (2) At least 1 member of an IHP must be given authority to conduct a hearing under regulations made under the Planning Act 2026 or the Natural Environment Act 2026. In Schedule 3, clause 6(1)(b), replace “section 39B of the Resource Management Act 1991 or” with “the Planning Act 2026 or the Natural Environment Act 2026, or”. In Schedule 3, clause 10(b), replace “requiring authority” with “designating authority”. Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L)) In section 4(2), replace “Resource Management Act 1991, have the same meaning as in that Act” with “Natural Environment Act 2026 and the Planning Act 2026, have the same meanings as in those Acts”.
+  - Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L))—continued In the cross-heading above section 9, replace “Resource Management Act 1991, Natural Environment Act 2026,” with “Natural Environment Act 2026”. Repeal sections 9, 10, and 11. In section 9A, insert as subsection
+  - (2):
+  - (2) Subsection
+  - (1) does not apply to section 13(1)(a)(ii), 13A(1)(a)(ii), or 15(2)(b). In section 12(3)(a), replace “clause 22 of Schedule 1 of the Resource Management Act 1991” with “the Natural Environment Act 2026 or the Planning Act 2026, including regulations made under either of those Acts”. In section 12(4), replace “section 65(4) or 73(2) of the Resource Management Act 1991” with “section 102(3) of the Natural Environment Act 2026 or under section 99(4) of the Planning Act 2026”. In section 12(4)(a), replace “regional or district plan” with “land use plan or natural environment plan”. Replace sections 13 to 15 with:
+## Clause 13 — Planning consents
+  - (1) When considering an application for a planning consent for a discretionary activity in the heritage area, a consent authority—
+  - (a) must have particular regard to—
+  - (i) the purpose of this Act and the relevant objectives; and (ii) the relevant provisions of the national policy direction and objectives and policies in any national standard made under the Planning Act 2026; and
+  - (b) must consider the objectives having regard to any relevant policies in the land use plan.
+  - (2) The requirements in subsection
+  - (1)(a)(i) are in addition to the requirements in the Planning Act 2026.
+  - (3) When considering an application for planning consent for a restricted discretionary activity in the heritage area, a consent authority must consider the purpose of this Act and the relevant objectives as if they were matters specified in the plan or proposed plan over which the Council has restricted the exercise of its discretion. 13A Natural resource permits
+  - (1) When considering an application for a natural resource permit for a discretionary activity in the heritage area, a permit authority—
+  - (a) must have particular regard to—
+  - (i) the purpose of this Act and the relevant objectives; and
+  - Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L))—continued (ii) the relevant provisions of the national policy direction and objectives and policies in any national standard made under the Natural Environment Act 2026; and
+  - (b) must consider the objectives having regard to any relevant policies in the natural environment plan.
+  - (2) The requirements in subsection
+  - (1)(a)(i) are in addition to the requirements in the Natural Environment Act 2026.
+  - (3) When considering an application for a natural resource permit for a controlled activity or a restricted discretionary activity in the heritage area, a permit authority must consider the purpose of this Act and the relevant objectives as if they were matters specified in the plan or proposed plan over which the Council has reserved its control or has restricted the exercise of its discretion.
+## Clause 14 — Conditions on permits and consents
+  - (1) If a permit authority grants a natural resource permit for an activity in the heritage area, it may impose conditions on the permit under section 177 or 178 of the Natural Environment Act 2026 that relate to 1 or more of the heritage features or the objectives.
+  - (2) If a consent authority grants a planning consent for an activity in the heritage area, it may impose conditions on the consent under sections 177 and 178 of the Planning Act 2026 that relate to 1 or more of the heritage features or the objectives.
+## Clause 15 — Designations
+  - (1) Subsection
+  - (2) applies to a person if the person is making a decision or recommendation that relates to the heritage area or a part of it for a designation under clauses 26, 28, 30, 31, 46, 47, 49, and 50 of Schedule 5 of the Planning Act 2026.
+  - (2) The person, when making the decision or recommendation, must have particular regard to—
+  - (a) the purpose of this Act and the objectives; and
+  - (b) the relevant provisions of the national policy direction and objectives and policies in any national standard made under the Planning Act 2026.
+  - (3) The requirements in subsection
+  - (2)(a) are in addition to the requirements in the Planning Act 2026. Repeal section 16. In section 16A(3)(b),
+  - (c), and
+  - (d), replace “sections 9B, 9C, and 11A” with “sections 9B to 15”. Repeal section 18. Repeal section 28.
+  - Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L))—continued Replace section 35(b) with:
+  - (b) any statutory acknowledgement included in any enactment and listed in Schedule 7 of the Natural Environment Act 2026 or Schedule 13 of the Planning Act 2026: Repeal section 36. Water Services Act 2021 (2021 No 36) Replace section 3(1)(b) with:
+  - (b) providing a source water risk management framework that, together with the Natural Environment Act 2026, and national instruments and regulations made under that Act, enables risks to source water to be properly identified, managed, and monitored; and In section 5, repeal the definition of National Policy Statement for Freshwater Management. In section 41, replace “Resource Management Act 1991, regulations made under that Act, and the National Policy Statement for Freshwater Management” with “Natural Environment Act 2026 and national instruments and regulations made under that Act”. Replace section 43(2)(d) with:
+  - (d) have regard to any values identified by local authorities under the national instruments made under the Natural Environment Act 2026 that relate to a freshwater body that the supplier uses as a source of a drinking water supply. In the heading to section 65, replace “requirements of Part 3 of Resource Management Act 1991” with “certain requirements of Natural Environment Act 2026 or Planning Act 2026”. In section 65(1), replace “Part 3 of the Resource Management Act 1991” with “subpart 2 of Part 2 of the Natural Environment Act 2026 or subpart 2 of Part 2 of the Planning Act 2026”. In section 65(2)(a), after “consent authority”, insert “or permit authority”. In section 65(4), replace “resource consent” with “natural resource permit or planning consent”. In section 65(4), after “consent authority”, insert “or permit authority” in each place. In section 66(1), replace “Part 3 of the Resource Management Act 1991” with “subpart 2 of Part 2 of the Natural Environment Act 2026 or subpart 2 of Part 2 of the Planning Act 2026”. In section 67, replace “Part 3 of the Resource Management Act 1991” with “subpart 2 of Part 2 of the Natural Environment Act 2026 or subpart 2 of Part 2 of the Planning Act 2026”.
+  - Water Services Act 2021 (2021 No 36)—continued In section 97C, insert in their appropriate alphabetical order: natural resource permit has the same meaning as in section 133 of the Natural Environment Act 2026 planning consent has the same meaning as in section 130 of the Planning Act 2026 In section 106(1), replace “sections 9, 12, 13, 14, and 15 of the Resource Management Act 1991” with “sections 20 to 24 of the Natural Environment Act 2026 or sections 21 and 22 of the Planning Act 2026”. In section 106(1)(a), after “consent authority”, insert “or permit authority”. In section 138(2A)(b), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 138(2A)(c), after “consent authority”, insert “or permit authority (as relevant)”. In section 138(2A)(c)(i), replace “resource consent” with “natural resource permit or planning consent”. In section 138(2A)(c)(ii), replace “limited notification of an application for a resource consent” with “targeted notification of an application for a natural resource permit or planning consent”. Repeal section 138B. In section 139A(3A)(b), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 139A(3A)(c), after “consent authority”, insert “or permit authority (as relevant)”. In section 139A(3A)(c)(i), replace “resource consent” with “natural resource permit or planning consent”. In section 139A(3A)(c)(ii), replace “limited notification of an application for a resource consent” with “targeted notification of an application for a natural resource permit or planning consent”. Repeal section 139B. In section 139C(2)(a) and
+  - (d)(i), replace “resource consent” with “natural resource permit or planning consent”. In section 139C(2)(c), replace “Resource Management Act 1991” with “Natural Environment Act 2026 or the Planning Act 2026”. In section 139C(2)(d), after “consent authority”, insert “or permit authority (as relevant)”. Replace section 139C(2)(d)(ii) with: (ii) targeted notification of an application for a natural resource permit or planning consent.
+  - Water Services Act 2021 (2021 No 36)—continued Repeal section 139D. In section 141(a)(ii), replace “resource consent” with “natural resource permit under the Natural Environment Act 2026 or planning consent under the Planning Act 2026”. In section 147(1)(b), replace “resource consent” with “natural resource permit under the Natural Environment Act 2026 or planning consent under the Planning Act 2026”. Wellington Regional Council (Water Board Functions) Act 2005 (2005 No 1 (L)) In section 3, replace the definition of renewable energy with: renewable energy means energy produced from solar, wind, hydro, geothermal, biomass, tidal, wave, and ocean current sources Wellington Town Belt Act 2016 (2016 No 1 (L)) In section 28(7), replace “Section 11 and Part 10 of the Resource Management Act 1991” with “Section 23 and Schedule 7 of the Planning Act 2026”. Whakarewarewa and Roto-a-Tamaheke Vesting Act 2009 (2009 No 50) Repeal section 9(1). In section 9(2)(c), replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. In section 25(3), replace “section 11 and Part 10 of the Resource Management Act 1991” with “section 23 and Schedule 7 of the Planning Act 2026”. Whakatane Paper Mills, Limited, Water-supply Empowering Act 1936 (1936 No 7 (P)) In section 24A(b), replace “Resource Management Act 1991” with “Natural Environment Act 2026 and the Planning Act 2026”.
+### Part 6
+  - Amendments to Acts that commence on date set by Order in Council made under section 2(6) Energy Efficiency and Conservation Act 2000 (2000 No 14) Repeal section 11. Environment Act 1986 (1986 No 127) In section 2, definition of consent, repeal paragraph
+  - (c). In Schedule 2, repeal the item relating to the Resource Management Act 1991. In Schedule 3, repeal the item relating to the Resource Management Act 1991.
+  - Environmental Protection Authority Act 2011 (2011 No 14) In section 5, replace the definition of environment with: environment includes—
+  - (a) ecosystems and their constituent parts, including people and communities; and
+  - (b) all natural and physical resources; and
+  - (c) amenity values; and
+  - (d) the social, economic, aesthetic, and cultural conditions that affect the matters stated in paragraphs
+  - (a) to
+  - (c) or that are affected by those matters In section 5, definition of environmental Act, repeal paragraph
+  - (e). In section 5, replace the definition of natural and physical resources with: natural and physical resources has the meaning given in section 3 of the Natural Environment Act 2026 In section 13(c)(iia), delete “the Resource Management Act 1991 or”. Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72) Repeal section 7(2)(l). Replace section 116(3) with:
+  - (3) Schedule 9 of the Planning Act 2026 applies as if the application were made under section 261 of that Act. Replace section 129(3) with:
+  - (3) Schedule 9 of the Planning Act 2026 applies as if the application were made under section 271 of that Act. In section 131, replace “Sections 299 to 308 of the Resource Management Act 1991” with “Clauses 75 to 84 of Schedule 9 of the Planning Act 2026”. In section 158(6), replace “section 279(3)(a) of the Resource Management Act 1991” with “clause 17 of Schedule 9 of the Planning Act 2026”. In section 158(7), replace “section 279(3)(b) of the Resource Management Act 1991” with “clause 17 of Schedule 9 of the Planning Act 2026”. Fast-track Approvals Act 2024 (2024 No 56) In Schedule 3, clause 4(3), replace “who is accredited under section 39A of the Resource Management Act 1991” with “who has been accredited in accordance with any regulations made under the Planning Act 2026 or the Natural Environment Act 2026”. Fisheries Act 1996 (1996 No 88) Repeal section 11(2)(a).
+  - Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26) In section 6, definition of Environment Court, replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Planning Act 2026”. In section 6, repeal the definitions of heritage order and heritage protection authority. In section 6, definition of statutory acknowledgement, replace “Schedule 11 of the Resource Management Act 1991” with “Schedule 13 of the Planning Act 2026 or Schedule 7 of the Natural Environment Act 2026”. In section 7(b)(ii), delete “, including the power to be a heritage protection authority under Part 8 of the Resource Management Act 1991”. Repeal section 21(j). Replace section 58(3)(b) with:
+  - (b) state any matters that are prescribed in regulations made under—
+  - (i) the Planning Act 2026, for appeals made under section 181 of that Act; and (ii) the Natural Environment Act 2026, for appeals made under section 182 of that Act; and In section 58(4), replace “Resource Management Act 1991” with “Planning Act 2026 and the Natural Environment Act 2026”. In section 59(2), replace “Resource Management Act 1991” with “Planning Act 2026 and the Natural Environment Act 2026”. Repeal section 59(5). In section 65(3)(c), replace “Resource Management Act 1991, the Natural Environment Act 2026,” with “Natural Environment Act 2026”. Replace section 92(2) with:
+  - (2) An application under subsection
+  - (1) is to be treated as if it were an application for an enforcement order under—
+  - (a) section 259 of the Planning Act 2026, and sections 260(1) to
+  - (3), 262, 263, 265, and 266 of that Act apply to an application, except as those provisions are modified by this section or section 93; or
+  - (b) section 255 of the Natural Environment Act 2026, and sections 256(1) to
+  - (3), 258, 259, 261, and 262 of that Act apply to an application, except as those provisions are modified by this section or section 93. In section 92(4)(b), replace “Part 12 of the Resource Management Act 1991” with “Part 6 of the Planning Act 2026 or Part 6 of the Natural Environment Act 2026”. In section 92(5), replace “section 320 of the Resource Management Act 1991” with “section 265 of the Planning Act 2026 or section 261 of the Natural Environment Act 2026”.
+  - Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26)—continued In section 92(6)(b), replace “section 320(5) of the Resource Management Act 1991” with “section 265(6) of the Planning Act 2026 or section 261(6) of the Natural Environment Act 2026”. In section 92(6)(c), replace “section 321 of the Resource Management Act 1991” with “section 266 of the Planning Act 2026 or section 262 of the Natural Environment Act 2026”. In section 92(7), replace “Part 11 of the Resource Management Act 1991” with “Schedule 9 of the Planning Act 2026 and section 248 of the Natural Environment Act 2026”. Inquiries Act 2013 (2013 No 60) In Schedule 1, repeal the item relating to the Resource Management Act 1991. Land Transport Management Act 2003 (2003 No 118) Repeal section 19B(b)(v). Repeal section 20(3)(a)(ii). Repeal section 22G(1)(b)(iii). Repeal section 67(1)(b)(ii). Replace section 140(7) and
+  - (8) with:
+  - (7) Schedule 9 of the Planning Act 2026, and any regulations made under that Act that relate to that schedule, apply to an appeal under this section with all necessary modifications.
+  - (8) A notice of appeal must state any matters that regulations made under the Planning Act 2026 require to be stated in the case of an appeal under section 181 of that Act. Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3) Repeal section 62(1)(d)(ii). Repeal section 77. Maritime Transport Act 1994 (1994 No 104) In section 464(2), delete “the Resource Management Act 1991,”. Water Services Authority—Taumata Arowai Act 2020 (2020 No 52) In section 4, repeal the definition of National Policy Statement for Freshwater Management. In section 4, definition of water, paragraph
+  - (a), replace “section 2(1) of the Resource Management Act 1991” with “section 3 of the Natural Environment Act 2026”. Repeal section 5(f)(ii)(A). Repeal section 18(2)(e)(i)(A) and (B).
+### Part 7
+  - Amendments to secondary legislation that commence on day after this Act receives Royal assent Biosecurity (National PA Pest Management Plan) Order 2022 (SL 2022/208) After clause 26(d), insert:
+  - (e) regulating earthworks under its natural environment plan under the Natural Environment Act 2026 or its land use plan under the Planning Act 2026. Fast-track Approvals (Cost Recovery) Regulations 2025 (SL 2025/3) In regulation 3, definition of Māori consultation group, paragraph
+  - (b), delete “Mana Whakahono ā Rohe or”. Fisheries (Aquaculture Compensation Methodology) Regulations 2012 (SR 2012/335) In regulation 3, definition of party, after paragraph
+  - (b), insert:
+  - (c) in relation to an aquaculture area decision, the negotiator appointed by the Minister in accordance with section 186ZEA(1) of the Act In regulation 3, definition of proposed aquaculture activities, after “coastal permit”, insert “, or aquaculture activities provided for in an aquaculture area,”. In Schedule 1, clause 2(2), after “permit application”, insert “or by reference to the aquaculture area rules”. In Schedule 1, after clause 2(2), insert:
+  - (3) If the aquaculture area rules are used to determine the species, the arbitrator may estimate the area of aquaculture activity in an aquaculture area based on aquaculture area rules. In Schedule 1, clause 3(1), item cl of the formula, after “the Act”, insert “or in the aquaculture area decision made by the chief executive under section 186JB of the Act”. In Schedule 2, clause 1(2), after “site”, insert “or aquaculture area”. Fisheries (Commercial Fishing) Regulations 2001 (SR 2001/253) In Schedule 2, Part 4, clause 18A(1)(a) and
+  - (b), after “aquaculture decision”, insert “or aquaculture area decision”. In Schedule 2, Part 4, clause 18A(1)(c), after “aquaculture decisions”, insert “or aquaculture area decisions”. Fisheries (Kaimoana Customary Fishing) Regulations 1998 (SR 1998/434) After regulation 16(2)(a), insert:
+  - Fisheries (Kaimoana Customary Fishing) Regulations 1998 (SR 1998/434)—continued (aa) may be treated as a planning document recognised by an iwi authority for the purposes of the Natural Environment Act 2026, if it meets the requirements of that Act: (ab) may be treated as a planning document recognised by an iwi authority for the purposes of the Planning Act 2026, if it meets the requirements of that Act: Fisheries (South Island Customary Fishing) Regulations 1999 (SR 1999/342) After regulation 16(2)(a), insert: (aa) may be treated as a planning document recognised by an iwi authority for the purposes of the Natural Environment Act 2026, if it meets the requirements of that Act: (ab) may be treated as a planning document recognised by an iwi authority for the purposes of the Planning Act 2026, if it meets the requirements of that Act: Local Government (Natural Hazard Information in Land Information Memoranda) Regulations 2025 (SL 2025/68) In regulation 3, insert in their appropriate alphabetical order: land use plan—
+  - (a) has the meaning given in section 3 of the Planning Act 2026; and
+  - (b) includes a proposed land use plan that has been notified under that Act regional spatial plan—
+  - (a) has the meaning given in section 3 of the Planning Act 2026; and
+  - (b) includes a draft regional spatial plan that has been notified under that Act Replace regulation 8(1)(a)(i) with:
+  - (i) the natural hazard information provided under regulation 12 under a heading that identifies the information as being sourced from the territorial authority’s district plan, land use plan, or relevant regional spatial plan (if applicable); and In the heading to regulation 12, after “district plan”, insert “, land use plan, or relevant regional spatial plan”. In regulation 12(1), after “district plan”, insert “, land use plan, or relevant regional spatial plan” in each place.
+  - Resource Management (Infringement Offences) Regulations 1999 (SR 1999/359) In Schedule 1, in the heading to the third column, replace “(individual)” with “(natural person)”. In Schedule 1, in the heading to the fourth column, replace “(company)” with “(other person)”. In Schedules 2 and 3, under the heading “Payment of infringement fee”, delete “Payments by cheque should be crossed “Not Transferable”.”. Water Services (Wastewater Environmental Performance Standards) Regulations 2025 (SL 2025/258) In regulation 4, replace the definition of drinking water supply protection area with: drinking water supply protection area means an area that is designated for the purpose of protecting a drinking water supply by—
+  - (a) a regional plan, proposed regional plan, or proposed natural environment plan under the Natural Environment Act 2026; or
+  - (b) a district plan, proposed district plan, or proposed land use plan under the Planning Act 2026 In regulation 4, definition of site of cultural significance, paragraph
+  - (c), after “regional policy statement,”, insert “regional spatial plan under the Planning Act 2026,”. In regulation 6(3), replace the definition of relevant document with: relevant document means—
+  - (a) a regional policy statement, proposed regional policy statement, regional plan, proposed regional plan, or proposed natural environment plan under the Natural Environment Act 2026; or
+  - (b) a district plan, proposed district plan, or proposed land use plan under the Planning Act 2026; or
+  - (c) a regional spatial plan or proposed regional spatial plan under the Planning Act 2026 In regulation 7(3), replace the definition of relevant document with: relevant document means—
+  - (a) a regional policy statement, proposed regional policy statement, regional plan, proposed regional plan, or proposed natural environment plan under the Natural Environment Act 2026; or
+  - (b) a district plan, proposed district plan, or proposed land use plan under the Planning Act 2026; or
+  - (c) a regional spatial plan or proposed regional spatial plan under the Planning Act 2026
+
+# Schedule 2
+Regional spatial plans
+  - Contents Page
+## Clause 1 — Interpretation
+## Clause 2 — Iwi participation legislation
+## Clause 3 — Preparing draft regional spatial plan
+## Clause 4 — Process agreement for preparing draft regional spatial plan
+## Clause 5 — Inter-regional content
+## Clause 6 — Documents and other matters to have regard to when preparing
+  - draft regional spatial plan
+## Clause 7 — Incorporation of information from land use plan or natural
+  - environment plan
+## Clause 8 — Pre-notification consultation on draft regional spatial plan
+## Clause 9 — Pre-notification consultation with iwi authorities
+## Clause 10 — Identified Māori land
+## Clause 11 — Spatial plan committee must provide draft to iwi authorities and
+  - customary marine title groups
+## Clause 12 — Spatial plan committee to invite applications from designating
+  - authorities
+## Clause 13 — Designating authority may apply to have indicative location of
+  - future designation identified in draft regional spatial plan
+## Clause 14 — Spatial plan committee must decide whether to accept application
+## Clause 15 — Options assessment report
+## Clause 16 — Audit by Minister
+## Clause 17 — Decision to notify draft regional spatial plan for submissions
+## Clause 18 — Spatial plan committee must notify draft regional spatial plan for
+  - submissions
+## Clause 19 — Submissions on draft regional spatial plan
+## Clause 20 — Independent hearings panel
+## Clause 21 — Spatial plan committee must provide certain information to
+  - independent hearings panel
+## Clause 22 — Hearing
+## Clause 23 — Recommendations by panel
+## Clause 24 — Local authorities may request advice on panel recommendations
+## Clause 25 — Decision on panel recommendations by local authorities
+## Clause 26 — Application to Minister for extension of time for publishing
+  - decisions
+## Clause 27 — Minister may make decisions on recommendations relating to
+  - certain matters
+## Clause 28 — Decisions on designations by designating authorities
+## Clause 29 — Appeal on question of law
+## Clause 30 — Appeal if recommendation relating to infrastructure is rejected
+## Clause 31 — Appeal on decision of designating authority
+## Clause 32 — Requirements for lodging appeals
+## Clause 33 — Hearing by Environment Court on appeal
+## Clause 34 — Local authorities to adopt regional spatial plan
+## Clause 35 — Minor amendments and amendments to reflect changes to
+  - aquaculture settlement area
+## Clause 1 — Interpretation
+  - In this schedule, unless the context otherwise requires,— notify for submissions, in relation to a draft regional spatial plan, means to notify the draft regional spatial plan for public submissions in accordance with clause 18 process agreement means an agreement under clause 4 submitter, in relation to a draft regional spatial plan, means a person who made a submission on the draft regional spatial plan.
+## Clause 2 — Iwi participation legislation
+  - The local authorities and spatial plan committee of a region must prepare and change their regional spatial plan in accordance with any applicable iwi participation legislation or agreement under that legislation.
+  - Compare: 1991 No 69 Schedule 1 cl 1B
+## Clause 3 — Preparing draft regional spatial plan
+  - The local authorities of a region begin the preparation or change of a regional spatial plan by—
+  - (a) preparing a process agreement for a draft regional spatial plan under clause 4; and
+  - (b) directing the region’s spatial plan committee to prepare the draft regional spatial plan.
+  - Compare: 1991 No 69 Schedule 1 cl 2(1)
+## Clause 4 — Process agreement for preparing draft regional spatial plan
+  - (1) The local authorities of a region must work together to prepare a document (a process agreement) that sets out their agreement on the following matters in relation to a draft regional spatial plan:
+  - (a) how the local authorities will work together and work with the spatial plan committee:
+  - (b) whether there will be any division of responsibilities between the local authorities for making decisions on certain matters or parts of the draft regional spatial plan (for example, if a particular territorial authority will
+  - be the sole decision maker on certain content relating to its district), or if all decisions will be made by consensus:
+  - (c) how the spatial plan committee will carry out the consultation required by clauses 8 and 9, including by identifying who the local authorities consider to be relevant infrastructure providers, representatives of the development sector, representatives of other sector groups, and representatives of the wider community for the purposes of clause 8(1)(a)(vi):
+  - (d) how the secretariat for the draft regional spatial plan will be established and managed:
+  - (e) processes to ensure that each local authority complies with any obligations under iwi participation legislation (including any agreements under that legislation) and any joint management agreement:
+  - (f) any other matter prescribed in regulations.
+  - (2) The local authorities must prepare, and publish, the process agreement in the manner prescribed by regulations.
+  - (3) The local authorities may amend a process agreement at any time by agreement, and must publish any amended process agreement in the manner prescribed by regulations.
+  - (4) The spatial plan committee and local authorities of the region must comply with the process agreement.
+  - (5) Subclause
+  - (4) is subject to the other provisions of this Act and any other legislation.
+## Clause 5 — Inter-regional content
+  - (1) The local authorities of a region may agree with the local authorities of 1 or more adjacent regions that their respective draft regional spatial plans will include common content that applies to each of those regions (inter-regional content).
+  - (2) If the local authorities of adjacent regions agree to prepare inter-regional content,—
+  - (a) the local authorities of the adjacent regions must record that agreement in the process agreements for their respective draft regional spatial plans; and
+  - (b) the spatial plan committees of the adjacent regions must jointly prepare the inter-regional content and include it in the draft regional spatial plans of each region; and
+  - (c) the local authorities of the adjacent regions must jointly approve the inter-regional content for notification under clause 17(2); and
+  - (d) the independent hearings panels for each draft regional spatial plan may—
+  - (i) hold joint hearings on the inter-regional content; and (ii) make their recommendations under clause 23 jointly on the inter- regional content; and
+  - (e) the local authorities of the regions must make their decisions under clause 25 jointly on the inter-regional content.
+  - (3) If the local authorities or spatial plan committees of the adjacent regions are not able to agree on a matter that this clause requires them to do jointly,—
+  - (a) they must follow the dispute resolution process that is prescribed by regulations; and
+  - (b) section 90 applies to them with all necessary modifications.
+  - (4) This clause does not apply if the local authorities of the regions prepare a joint regional spatial plan in accordance with section 93.
+## Clause 6 — Documents and other matters to have regard to when preparing draft
+  - regional spatial plan
+  - (1) When preparing a draft regional spatial plan, a spatial plan committee must have regard to—
+  - (a) any government policy statement or other document that is prescribed by regulations for the purposes of this paragraph; and
+  - (b) the land use plans (if any) prepared under this Act for each district within the region; and
+  - (c) the natural environment plan (if any) prepared under the Natural Environment Act 2026 for the region; and
+  - (d) the long-term plan (including the infrastructure strategy and the financial strategy) prepared under the Local Government Act 2002 of every local authority in the region; and
+  - (e) the regional land transport plan prepared under the Land Transport Management Act 2003 for the region; and
+  - (f) any water services strategy prepared under the Local Government (Water Services) Act 2025 that applies in the region; and
+  - (g) any strategy report prepared under the New Zealand Infrastructure Commission/Te Waihanga Act 2019 and any statement of the Government’s response to that strategy report under section 18 of that Act; and
+  - (h) any plan relating to adapting to the effects of climate change prepared by a local authority in the region; and
+  - (i) regulations or bylaws under any Act relating to ensuring the sustainability, or the conservation or management, of fisheries resources (including regulations or bylaws relating to taiāpure, mahinga mātaitai, or other non-commercial Māori customary fishing); and
+  - (j) any statutory acknowledgement that applies in the region; and
+  - (k) any plan prepared under section 14 of the Maori Commercial Aquaculture Claims Settlement Act 2004; and
+  - (l) any planning document recognised by an iwi authority and lodged with 1 or more of the local authorities in the region; and
+  - (m) any relevant prohibitions or restrictions that apply in relation to a wāhi tapu or wāhi tapu area recognised under subpart 2 of Part 4 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019.
+  - (2) The spatial plan committee may have regard to any other document or matter that the spatial plan committee considers relevant.
+  - (3) In relation to a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011 and lodged under section 86 of that Act, a spatial plan committee preparing a draft regional spatial plan must—
+  - (a) recognise and provide for the matters in the document, to the extent that they relate to the relevant customary marine title area; and
+  - (b) take into account the matters in the document, to the extent that they relate to a part of the common marine and coastal area that is outside of the customary marine title area of the relevant group.
+  - (4) In relation to an environmental covenant prepared under section 19 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019, a spatial plan committee preparing a draft regional spatial plan must—
+  - (a) recognise and provide for the matters in the environmental covenant, to the extent that they relate to a customary marine title area (as defined in section 9 of that Act); and
+  - (b) take into account the matters in the environmental covenant, to the extent that they relate to a part of the common marine and coastal area outside of a customary marine title area (as defined in section 9 of that Act).
+## Clause 7 — Incorporation of information from land use plan or natural environment
+  - plan
+  - (1) A regional spatial plan or draft regional spatial plan may incorporate any of the following from the region’s natural environment plan or any land use plan that applies in the region:
+  - (a) information about the state and characteristics of the built environment or natural environment, including information about infrastructure:
+  - (b) information that reflects decisions about whether areas or features of the environment—
+  - (i) have particular characteristics; or (ii) should be classified in a particular way; or
+  - (iii) meet related criteria that are set out in a national instrument or other legislation:
+  - (c) ecosystem health limits or interim limits that are set in a natural environment plan.
+  - (2) Before incorporating content into a draft regional spatial plan under this clause, the spatial plan committee must consider whether, in the period since the relevant provision of the land use plan or natural environment plan became operative,—
+  - (a) any significant new information has become available that supersedes the information used to determine the content in the land use plan or natural environment plan:
+  - (b) there has been a significant change in circumstances since that provision was decided (for example, a major environmental or economic event) that is relevant to the content to be incorporated.
+  - (3) The local authorities of a region must consider the matters in subclause
+  - (2)—
+  - (a) before approving for notification a draft regional spatial plan that includes content incorporated under this clause; and
+  - (b) before making a decision on an independent hearings panel recommendation that relates to content incorporated under this clause.
+  - (4) If information is incorporated under this clause,—
+  - (a) the spatial plan committee need not comply with section 78 in relation to the information; and
+  - (b) the independent hearings panel need not consider or respond to any submission or evidence received on the information when hearing or making recommendations on the draft regional spatial plan, except to the extent the submission or evidence relates to the matters described in subclause
+  - (2).
+## Clause 8 — Pre-notification consultation on draft regional spatial plan
+  - (1) Before a draft regional spatial plan is notified for submissions, a spatial plan committee must consult—
+  - (a) on the subject matter of the draft regional spatial plan with—
+  - (i) the Minister; and (ii) any other Minister of the Crown whose portfolio may be affected by the draft regional spatial plan; and (iii) the regional council of any adjacent region, and all territorial authorities whose district (or part of its district) is within an adjacent region; and (iv) tangata whenua of the region who may be affected, through iwi authorities; and
+  - (v) water organisations under the Local Government (Water Services) Act 2025 who may be affected; and (vi) relevant infrastructure providers, representatives of the development sector, representatives of other sector groups, and representatives of the wider community as identified by the local authorities in the process agreement; and (vii) ngā hapū o Ngāti Porou and any relevant customary marine title hapū, if the draft regional spatial plan— (A) applies to an area that includes, or is directly adjacent to, ngā rohe moana o ngā hapū o Ngāti Porou; or (B) otherwise directly affects ngā rohe moana o ngā hapū o Ngāti Porou; and (viii) any other person or class of persons prescribed in regulations; and
+  - (b) on the subject matter of the draft regional spatial plan as it relates to the coastal marine area with any customary marine title group that holds customary marine title over a customary marine title area in the region.
+  - (2) A spatial plan committee may consult anyone else before notifying a draft regional spatial plan for submissions.
+  - Compare: 1991 No 69 Schedule 1 cl 3
+## Clause 9 — Pre-notification consultation with iwi authorities
+  - (1) For the purposes of clause 8(1)(a)(iv), the spatial plan committee is to be treated as having consulted an iwi authority whose details are in the record kept under section 220 of this Act or section 232 of the Natural Environment Act 2026, if the committee—
+  - (a) establishes and maintains processes to provide opportunities for the iwi authority to be consulted; and
+  - (b) consults the iwi authority in accordance with those processes; and
+  - (c) enables the iwi authority to identify relevant issues of concern to it; and
+  - (d) indicates to the iwi authority how those issues have been or are to be addressed.
+  - (2) The processes in subclause
+  - (1)(a) may supplement any processes or other requirements in the process agreement.
+  - Compare: 1991 No 69 Schedule 1 cl 3B
+## Clause 10 — Identified Māori land
+  - (1) Subclause
+  - (2) applies if a spatial plan committee is preparing, or the local authorities of a region or the Minister are making a decision in relation to, a draft regional spatial plan that identifies future infrastructure or a future infrastructure corridor in a location where it may affect identified Māori land
+  - (whether this is done by identifying a specific location or a wider area in which the infrastructure or infrastructure corridor may be located).
+  - (2) In identifying the location, the spatial plan committee, local authorities, or Minister must—
+  - (a) act in a manner that recognises that the identified Māori land is a taonga tuku iho for the owners of the land and the hapū associated with the land; and
+  - (b) in doing so, consider the rights and interests of owners of the identified Māori land to retain, control, use, and occupy the land for the benefit of present and future generations of owners, their whānau, and their hapū.
+  - Compare: 2023 No 47 s 26
+## Clause 11 — Spatial plan committee must provide draft to iwi authorities and
+  - customary marine title groups
+  - (1) Before notifying a draft regional spatial plan for submissions, a spatial plan committee must—
+  - (a) provide a draft of that draft regional spatial plan to the iwi authorities referred to in clause 8(1)(a)(iv); and
+  - (b) provide a draft of the parts of that draft regional spatial plan that relate to the coastal marine area to any customary marine title group referred to in clause 8(1)(b); and
+  - (c) have regard to any advice received from those iwi authorities or customary marine title groups on the draft.
+  - (2) The spatial plan committee must provide the draft sufficiently early to give the iwi authorities and customary marine title groups adequate time and opportunity to consider the draft and provide advice on it.
+  - Compare: 1991 No 69 Schedule 1 cl 4A
+## Clause 12 — Spatial plan committee to invite applications from designating authorities
+  - (1) Before notifying a draft regional spatial plan for submissions, a spatial plan committee must publish (in the manner prescribed by regulations) a notice inviting all designating authorities to—
+  - (a) apply under clause 13 to have the indicative location of a future designation identified in the draft regional spatial plan; or
+  - (b) apply under clause 34 of Schedule 5 to notify a proposed designation, or a proposed alteration to a designation, with the draft regional spatial plan.
+  - (2) The notice must state the deadline for responding, which must be at least 20 working days after the date on which the notice is published.
+  - (3) The spatial plan committee must send a copy of the notice to every designating authority that has an existing designation in any land use plan of a district within the region.
+## Clause 13 — Designating authority may apply to have indicative location of future
+  - designation identified in draft regional spatial plan
+  - (1) In response to a notice under clause 12, a designating authority may apply to the spatial plan committee to have the indicative location of a future designation identified in a draft regional spatial plan.
+  - (2) An application must be made in the manner prescribed by regulations and must—
+  - (a) describe the project to which the future designation relates and its indicative location; and
+  - (b) include an assessment of the strategic need for the project and future designation in that indicative location proposed (see clause 14(5)); and
+  - (c) be made no later than the deadline specified in the spatial plan committee’s notice.
+## Clause 14 — Spatial plan committee must decide whether to accept application
+  - (1) The spatial plan committee must decide whether to accept an application made under clause 13.
+  - (2) The committee may accept the application only if the committee—
+  - (a) has had regard to whether there is a strategic need for the project in the indicative location proposed; and
+  - (b) is satisfied that 1 or more of the following applies:
+  - (i) the project is nationally significant or regionally significant: (ii) the project will have regionally significant benefits: (iii) the project will cross territorial authority boundaries.
+  - (3) If the spatial plan committee accepts the application, it must—
+  - (a) advise the designating authority in writing; and
+  - (b) map the indicative location of the future designation, and record details of it, in the draft regional spatial plan (see section 76(2)(c)(iii)).
+  - (4) If the spatial plan committee declines the application, it must advise the designating authority in writing with its reasons.
+  - (5) The requirement in subclause
+  - (2)(a) to be satisfied of the strategic need for the project in the indicative location proposed—
+  - (a) requires consideration of—
+  - (i) how necessary the project and designation are to meet the designating authority’s objectives for seeking the designation; and
+  - (ii) whether the general location that is proposed for the designation is appropriate in light of those objectives; but
+  - (b) does not require—
+  - (i) an assessment or consideration of any alternative sites, routes, or methods of undertaking the project; or (ii) consideration of whether the project could have been better provided in any alternative location; or (iii) a granular or property-specific assessment of the indicative location proposed.
+## Clause 15 — Options assessment report
+  - (1) Before a draft regional spatial plan is notified for submissions, a spatial plan committee must—
+  - (a) prepare an options assessment report in accordance with any applicable requirements in a national standard; and
+  - (b) have particular regard to that report when deciding whether to recommend (under clause 17(1)) that the draft regional spatial plan be notified for submissions.
+  - (2) An options assessment report must—
+  - (a) describe the key drivers of growth and change within the region, both within and outside of public control; and
+  - (b) describe (and, if practicable, quantify) the level of certainty associated with those drivers of growth and change; and
+  - (c) identify and assess a range of options for delivering on the strategic priorities for growth and change within the region; and
+  - (d) contain any other information prescribed by a national standard.
+## Clause 16 — Audit by Minister
+  - (1) Before notifying a draft regional spatial plan for submissions, a spatial plan committee must provide the following documents to the Minister:
+  - (a) a full draft of the draft regional spatial plan:
+  - (b) a draft of the options assessment report.
+  - (2) The committee must provide the documents within the time frame (if any) prescribed by regulations.
+  - (3) The Minister—
+  - (a) may decide to carry out an audit of the draft of the draft regional spatial plan at any time before the local authorities make a decision on panel recommendations under clause 25; and
+  - (b) may provide feedback to the spatial plan committee as a result of any audit.
+  - (4) Any audit must—
+  - (a) be carried out in the manner prescribed by regulations; and
+  - (b) be limited to assessing the extent to which the draft complies with this Act (including the extent to which the draft implements national instruments).
+  - (5) The local authorities of the region must have regard to any feedback provided by the Minister—
+  - (a) when deciding under clause 17(2) whether to approve the draft regional spatial plan for notification (but only if the Minister provides the feedback before they make that decision); and
+  - (b) when making decisions on panel recommendations under clause 25.
+## Clause 17 — Decision to notify draft regional spatial plan for submissions
+  - (1) If a spatial plan committee considers it appropriate to proceed with a draft regional spatial plan, it must—
+  - (a) provide the draft regional spatial plan that it has prepared to the local authorities of the region; and
+  - (b) recommend that the local authorities notify the draft regional spatial plan for submissions.
+  - (2) The local authorities of the region must decide whether to approve the draft regional spatial plan for notification.
+## Clause 18 — Spatial plan committee must notify draft regional spatial plan for
+  - submissions
+  - (1) If the local authorities of a region approve a draft regional spatial plan for notification, the spatial plan committee of the region must, in the manner prescribed by regulations,—
+  - (a) notify the draft regional spatial plan for public submissions; and
+  - (b) publish the draft regional spatial plan and the options assessment report.
+  - (2) The closing date for submissions must be at least 20 working days after the date on which the draft is notified.
+## Clause 19 — Submissions on draft regional spatial plan
+  - (1) Any person may make a submission on a draft regional spatial plan that is notified for submissions.
+  - (2) A submission must—
+  - (a) be in the form prescribed by regulations; and
+  - (b) contain the information prescribed by regulations.
+  - (3) The spatial plan committee must publish, in the manner prescribed by regulations, the submissions received.
+## Clause 20 — Independent hearings panel
+  - (1) The local authorities of a region must appoint an independent hearings panel to a draft regional spatial plan in accordance with clause 3 of Schedule 4.
+  - (2) The functions of the independent hearings panel are to—
+  - (a) conduct the hearing on the draft regional spatial plan; and
+  - (b) make recommendations on the draft regional spatial plan.
+## Clause 21 — Spatial plan committee must provide certain information to independent
+  - hearings panel A spatial plan committee must, within the time frame prescribed by regulations, provide the following information to the independent hearings panel:
+  - (a) the draft regional spatial plan:
+  - (b) the options assessment report:
+  - (c) the submissions received by the closing date for submissions:
+  - (d) any information prescribed by regulations.
+## Clause 22 — Hearing
+  - (1) The independent hearings panel must hold a hearing into submissions on a draft regional spatial plan.
+  - (2) A representative of the spatial plan committee must attend any hearing in accordance with any prescribed requirements.
+  - (3) A failure by the spatial plan committee to comply with subclause
+  - (2) does not invalidate a hearing or hearing session.
+## Clause 23 — Recommendations by panel
+  - (1) The independent hearings panel must make recommendations—
+  - (a) to the local authorities of the region on the draft regional spatial plan; and
+  - (b) to the relevant designating authority in relation to a proposed designation notified with the draft regional spatial plan under clause 36 of Schedule 5.
+  - (2) The panel must make its recommendations in accordance with sections 76, 77, and 78.
+  - (3) When making its recommendations, the panel—
+  - (a) must have regard to—
+  - (i) the documents and other matters specified in clause 6(1); and (ii) the options assessment report; and (iii) the submissions; and
+  - (iv) any other report commissioned by the panel, or prepared for the panel by the spatial plan committee or a local authority of the region; and
+  - (b) must comply with clause 6(3) and
+  - (4); and
+  - (c) must be satisfied that, if the local authorities were to accept the panel’s recommendations, the local authorities would comply with the provisions of this Act, and any other legislation, that apply to the local authorities’ preparation of the regional spatial plan; and
+  - (d) in relation to a recommendation under subclause
+  - (1)(b), must comply with clause 26 of Schedule 5 as if it were the recommending authority for the purpose of that clause.
+  - (4) The panel must provide its recommendations in 1 or more recommendation reports.
+  - (5) A recommendation report must—
+  - (a) set out the panel’s reasons for its recommendations; and
+  - (b) be in the form, and contain any additional information, prescribed by regulations.
+  - (6) The panel must—
+  - (a) provide all recommendation reports to the local authorities and relevant designating authorities (as applicable) within the time frame prescribed by regulations; and
+  - (b) send the Minister an electronic copy of each recommendation report at the same time (other than any recommendation report that solely contains recommendations on a proposed designation notified with the draft regional spatial plan under clause 36 of Schedule 5).
+  - (7) The recommendation reports must be published in the manner prescribed by regulations.
+## Clause 24 — Local authorities may request advice on panel recommendations
+  - (1) One or more of the local authorities in a region may direct the spatial plan committee to provide advice on 1 or more of the independent hearings panel’s recommendations on a draft regional spatial plan.
+  - (2) A direction for advice must—
+  - (a) be made in writing; and
+  - (b) specify the date by which the committee must provide the advice.
+  - (3) The spatial plan committee must—
+  - (a) comply with any direction to provide advice; and
+  - (b) send a copy of any advice to all local authorities in the region and the Minister.
+  - (4) This clause does not apply in relation to a recommendation under clause 23(1)(b) (recommendations to a designating authority on a proposed designation notified with a draft regional spatial plan under clause 36 of Schedule 5).
+## Clause 25 — Decision on panel recommendations by local authorities
+  - (1) The local authorities must—
+  - (a) decide whether to accept or reject each recommendation the panel makes to them under clause 23(1)(a); and
+  - (b) for each recommendation that they reject, decide an alternative solution.
+  - (2) However,—
+  - (a) the local authorities are not required to make a decision on a recommendation on which the Minister has made a decision under clause 27; and
+  - (b) if the local authorities (under this clause) and the Minister (under clause 27) make decisions on the same recommendation, the Minister’s decision prevails.
+  - (3) The local authorities must make their decisions in accordance with—
+  - (a) sections 76, 77, and 78; and
+  - (b) any division of responsibilities between them as set out in the process agreement.
+  - (4) When making their decisions, the local authorities—
+  - (a) must have regard to—
+  - (i) the documents and other matters specified in clause 6(1); and (ii) the options assessment report; and (iii) any other report commissioned by the panel, or prepared for the panel by the spatial plan committee or a local authority of the region; and
+  - (b) must comply with clause 6(3) and
+  - (4); and
+  - (c) are not required to consult any other person or consider submissions or evidence from any person; and
+  - (d) must not consider any submission or any other evidence unless—
+  - (i) it was made available to the panel before the panel made the relevant recommendation; or (ii) it is advice provided by the spatial plan committee under clause 24; and
+  - (e) may seek clarification from the panel or spatial plan committee on a recommendation to assist the local authorities in making a decision on that recommendation.
+  - (5) An alternative solution on a recommendation may include any of the following:
+  - (a) elements of the draft regional spatial plan as notified for submissions:
+  - (b) elements of the panel’s recommendations:
+  - (c) any alternative approach.
+  - (6) The local authorities must, no later than 12 months after the date on which the draft regional spatial plan was notified for submissions,—
+  - (a) publish their decisions in the manner prescribed by regulations; and
+  - (b) advise, in the manner prescribed by regulations, the following persons where an electronic copy of the decisions can be found:
+  - (i) the Minister: (ii) the spatial plan committee: (iii) relevant designating authorities: (iv) submitters.
+  - (7) The local authorities’ published decisions must set out the following information:
+  - (a) any recommendation that is accepted:
+  - (b) any recommendation that is rejected, with reasons:
+  - (c) the alternative solution for any rejected recommendation:
+  - (d) which local authority made each decision and alternative recommendation (if the process agreement provides for a division of responsibilities):
+  - (e) any other information prescribed by regulations.
+  - (8) This clause does not apply in relation to a recommendation under clause 23(1)(b) (recommendations to a designating authority on a proposed designation notified with a draft regional spatial plan under clause 36 of Schedule 5).
+## Clause 26 — Application to Minister for extension of time for publishing decisions
+  - (1) This clause applies if the local authorities of a region consider that 1 or more of them are unable, or likely to be unable, to meet the deadline for publishing their decisions under clause 25(6).
+  - (2) The local authorities must, before the deadline, apply to the Minister for an extension of time in the manner prescribed by regulations.
+  - (3) The Minister must decide the application for an extension, and advise the local authorities of the outcome, in the manner prescribed by regulations.
+## Clause 27 — Minister may make decisions on recommendations relating to certain
+  - matters
+  - (1) The Minister may make a decision on a recommendation that an independent hearings panel makes to the local authorities of a region under clause 23(1)(a), if the Minister is satisfied that the recommendation relates to—
+  - (a) the delivery, operation, or upgrading of infrastructure or another asset that—
+  - (i) is of national significance; and (ii) is or will be owned, or funded in whole or in part, by the Crown; or
+  - (b) a matter relating to the coastal marine area that is identified as nationally significant in a national instrument.
+  - (2) If the Minister intends to make a decision on a recommendation, the Minister must—
+  - (a) notify the local authorities and the spatial plan committee of that intention in writing; and
+  - (b) specify in the notice the date by which the Minister will make the decision (which must be no later than 12 months after the date on which the draft regional spatial plan was notified).
+  - (3) The Minister must—
+  - (a) make any decision on a recommendation in accordance with sections 76, 77, and 78; and
+  - (b) for any recommendation that they reject, decide an alternative solution.
+  - (4) When making any decision on a recommendation, the Minister—
+  - (a) must have regard to—
+  - (i) the documents and other matters specified in clause 6(1); and (ii) the options assessment report; and (iii) any other report commissioned by the panel, or prepared for the panel by the spatial plan committee or a local authority of the region; and
+  - (b) must comply with clause 6(3) and
+  - (4); but
+  - (c) is not required to consult any other person or consider submissions or evidence from any person; and
+  - (d) must not consider any submission or any other evidence unless—
+  - (i) it was made available to the panel before the panel made the relevant recommendation; or (ii) it is advice provided by the spatial plan committee under clause 24; and
+  - (e) may seek clarification from the panel or spatial plan committee on a recommendation to assist the local authorities in making a decision on that recommendation.
+  - (5) An alternative solution on a recommendation may include any of the following:
+  - (a) elements of the draft regional spatial plan as notified for submissions:
+  - (b) elements of the panel’s recommendations:
+  - (c) any alternative approach.
+  - (6) The Minister must, no later than the date specified under subclause
+  - (2)(b),—
+  - (a) publish any decision on a recommendation in the manner prescribed by regulations; and
+  - (b) advise the spatial plan committee and the local authorities of the region of the decision.
+  - (7) The Minister’s published decisions must set out the following information:
+  - (a) any recommendation that the Minister accepts:
+  - (b) any recommendation that the Minister rejects, with reasons:
+  - (c) the alternative solution for any rejected panel recommendation.
+  - (8) The local authorities of the region must, in the manner prescribed by regulations, advise all submitters where an electronic copy of the Minister’s decision can be found.
+## Clause 28 — Decisions on designations by designating authorities
+  - (1) This clause applies in relation to a recommendation that an independent hearings panel makes to a designating authority under clause 23(1)(b) (recommendations on a proposed designation notified with a draft regional spatial plan under clause 36 of Schedule 5).
+  - (2) The designating authority responsible for the proposed designation must—
+  - (a) decide whether to accept or reject the panel’s recommendation; and
+  - (b) for any recommendation or part of a recommendation that it rejects, decide an alternative solution.
+  - (3) The designating authority’s decision (including any alternative solution) may modify the proposed designation only if the modification—
+  - (a) was recommended by the panel; or
+  - (b) is not inconsistent with the existing or proposed designation as it was included in the draft regional spatial plan.
+  - (4) A designating authority must give reasons if it—
+  - (a) rejects the panel’s recommendation in whole or in part; or
+  - (b) modifies the existing or proposed designation.
+  - (5) A designating authority must notify the territorial authority of the district that the designation is in of its decision (including any reasons) no later than 30 working days after receiving the relevant recommendation report under clause 23.
+  - (6) The territorial authority must—
+  - (a) publish a notice of the designating authority’s decisions (including any reasons) in the manner prescribed by regulations; and
+  - (b) advise, in the manner prescribed by regulations, the following persons of where an electronic copy of the notice can be found:
+  - (i) each submitter who made a submission on the relevant proposed or existing designation: (ii) each land owner and occupier directly affected by the decision: (iii) the Minister, the spatial plan committee, and the other local authorities in the region.
+## Clause 29 — Appeal on question of law
+  - (1) A submitter may appeal to the Environment Court against a decision to accept or reject a panel recommendation made by—
+  - (a) a local authority or local authorities under clause 25; or
+  - (b) the Minister under clause 27.
+  - (2) However, a submitter may appeal under this clause only if they referred to the subject matter of the decision in their submission.
+  - (3) The right of appeal under this clause is limited to a question of law.
+## Clause 30 — Appeal if recommendation relating to infrastructure is rejected
+  - (1) A submitter may appeal to the Environment Court against a decision to reject a panel recommendation that relates to infrastructure, made by—
+  - (a) a local authority or local authorities under clause 25; or
+  - (b) the Minister under clause 27.
+  - (2) However, a submitter may appeal under this clause only if they referred to the subject matter of the decision in their submission.
+## Clause 31 — Appeal on decision of designating authority
+  - The following persons may appeal to the Environment Court against a decision of a designating authority to accept or reject a panel recommendation on a proposed designation under clause 28:
+  - (a) a submitter, but only if their submission addressed—
+  - (i) the proposed designation to which the decision relates; and (ii) the matter to which the appeal relates:
+  - (b) the territorial authority of the district that the proposed designation is in.
+## Clause 32 — Requirements for lodging appeals
+  - An appeal under clause 29, 30, or 31 must—
+  - (a) be lodged in the form, and within the time frame, prescribed by regulations; and
+  - (b) contain the information prescribed by regulations; and
+  - (c) be served in the manner prescribed by regulations.
+## Clause 33 — Hearing by Environment Court on appeal
+  - The Environment Court must hold a public hearing into an appeal under clause 29, 30, or 31.
+  - Compare: 1991 No 69 Schedule 1 cl 15
+## Clause 34 — Local authorities to adopt regional spatial plan
+  - (1) When all decisions under clauses 25, 27, and 28 have been made, and any appeals have been determined or withdrawn (or the time for making appeals has expired without any appeals being made), the local authorities of the region must publish a notice that the draft regional spatial plan is adopted.
+  - (2) The notice must—
+  - (a) be published in the manner prescribed by regulations; and
+  - (b) specify the date on which it is published (which is the date on which the draft regional spatial plan is adopted).
+  - (3) When a draft regional spatial plan is adopted,—
+  - (a) it becomes the regional spatial plan of the region; and
+  - (b) it replaces any previous regional spatial plan (or part of a regional spatial plan, if the draft regional spatial plan is an amendment to a regional spatial plan).
+## Clause 35 — Minor amendments and amendments to reflect changes to aquaculture
+  - settlement area
+  - (1) A spatial plan committee may, without using the process in this schedule or conducting a review, amend a regional spatial plan—
+  - (a) if the amendment will have no more than a minor effect; or
+  - (b) to correct a minor error.
+  - (2) A spatial plan committee must, without using the process in this schedule or conducting a review, amend a regional spatial plan to—
+  - (a) record any new aquaculture settlement area that is notified under section 12 of the Maori Commercial Aquaculture Claims Settlement Act 2004; or
+  - (b) reflect any space that is added to or removed from an aquaculture settlement area by notice under that section.
+  - (3) The spatial plan committee must publish (in the manner prescribed by regulations) a notice of any amendments made under this clause no later than 5 working days after making them.
+  - Compare: 1991 No 69 Schedule 1 cl 20A

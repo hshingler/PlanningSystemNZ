@@ -1,0 +1,259 @@
+#provision
+## §51 — Application of national instruments
+  - National instruments may apply generally or to any specified district, region, or part of New Zealand.
+## §52 — [[Local authority]] and [[spatial plan committee]] must implement [[national instrument]]
+  - (1) A [[local authority]] and a [[spatial plan committee]] must—
+	  - (a) comply with the directions of a national instrument; and
+	  - (b) implement its provisions in the manner specified in the instrument.
+  - (2) In this section, directions includes any directives or other requirements. National policy direction
+## §53 — National policy direction
+  - There must always be a national policy direction.
+## §54 — Purpose of national policy direction
+  - (1) The purpose of a national policy direction is to—
+	  - (a) particularise all the goals; and
+	  - (b) direct how the goals are to be achieved, including by identifying and providing for the resolution of conflict as far as is practicable.
+  - (2) This section is subject to section 13(2).
+  - (3) In this section,— conflict means—
+	  - (a) conflict within a goal or between the goals in section 13 of this Act; or
+	  - (b) conflict between the goals in section 13 of this Act and the goals in section 13 of the Natural Environment Act 2026; or
+	  - (c) conflict between national instruments under this Act and, if applicable, national instruments under the Natural Environment Act 2026 particularise, in relation to a goal, means to explain the goal in detail, including by providing any context relevant to the goal.
+## §55 — Content of national policy direction
+  - (1) [[National policy direction]] must include directives.
+  - (2) [[National policy direction]]—
+	  - (a) may specify—
+		  - (i) the key instruments to which its directives apply; and (ii) how its directives must or may be implemented; and
+  - (b) may direct the outcomes that a key instrument must achieve or provide for; and
+  - (c) may specify other approaches that are relevant to the purpose of national policy direction.
+  - (3) A directive may specify which 1 or more of the following approaches must be used to manage the effects of activities:
+	  - (a) avoid:
+	  - (b) remedy:
+	  - (c) mitigate:
+	  - (d) offset:
+	  - (e) compensate.
+  - (4) National policy direction may—
+	  - (a) require that compliance with its directives are the only ways in which a goal may be achieved:
+	  - (b) restrict how a specified key instrument achieves a goal.
+  - (5) National policy direction may—
+	  - (a) include directives or content that apply to key instruments under the Natural Environment Act 2026; and
+	  - (b) direct what a local authority or [[spatial plan committee]] must consider when preparing its plan.
+  - (6) National policy direction must not include directives or content that are required to be directly inserted into regional spatial plans, land use plans, or natural environment plans.
+  - (7) National policy direction may provide for when and how its provisions must be monitored and reviewed. National standards
+## §56 — National standards
+  - There must always be [[national standards]].
+## §57 — Purpose of national standards
+  - (1) The purpose of national standards is to do 1 or more of the following:
+  - (a) implement national policy direction:
+  - (b) provide procedural consistency:
+  - (c) provide regulatory consistency.
+  - (2) In this section, regulatory consistency means consistency in how an activity or its effects are regulated nationally or within or across districts, regions, or any specified area.
+## §58 — Content of [[national standards]]
+  - (1) National standards may include objectives, policies, rules, methods, or requirements that are relevant to their purpose (see section 57).
+  - (2) National standards may provide for national rules.
+  - (3) National standards may direct—
+	  - (a) how land use must be managed:
+	  - (b) how local authorities must make decisions:
+	  - (c) how local authorities must use processes and methodologies.
+  - (4) National standards may—
+	  - (a) direct that specific provisions be included in land use plans or regional spatial plans:
+	  - (b) direct local authorities or [[spatial plan committee|spatial plan committees]] to choose from a number of specific provisions to be included in plans either completely or in part.
+  - (5) National standards may—
+	  - (a) include requirements relating to measuring, monitoring, and reporting; and
+	  - (b) empower a local authority to charge for the monitoring of any specified permitted activities.
+  - (6) National standards may include exemptions from the standards.
+## §59 — National rules
+  - (1) National standards that are national rules may give directions that—
+  - (a) allow, restrict, or prohibit an activity:
+  - (b) classify an activity or state how it is to be classified:
+  - (c) specify conditions that must or may be imposed on a planning consent for an activity:
+  - (d) require, as a condition of a planning consent, compliance with requirements specified in the standards or in a land use plan or proposed plan:
+  - (e) restrict the making of a rule in a land use plan or the granting of a planning consent to matters specified in the standards:
+  - (f) require or preclude targeted or public notification of an application for a planning consent for an activity:
+  - (g) specify, in relation to a rule in a land use plan made before the commencement of the standards,—
+  - (i) the extent to which any matter to which the standard applies continues to have effect; or (ii) the time period during which any matter to which the standard applies continues to have effect.
+  - (2) A national rule that allows an activity may—
+  - (a) state that a planning consent is not required for the activity; or
+  - (b) do either or both of the following:
+  - (i) state that a planning consent may be granted for the activity, but only on the conditions specified in the national rule; and (ii) require, as a condition, compliance with the rules in a land use plan or proposed land use plan that has legal effect.
+  - (3) A national rule that classifies an activity—
+  - (a) as a permitted activity may require the activity to be registered with a permit authority:
+  - (b) as a restricted discretionary activity must state the matters over which discretion is restricted.
+  - (4) A national rule may require a person to obtain a certificate from a specified person stating that an activity complies with a condition specified in the national rule.
+## §60 — Other content for national standards
+  - (1) National standards may specify—
+  - (a) how, and in what order, adverse effects are to be avoided, mitigated, remedied, offset, or compensated; and
+  - (b) when it is practicable for adverse effects to be avoided, mitigated, or remedied; and
+  - (c) when it is appropriate for adverse effects to be offset or compensated; and
+  - (d) the circumstances in which specific effects are managed under this Act or under the Natural Environment Act 2026.
+  - (2) The order in which an approach to managing effects appears in subsection
+  - (1) does not assign an order of importance to how effects are managed.
+  - (3) National standards—
+  - (a) may include provisions for the purpose of managing the risk of natural hazards (including for the purpose of avoiding or mitigating any adverse effect of a natural hazard); and
+  - (b) may identify a national rule as a specified natural hazard rule only if the rule is for the purpose specified in paragraph
+  - (a).
+  - (4) National standards may—
+  - (a) allow or require a local authority to include in its land use plan a permitted activity rule that requires the activity to be registered with a permit authority; or
+  - (b) restrict a local authority from including that rule in its plan.
+  - (5) National standards may state requirements relating to the content of land use plans and regional spatial plans, including—
+  - (a) objectives, policies, rules, or other methods to be included in land use plans:
+  - (b) objectives, actions, policies, or other methods, or other provisions, to be included in regional spatial plans.
+  - (6) National standards may include requirements relating to—
+  - (a) the structure and form of a regional spatial plan or land use plan:
+  - (b) the electronic accessibility and functionality of a regional spatial plan or land use plan:
+  - (c) any of the following matters to the extent that they relate to regional spatial plans or land use plans:
+  - (i) processes, methodologies, or implementation: (ii) measuring, monitoring, and reporting: (iii) records that must be kept and how they must be kept:
+  - (d) any other matter for the purpose of implementing national standards.
+  - (7) National standards may, for the purpose of protecting other property from the effects of surface water, include requirements that—
+  - (a) apply to a person undertaking building work; and
+  - (b) set performance criteria that are in addition to, or more restrictive than, the building code.
+  - (8) National standards may include transitional provisions for any matter, including its effect on existing matters or proceedings.
+  - (9) National standards may include requirements specifying the manner in which a person must comply with section 10(2), including where, how, and when the person must comply with that section.
+  - (10) National standards may include requirements relating to the performance or exercise of the functions, powers, and duties of the statutory officer appointed under section 221.
+  - (11) In subsection
+  - (7), building code and other property have the meanings given in section 7 of the Building Act 2004.
+## §61 — National standards relating to land use plans and regional spatial plans
+  - (1) If a provision in a national standard necessitates a change to a land use plan or a regional spatial plan, unless the national standard specifies otherwise,—
+  - (a) a local authority must use a process in Schedule 3 to amend its plan; and
+  - (b) a [[spatial plan committee]] must use the process in subpart 1 of Part 3 to amend its plan.
+  - (2) A national standard may direct a local authority or [[spatial plan committee]] to amend its plan without using the process in Schedule 3 or subpart 1 of Part 3 only if—
+  - (a) the content of the amendment is set out in the national standard itself; or
+  - (b) the purpose of the amendment is to make the plan consistent with any restriction in that national standard or another national standard.
+  - (3) A local authority or a [[spatial plan committee]] must—
+  - (a) make the amendments authorised under subsection
+  - (2) as soon as practicable within the time (if any) specified in the national standard; and
+  - (b) give public notice of the amendments within 5 working days after making them.
+## §62 — National standards may direct plan provisions in land use plans and
+  - regional spatial plans
+  - (1) National standards may direct plan provisions to be included in—
+  - (a) land use plans or proposed land use plans; or
+  - (b) regional spatial plans.
+  - (2) A direction—
+  - (a) may require or authorise a local authority or [[spatial plan committee]] to include a plan provision contained in the national standard itself; or
+  - (b) may authorise a local authority or [[spatial plan committee]] to include a plan provision prepared by the local authority or [[spatial plan committee]].
+  - (3) For the purposes of subsection
+  - (2)(a), a national standard may—
+  - (a) contain a plan provision—
+  - (i) that the local authority or [[spatial plan committee]] must include in its plan; and (ii) in relation to which the local authority or [[spatial plan committee]] has no discretion to determine its spatial application; or
+  - (b) contain a plan provision in relation to which the local authority or [[spatial plan committee]] may do 1 or more of the following:
+  - (i) determine the spatial application of the provision: (ii) select the provision from 2 or more alternatives set out in the national standard: (iii) determine any content specified by the national standard but only from within parameters set out in that standard: (iv) choose not to include the provision.
+  - (4) National standards may include requirements or methods for how a local authority or [[spatial plan committee]] must include and give effect to a plan provision required or authorised under this section.
+  - (5) See section 101(3) (which provides that a local authority must not amend a standardised provision in a land use plan) and section 77(4) (which provides
+  - that local authorities, [[spatial plan committee|spatial plan committees]], and the Minister must not amend a standardised provision in a regional spatial plan).
+## §63 — National rules must be clearly identified
+  - (1) A provision in national standards that is a national rule must be clearly identified as such in the standards.
+  - (2) A national rule may (but does not have to) be included in a land use plan.
+## §64 — Incorporation of material by reference into national standards
+  - (1) Material may be incorporated by reference into national standards in accordance with section 64 of the Legislation Act 2019, but clause 1 of Schedule 2 of that Act does not apply.
+  - (2) Subsection
+  - (4) applies if—
+  - (a) national standards incorporate material by reference; and
+  - (b) the material is amended (within the meaning of section 66(3) of the Legislation Act 2019) by the originator of the material after the national standards are made.
+  - (3) However, subsection
+  - (4) does not apply if the national standards expressly state that it does not apply.
+  - (4) Despite section 66(2) of the Legislation Act 2019, the amendments referred to in subsection
+  - (2)(b) have effect as part of the national standards only if the Minister issues a notice that—
+  - (a) states that the amendments have effect as part of the national standards; and
+  - (b) specifies the date on which the amendments have effect.
+  - (5) A notice under subsection
+  - (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements). Process
+## §65 — Process for making national instrument
+  - (1) Before the Minister publicly notifies a national instrument, the Minister must seek comment from iwi authorities and from any group or sector that the Minister considers appropriate by—
+  - (a) providing them with a draft of the proposed national instrument or a summary of it; and
+  - (b) giving them, as the Minister considers appropriate, adequate time and opportunity to comment on the document; and
+  - (c) having regard to any comments so provided.
+  - (2) If the proposed national instrument—
+  - (a) affects ngā rohe moana o ngā hapū o Ngāti Porou, the Minister must seek comment from ngā hapū o Ngāti Porou and relevant customary marine title hapū in accordance with subsection
+  - (1); or
+  - (b) is authorised by section 60(9), the Minister must seek comment from any relevant post-settlement governance entity in accordance with subsection
+  - (1).
+  - (3) If, after complying with subsections
+  - (1) and
+  - (2), the Minister proposes to publicly notify a national instrument, the Minister must establish and follow a process that includes the following steps:
+  - (a) the public and iwi authorities (and ngā hapū o Ngāti Porou and relevant customary marine title hapū if the instrument affects ngā rohe moana o ngā hapū o Ngāti Porou and any relevant post-settlement governance entity if subsection
+  - (2)(b) applies) must be given notice of—
+  - (i) the proposed national instrument (the proposal); and (ii) the purpose of the national instrument in terms of section 54 or 57; and (iii) a summary of— (A) the reasons for the proposal: (B) the reasons why the Minister considers the proposal is consistent with the purpose of the national instrument: (C) how the Minister has considered the matters required under section 66 or 67 (as applicable); and
+  - (b) those notified must be given what the Minister considers to be adequate time and opportunity to make submissions on the subject matter of the proposal; and
+  - (c) a report and recommendations must be made to the Minister on the submissions and the subject matter of the proposal.
+  - (4) The Minister must consult the Minister of Conservation on any proposal that relates to the coastal marine area.
+  - (5) The Minister may consult on the proposal with any person who may have an interest in it.
+  - (6) The Minister may—
+  - (a) establish technical advisory groups to advise the Minister—
+  - (i) on any matter that the Minister considers is relevant to the proposal; and (ii) in accordance with any terms of reference specified by the Minister; and
+  - (b) consider their advice.
+  - (7) The Minister may act under any of subsections
+  - (4) to
+  - (6) at any step of the process set out in this section.
+  - (8) A person preparing the report and recommendations required by subsection
+  - (3)(c) must consider—
+  - (a) any matter that the Minister must consider, have regard to, or be satisfied of before recommending the national instrument; and
+  - (b) any advice received from a technical advisory group established under this section; and
+  - (c) any comments provided under subsection
+  - (1) or
+  - (2).
+  - (9) The time given for comments under subsection
+  - (1)(b) or
+  - (2) or submissions under subsection
+  - (3)(b) must not be less than 20 working days.
+## §66 — Considerations for national policy direction
+  - (1) When notifying a proposed national policy direction under section 65(3), the Minister must give a notice summarising why they consider the proposal is consistent with the purpose of a national policy direction under section 54.
+  - (2) The rest of this section applies to the Minister when developing a proposed national policy direction.
+  - (3) The Minister must have regard to—
+  - (a) achieving compatibility between the goals in section 13, as far as is practicable; and
+  - (b) if compatibility between the goals cannot be achieved, identifying and providing for the resolution of conflict between the goals, or within a goal.
+  - (4) However, if the Minister considers that the resolution of any conflict identified under subsection
+  - (3)(b) will result in a goal being prioritised over another, the Minister must consider the following matters as far as they relate to the built environment:
+  - (a) the current and long-term impacts:
+  - (b) any severe and irreversible adverse effects.
+  - (5) The Minister must be satisfied that the proposed national policy direction is, as far as is practicable, consistent with other national instruments, including national instruments under the Natural Environment Act 2026.
+  - (6) Subsections
+  - (7) and
+  - (8) apply, if, during the development of the proposed national policy direction, the Minister identifies conflict between—
+  - (a) the goals in section 13; and
+  - (b) the goals in section 13 of the Natural Environment Act 2026.
+  - (7) The Minister must have regard to—
+  - (a) achieving compatibility between the 2 sets of goals (as described in subsection
+  - (6)(a) and
+  - (b)), as far as is practicable; and
+  - (b) if compatibility between those 2 sets of goals cannot be achieved, identifying and providing for the resolution of conflict between them.
+  - (8) However, if the Minister considers that the resolution of any conflict identified under subsection
+  - (7)(b) will result in a goal in one Act being prioritised over a goal in the other Act, the Minister must consider the following matters as far as they relate to people, natural resources, and the built environment:
+  - (a) the current and long-term impacts:
+  - (b) any severe and irreversible adverse effects.
+  - (9) National policy direction is not required to identify and provide for the resolution of every conflict.
+  - (10) In this section, long-term impact means an impact spanning 2 or more human generations.
+## §67 — Considerations for national standards
+  - (1) When notifying proposed national standards under section 65, the Minister must give a notice explaining why they consider the proposal is consistent with the purpose of national standards under section 57.
+  - (2) When developing proposed national standards, the Minister must—
+  - (a) be satisfied that the proposed national standards are, as far as is practicable, consistent with other national standards and regulations; and
+  - (b) subject to sections 17 and 18, consider the effects of the activities to which the proposed national standards apply.
+  - (3) When developing proposed national standards that include requirements specifying the manner in which a person must comply with section 10(2), the Minister must be satisfied that the manner of compliance specified in the standards will, to the greatest extent possible under this Act, give an effect that is the same as, or equivalent to, the effect that the relevant redress or arrangement had under the Resource Management Act 1991.
+## s68 — Withdrawal of proposed national instrument
+  - (1) The Minister may withdraw all or part of a proposed national instrument at any time before it is made under section 69.
+  - (2) The Minister must give public notice of the withdrawal and include reasons for the withdrawal.
+  - Compare: 1991 No 69 s 51A
+## §69 — Making of national instrument
+  - (1) The Governor-General in Council may, by Order in Council, on the recommendation of the Minister, make a national instrument.
+  - (2) Before recommending the making of a national instrument, after having complied with section 65, the Minister must consider the report and recommendations made under section 65(3)(c) (report and recommendations).
+  - (3) When considering the report and recommendations, the Minister may—
+  - (a) make any changes, or no changes, to the proposed national instrument as the Minister thinks fit; and
+  - (b) withdraw all or part of the proposed national instrument in accordance with section 68.
+  - (4) Before recommending the making of a national instrument as referred to in section 70 or 71, the Minister must consider whether it is more appropriate to comply with section 65.
+  - (5) After the national instrument is made,—
+  - (a) the Minister must notify every local authority and the public that the following documents are available and how they can be accessed:
+  - (i) a summary of the report and recommendations; and (ii) a summary of the Minister’s decision on the recommendations (including reasons for not adopting any recommendations); but
+  - (b) if the national instrument makes an amendment as referred to in section 70 or 71, paragraph
+  - (a) does not apply and the Minister must instead publish their reasons for the amendment on an internet site.
+  - (6) An order made under this section—
+  - (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  - (b) is not to be drafted by the Parliamentary Counsel Office under section 67(1)(d)(i) of that Act.
+## §70 — Amendments to national policy direction without full process
+  - (1) The Minister may recommend the making of an amendment to a national policy direction without complying with section 65 if the amendment is needed to make changes that are no more than minor in effect, to correct errors, or to make similar technical alterations.
+  - (2) Section 66 does not apply to amendments recommended under this section.
+## §71 — Amendments to national standards without full process
+  - (1) The Minister may recommend the making of an amendment to a national standard without complying with section 65 if the amendment is needed for 1 of the following reasons:
+  - (a) to align with a New Zealand Standard within the meaning of section 4 of the Standards and Accreditation Act 2015:
+  - (b) to implement New Zealand’s obligations under any international convention, protocol, or agreement to which New Zealand is a party:
+  - (c) to extend the time frame for implementing any part of a national standard:
+  - (d) to remove provisions in a national standard that are no longer required as a consequence of changes to legislation:
+  - (e) to make changes that are no more than minor in effect, to correct errors, or to make similar technical alterations.
+  - (2) Section 67 does not apply to amendments recommended under this section.
+

@@ -1,0 +1,1176 @@
+#provision
+# Subpart 1—Enforcement
+  - Proceedings under this subpart
+## §254 — Hearing of proceedings
+  - (1) All proceedings under this subpart must be heard by an Environment Judge sitting alone or by the Environment Court, except as provided in subsections (2) and (3).
+  - (2) Proceedings under section 265 (which relates to interim enforcement orders) must be heard either by an Environment Judge sitting alone or—
+	  - (a) in the District Court; and
+	  - (b) except where otherwise directed by the Chief District Court Judge, by a District Court Judge who is an Environment Judge.
+  - (3) Proceedings under section 271 or 272 (which relate to appeals against abatement notices and the power to stay an order) that may be heard by an Environment Judge may also be heard by an Environment Commissioner.
+  - (4) All proceedings under section 293 (which relates to offences) and section 302 (which relates to infringement offences) must be heard—
+	  - (a) in the District Court; and
+	  - (b) except where otherwise directed by the Chief District Court Judge, by a District Court Judge who is also an Environment Judge.
+  - (5) This subpart does not apply to a protected customary right.
+  - (6) However, sections 255 to 258 (which relate to the Court making declarations) and sections 315 to 319 (which enable emergency works) apply to the exercise of a protected customary right.
+## §255 — Scope and effect of declaration
+  - (1) A declaration may declare—
+	  - (a) the existence or extent of any function, power, right, or duty under this Act, including (without limitation) any duty imposed by a national instrument; or
+	  - (b) whether a provision or proposed provision of a land use plan, contrary to section 103(2), does not, or is not likely to, implement a provision of a national instrument or the regional spatial plan; or
+	  - (c) whether or not an act or omission, or a proposed act or omission, contravenes or is likely to contravene this Act, regulations, a rule in a plan or proposed plan, or a planning consent; or
+	  - (d) whether or not an act or omission, or a proposed act or omission,—
+		  - (i) is a permitted activity, restricted discretionary activity, discretionary activity, or prohibited activity; or (ii) breaches section 26 (certain existing land uses allowed); or
+	  - (e) whether or not a territorial authority has made and is continuing to make substantial progress or effort towards giving effect to a designation as required by clause 51 of Schedule 5; or
+	  - (f) any other issue or matter relating to the interpretation, administration, and enforcement of this Act, except for an issue as to whether any of sections 147 to 153 have been, or will be, contravened.
+  - (2) In the course of any proceedings, the Environment Court may make a declaration referred to in subsection (1) on its own initiative without an application from any party to the proceedings.
+## §256 — Application for declaration
+  - Any person may at any time apply to the Environment Court in the prescribed form for a declaration.
+## §257 — Notification of application
+  - (1) The applicant for a declaration must serve notice of the application in the prescribed form on every person directly affected by the application.
+  - (2) The notice must be served within 5 working days after the application is made to the court.
+## §258 — Decision on application
+  - After hearing the applicant, and any person served with notice of the application, and any other person who has the right to be represented at proceedings under clauses 51 to 52 of Schedule 9 who wishes to be heard, the court may—
+	  - (a) make the declaration sought by an application under section 256, with or without modification; or
+	  - (b) make any other declaration that it considers necessary or desirable; or
+	  - (c) decline to make a declaration.
+## §259 — Scope of enforcement order
+  - (1) An enforcement order is an order made under section 264 by the Environment Court or an Environment Judge sitting in the District Court that may do any 1 or more of the following:
+	  - (a) require a person to cease, or prohibit a person from commencing, anything done or to be done by or on behalf of that person, that, in the opinion of the court,—
+		  - (i) contravenes or is likely to contravene this Act, regulations, a rule in a plan, a rule in a proposed plan, or a planning consent; or (ii) is or is likely to be noxious, dangerous, offensive, or objectionable to such an extent that it has or is likely to have an adverse effect on the built environment:
+	  - (b) require a person to do something that, in the opinion of the court, is necessary in order to—
+		  - (i) ensure compliance by or on behalf of that person with this Act, regulations, a rule in a plan, a rule in a proposed plan, or a planning consent; or (ii) avoid, remedy, or mitigate any actual or likely adverse effect on the built environment caused by or on behalf of that person:
+	  - (c) require a person to pay money to or reimburse any other person for any actual and reasonable costs and expenses that the other person has incurred or is likely to incur in avoiding, remedying, or mitigating any adverse effect on the built environment, if the person against whom the order is sought fails to comply with—
+		  - (i) an order under any other paragraph of this subsection; or (ii) an abatement notice; or (iii) a rule in a plan or a proposed plan or a planning consent; or (iv) any of that person’s other obligations under this Act:
+	  - (d) require a person to do something that, in the opinion of the court, is necessary in order to avoid, remedy, or mitigate any actual or likely adverse effect on the built environment relating to any land of which the person is the owner or occupier:
+	  - (e) change or cancel a planning consent if, in the opinion of the court, the information made available to the consent authority by the applicant contained inaccuracies relevant to the enforcement order sought that materially influenced the decision to grant the consent:
+	  - (f) revoke a planning consent (in whole or in part) or suspend a planning consent (for a specified period in whole or in part) if, in the opinion of the court, there has been significant non-compliance with this Act—
+	  - (i) that is ongoing or repeated; and (ii) that, if the consent holder is not a natural person, has been or is the subject of an enforcement order, a pecuniary penalty, or a conviction under this Act or, if the consent holder is a natural person, has been or is the subject of an enforcement order, a pecuniary penalty, or a conviction under this Act within the previous 7 years:
+	  - (g) if the court determines that 1 or more of the requirements of Part 1 or 2 of Schedule 3 have not been observed in respect of a plan, do 1 or more of the following:
+		  - (i) grant a dispensation from the need to comply with those requirements: (ii) direct compliance with any of those requirements: (iii) suspend the whole or any part of the plan from a particular date (which may be on or after the date of the order, but no such suspension affects any court order made before the date of the suspension order):
+	  - (h) require a person to take or refrain from taking any specified action so as to comply with any notice or covenant issued or entered into under a condition of a planning consent:
+		  - (i) make an adverse publicity order, a monetary benefit order, or a pecuniary penalty order (see clauses 21, 30, and 31 of Schedule 8).
+  - (2) For the purposes of subsection (1)(c), actual and reasonable costs include the costs of investigation, supervision, and monitoring of the adverse effect on the built environment, and the costs of any actions required to avoid, remedy, or mitigate the adverse effect.
+  - (3) Except as provided in section 264(3), an enforcement order may be made on such terms and conditions as the Environment Court thinks fit (including the payment of any administrative fees under section 329 or 330, the provision of security, or the entry into a bond for performance).
+  - (4) Without limiting subsections (1) to (3), an order may require the restoration of any natural and physical resource to the state it was in before the adverse effect occurred (including the planting or replanting of any tree or other vegetation).
+  - (5) When making an enforcement order under subsection (4), the court may order that the restrictions set out in section 21 or 23 do not apply to the restoration activities, provided that the court is satisfied that the conditions of the order are adequate to avoid, remedy, or mitigate any adverse effects on the built environment arising from those activities.
+  - (6) When making an enforcement order under subsection (1)(f), the court may, having regard to the nature of the non-compliance,—
+	  - (a) revoke the planning consent, and any planning consents associated with that consent that enable the same activity, in whole or in part, with effect on a specified date; or
+	  - (b) suspend the planning consent, and any planning consents associated with that consent that enable the same activity, in whole or in part, for a specified period without conditions or subject to any conditions that the court thinks fit.
+  - (7) An enforcement order applies, if the court so states, to the personal representatives, successors, and assigns of a person to the same extent as it applies to that person.
+## §260 — Compliance with enforcement order
+  - (1) If an enforcement order is made against a person, and that enforcement order is served on that person, that person must—
+  - (a) comply with the order; and
+  - (b) unless the order directs otherwise, pay all the costs and expenses of complying with the order.
+  - (2) If a person against whom an enforcement order is made fails to comply with the order, any person may, with the consent of the Environment Court,—
+  - (a) comply with the order on behalf of the person who fails to comply with the order, and for this purpose, enter upon any land or enter any structure (with a constable if the structure is a dwelling house); and
+  - (b) sell or otherwise dispose of any structure or materials salvaged in complying with the order; and
+  - (c) after allowing for any moneys received under paragraph
+  - (b), if any, recover the costs and expenses of doing so as a debt due from that person.
+  - (3) Any costs or expenses that remain unpaid under subsection
+  - (2)(c) may be registered under subpart 5 of Part 3 of the Land Transfer Act 2017 as a charge on any land in respect of which an enforcement order is made.
+  - (4) Failure to comply with an enforcement order is an offence under section 293.
+  - Compare: 1991 No 69 s 315
+## §261 — Application for enforcement order
+  - (1) Any person may at any time apply to the Environment Court in the prescribed form for an enforcement order of a kind specified in section 259(1)(a) to
+  - (c).
+  - (2) An application may at any time be made in the prescribed form to the Environment Court by—
+  - (a) a local authority, a consent authority, or the EPA for an enforcement order of the kind specified in section 259(1)(d); and
+  - (b) a local authority or consent authority for an enforcement order of the kind specified in section 259(1)(e); and
+  - (c) a local authority, a consent authority, or the EPA for an enforcement order of the kind specified in section 259(1)(f); and
+  - (d) a local authority or the EPA for an enforcement order of a kind specified in section 259(1)(h) or
+  - (i).
+  - (3) An application for an enforcement order under section 259(1)(g) may be lodged—
+  - (a) by a local authority at any time; or
+  - (b) by any other person, no later than 3 months after the date on which the plan becomes operative.
+  - (4) Any person who applies for an enforcement order under any provision of this section may request that the enforcement order be made on any terms and conditions permitted by section 259(3) or
+  - (4).
+  - Compare: 1991 No 69 s 316
+## §262 — Notification of application
+  - (1) Except as provided in section 265 (which relates to interim enforcement orders), if an application for an enforcement order is made, the applicant must serve notice of the application in the prescribed form on every person directly affected by the application.
+  - (2) The notice must be served within 5 working days after the application is made to the Environment Court.
+  - Compare: 1991 No 69 s 317
+## §263 — Right to be heard
+  - Except as provided in section 265 (which relates to interim enforcement orders), before deciding an application for an enforcement order, the Environment Court must—
+  - (a) hear the applicant; and
+  - (b) hear any person against whom the order is sought who wishes to be heard, but only if that person notifies the Registrar that they wish to be heard within 15 working days after the date on which they were notified of the application.
+  - Compare: 1991 No 69 s 318
+## §264 — Decision on application
+  - (1) After considering an application for an enforcement order, the Environment Court may,—
+  - (a) except as provided in subsection
+  - (2), make any appropriate order under section 259; or
+  - (b) refuse the application.
+  - (2) No court may order that compensation or redress be paid or provided to any person for any loss or damage arising from the revocation or suspension of the person’s planning consent under section 259(1)(f).
+  - (3) Except as provided in subsection
+  - (4), the Environment Court must not make an enforcement order under section 259(1)(a)(ii),
+  - (b)(ii),
+  - (c)(iv), or
+  - (d) against a person if—
+  - (a) that person is acting in accordance with—
+  - (i) regulations; or (ii) a national rule; or (iii) a rule in a land use plan; or (iv) a designation; or
+  - (v) a planning consent; and
+  - (b) the adverse effects in respect of which the order is sought were expressly recognised by the person who recommended the making of the regulations, national rule, land use plan, or designation, or granted the planning consent, at the time of the recommendation or granting.
+  - (4) The Environment Court may make an enforcement order if—
+  - (a) the court considers it appropriate after having regard to the time that has elapsed and any change in circumstances since the recommendation or granting; or
+  - (b) the person was acting in accordance with a planning consent that has been changed or cancelled under section 259(1)(e).
+  - Compare: 1991 No 69 s 319
+## §265 — Interim enforcement order
+  - (1) Except as provided in this section, the provisions of sections 259 to 264 apply to the application for, and determination of, an interim enforcement order.
+  - (2) Despite subsection
+  - (1), no person may apply for an interim enforcement order under section 259(1)(f).
+  - (3) If an Environment Judge or a District Court Judge considers it necessary to do so, the Judge may make an interim enforcement order—
+  - (a) without requiring service of notice in accordance with section 262; and
+  - (b) without holding a hearing.
+  - (4) Before making an interim enforcement order, the Environment Judge or the District Court Judge must consider—
+  - (a) what the effect of not making the order would be on the built environment; and
+  - (b) whether the applicant has given an appropriate undertaking as to damages; and
+  - (c) whether the Judge should hear the applicant or any person against whom the interim order is sought; and
+  - (d) such other matters as the Judge thinks fit.
+  - (5) The Judge must direct the applicant or another person to serve a copy of the interim enforcement order on the person against whom the order is made; and the order must take effect from when it is served or such later date as the order directs.
+  - (6) A person against whom an interim enforcement order has been made and who was not heard by a Judge before the order was made may apply, as soon as practicable after the service of the order, to an Environment Judge or a District Court Judge to change or cancel the order, and, after hearing from the person against whom the interim enforcement order was made, the applicant, and any other person the Judge thinks fit, the Environment Judge or the District Court Judge may confirm, change, or cancel the interim enforcement order.
+  - (7) An interim enforcement order stays in force until an application for an enforcement order under section 261 is determined, or until it is cancelled by an Environment Judge or a District Court Judge under subsection
+  - (6), or it is cancelled by the Environment Court under section 266.
+  - Compare: 1991 No 69 s 320
+## §266 — Change or cancellation of enforcement order
+  - (1) Without limiting section 265(6), any person directly affected by an enforcement order may at any time apply to the Environment Court in the prescribed form to change or cancel the order.
+  - (2) Sections 262 to 264 (which relate to notification, hearing, and decision-making) apply to every application under subsection
+  - (1) as if it were an application for an enforcement order.
+  - (3) No person may apply to change or cancel an order that revokes a planning consent on the grounds set out in section 259(1)(f).
+  - Compare: 1991 No 69 s 321
+  - Abatement notices
+## §267 — Relevant authority defined
+  - In sections 268 to 274, relevant authority means whichever of the following authorises an enforcement officer to issue an abatement notice:
+  - (a) the local authority:
+  - (b) the EPA.
+## §268 — Scope of abatement notice
+  - (1) An abatement notice may be served on any person by an enforcement officer—
+  - (a) requiring the person to cease, or prohibiting that person from starting, anything done or to be done by or on behalf of that person that, in the opinion of the enforcement officer,—
+  - (i) contravenes or is likely to contravene this Act, a regulation, a national rule, a rule in a plan or a proposed plan, or a planning consent; or (ii) is or is likely to be noxious, dangerous, offensive, or objectionable to such an extent that it has or is likely to have an adverse effect on the built environment:
+  - (b) requiring that person to do something that, in the opinion of the enforcement officer, is necessary—
+  - (i) to ensure compliance by or on behalf of that person with this Act, a national rule, a regulation, a rule in a plan or a proposed plan, or a planning consent; or (ii) to avoid, remedy, or mitigate any actual or likely adverse effect on the built environment— (A) caused by or on behalf of the person; or (B) relating to any land of which the person is the owner or occupier:
+  - (c) requiring a person who is contravening section 31 to adopt the best practicable option to ensure that the emission of noise from their activity does not exceed a reasonable level:
+  - (d) requiring the person to take or refrain from taking any specified action so as to comply with any consent notice or covenant issued or entered into under a condition of a planning consent.
+  - (2) If any person is under a duty not to use land in a manner that contravenes a rule in a proposed plan under section 21, an abatement notice may be issued to require a person—
+  - (a) to cease, or prohibit that person from starting, anything done or to be done by or on behalf of that person that, in the opinion of the enforcement officer, contravenes or is likely to contravene a rule in a proposed plan; or
+  - (b) to do something that, in the opinion of the enforcement officer, is necessary in order to ensure compliance by or on behalf of that person with a rule in a proposed plan.
+  - (3) An abatement notice may be made subject to such conditions as the enforcement officer serving it thinks fit.
+  - (4) An abatement notice must not be served unless the enforcement officer has reasonable grounds for believing that any of the circumstances in subsection
+  - (1) or
+  - (2) exist.
+  - Compare: 1991 No 69 s 322; 2023 No 46 s 649
+## §269 — Compliance with abatement notice
+  - (1) A person on whom an abatement notice is served must—
+  - (a) comply with the notice within the period specified in the notice; and
+  - (b) unless the notice directs otherwise, pay all the costs and expenses of complying with the notice.
+  - (2) If a person against whom an abatement notice is made under section 268(1)(c) (which relates to the emission of noise) fails to comply with the notice, an enforcement officer may, without further notice, enter the place where the noise source is situated (with a constable if the place is a dwelling house) and—
+  - (a) take any reasonable steps they consider necessary to cause the noise to be reduced to a reasonable level; and
+  - (b) when accompanied by a constable, seize and impound the noise source.
+  - (3) This section is subject to the rights of appeal in section 271.
+  - Compare: 1991 No 69 s 323; 2023 No 46 s 650
+## §270 — Form and content of abatement notice
+  - An abatement notice must be in the prescribed form and must state—
+  - (a) the name of the person to whom it is addressed; and
+  - (b) the reasons for the notice; and
+  - (c) the action required to be taken or ceased or not undertaken; and
+  - (d) the period within which the action must be taken or cease, which must be a reasonable period informed by the circumstances giving rise to the abatement notice; and
+  - (e) the consequences of not complying with the notice or lodging a notice of appeal; and
+  - (f) the rights of appeal under section 271; and
+  - (g) in the case of a notice under section 268(1)(c), the rights of an enforcement officer under section 269(2) on the failure of the recipient to comply with the notice within the time specified in the notice; and
+  - (h) the name and address of the relevant authority.
+  - Compare: 1991 No 69 s 324; 2023 No 46 s 651
+## §271 — Appeals
+  - (1) Any person on whom an abatement notice is served may appeal to the Environment Court against the whole or any part of the notice.
+  - (2) Notice of an appeal must be in the prescribed form and must—
+  - (a) state the reasons for the appeal and the relief sought; and
+  - (b) state any matters required by regulations made under section 323; and
+  - (c) be lodged with the Environment Court and served on the relevant authority whose abatement notice is appealed against within 15 working days after service of the abatement notice on the appellant.
+  - (3) Any powers that may be exercised by an Environment Judge under this section or section 272 may be exercised by an Environment Commissioner.
+  - (4) The Environment Court must not confirm an abatement notice that is the subject of an appeal if—
+  - (a) the person served with the abatement notice was acting in accordance with—
+  - (i) a rule in a plan; or (ii) a planning consent; or (iii) a designation; and
+  - (b) the adverse effects in respect of which the notice was served were expressly recognised by the person who approved the plan, notified the proposed plan, granted the planning consent, or approved the designation at the time of the approval, notification, or granting, as the case may be.
+  - (5) However, the Environment Court may confirm an abatement notice under appeal in any case if the court considers it appropriate after having regard to the time that has elapsed and any change in circumstances since the approval, notification, or granting, as the case may be.
+  - Compare: 1991 No 69 s 325; 2023 No 46 s 652
+## §272 — Environment Court may order stay of abatement notice
+  - (1) An appeal against an abatement notice does not operate as a stay of the notice unless—
+  - (a) the abatement notice is within the scope of section 268(1)(a)(ii) and the person against whom the notice is served is complying with this Act, regulations, a national rule, a rule in a plan, or a planning consent; or
+  - (b) a stay is granted by an Environment Judge under subsection
+  - (6).
+  - (2) Any person who appeals under section 271 may also apply to an Environment Judge for a stay of the abatement notice pending the Environment Court’s decision on the appeal.
+  - (3) An application for a stay must be in the prescribed form and must—
+  - (a) state the reasons why the person considers it is unreasonable for the person to comply with the abatement notice; and
+  - (b) state the likely effect on the environment if the stay is granted; and
+  - (c) be lodged with the Environment Court and served immediately on the relevant authority whose abatement notice is appealed against.
+  - (4) If a person applies for a stay, an Environment Judge must consider the application for a stay as soon as practicable after the application has been lodged.
+  - (5) Before granting a stay, an Environment Judge must consider—
+  - (a) what the likely effect of granting a stay would be on the built environment; and
+  - (b) whether it is unreasonable for the person to comply with the abatement notice pending the decision on the appeal; and
+  - (c) whether to hear—
+  - (i) the applicant: (ii) the relevant authority whose abatement notice is appealed against; and
+  - (d) such other matters as the Judge thinks fit.
+  - (6) An Environment Judge may grant or refuse a stay and may impose any terms and conditions the Judge thinks fit.
+  - (7) Any person to whom a stay is granted must serve a copy of it on the relevant authority whose abatement notice is appealed against, and the stay has no legal effect until served.
+  - (8) Any stay remains in force until an order is made otherwise by the Environment Court.
+  - Compare: 2023 No 46 s 653
+## §273 — Cancellation of abatement notice
+  - (1) If a relevant authority considers that an abatement notice is no longer required, the relevant authority may cancel the abatement notice at any time.
+  - (2) The relevant authority must give written notice of its decision under subsection
+  - (1) to cancel an abatement notice to any person subject to that abatement notice.
+  - (3) Any person who is directly affected by an abatement notice may apply in writing to the relevant authority to change or cancel the abatement notice.
+  - (4) The relevant authority must, as soon as practicable, consider the application having regard to the purpose for which the abatement notice was given, the effect of a change or cancellation on that purpose, and any other matter the relevant authority thinks fit, and the relevant authority may confirm, change, or cancel the abatement notice.
+  - (5) The relevant authority must give written notice of its decision to the person who applied under subsection
+  - (3).
+  - (6) If the relevant authority, after considering an application made under subsection
+  - (3) by a person who is directly affected by an abatement notice, confirms that abatement notice or changes it in a way other than that sought by that person, that person may appeal to the Environment Court in accordance with section 271(2) against the whole or any part of the abatement notice.
+  - Compare: 1991 No 69 s 325A; 2023 No 46 s 654
+  - Restrictions relating to enforcement orders and abatement notices
+## §274 — Restrictions on certain applications for enforcement orders and abatement
+  - notices
+  - (1) No person may apply to the Environment Court for an enforcement order under any of section 259(1)(a) to
+  - (c), and no abatement notice may be served on any person, in respect of anything done or to be done—
+  - (a) by or on behalf of the Director of Maritime New Zealand under section 248 or 249 of the Maritime Transport Act 1994; or
+  - (b) by or on behalf of any person in accordance with any instructions issued under either of those sections of that Act; or
+  - (c) by or on behalf of any on-scene commander under section 305 or 311 of that Act or in accordance with a direction given under section 310 of that Act; or
+  - (d) by or on behalf of the master or owner of any ship, or the owner or operator of any oil transfer site or offshore installation, or any other person, in accordance with a direction given under section 305 or 311 of that Act.
+  - (2) No person may apply for an enforcement order under section 259(1)(c) in respect of any actual or reasonable costs and expenses if the costs and expenses that a person has incurred or is likely to incur constitute pollution damage in respect of which the owner of a CLC ship is liable in damages under Part 25 of the Maritime Transport Act 1994. No order relating to such damage may be made by the Environment Court or any other court in any proceedings (including prosecutions for offences) under this Act.
+  - (3) In subsection
+  - (2), CLC ship and pollution damage have the meanings given in section 342 of the Maritime Transport Act 1994.
+  - Compare: 1991 No 69 s 325B; 2023 No 46 s 659
+  - Enforcement officers
+## §275 — Authorisation and responsibilities of enforcement officers
+  - (1) A local authority may authorise the following to carry out all or any of the functions and powers of an enforcement officer under this Act:
+  - (a) any of its officers; or
+  - (b) any of the officers of any other local authority.
+  - (2) A local authority may authorise any person who is either or both of the following to exercise or carry out all or any of the functions and powers of an enforcement officer under sections 286 and 287 (which relate to excessive noise):
+  - (a) the holder of a licence as a property guard issued under section 34 of the Private Security Personnel and Private Investigators Act 2010:
+  - (b) employed by a person authorised under paragraph
+  - (a) and who is—
+  - (i) the holder of a certificate of approval issued under section 40 of that Act; or (ii) a person in respect of whom permission granted under section 37 of that Act is in force.
+  - (3) A person may be authorised as an enforcement officer under this section if the person has appropriate experience, technical competence, and qualifications relevant to the areas of responsibility proposed to be allocated to the person.
+  - (4) The local authority must supply an enforcement officer authorised under this section with a warrant, and that warrant must clearly state the functions and powers that the person concerned has been authorised to exercise and carry out under this Act.
+  - (5) An enforcement officer authorised under this section who exercises or purports to exercise any power conferred on them by this Act must have with them, and must produce if required to do so, their warrant and evidence of identity.
+  - (6) An enforcement officer who holds a warrant issued under this section must, on the termination of their appointment as such, surrender the warrant to the local authority.
+  - Compare: 1991 No 69 s 38; 2023 No 46 s 725
+  - Enforcement functions of EPA
+## §276 — Terms used in this section and sections 277 to 283
+  - (1) In this section and sections 277 to 283,— enforcement action means—
+  - (a) subject to section 277(a), an inspection, investigation, or other activity carried out in accordance with this Act for the purpose of determining whether there is or has been—
+  - (i) a contravention of an obligation under, or a provision of, this Act, any regulations, a rule in a plan, a rule in a proposed plan that has legal effect, a national rule, or a planning consent; or (ii) a failure to comply with a requirement of an enforcement order or abatement notice; or
+  - (b) an application for an enforcement order under section 261; or
+  - (c) an application for an interim enforcement order under section 265; or
+  - (d) the service of an abatement notice under section 268; or
+  - (e) the filing of a charging document relating to an offence described in section 293; or
+  - (f) the issuing of an infringement notice under section 304; or
+  - (g) a monetary benefit order made under clause 30 of Schedule 8; or
+  - (h) an enforceable undertaking accepted under clause 22 of Schedule 8; or
+  - (i) an application for a pecuniary penalty order under clause 31 of Schedule 8; or
+  - (j) an inspection, investigation, or other activity carried out in accordance with this Act for the purpose of an enforcement action described in paragraphs
+  - (b) to
+  - (f) enforcement function means a function of the EPA described in section 277 incident means an occurrence that may, directly or indirectly, be linked to—
+  - (a) a contravention or possible contravention of a provision of this Act, any regulations, a rule in a plan, a national rule, or a planning consent; or
+  - (b) a failure or possible failure to comply with a requirement of an enforcement order or an abatement notice subsequent action—
+  - (a) means a prosecution, proceeding, application, or other activity that the EPA or a local authority may carry out under this Act in relation to an enforcement action that has been executed; and
+  - (b) includes an inspection, investigation, or other activity carried out in accordance with this Act for the purpose of an activity described in paragraph
+  - (a).
+  - (2) In paragraph
+  - (a) of the definition of enforcement action in subsection
+  - (1), other activity includes, without limitation, an application for a declaration under section 256.
+  - (3) In this section and sections 277 to 283, an enforcement action is executed when, as the case may be, the application for the enforcement order, monetary benefit order, or interim enforcement order is made, the abatement notice is served, the charge is laid, the pecuniary order is applied for, the enforceable undertaking is accepted, or the infringement notice is issued.
+  - Compare: 1991 No 69 s 343E; 2023 No 46 s 732
+## §277 — Enforcement functions of EPA
+  - The EPA may perform any of the following enforcement functions:
+  - (a) the EPA may take any enforcement action under this Act, subject to confirming that the local authority is not taking an enforcement action of the
+  - type set out in paragraphs
+  - (b) to
+  - (i) of the definition of enforcement action in section 276(1) for the same incident:
+  - (b) the EPA may, with the agreement of a local authority, assist the local authority with an enforcement action in relation to an incident and any subsequent action:
+  - (c) the EPA may intervene in an enforcement action of a local authority in relation to an incident by taking over the enforcement action and taking any subsequent action:
+  - (d) the EPA may take enforcement action against a regional council.
+  - Compare: 1991 No 69 s 343F; 2023 No 46 s 733
+## §278 — Intervention by EPA
+  - (1) If the EPA intervenes in an enforcement action of a local authority in relation to an incident,—
+  - (a) the EPA must notify the chief executive of the local authority in writing of the incident to which the intervention relates and the date on which the intervention takes effect; and
+  - (b) the local authority must,—
+  - (i) on receipt of the notice, cease any enforcement action in relation to the incident, except for an enforcement action described in paragraph
+  - (a) or
+  - (g) of the definition of enforcement action in section 276(1); and (ii) from the date specified in the notice, cease all enforcement action in relation to the incident; and
+  - (c) the EPA takes over all enforcement action in relation to the incident from the date specified in the notice; and
+  - (d) only the EPA may take any enforcement action or subsequent action in relation to the incident unless subsection
+  - (3) applies.
+  - (2) When intervening in an enforcement action of a local authority, the EPA must not intervene in relation to an enforcement action that the local authority has already executed in respect of a person.
+  - (3) If the EPA decides to cease its intervention,—
+  - (a) it must notify the chief executive of the local authority in writing of its decision and the date on which it takes effect; and
+  - (b) it must specify in the notice the date on which the intervention will cease; and
+  - (c) the local authority may, from the date referred to in paragraph
+  - (b),—
+  - (i) take an enforcement action or subsequent action in relation to the incident; or
+  - (ii) resume any enforcement action that it had commenced before the intervention.
+  - (4) To avoid doubt, subsection
+  - (2) does not prevent the EPA from taking an enforcement action in relation to another incident in respect of the same person.
+  - Compare: 1991 No 69 s 343G; 2023 No 46 s 734
+## §279 — EPA may change enforcement functions
+  - (1) The EPA may change its enforcement function in relation to an incident to another function described in section 277 if the EPA considers that the circumstances require it.
+  - (2) If the EPA decides to change to an intervention function described in section 277(c), it must include its reasons for the change in the notice required under section 278(1)(a).
+  - Compare: 1991 No 69 s 343H; 2023 No 46 s 735
+## §280 — EPA enforcement officers
+  - (1) The EPA may authorise a person described in subsection
+  - (2) to be an enforcement officer for the purpose of carrying out its enforcement functions under this Act.
+  - (2) A person may be authorised as an enforcement officer if the person—
+  - (a) has appropriate experience, technical competence, and qualifications relevant to the areas of responsibility proposed to be allocated to the person; or
+  - (b) is an employee of the EPA who is suitably qualified and trained.
+  - (3) The EPA must supply each enforcement officer with a warrant that—
+  - (a) states the full name of the person; and
+  - (b) includes a summary of the powers conferred on the person under this Act.
+  - (4) An enforcement officer may exercise the powers under this Act, in accordance with their warrant, only for the purposes for which they were appointed.
+  - (5) An enforcement officer exercising a power under this Act must have with them, and must produce if required to do so, their warrant and evidence of their identity.
+  - (6) An enforcement officer who holds a warrant issued under this section must, on the termination of the officer’s appointment, surrender the warrant to the EPA.
+  - Compare: 1991 No 69 s 343I; 2023 No 46 s 736
+## §281 — EPA may require information from local authority
+  - (1) The EPA may require a local authority to provide information that the EPA requires for taking an enforcement action in relation to an incident.
+  - (2) The EPA must notify the chief executive of the local authority in writing and specify the incident for which information is required.
+  - (3) A local authority must provide the required information to the EPA as soon as is reasonably practicable, but no later than 10 working days after the chief executive is notified.
+  - Compare: 1991 No 69 s 343J; 2023 No 46 s 737
+## §282 — Additional reporting requirements
+  - (1) The annual report of the EPA under section 150 of the Crown Entities Act 2004 must include information about the performance of the EPA’s enforcement functions, including the number and type of enforcement actions executed by the EPA.
+  - (2) The EPA is not required to provide information under subsection
+  - (1) that would prejudice the maintenance of law, including the prevention, investigation, or detection of offences, or the right to a fair trial.
+  - Compare: 1991 No 69 s 343K; 2023 No 46 s 738
+## §283 — Order for payment of EPA’s costs in bringing prosecution
+  - (1) On the application of the EPA, the court may order a person convicted of an offence under this Act to pay to the EPA a sum that the court thinks just and reasonable towards the costs of the prosecution (including the costs of investigating the offence and any associated costs).
+  - (2) If the court makes an order under subsection
+  - (1), it must not make an order under section 4 of the Costs in Criminal Cases Act 1967.
+  - (3) If the court makes an order under subsection
+  - (1) in respect of a Crown organisation, any costs and fees awarded must be paid from the funds of that organisation.
+  - Compare: 1991 No 69 s 343L; 2023 No 46 s 739
+  - Duty to give certain information
+## §284 — Duty to give certain information
+  - (1) This section applies if an enforcement officer has reasonable grounds to believe that a person (person A) is breaching, or has breached, an obligation under a provision of this Act, a regulation, a national standard, a rule in a plan, a planning consent, or a national rule.
+  - (2) The enforcement officer may direct person A to give—
+  - (a) their full name, address, date of birth, and evidence of their identity (if that person is a natural person); or
+  - (b) their full name and address (if that person is not a natural person).
+  - (3) If person A is breaching, or has breached, the obligation or provision on behalf of another person (person B), the enforcement officer may also direct person A to give the officer the following information about person B:
+  - (a) their full name, address, and date of birth (if that person is a natural person); or
+  - (b) their full name and address (if that person is not a natural person).
+  - (4) In the situation described in subsection
+  - (3), the enforcement officer may also direct person B to give the officer the following information about person A:
+  - (a) their full name, address, and date of birth (if that person is a natural person); or
+  - (b) their full name and address (if that person is not a natural person).
+  - Compare: 2023 No 46 s 726
+  - Excessive noise directions
+## §285 — Meaning of excessive noise
+  - (1) In this Act, excessive noise means any noise that is under human control and of such a nature as to unreasonably interfere with the peace, comfort, and convenience of any person (other than a person in or at the place from which the noise is being emitted), but does not include any noise emitted by any—
+  - (a) aircraft being operated during, or immediately before or after, flight; or
+  - (b) vehicle being driven on a road (within the meaning of section 2(1) of the Land Transport Act 1998); or
+  - (c) train, other than when being tested (when stationary), maintained, loaded, or unloaded.
+  - (2) Without limiting subsection
+  - (1), excessive noise—
+  - (a) includes noise that exceeds a standard for noise prescribed by a national rule; and
+  - (b) may include noise emitted by—
+  - (i) a musical instrument; or (ii) an electrical appliance; or (iii) a machine, however powered; or (iv) a person or group of persons; or
+  - (v) an explosion or vibration.
+  - Compare: 1991 No 69 s 326; 2023 No 46 s 655
+## §286 — Issue and effect of excessive noise direction
+  - (1) This section applies if an enforcement officer, or any constable acting on the request of an enforcement officer,—
+  - (a) has received a complaint that excessive noise is being emitted from any place; and
+  - (b) upon investigation of the complaint, is of the opinion that the noise is excessive.
+  - (2) An enforcement officer, or any constable acting on the request of an enforcement officer, may direct the occupier of the place from which the sound is being emitted, or any other person who appears to be responsible for causing the excessive noise, to immediately reduce the noise to a reasonable level.
+  - (3) A direction under subsection
+  - (2) may be given in writing or orally.
+  - (4) Every direction under subsection
+  - (2) must prohibit the person to whom it is given, and every other person bound by the direction, from causing or contributing to the emission of excessive noise from or within the vicinity of the place at any time during the period of 8 days or any shorter period that the enforcement officer or constable specifies, commencing at the time the direction is given.
+  - (5) The powers under this section are in addition to the powers under sections 268 to 271 to issue abatement notices relating to unreasonable noise and to seek an enforcement order under section 261.
+  - Compare: 1991 No 69 s 327; 2023 No 46 s 656
+## §287 — Compliance with excessive noise direction
+  - (1) A person who is given a direction under section 286 must immediately comply with the direction.
+  - (2) A person who knows or ought to know that a direction under section 286 has been given in respect of a particular place must comply with that direction as if they were the recipient of it, while on or in the vicinity of that place.
+  - (3) If a person against whom an excessive noise direction is made fails to comply immediately with the notice, an enforcement officer (accompanied by a constable) or a constable may enter the place without further notice and—
+  - (a) seize and remove from the place any instrument, appliance, vehicle, aircraft, train, or machine (the item) that is producing or contributing to the excessive noise; or
+  - (b) render the item inoperable by the removal of any part from it; or
+  - (c) lock or seal the item so as to make it unusable.
+  - (4) If a direction under section 286 is unable to be given because there is no person occupying the place from which the sound is being emitted or the occupier of the place cannot reasonably be identified, and there is no other person who appears to be responsible for causing the excessive noise, an enforcement officer (accompanied by a constable) or a constable may enter the place without notice and—
+  - (a) seize and remove the item from the place; or
+  - (b) render the item inoperable by the removal of any part from it; or
+  - (c) lock or seal the item so as to make it unusable.
+  - (5) If an enforcement officer or constable enters any place under subsection
+  - (4), they must leave in that place, in a prominent position,—
+  - (a) a copy of the relevant written excessive noise direction issued under section 286; and
+  - (b) a written notice stating—
+  - (i) the date and time of the entry: (ii) the name of the person in charge of the entry: (iii) the actions taken to ensure compliance with the excessive noise direction: (iv) the address of the office at which inquiries may be made in relation to the entry.
+  - (6) An enforcement officer or constable exercising any power under this section may use such assistance as is reasonably necessary.
+  - (7) A constable may, in exercising any power under this section, use such force as is reasonable in the circumstances.
+  - Compare: 1991 No 69 s 328; 2023 No 46 s 657
+## §288 — Return of property seized under section 269 or 287
+  - (1) If any property is seized and impounded under section 269 or 287, the owner of the property or the person from whom it was seized may apply, at any time, to the relevant authority or police station where the property is held to have the property returned to them.
+  - (2) If an application is made, the relevant authority or constable must arrange for the return of the property if—
+  - (a) satisfied that the return of the property is not likely to lead to a resumption of the emission of noise beyond a reasonable level; and
+  - (b) the applicant has paid all costs incurred by the relevant authority or police in seizing, impounding, transporting, and storing the property.
+  - (3) If the relevant authority or constable refuses to return the property because they are not satisfied of the grounds specified in subsection
+  - (2)(a), the applicant may make an application to the Environment Court, and section 271(2) applies as if—
+  - (a) the reference to service of the abatement notice on the appellant were reference to any refusal under this section; and
+  - (b) the time limit for lodging the application were 6 months from the date of seizure.
+  - (4) The Environment Court, on an application under subsection
+  - (3), may—
+  - (a) order the return of the property subject to any conditions relating to the continued reduction of noise as it thinks fit; or
+  - (b) refuse the application for the return of the property.
+  - (5) The relevant authority or the police may dispose of the property, in accordance with subsection
+  - (6), if—
+  - (a) any property seized under section 269 or 287 is not claimed within 6 months after its seizure; or
+  - (b) the return of the property has been refused under subsection
+  - (3) and no application has been lodged within 6 months after the date of seizure; or
+  - (c) the Environment Court has refused the return of the property under subsection
+  - (4)(b).
+  - (6) A relevant authority or constable wishing to dispose of property under subsection
+  - (5)—
+  - (a) must give written notice to the person from whom the property was seized, if the person’s address is known; and
+  - (b) may sell or cause the property to be otherwise disposed of; and
+  - (c) may, where any proceeds are realised, apply these to the payment of costs and expenses incurred in selling the property under this section and any costs incurred in seizing, impounding, transporting, and storing the property; and
+  - (d) must, on demand, pay the remainder of the proceeds to the person from whom the property was seized.
+  - (7) In this section, relevant authority means the local authority or the EPA. Powers of entry and search
+## §289 — Power of entry for inspection
+  - (1) An enforcement officer authorised under section 275 or 280 may at all reasonable times go on, into, under, or over any place or structure (except a dwelling house or marae) for the purpose of inspection to determine whether—
+  - (a) this Act, any regulations, a national rule, a rule in a plan, or a planning consent is being complied with; or
+  - (b) an enforcement order, interim enforcement order, abatement notice, or enforceable undertaking is being complied with; or
+  - (c) a person is contravening a rule in a proposed plan in a manner prohibited by section 21.
+  - (2) For the purposes of subsection
+  - (1), an enforcement officer may—
+  - (a) collect records of their inspection (including measurements, notes, sketches, drawings, photographs, and video recordings); and
+  - (b) take samples of water, air, soil, or organic matter.
+  - (3) If a sample is taken under subsection
+  - (2)(b), an enforcement officer may also take a sample of any substance that the enforcement officer has reasonable cause to suspect is a contaminant of any water, air, soil, or organic matter.
+  - (4) An enforcement officer who exercises a power of entry under this section must produce for inspection their warrant of appointment upon initial entry and in response to any later reasonable request.
+  - (5) If the owner or occupier of a place subject to inspection is not present at the time of the inspection, the enforcement officer must leave, in a prominent position at the place or attached to the structure, a written notice showing the date and time of the inspection and the name of the officer carrying out the inspection.
+  - (6) An enforcement officer may not enter land without the permission of the landowner if permission to enter the land is required by any other Act.
+  - (7) An enforcement officer exercising a power under this section may use any assistance that is reasonably necessary.
+  - Compare: 1991 No 69 s 332; 2023 No 46 s 727
+## §290 — Power of entry for survey
+  - (1) An enforcement officer authorised under section 275 or 280 may enter any place or structure (except a dwelling house or marae) to do all or any of the following:
+  - (a) carry out surveys, investigations, tests, or measurements:
+  - (b) collect records of their surveys, investigations, tests, or measurements (including the records referred to in section 289(2)(a)):
+  - (c) take samples of any water, air, soil, or vegetation.
+  - (2) The powers conferred by subsection
+  - (1) are exercisable at any reasonable time, with or without such assistance (including expert or technical assistance on the matter concerned), vehicles, appliances, machinery, and equipment as is reasonably necessary for that purpose.
+  - (3) Reasonable written notice must be given to the occupier of the place or structure to be entered under subsection
+  - (1)—
+  - (a) that entry on to the place or structure is authorised under this section:
+  - (b) of the purpose for which entry is required:
+  - (c) of how and when entry is to be made.
+  - (4) An enforcement officer who exercises a power of entry under this section must produce for inspection their warrant of appointment upon initial entry and in response to any later reasonable request.
+  - Compare: 1991 No 69 s 333; 2023 No 46 s 728
+## §291 — Warrant for entry for search
+  - (1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), on an application made by a constable or an enforcement officer in the manner provided in subpart 3 of Part 4 of that Act, may issue a warrant authorising the entry and search of any place or vehicle if satisfied that there are reasonable grounds for believing that there is in, on, under, or over any place or vehicle anything—
+  - (a) in respect of which an offence has been or is suspected of having been committed against this Act or regulations made under this Act that is punishable by imprisonment; or
+  - (b) that will be evidence of an offence against this Act or regulations that is punishable by imprisonment; or
+  - (c) that is intended to be used for the purpose of committing an offence against this Act or regulations that is punishable by imprisonment.
+  - (2) Part 4 of the Search and Surveillance Act 2012 applies for the purposes of this section.
+  - (3) Despite subsection
+  - (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
+  - Compare: 1991 No 69 s 334; 2023 No 46 ss 729, 730
+## §292 — Direction and execution of warrant for entry for search
+  - (1) If a warrant authorises the entry and search of a dwelling house or marae, it must be directed to and executed by a constable.
+  - (2) Except as provided in subsection
+  - (1), every search warrant issued under section 291 must be directed to a constable or an enforcement officer.
+  - (3) An enforcement officer must be accompanied by a constable during the initial entry of the place or vehicle to be searched.
+  - (4) Subject to the agreement of the enforcement officer, the constable may leave the place or vehicle at any time after the initial execution of the search warrant.
+  - Compare: 1991 No 69 s 335; 2023 No 46 s 731
+  - Offences
+## §293 — Offences against this Act
+  - (1) A person commits an offence against this Act if the person contravenes, or permits a contravention of, any of the following:
+  - (a) sections 21, 22, and 23 (which impose duties and restrictions in relation to land, activities in the coastal marine area, and subdivision):
+  - (b) any enforcement order:
+  - (c) any abatement notice, other than a notice under section 268(1)(c):
+  - (d) any monetary benefit order made under clause 30 of Schedule 8:
+  - (e) clause 26 of Schedule 8 (which imposes a duty to comply with an enforceable undertaking):
+  - (f) any adverse publicity order made by a court under clause 21 of Schedule 8:
+  - (g) any requirement or duty in regulations made under section 320 (emergency response regulations) that the person must comply with.
+  - (2) A person commits an offence against this Act if the person contravenes, or permits a contravention of, any of the following:
+  - (a) section 284, which relates to failure to provide certain information to an enforcement officer:
+  - (b) clause 17 of Schedule 9 or clause 29 of Schedule 10, which relate to the protection of sensitive information:
+  - (c) any direction under section 286:
+  - (d) any abatement notice for unreasonable noise under section 268(1)(c):
+  - (e) any order (other than an order referred to in subsection
+  - (1)) made by the Environment Court.
+  - (3) A person commits an offence against this Act if the person—
+  - (a) wilfully obstructs, hinders, resists, or deceives any person in the execution of any powers conferred on that person by or under this Act:
+  - (b) without sufficient cause, contravenes, or permits a contravention of, any summons or order to give evidence issued or made under clause 67 of Schedule 9:
+  - (c) without sufficient cause, contravenes, or permits a contravention of, any provision (as provided in Part 3 of Schedule 7) specified in an instrument for the creation of an esplanade strip or in an easement for an access strip, or enters a strip that is closed under clause 47 of Schedule 7.
+  - Compare: 1991 No 69 s 338; 2023 No 46 s 701
+  - Limitation periods
+## §294 — Limitation period for offences or pecuniary penalties under this Act
+  - Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of—
+  - (a) an offence against this Act ends on the date that is 12 months after the date on which the contravention giving rise to the charge first became known, or should have become known, to the person on whose behalf the charging document is filed:
+  - (b) an application for a pecuniary penalty order is 12 months after the date on which the contravention giving rise to the application first became
+  - known, or should have become known, to the person on whose behalf the application is made.
+  - Compare: 1991 No 69 s 338(4); 2023 No 46 s 700
+  - Penalties
+## §295 — Penalties
+  - (1) A person who commits an offence against section 293(1) is liable on conviction,—
+  - (a) in the case of a natural person, to imprisonment for a term not exceeding 18 months or a fine not exceeding $1,000,000:
+  - (b) in the case of a person other than a natural person, to a fine not exceeding $10,000,000.
+  - (2) A person who commits an offence against section 293(1) is also liable on conviction, if the offence is a continuing one,—
+  - (a) in the case of a natural person, to a fine not exceeding $10,000 for every day or part of a day during which the offence continues:
+  - (b) in the case of a person other than a natural person, to a fine not exceeding $50,000 for every day or part of a day during which the offence continues.
+  - (3) A person who commits an offence against section 293(2) is liable on conviction to a fine not exceeding $15,000 and, if the offence is a continuing one, to a further fine not exceeding $1,500 for every day or part of a day during which the offence continues.
+  - (4) A person who commits an offence against section 293(3) is liable on conviction to a fine not exceeding $5,000.
+  - (5) A court may sentence any person who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002, with all necessary modifications, apply accordingly.
+  - (6) If a person is convicted of an offence against section 293, the court may, instead of or in addition to imposing any other penalty under this section, make 1 or more of the following orders:
+  - (a) the orders specified in section 259:
+  - (b) an order requiring a consent authority to serve notice, under section 198, of the review of a planning consent held by the person, but only if the offence involves an act or omission that contravenes the consent.
+  - (7) A court discharging an offender without conviction under section 106 of the Sentencing Act 2002 may make an enforcement order under section 264 of this Act.
+  - (8) The continued existence of anything, or the intermittent repetition of any actions, contrary to any provision of this Act is to be treated as a continuing offence.
+  - Compare: 1991 No 69 s 339; 2023 No 46 s 706
+## §296 — Liability of principal for acts of agents
+  - (1) If an offence is committed against this Act by a person (person A) acting as the agent or employee of another person (person B), person B is liable for the offence as if person B had personally committed it.
+  - (2) Subsection
+  - (1) does not prejudice the liability of person A.
+  - (3) If proceedings are brought against person B under subsection
+  - (1), person B has a good defence if—
+  - (a) person B proves,—
+  - (i) in the case of a natural person (including a partner in a firm),— (A) that person B did not know, and could not reasonably be expected to have known, that the offence was to be or was being committed; or (B) that person B took all reasonable steps to prevent the commission of the offence; or (ii) in the case of a person other than a natural person,— (A) that neither the directors (if any) nor any person involved in the management of person B knew, or could reasonably be expected to have known, that the offence was to be or was being committed; or (B) that person B took all reasonable steps to prevent the commission of the offence; and
+  - (b) person B proves that they took all reasonable steps to remedy any effects of the act or omission giving rise to the offence.
+  - (4) If a person other than a natural person is convicted of an offence against this Act, a director of the defendant (if any), or a person involved in the management of the defendant, is guilty of the same offence if it is proved—
+  - (a) that the act or omission that constituted the offence took place with the person’s authority, permission, or consent; and
+  - (b) that the person knew, or could reasonably be expected to have known, that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
+  - Compare: 1991 No 69 s 340; 2023 No 46 s 702
+## §297 — Strict liability and defences
+  - (1) In any prosecution for an offence set out in section 293(1) it is not necessary to prove that the defendant intended to commit the offence.
+  - (2) It is a defence to prosecution of the kind referred to in subsection
+  - (1) if the defendant proves—
+  - (a) that—
+  - (i) the action or event to which the prosecution relates was necessary for the purposes of saving or protecting life or health, preventing serious damage to property, or avoiding an actual or likely adverse effect on the environment; and (ii) the conduct of the defendant was reasonable in the circumstances; and (iii) the effects of the action or event were adequately mitigated or remedied by the defendant after it occurred; or
+  - (b) that the action or event to which the prosecution relates was due to an event beyond the control of the defendant, including natural disaster, mechanical failure, or sabotage, and in each case—
+  - (i) the action or event could not reasonably have been foreseen or been provided against by the defendant; and (ii) the effects of the action or event were adequately mitigated or remedied by the defendant after it occurred.
+  - (3) Except with the leave of the court, subsection
+  - (2) does not apply unless, at any time before pleas are entered or within such further time as the court may allow, the defendant delivers to the prosecutor a written notice—
+  - (a) stating that the defendant intends to rely on subsection
+  - (2); and
+  - (b) specifying the facts that support the defendant’s reliance on subsection
+  - (2).
+  - Compare: 1991 No 69 s 341; 2023 No 46 s 703
+## §298 — Burden of proving defences
+  - Despite anything to the contrary in the Criminal Procedure Act 2011, the burden of proving that a defence in section 297 applies lies on the defendant.
+  - Compare: 2023 No 46 s 705
+## §299 — Fines to be paid to local authority or EPA instituting prosecution
+  - (1) If a person is convicted of an offence under section 293 and the court imposes a fine, the court must, if the proceedings in relation to the offence were commenced by or on behalf of a local authority or the EPA, order that the fine be paid to the local authority or the EPA.
+  - (2) There must be deducted from every amount payable to a local authority or the EPA under subsection
+  - (1) a sum equal to 10% of that amount, and that sum must be credited to a Crown Bank Account.
+  - (3) Despite anything in subsection
+  - (2), if any money awarded by a court in respect of any loss or damage is recovered as a fine, and that fine is ordered to be paid
+  - to a local authority or the EPA under subsection
+  - (1), no deduction may be made under subsection
+  - (2) in respect of that money.
+  - (4) Subject to subsection
+  - (2), an order of the court made under subsection
+  - (1) is sufficient authority for the Registrar receiving the fine to pay that fine to whichever of the local authority or the EPA that is entitled to it under the order.
+  - (5) Nothing in section 73 of the Public Finance Act 1989 applies to any fine ordered to be paid to a local authority or the EPA under subsection
+  - (1).
+  - Compare: 1991 No 69 s 342; 2023 No 46 s 707
+## §300 — Insurance against fines unlawful
+  - (1) To the extent that a contract of insurance indemnifies or purports to indemnify a person for the person’s liability to pay a fine or an infringement fee under this Act,—
+  - (a) the contract is of no effect; and
+  - (b) no court or tribunal has jurisdiction to grant relief in respect of the contract, whether under sections 75 to 82 of the Contract and Commercial Law Act 2017 or otherwise.
+  - (2) A person must not—
+  - (a) enter into, or offer to enter into, a contract described in subsection
+  - (1); or
+  - (b) through a contract of insurance,—
+  - (i) indemnify, or offer to indemnify, another person for the other person’s liability to pay a fine or an infringement fee under this Act; or (ii) be indemnified, or agree to be indemnified, by another person for that person’s liability to pay a fine or an infringement fee under this Act; or (iii) pay to another person, or receive from another person, an indemnity for a fine or an infringement fee under this Act.
+  - (3) The prohibition in this section against insurance does not apply to legal or remediation costs connected with an activity under this Act.
+  - (4) A person who contravenes subsection
+  - (2) commits an offence and is liable on conviction,—
+  - (a) for an individual, to a fine not exceeding $50,000:
+  - (b) for any other person, to a fine not exceeding $250,000.
+  - (5) In this section, contract of insurance has the meaning given in section 7(1) of the Insurance (Prudential Supervision) Act 2010.
+  - Compare: 1991 No 69 s 342A; 2023 No 46 s 708
+  - Infringement offences
+## §301 — Interpretation
+  - In sections 302 to 308,— infringement fee, in relation to an infringement offence, means the amount fixed by regulations made under section 323 as the infringement fee for the offence infringement offence means an offence specified as such in regulations made under section 323.
+## §302 — Infringement offences
+  - (1) A person who is alleged to have committed an infringement offence may—
+  - (a) be proceeded against by the filing of a charging document under section 14 of the Criminal Procedure Act 2011; or
+  - (b) be issued with an infringement notice under section 304.
+  - (2) Proceedings commenced in the way described in subsection
+  - (1)(a) do not require the leave of a District Court Judge or Registrar under section 21(1)(a) of the Summary Proceedings Act 1957.
+  - Compare: 1991 No 69 s 343B; 2023 No 46 s 709
+## §303 — Who may issue infringement notices
+  - An enforcement officer may issue infringement notices under this Act.
+  - Compare: 1991 No 69 s 343C(1); 2023 No 46 s 710
+## §304 — When infringement notice may be issued
+  - An enforcement officer may issue an infringement notice to a person if the enforcement officer believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+  - Compare: 1991 No 69 s 343C(1); 2023 No 46 s 711
+## §305 — Revocation of infringement notice before payment made
+  - (1) The enforcement officer may revoke an infringement notice before—
+  - (a) the infringement fee is paid; or
+  - (b) an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+  - (2) The enforcement officer must take reasonable steps to ensure that the person to whom the notice was issued is made aware of the revocation of the notice.
+  - (3) The revocation of an infringement notice before the infringement fee is paid is not a bar to any further action as described in section 302(1)(a) or
+  - (b) against the person to whom the notice was issued in respect of the same matter.
+  - Compare: 2023 No 46 s 712
+## §306 — What infringement notice must contain
+  - An infringement notice must be in the form prescribed by regulations and must contain the following particulars:
+  - (a) details of the alleged infringement offence that fairly inform a person of the time, place, and nature of the alleged offence:
+  - (b) the amount of the infringement fee:
+  - (c) the address of the relevant authority:
+  - (d) how the infringement fee may be paid:
+  - (e) the time within which the infringement fee must be paid:
+  - (f) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
+  - (g) a statement that the person served with the notice has a right to request a hearing:
+  - (h) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing:
+  - (i) any other matters prescribed by regulations.
+  - Compare: 1991 No 69 s 343C(3); 2023 No 46 s 713
+## §307 — How infringement notice may be served
+  - (1) An infringement notice may be served on the person who the enforcement officer believes is committing or has committed the infringement offence by—
+  - (a) delivering it to the person or, if the person refuses to accept it, bringing it to the person’s notice; or
+  - (b) leaving it for the person at the person’s last known place of residence with another person who appears to be of or over the age of 14 years; or
+  - (c) leaving it for the person at the person’s place of working or work with another person; or
+  - (d) sending it to the person by prepaid post addressed to the person’s last known place of residence or place of business or work; or
+  - (e) sending it to an electronic address of the person.
+  - (2) Unless the contrary is shown,—
+  - (a) an infringement notice (or a copy of it) sent by prepaid post to a person under subsection
+  - (1) is to be treated as having been served on that person on the fifth working day after the date on which it was posted; and
+  - (b) an infringement notice sent to a valid electronic address is to be treated as having been served at the time the electronic communication first entered an information system that is outside the control of the enforcement authority.
+  - Compare: 1991 No 69 s 343C(2); 2023 No 46 s 714
+## §308 — Payment of infringement fees
+  - (1) A local authority is entitled to retain all infringement fees received by it in respect of infringement offences where the infringement notice was issued by an enforcement officer of that authority.
+  - (2) However, any infringement fee relating to an infringement notice issued by an enforcement officer appointed by the EPA may be retained by the EPA.
+  - Compare: 1991 No 69 s 343D; 2023 No 46 s 715
+## §309 — Reminder notices and proceedings
+  - If an infringement notice has been issued under section 304,—
+  - (a) a reminder notice must be in the form prescribed by regulations and must include the same particulars, or substantially the same particulars, as the infringement notice; and
+  - (b) proceedings in respect of the offence to which the infringement notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and the provisions of that section apply with all necessary modifications.
+  - Compare: 1991 No 69 s 343C(4); 2023 No 46 s 716
+## §310 — Further provisions relating to enforcement
+  - (1) Schedule 8 sets out further provisions that relate to—
+  - (a) financial assurances:
+  - (b) adverse publicity orders:
+  - (c) enforceable undertakings:
+  - (d) monetary benefit orders:
+  - (e) pecuniary penalty orders.
+  - (2) Schedule 8 has effect according to its terms. Proceedings against the Crown
+## §311 — Proceedings against the Crown
+  - (1) An abatement notice or excessive noise direction may be served or issued against an instrument of the Crown, in accordance with this Act, only if—
+  - (a) the instrument of the Crown is a Crown organisation; and
+  - (b) the notice or direction is served or issued against the Crown organisation in its own name.
+  - (2) An enforcement order may be made against an instrument of the Crown, in accordance with this Act, only if—
+  - (a) the instrument of the Crown is a Crown organisation; and
+  - (b) a local authority or the EPA applies for the order; and
+  - (c) the order is made against the Crown organisation in its own name.
+  - (3) Subsections
+  - (1) and
+  - (2) apply despite section 17(1)(a) of the Crown Proceedings Act 1950.
+  - (4) An instrument of the Crown may be served with an infringement notice, in accordance with this Act, only if—
+  - (a) it is liable to be proceeded against for the alleged offence under subsection
+  - (5); and
+  - (b) the notice is served against the Crown organisation in its own name.
+  - (5) An instrument of the Crown may be prosecuted for an offence against this Act only if—
+  - (a) it is a Crown organisation; and
+  - (b) the offence is alleged to have been committed by the Crown organisation; and
+  - (c) the proceedings are commenced—
+  - (i) by a local authority, the EPA, or an enforcement officer; and (ii) against the Crown organisation in its own name and the proceedings do not cite the Crown as a defendant; and (iii) in accordance with the Crown Organisations (Criminal Liability) Act 2002.
+  - (6) However, subsections
+  - (4) and
+  - (5) are subject to section 8(4) of the Crown Organisations (Criminal Liability) Act 2002 (which provides that a court may not sentence a Crown organisation to pay a fine in respect of an offence against this Act).
+  - (7) If a Crown organisation is not a body corporate, it is to be treated as if it were a separate legal personality for the purposes of—
+  - (a) serving or issuing an abatement notice or excessive noise direction against it; and
+  - (b) making an enforcement order against it; and
+  - (c) serving an infringement notice on it; and
+  - (d) enforcing an abatement notice, excessive noise direction, enforcement order, or infringement notice in relation to it.
+  - (8) Except to the extent and in the manner provided for in subsections
+  - (1) to
+  - (7), the Crown may not—
+  - (a) be served or issued with an abatement notice or excessive noise direction; or
+  - (b) have an enforcement order made against it; or
+  - (c) be served with an infringement notice; or
+  - (d) be prosecuted for an offence against this Act.
+  - Local authorities to have compliance and enforcement strategy
+## §312 — Local authorities to prepare compliance and enforcement strategy
+  - A local authority must prepare and publish a compliance and enforcement strategy, in the prescribed manner and setting out the prescribed criteria, that takes into account relevant Treaty settlements, and voluntary or statutory agreements with local iwi, hapū, or Māori.
+  - Compare: 2023 No 46 s 56
+  - Providing information and guidance
+## §313 — Local authority or EPA to publish information about their functions,
+  - duties, and powers Local authorities and the EPA must publish on an internet site maintained by them or on their behalf that is accessible to the public free of charge—
+  - (a) information about their functions, duties, and powers; and
+  - (b) a register of all their enforcement activities that result in a conviction or court order, subject to any suppression order made by a court; and
+  - (c) all decisions to accept enforceable undertakings, including the content of each enforceable undertaking and a summary of the reasons for the decision to accept it.
+  - Compare: 2023 No 46 s 723
+## §314 — Functions, duties, and powers of Ministry
+  - The chief executive must ensure that the Ministry prepares and issues guidance to assist local authorities and the EPA in the exercise of their enforcement functions, duties, and powers under this Act.
+  - Compare: 2023 No 46 s 724
+
+# Subpart 2—Emergency works
+## §315 — Emergency works and power to take preventive or remedial action
+  - (1) Subsection
+  - (2) applies if, in the opinion of the relevant authority, a relevant matter is affected by or likely to be affected by—
+  - (a) an adverse effect on the environment that requires immediate preventive measures; or
+  - (b) an adverse effect on the environment that requires immediate remedial measures; or
+  - (c) a sudden event causing or likely to cause loss of life, injury, or serious damage to property.
+  - (2) Sections 21 and 22 do not apply to any activity undertaken by or on behalf of the relevant authority to remove the cause of, or mitigate any actual or likely adverse effect of, the emergency.
+  - (3) Subsections
+  - (1) and
+  - (2) apply whether or not the adverse effect or sudden event was foreseeable.
+  - (4) Nothing in this section authorises any person to do anything in relation to an emergency involving a marine oil spill or suspected marine oil spill within the meaning of section 281 of the Maritime Transport Act 1994.
+  - (5) In this section,— lifeline utility means a lifeline utility as defined in section 4 of the Civil Defence Emergency Management Act 2002 relevant authority, in relation to a relevant matter, means the person referred to in the applicable paragraph of the definition of relevant matter relevant matter means—
+  - (a) a public work for which any person has financial responsibility; or
+  - (b) an area for which a local authority or consent authority has jurisdiction under this Act; or
+  - (c) a project or core infrastructure operation for which a core infrastructure operator is approved as a designating authority under clause 10 of Schedule 5; or
+  - (d) a service or system that a lifeline utility operates or provides.
+  - Compare: 1991 No 69 s 330(1), (1A), (4), (5)
+## §316 — Power to enter places and direct action in emergency
+  - (1) Subsections
+  - (2) and
+  - (3) apply if,—
+  - (a) in the reasonable opinion of a local authority, a public work that the local authority is financially responsible for is likely to be affected by any of the conditions described in section 315(1); or
+  - (b) in the reasonable opinion of a local authority or consent authority, an area for which the local authority or consent authority has jurisdiction under this Act is likely to be affected by any of the conditions described in section 315(1).
+  - (2) The local authority or consent authority (by its employees or agents) may, without prior notice,—
+  - (a) enter any place (including a dwelling house if accompanied by a constable); and
+  - (b) take any action, or direct the occupier to take any action, that is immediately necessary and sufficient to remove the cause of, or mitigate any actual or likely adverse effect of, the emergency.
+  - (3) Sections 21 and 22 do not apply to any action taken under subsection
+  - (2).
+  - (4) As soon as is practicable after a person enters a place under this section, the person must—
+  - (a) identify themselves to any occupier of the place; and
+  - (b) inform the occupier of their entry and the reasons for it.
+  - (5) However, if the occupier of the place cannot be found, the person (and the local authority or consent authority) is not required to take further action to contact the occupier if—
+  - (a) a notice is displayed in a prominent location on the land that the place is on that gives—
+  - (i) the date, time, and reasons for the entry; and (ii) contact details for a person who can provide further information; and
+  - (b) as soon as practicable after entering the place, the local authority or consent authority serves written notice (containing the information described in paragraph
+  - (a)) to the person who is the ratepayer (within the meaning of section 10 of the Local Government (Rating) Act 2002) for the land that the place is on.
+  - (6) Nothing in this section authorises any person to do anything in relation to an emergency involving a marine oil spill or suspected marine oil spill within the meaning of section 281 of the Maritime Transport Act 1994.
+  - Compare: 1991 No 69 s 330(2)–(4)
+## §317 — Planning consents for emergency works
+  - (1) If an activity is undertaken under section 315 or 316, the relevant authority that authorised the activity must notify the appropriate consent authority, within 7 working days, that the activity has been undertaken.
+  - (2) If the activity, but for section 315 or 316, would contravene section 21 or 22 and the adverse effects of the activity continue, then the relevant authority that authorised the activity must, within 30 working days of the notification under subsection
+  - (1), apply to the appropriate consent authority for any planning consents required for the activity.
+  - (3) If the application is made within the time stated in subsection
+  - (2), the activity may continue until the application is decided and any appeals have been finally determined.
+  - (4) In this section, relevant authority has the meaning given in section 315.
+  - Compare: 1991 No 69 s 330A
+## §318 — Emergency works under Civil Defence Emergency Management Act 2002
+  - (1) Sections 21 and 22 do not apply to an activity that is—
+  - (a) undertaken by or on behalf of a person exercising emergency powers during a state of emergency declared, or a transition period notified, under the Civil Defence Emergency Management Act 2002; and
+  - (b) undertaken to remove the cause of, or mitigate any actual or adverse effect of, the emergency.
+  - (2) The person who authorised the activity must notify the appropriate consent authority, within 7 working days, that the activity has been undertaken.
+  - (3) If the activity, but for this section, would contravene section 21 or 22 and the adverse effects of the activity continue, the person who authorised the activity must, within 60 working days of the notification under subsection
+  - (2), apply to the appropriate consent authority for any planning consents required for the activity.
+  - (4) If the application is made within the time stated in subsection
+  - (3), the activity may continue until the application is decided and any appeals have been finally determined.
+  - (5) A person does not commit an offence under section 293(1)(a) by acting in accordance with this section.
+  - Compare: 1991 No 69 s 330B
+## §319 — Reimbursement or compensation for emergency works
+  - (1) If the local authority or consent authority takes action under section 316(2) because of the default of any person, the authority may require reimbursement from that person of its actual and reasonable costs (as defined in section 259(2)).
+  - (2) If the costs are not paid within 20 working days of being required under subsection
+  - (1), the authority may seek an enforcement order under section 259(1)(c).
+  - (3) The following persons are entitled to compensation from the authority for any damage that did not arise from any failure by those persons to comply with their duties under this Act:
+  - (a) every person having an estate or interest in land that is injuriously affected by the exercise of any power under section 316(2):
+  - (b) every other person suffering any damage as a result of the exercise of that power.
+  - (4) Any compensation under subsection
+  - (3) must be claimed and determined in accordance with Part 5 of the Public Works Act 1981 and the provisions of that Act, so far as they apply and with all necessary modifications, apply accordingly.
+  - Compare: 1991 No 69 s 331
+## §320 — Emergency response regulations
+  - (1) The Governor-General may, by Order in Council, make regulations for the purpose of—
+  - (a) responding to a natural hazard event or other emergency in an area; and
+  - (b) enabling recovery efforts in the affected area (including any work required to improve the resilience or standard of assets).
+  - (2) Regulations made under this section—
+  - (a) may apply only to an area where, under the Civil Defence Emergency Management Act 2002, a state of national or local emergency has been declared or notice given of a local or national transition period; and
+  - (b) may be made, or continue to apply to that area, after the declaration ceases to have effect or the transition period ends; and
+  - (c) are revoked on the date that is 3 years after the first declaration is made or notice is given, or any earlier date specified in regulations.
+  - (3) Regulations made under this section may—
+  - (a) permit, authorise, or prohibit specific activities:
+  - (b) modify or alter the plan development processes:
+  - (c) apply a temporary stay to the processing or granting of certain types or categories of applications for planning consents:
+  - (d) limit or exclude rights of appeal (other than judicial review) in relation to decisions on planning consents, plan changes, or variations:
+  - (e) extend the time frames under sections 317 and 318 for lodging retrospective applications for planning consents for emergency works:
+  - (f) extend or shorten planning consent processing time frames.
+  - (4) A use of land or the coastal marine area that is permitted or authorised by regulations made under this section must not, for that reason, be treated as—
+  - (a) a permitted activity, or a use that can be lawfully carried out without a planning consent, for the purposes of section 28(1)(c)(ii), 29(1)(a)(i) or
+  - (2)(a)(i), or 30(1)(a)(i); or
+  - (b) a use that is lawfully established for the purposes of section 26(1)(a), 29(1)(a)(ii) or
+  - (2)(a)(ii), or 30(1)(a)(ii).
+  - (5) Regulations made under this section may incorporate material by reference. Section 64 applies as if a reference in that section to national standards were a reference to regulations made under this section.
+  - (6) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  - Compare: 1991 No 69 s 331AA(1), (6)–(9)
+## §321 — Requirements for making emergency response regulations
+  - (1) Regulations must not be made under section 320 except on the recommendation of the Minister.
+  - (2) Before recommending regulations under section 320, the Minister must—
+  - (a) be satisfied that the proposed regulations are necessary or desirable for the purpose of this Act:
+  - (b) be satisfied that the proposed regulations are not broader than is reasonably necessary:
+  - (c) consider the effects on the environment that could occur as a result of the proposed regulations and whether any adverse effects can be avoided, remedied, or mitigated:
+  - (d) consult the Minister responsible for administering the Civil Defence Emergency Management Act 2002:
+  - (e) consult the Minister of Conservation if the regulations would affect the coastal marine area:
+  - (f) consult any affected local authorities and the following groups, as relevant, and invite them to provide written comments about the proposed regulations:
+  - (i) iwi authorities: (ii) post-settlement governance entities: (iii) ngā hapū o Ngāti Porou (as defined in section 10 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019): (iv) iwi or hapū who are party to a joint management agreement that applies in the region:
+  - (v) customary marine title groups: (vi) protected customary rights groups: (vii) applicant groups (as defined in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011):
+  - (g) have regard to any comments that are provided by the affected local authorities or groups referred to in paragraph
+  - (f) within—
+  - (i) 10 working days of the date on which the Minister invites comments; or
+  - (ii) any longer period specified by the Minister in writing:
+  - (h) provide a draft of the proposed regulations to the committee of the House of Representatives that is responsible for the review of secondary legislation (the committee):
+  - (i) have regard to any comments that are provided by the committee within—
+  - (i) 5 working days of the date on which the Minister provided the draft; or (ii) any longer period specified by the Minister in writing.
+  - (3) Before recommending regulations under section 320, the Minister may—
+  - (a) invite any other persons that the Minister considers appropriate (including local community groups), or the public generally, to provide written comments about the proposed regulations; and
+  - (b) have regard to any comments that are provided by them within—
+  - (i) 5 working days of the date on which the Minister invites comments; or (ii) any longer period specified by the Minister in writing.
+  - Compare: 1991 No 69 s 331AA(2)–(4)
+## §322 — Annual review of emergency response regulations
+  - The Minister must, within 12 months after any regulations made under section 320 come into force, and once in every 12 months after that while the regulations remain in force,—
+  - (a) review the operation and effectiveness of the regulations; and
+  - (b) prepare a report on the review; and
+  - (c) present the report to the House of Representatives as soon as practicable after it has been completed; and
+  - (d) make public the outcomes of the review.
+  - Compare: 1991 No 69 s 331AB
+
+# Subpart 3—Regulations
+## §323 — Regulations
+  - (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  - (a) providing for anything this Act says may or must be provided for by regulations:
+  - (b) prescribing, for the purposes of any provision of this Act that requires a thing to be done in the manner prescribed by regulations, the manner in which the thing must be done, including prescribing—
+  - (i) by whom, where, and how the thing must be done: (ii) by when the thing must be done, including by setting a deadline: (iii) the form that must be used for doing the thing: (iv) information or other evidence that must be provided in connection with the thing, including requirements that the information or evidence must comply with:
+  - (v) requirements for serving notice in connection with the thing:
+  - (c) prescribing the manner or content of applications, notices, certificates, or any other documentation or information required under this Act, including the service of notices:
+  - (d) prescribing the form to be used—
+  - (i) for any application, notice, certificate, or other document or information required under this Act: (ii) for the purposes of any provision in this Act that requires a thing to be in the form prescribed by regulations:
+  - (e) authorising the chief executive of the Ministry to prescribe any form under paragraph
+  - (b)(iii) or
+  - (d):
+  - (f) requiring the payment of fees in connection with—
+  - (i) an application, notice, or request provided for under this Act: (ii) the performance or exercise of any function, power, or duty under this Act:
+  - (g) prescribing any of the following in relation to fees required under paragraph
+  - (f):
+  - (i) the fee payable or the method for ascertaining the fee: (ii) the persons liable to pay the fee: (iii) the persons to whom the fee must be paid: (iv) when the fee must be paid:
+  - (v) the circumstances in which the fees or charges may be refunded, remitted, or waived (wholly or partly):
+  - (h) specifying the offences under this Act that constitute infringement offences and prescribing infringement fees for those offences—
+  - (i) not exceeding $2,000, in the case of a natural person: (ii) not exceeding $4,000, in the case of a person other than a natural person:
+  - (i) specifying requirements for the manner in which a person must comply with section 10(2), including where, how, and when the person must comply with that section:
+  - (j) prescribing standards, methods, and other requirements for the use of data or digital technology in any document, process, or other matter under this Act:
+  - (k) deeming to be included in any land use plan or proposed land use plan rules that may apply generally or specifically and that may specify activities as restricted discretionary activities, discretionary activities, or prohibited activities:
+  - (l) prescribing procedural, administrative, notification, and technical requirements relating to the functions, powers, and duties of the statutory officer appointed under section 221:
+  - (m) providing for discounts on administrative fees imposed under section 329 when local authorities do not meet time limits set under this Act:
+  - (n) requiring local authorities to provide information gathered under sections 219 and 220 to the Minister, and prescribing the content of the information to be provided and the manner in which, and time limits by which, it must be provided:
+  - (o) providing for anything incidental that is necessary for carrying out, or giving full effect to, this Act.
+  - (2) Regulations made under subsection
+  - (1)—
+  - (a) may apply generally; or
+  - (b) may apply or be applied from time to time by the Minister by notice—
+  - (i) within any specified district or region of any local authority or within any specified part of New Zealand: (ii) to any specified class or classes of persons.
+  - (3) Regulations may be made under subsection
+  - (1)(i) only on the Minister’s recommendation after—
+  - (a) consulting any relevant post-settlement governance entity, or ngā hapū o Ngāti Porou, on the proposed regulations; and
+  - (b) being satisfied that the manner of compliance specified in the regulations will, to the greatest extent possible under this Act, have an effect that is the same as, or equivalent to, the effect that the relevant redress or arrangement had under the Resource Management Act 1991.
+  - (4) Regulations may be made under subsection
+  - (1)(k) only on the Minister’s recommendation after being satisfied that the regulations are necessary or desirable for either or both of the following:
+  - (a) to implement New Zealand’s obligations under any international convention, protocol, or agreement to which New Zealand is a party:
+  - (b) to enable New Zealand to become a party to any international convention, protocol, or agreement.
+  - (5) Regulations made under subsection
+  - (1) may incorporate material by reference. Section 64 applies as if a reference to national standards in that section were a reference to regulations made under subsection
+  - (1).
+  - (6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  - (a) regulations made under subsection
+  - (1):
+  - (b) a notice made under subsection
+  - (2)(b).
+  - Compare: 1991 No 69 s 360
+## §324 — Regulations relating to consent-processing time frames and procedures
+  - (1) The Governor-General may, by Order in Council, make regulations that provide for time frames and other procedural matters relating to the processing of—
+  - (a) applications for planning consents:
+  - (b) applications for certificates of compliance:
+  - (c) applications for existing use certificates:
+  - (d) proposed designations:
+  - (e) construction management plans and waivers for construction management plans.
+  - (2) Regulations under subsection
+  - (1) may—
+  - (a) prescribe maximum processing time frames for applications that are shorter than the maximum processing time frames specified in section 141:
+  - (b) prescribe time frames for any step involved in the processing of an application (including in relation to submissions, hearings, and decision-making), if a time frame for that step has not been specified in the Act:
+  - (c) prescribe matters and time periods that must be excluded from the calculation of the maximum processing time frame under section 141 or paragraph
+  - (a):
+  - (d) prescribe requirements that apply to a request for an extension to a specified time period:
+  - (e) provide for any other procedural matter that relates to the processing of an application, proposed designation, construction management plan, or waiver.
+  - (3) Regulations under subsection
+  - (1) may apply—
+  - (a) generally throughout New Zealand or specifically to 1 or more districts or regions:
+  - (b) to all types of planning consents or to a particular class of planning consents.
+  - (4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+## §325 — Regulations relating to hearings processes and hearings authorities
+  - (1) The Governor-General may, by Order in Council, make regulations prescribing—
+  - (a) requirements relating to the control of any hearing or class of hearings held under this Act by a hearings authority:
+  - (b) eligibility requirements for persons to be appointed as hearings commissioners under this Act, including requirements that those persons must be accredited:
+  - (c) other procedural requirements relating to hearings or hearings authorities.
+  - (2) Without limiting subsection
+  - (1), regulations under this section may prescribe—
+  - (a) requirements relating to—
+  - (i) the provision of evidence or other information within time limits: (ii) the order of business at a hearing: (iii) cross-examination (including by prohibiting cross-examination or limiting the conduct of it):
+  - (iv) the term of an independent hearings panel and of individual members:
+  - (b) requirements that evidence or submissions be—
+  - (i) recorded: (ii) taken as read: (iii) limited to matters in dispute: (iv) presented within a time limit:
+  - (c) powers and duties of the chairperson of an independent hearings panel:
+  - (d) powers to remove members of an independent hearings panel or hearings commissioners for just cause.
+  - (3) Regulations under this section may prescribe different requirements for—
+  - (a) different hearings authorities:
+  - (b) different hearings or classes of hearings.
+  - (4) In this section, hearings authority has the meaning given in section 337.
+  - (5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements). Planning consent levy
+## §326 — Regulations relating to planning consent levy
+  - (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations prescribing a levy on planning consents and permitted activities registered under section 210.
+  - (2) The Minister may recommend the making of regulations under this section to fund the following functions under this Act:
+  - (a) the development and review of national instruments:
+  - (b) system performance monitoring, including associated data collection.
+  - (3) Before recommending the making of regulations under this section, the Minister must—
+  - (a) follow the process set out in section 65, as if the recommendation for regulations were for a proposed national instrument; and
+  - (b) seek and consider economic and financial advice relating to the levy from relevant central government agencies and local authorities.
+  - (4) Regulations made under this section may—
+  - (a) set different levy rates for different consents and permitted activities; and
+  - (b) prescribe the amount of the levy or a method for calculating the amount; and
+  - (c) specify who is liable to pay the levy; and
+  - (d) provide for refunds of, exemptions from, or waivers of a levy, in whole or in part, in any class of case, including prescribing any criteria that must be met for a refund, an exemption, or a waiver to apply; and
+  - (e) in relation to levies,—
+  - (i) provide for matters relating to the non-payment of levies: (ii) set the prescribed rate of interest payable on any unpaid amount of levy: (iii) specify the department, consent authority, or other agency responsible for enforcing levies; and
+  - (f) set out reporting obligations of central government and consent authorities in relation to levies set under this section.
+  - (5) The Minister must ensure that the rates are set so that the levy does not exceed the anticipated costs of the functions specified in subsection
+  - (2).
+  - (6) The following are exempt from any levies prescribed by regulations made under this section:
+  - (a) a protected customary rights group—
+  - (i) when exercising a protected customary right for which they are not liable under section 52(2) of the Marine and Coastal Area (Takutai Moana) Act 2011; and (ii) when exercising any other protected customary right under that Act:
+  - (b) a customary marine title group—
+  - (i) when exercising a customary right for which they are not liable under section 60(2) of that Act; and (ii) when undertaking an activity in relation to their customary marine title area.
+  - (7) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  - Regulations relating to transitional, savings, and related provisions
+## §327 — Transitional and savings provisions for orderly implementation of this Act
+  - and Natural Environment Act 2026
+  - (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations for all or any of the following purposes:
+  - (a) providing that, subject to any conditions stated in regulations, transitional or savings provisions prescribed by the regulations that relate to the implementation of this Act or the Natural Environment Act 2026 (in addition to, or in substitution for, any other transitional, savings, or related provisions in Schedule 1) apply during the whole or any part of the period ending on the relevant date:
+  - (b) providing that, subject to any conditions stated in the regulations, specified provisions of this Act (including definitions and any transitional, savings, or related provisions in Schedule 1) or the Natural Environment Act 2026, or provisions of other legislation amended, revoked, or repealed by this Act, do not apply, or continue to apply or apply with modifications or additions, or both, during the whole or any part of the period ending on the relevant date.
+  - (2) If regulations made under this section extend the time frame specified in clause 9 of Schedule 1 that applies to a key instrument described in that clause, the extension must not affect the order in which a key instrument is to be issued, notified, or decided as set out in that clause.
+  - (3) However, regulations made under this section may not shorten a time frame specified in clause 9 of Schedule 1 that applies to a key instrument described in that clause.
+  - (4) The Minister must, before recommending regulations under this section, be satisfied that the regulations—
+  - (a) are necessary or desirable for the orderly implementation of this Act or the Natural Environment Act 2026; and
+  - (b) are consistent with the purposes of this Act or the Natural Environment Act 2026.
+  - (5) All regulations made under this section that are still in force on the relevant date are revoked at the close of that day.
+  - (6) Nothing in Schedule 1 limits this section.
+  - (7) In this section, relevant date means the day that is 5 years after the date this Act receives Royal assent.
+  - (8) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  - Compare: 2023 No 35 s 466
+
+# Subpart 4—Miscellaneous
+  - Collection and spending of levy
+## §328 — Collection and spending of planning consent levy
+  - (1) This section applies to any money liable to be paid from any levy imposed by regulations made under section 326.
+  - (2) Consent authorities must collect the money.
+  - (3) Consent authorities must pay the money collected to the Ministry.
+  - (4) The money collected may only be used for the purposes described in section 326(2)(a) and
+  - (b).
+  - (5) The person liable to pay the levy must pay interest on any unpaid amount of levy at the prescribed rate in accordance with the regulations.
+  - (6) The money, including any interest due under subsection
+  - (5), is a debt due to the entity owed the levy from the person liable to pay the levy and may be recovered in a court of competent jurisdiction. Administrative fees
+## §329 — Administrative fees
+  - (1) A local authority may fix fees payable for all or any of the following:
+  - (a) fees payable by a requester for a change request under clause 48 or 49 of Schedule 3 for the local authority carrying out its functions under Part 2 of Schedule 3 in relation to that change request (including the preparation of any plan change):
+  - (b) fees payable by an applicant for a planning consent (including an applicant for a certificate of compliance, an existing use certificate, or an application made jointly with an application to exchange reserve land)
+  - for the local authority carrying out its functions as consent authority for that application:
+  - (c) fees payable by an applicant for a planning consent who requests under section 159(b)(i) that the application be heard by 1 or more hearings commissioners, for the cost of the application being heard and decided in accordance with that request:
+  - (d) fees payable by the holder of a planning consent for the local authority carrying out its functions as a consent authority in reviewing the conditions of that consent if the review of the conditions is carried out—
+  - (i) at the request of the consent holder; or (ii) under section 198(1)(a),
+  - (b), or
+  - (d); or (iii) under section 198(2):
+  - (e) fees payable by the holder of a planning consent (including a holder of a certificate of compliance or an existing use certificate) for either or both of the following:
+  - (i) the local authority carrying out its compliance and monitoring functions in relation to planning consents, certificates of compliance, and existing use certificates: (ii) the performance by a territorial authority of its obligations under section 219 (which relates to monitoring and information gathering):
+  - (f) fees payable by a person carrying out a permitted activity for the local authority carrying out its monitoring functions in relation to that activity, if national standards empower the local authority to charge for the monitoring:
+  - (g) fees payable by a person carrying out a permitted activity for the local authority carrying out its monitoring functions relating to the person’s compliance with a rule in a land use plan (or a rule in a proposed land use plan that has legal effect) that relates to the permitted activity, but this paragraph does not apply to a rule that permits the same activity as is permitted by a national rule:
+  - (h) fees payable by a designating authority for a territorial authority carrying out any of its functions under this Act relating to a designation or proposed designation of the designating authority:
+  - (i) fees payable by a person who, in the opinion of an enforcement officer, has contravened this Act for the local authority carrying out any function necessary to determine whether the contravention has occurred:
+  - (j) fees payable by a person who is the subject of an abatement notice or an enforcement order for the local authority carrying out its compliance and monitoring functions relating to the notice or order:
+  - (k) fees payable by persons liable to pay a planning consent levy for the cost of the local authority collecting that levy:
+  - (l) fees payable by persons requesting information about land use plans, proposed land use plans, or planning consents for the local authority providing that information:
+  - (m) fees payable by persons requesting documents for the local authority providing those documents:
+  - (n) any other fee authorised by regulations made for the purposes of this subsection.
+  - (2) Fees fixed under this section must be—
+  - (a) prescribed as a specific amount in the instrument setting the fee; or
+  - (b) ascertained in a manner prescribed by that instrument.
+  - (3) A local authority may fix different fees for different costs it incurs in the performance of its various functions, powers, and duties under this Act—
+  - (a) in relation to different areas or different classes of persons; or
+  - (b) if any activity undertaken by the person liable to pay the fee reduces the costs to the local authority.
+  - (4) Fees fixed under this section must be made—
+  - (a) in the manner set out in section 150 of the Local Government Act 2002 (which, among other matters, requires the fees to be set by a bylaw); and
+  - (b) after—
+  - (i) considering the matters in section 331(2) and
+  - (3); and (ii) using the special consultative procedure set out in section 83 of the Local Government Act 2002.
+  - (5) However, subsection
+  - (4)(a) and
+  - (b)(ii) does not apply in relation to a fee set by the Minister of Conservation when exercising the functions, powers, or duties of a local authority conferred on them by section 213 in relation to certain offshore islands.
+  - (6) A fee set under this section by the Minister of Conservation exercising the functions, powers, or duties of a local authority conferred on them by section 213 is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  - (7) See also section 161A(1) of the Local Government Act 2002, which provides that a bylaw that is made by a local authority is secondary legislation.
+  - Compare: 1991 No 69 ss 36(1)–(4), 36AAA(4)
+## §330 — Additional administrative fees
+  - (1) If a fee fixed under section 329 is, in any particular case, inadequate to enable a local authority to recover its actual and reasonable costs for the matter concerned, the local authority may (after considering the criteria in section 331(2) and
+  - (3)) require the person who is liable to pay the fee to also pay an additional fee to the local authority.
+  - (2) A local authority must, on request by any person liable to pay a fee fixed under section 329, provide an estimate of any additional fee likely to be imposed under this section.
+  - (3) A person may apply to the Planning Tribunal to review a decision to require an additional fee under this section.
+  - Compare: 1991 No 69 s 36(5)–(7)
+## §331 — Considerations for fixing administrative fees
+  - (1) This section sets out the matters that a local authority must have regard to before fixing a fee under section 329 or requiring an additional fee under section 330.
+  - (2) The sole purpose of a fee or additional fee is to recover the reasonable costs incurred by the local authority in respect of the activity to which the fee relates.
+  - (3) A person should be required to pay a fee or additional fee only—
+  - (a) to the extent that the benefit of the local authority’s actions to which the fee relates is obtained by those persons as distinct from the community of the local authority as a whole; or
+  - (b) where the need for the local authority’s actions to which the fee relates results from the actions of that person; or
+  - (c) in the case of a fee relating to a territorial authority’s monitoring functions under section 219(1)(a) (which relates to monitoring its district),—
+  - (i) to the extent that the monitoring relates to the likely effects on the built environment of that person’s activities; or (ii) to the extent that the likely benefit to those persons of the monitoring exceeds the likely benefit of the monitoring to the community of the territorial authority as a whole.
+  - Compare: 1991 No 69 s 36AAA(1)–(3)
+## §332 — Other matters relating to administrative fees
+  - (1) A local authority may, in any particular case and in its absolute discretion, refund or waive the whole or any part of—
+  - (a) a fee fixed under section 329 that would otherwise be payable; or
+  - (b) an additional fee required under section 330.
+  - (2) If a fee fixed under section 329 or an additional fee required under section 330 is payable to a local authority, the local authority need not perform the action to which the fee relates until the fee has been paid in full.
+  - (3) However, subsection
+  - (2) does not apply to a fee or additional fee to which section 329(1)(d)(iii) applies (which relates to a review of the conditions of a planning consent required by an order of the Environment Court).
+  - (4) A local authority must, in the manner prescribed by regulations, make publicly available an up-to-date list of fees fixed under section 329.
+  - Compare: 1991 No 69 s 36AAB
+## §333 — Discounts on administrative fees
+  - (1) A local authority may, after following the special consultative procedure set out in section 83 of the Local Government Act 2002, adopt a policy for discounting fees imposed under section 329 in circumstances where—
+  - (a) an application for a planning consent or an application to change or cancel the conditions of a consent is not processed within the time frames set out in this Act; and
+  - (b) responsibility for the failure sits with the local authority.
+  - (2) The policy must specify—
+  - (a) the discount, or the method for ascertaining the discount, that would be given for any fees paid or owing; and
+  - (b) the procedure an applicant must follow to obtain the discount.
+  - (3) A local authority must provide a discount on an administrative fee imposed under section 329 as follows:
+  - (a) if the local authority has not adopted a policy for discounts under subsection
+  - (1), if regulations made under section 323(1)(m) require the local authority to provide a discount:
+  - (b) if the local authority has adopted a policy under subsection
+  - (1), it must provide a discount under whichever of the policy or regulations under section 323(1)(m) are more generous in the particular case.
+  - Compare: 1991 No 69 s 36AA
+  - Extensions and waivers
+## §334 — Power to extend time limits or waive requirements
+  - (1) A consent authority or a local authority may—
+  - (a) extend a time period specified in this Act or in regulations up to a period not exceeding twice the maximum time period specified in this Act or regulations:
+  - (b) waive a failure to comply with a requirement under this Act, regulations, or a land use plan for the time or method of service of documents.
+  - (2) A consent authority or local authority must not extend a time limit or waive a requirement under this section unless it has first taken into account—
+  - (a) the interests of any person who, in its opinion, may be directly affected by the extension or waiver; and
+  - (b) the interests of the community in achieving adequate assessment of the effects of the proposal; and
+  - (c) its obligations under section 16(1)(b); and
+  - (d) in the case of an extension or a waiver relating to an application for a planning consent, an application to change or cancel the condition of a planning consent, or a review of a planning consent, whether the extension or waiver will assist the consent authority in its consideration of the application under subpart 4 or 6 of Part 4.
+  - (3) In addition to the requirements in subsection
+  - (2), a consent authority must not extend a time period relating to an application for a planning consent, an application to change or cancel a condition of a planning consent, or a review of a planning consent, unless—
+  - (a) the applicant agrees; or
+  - (b) special circumstances apply (including special circumstances existing by reason of the scale or complexity of the matter, but excluding any circumstances relating to lack of staff capacity or lack of availability of experts).
+  - (4) A time period may be extended under this section whether or not the period has expired.
+  - (5) A consent authority or local authority must ensure that every person who, in its opinion, is directly affected by an extension or waiver under this section is notified of the extension or waiver.
+  - (6) A person that has applied for a planning consent may apply to the Planning Tribunal to review a decision of a consent authority to extend a time period on the basis of special circumstances.
+  - Compare: 1991 No 69 ss 37(1), 37A
+## §335 — Matters for which time period must not be extended or waived
+  - A consent authority or local authority must not, under section 334, waive or extend—
+  - (a) the time period for processing and deciding an application for a planning consent for a wood-processing activity or specified energy activity (see section 142); or
+  - (b) the time period by which the local authorities of a region must publish their decisions on an independent hearings panel’s recommendations on a draft regional spatial plan (see clauses 25(6) and 26 of Schedule 2); or
+  - (c) the time period by which the local authority must publish its decisions on an independent hearings panel’s recommendations on a proposed land use plan (see clauses 28(8) and 29 of Schedule 3); or
+  - (d) a time period that applies under clause 9 or 39 of Schedule 1.
+  - Compare: 1991 No 69 s 37(1A), (1B)
+## §336 — Waiver or direction relating to information
+  - (1) This section applies if—
+  - (a) a person is required to provide information under this Act; and
+  - (b) the information is not provided, or is inaccurate, or an associated procedural requirement is not complied with.
+  - (2) The consent authority or local authority may—
+  - (a) waive compliance with the requirement; or
+  - (b) direct that the omission or inaccuracy be rectified on terms that the consent authority or local authority thinks fit.
+  - Compare: 1991 No 69 s 37(2)
+  - Provisions relating to decisions and hearings
+## §337 — Meaning of hearings authority
+  - In sections 338 and 339, hearings authority means—
+  - (a) an independent hearings panel, in relation to—
+  - (i) a draft regional spatial plan (including a change to a regional spatial plan): (ii) a proposed land use plan (including a plan change or variation): (iii) a private plan change:
+  - (b) a consent authority or independent hearings commissioner, in relation to any of the following:
+  - (i) an application for a planning consent: (ii) an application to change or cancel a condition of a planning consent: (iii) a review of the conditions of a planning consent:
+  - (c) a recommending authority in relation to a proposed designation (including an alteration to a designation).
+## §338 — Report to hearings authority
+  - (1) This section and section 339 apply to the following:
+  - (a) an independent hearings panel making recommendations on a draft regional spatial plan (including a change to a regional spatial plan):
+  - (b) an independent hearings panel making recommendations on a proposed land use plan (including a plan change or variation) or a private plan change:
+  - (c) a consent authority or hearings commissioner making a decision on any of the following:
+  - (i) an application for a planning consent: (ii) an application to change or cancel a condition of a planning consent: (iii) a review of the conditions of a planning consent:
+  - (d) a recommending authority making a recommendation on a proposed designation (including an alteration to a designation).
+  - (2) At any reasonable time before a hearing (or, if no hearing is to be held, before the relevant decision or recommendation is made), a hearings authority may require the preparation of a report on any information provided by—
+  - (a) a submitter (in the case of a draft regional spatial plan or proposed land use plan); or
+  - (b) the requester or a submitter (in the case of a private plan change); or
+  - (c) the applicant or a submitter (in the case of an application for a planning consent); or
+  - (d) the consent holder or a submitter (in the case of an application to change or cancel a condition of a planning consent, or a review of the conditions of a planning consent); or
+  - (e) the designating authority or a submitter (in the case of a proposed designation).
+  - (3) The hearings authority may—
+  - (a) require an officer of the local authority (or, in the case of a draft regional spatial plan, a member of the secretariat) to prepare the report; or
+  - (b) commission a consultant or any other person employed for that purpose to prepare the report.
+  - (4) A report does not need to repeat information included in any application or submission in relation to the matter under consideration, but may instead adopt all or part of that information by referring to it.
+  - (5) The hearings authority may consider a report—
+  - (a) at any hearing; or
+  - (b) when making the decision or recommendation if no hearing is held.
+  - (6) The hearings authority must, within the time frame prescribed by regulations, provide an electronic copy of a report to—
+  - (a) the applicant, requester, consent holder, or designating authority (as the case requires); and
+  - (b) every submitter on the matter under consideration.
+  - (7) The authority may waive compliance with subsection
+  - (6) if it is satisfied that there is no material prejudice, or is not aware of any material prejudice, to any person who should have been provided with a copy of the report under that subsection.
+  - Compare: 1991 No 69 s 42A
+## §339 — Hearing to be held in public and orders protecting sensitive information
+  - (1) A hearing held by a hearings authority must be held in public.
+  - (2) A hearings authority may, at their own initiative or on the application of any party to a proceedings, make an order protecting sensitive information if satisfied that—
+  - (a) the order is necessary to avoid—
+  - (i) serious offence to tikanga Māori or to avoid the disclosure of the location of any wāhi tapu; or (ii) the disclosure of a trade secret or unreasonable prejudice to the commercial position of the person who supplied, or is the subject of, the information; and
+  - (b) in the circumstances, the importance of avoiding such offence, disclosure, or prejudice outweighs the public interest in making that information available; and
+  - (c) any requirements prescribed by regulations are met.
+  - (3) An order protecting sensitive information may—
+  - (a) require that all or part of any hearing at which the information is likely to be referred to must be held with the public excluded:
+  - (b) prohibit or restrict the publication or communication of any information supplied to or obtained by the hearings authority in the course of any proceedings, whether or not the information is material to those proceedings.
+  - (4) A hearings authority may make an order under subsection
+  - (3)(b) that applies—
+  - (a) indefinitely or until a date fixed by the hearings authority as appropriate in the circumstances, if the order relates to a matter described in subsection
+  - (2)(a)(i); or
+  - (b) until the close of the relevant proceedings but no longer, in any other case.
+  - (5) If an order made under subsection
+  - (3)(b) ends, the provisions of the Local Government Official Information and Meetings Act 1987 apply to the information that was subject to the order.
+  - (6) A party to any proceedings may apply to the Environment Court under clause 17(1)(a) of Schedule 9—
+  - (a) for an order cancelling or varying any order made under this section; or
+  - (b) for an order protecting sensitive information, if a hearings authority has declined to make an order under this section.
+  - Compare: 1991 No 69 s 42
+  - Service of documents
+## §340 — Service of documents
+  - (1) A notice or any other document required or authorised to be served on or given to a person for the purposes of this Act may be served or given by—
+  - (a) delivering it to the person (other than a Minister of the Crown); or
+  - (b) leaving it at the person’s usual or last known place of residence or business or at the address specified by the person in any notice, application, or other document given under this Act; or
+  - (c) sending it by post to the person’s usual or last known place of residence or business or to the address specified by the person in any notice, application, or other document given under this Act; or
+  - (d) sending it to the person at an electronic address that is used by the person; or
+  - (e) complying with a means of service prescribed by regulations; or
+  - (f) in the case of a notice or other document to be served on a Crown organisation,—
+  - (i) delivering it at the organisation’s head office or principal place of operation; or (ii) sending it to an electronic address that the organisation has specified for its head office or principal place of operation; or (iii) a method agreed between the organisation and the person serving the notice or document.
+  - (2) However, subsection
+  - (1) does not apply if—
+  - (a) the notice or other document is to be served on a person to commence, or in the course of, court proceedings; and
+  - (b) the court, either expressly or in its rules or practices, requires a different method of service.
+  - (3) Nothing in subsection
+  - (1) overrides the Electronic Courts and Tribunals Act 2016.
+  - (4) If a notice or other document is to be served on or given to a Minister of the Crown for the purposes of this Act, service on the chief executive of the appro‐
+  - priate department of the public service in accordance with subsection
+  - (1) is treated as service on the Minister.
+  - (5) If a notice or other document is to be served on or given to a body (whether incorporated or not) for the purposes of this Act, service on an officer of the body, or on the registered office of the body, in accordance with subsection
+  - (1) is treated as service on the body.
+  - (6) If a notice or other document is to be served on or given to a partnership for the purposes of this Act, service on any one of the partners in accordance with subsections
+  - (1) and
+  - (5) is treated as service on the partnership.
+  - (7) If a notice or other document is sent by post to a person in accordance with subsection
+  - (1)(c), it is treated as, in the absence of proof to the contrary, being received by the person at the time at which the letter would have been delivered in the ordinary course of the post.
+  - Compare: 1991 No 69 s 352
+  - Crown’s existing rights to resources to continue
+## §341 — Crown’s existing rights to resources to continue
+  - The repeal by this Act of any legislation does not affect any right, interest, or title to any land or water acquired, accrued, established by, or vested in the Crown before the date on which this section comes into force, and every such right, interest, and title continues after that date as if that legislation had not been repealed.
+  - Compare: 1991 No 69 s 354
+  - Matters may be determined by arbitration
+## §342 — Matters may be determined by arbitration
+  - (1) If any persons are unable to agree about any matter in respect of which any of those persons has a right of appeal under this Act, any of those persons may apply to the Environment Court for an order that the matter be determined by arbitration under the Arbitration Act 1996 (an order for arbitration).
+  - (2) However, a person—
+  - (a) may only apply for an order for arbitration if every person who has the right of appeal, and the person who would be the respondent in any appeal, agree; and
+  - (b) must not apply for an order for arbitration for an appeal relating to a proposed land use plan or to a designation or proposed designation.
+  - (3) The Environment Court may grant an order for arbitration on terms that court considers appropriate.
+  - (4) If an order for arbitration is made, no person may lodge or proceed with any appeal on the matter to which the order relates without the leave of the Environment Court.
+  - (5) Subject to the terms of the order for arbitration, the arbitrator has the same powers, duties, and discretions as the person who made the decision and may, in their award, confirm, amend, or cancel the decision.
+  - (6) Except as otherwise expressly provided, this section does not limit the right of any persons to refer to arbitration any disputed matter arising under this Act.
+  - Compare: 1991 No 69 s 356
+  - Amendments to other legislation and repeal of Resource Management Act 1991
+## §343 — Amendments to other legislation
+  - (1) Amend the legislation specified in Part 1 of Schedule 12 as set out in that Part.
+  - (2) Amend the Resource Management Act 1991 as set out in Part 2 of Schedule 12.
+  - (3) Amend the Fast-track Approvals Act 2024 as set out in Part 3 of Schedule 12.
+  - (4) Amend the Resource Management Act 1991 as set out in Part 4 of Schedule 12.
+  - (5) Amend the legislation specified in Part 5 of Schedule 12 as set out in that Part.
+  - (6) Amend the legislation specified in Part 6 of Schedule 12 as set out in that Part.
+  - (7) Amend the legislation specified in Part 7 of Schedule 12 as set out in that Part.
+## §344 — Repeal of Resource Management Act 1991
+  - (1) The Resource Management Act 1991 (1991 No 69) is repealed.
+  - (2) See section 2.
+[[Schedule 1 - Transitional, savings, and related provisions]]

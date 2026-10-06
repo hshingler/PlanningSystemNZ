@@ -1,0 +1,248 @@
+#provision
+## §34 — Key instruments of this Act
+  - The key instruments of this Act are—
+  - (a) national policy direction:
+  - (b) national standards:
+  - (c) [[regional spatial plan|regional spatial plans]]:
+  - (d) land use plans. Provisions of key instruments
+## §35 — Application of objectives, policies, rules, and methods
+  - (1) An objective, policy, rule, or other method of a key instrument may—
+  - (a) apply throughout all or part of—
+  - (i) a district, in the case of a land use plan; or (ii) a region, in the case of a [[regional spatial plan]]; or (iii) New Zealand, in the case of a national instrument:
+  - (b) apply all of the time or for specified periods.
+  - (2) A rule may apply to a specified—
+  - (a) activity; or
+  - (b) class of activities (for example, all activities with a particular activity classification).
+  - Compare: 1991 No 69 s 76(4)
+## §36 — Meaning of rule
+  - (1) A rule means a provision of a key instrument that does any of the following:
+  - (a) classifies an activity as a permitted, restricted discretionary, discretionary, or prohibited activity:
+  - (b) specifies requirements for carrying out a permitted activity (for example, requirements referred to in section 42):
+  - (c) specifies requirements for carrying out a restricted discretionary or discretionary activity:
+  - (d) reserves matters of discretion in relation to a restricted discretionary activity:
+  - (e) specifies requirements for information to be included in an application for a planning consent:
+  - (f) requires or precludes targeted or public notification of an application for a planning consent for an activity:
+  - (g) specifies conditions of a planning consent that may be included under section 175, 178, or Part 1 of Schedule 7.
+  - (2) A provision of a land use plan is also a rule if it—
+  - (a) modifies requirements for esplanade reserves or esplanade strips in accordance with section 111; or
+  - (b) specifies requirements for when future provisions apply (see section 116(1)(a)).
+  - (3) A rule may include any provision that is necessary or incidental to the operation of the rule.
+  - Compare: 1991 No 69 ss 76, 77, 77A
+  - Classification of activities
+## §37 — Guidance for classifying activities
+  - (1) This section—
+  - (a) is intended to guide decision makers when classifying activities in national standards or land use plans; but
+  - (b) does not limit the matters that a decision maker may consider when classifying activities (for example, requirements in regulations or non-regulatory measures).
+  - (2) A decision maker should consider classifying an activity as—
+  - (a) a permitted activity if—
+  - (i) the activity is acceptable, is anticipated, or achieves the desired level of use, development, or protection; or (ii) the adverse effects of the activity are understood and can be managed:
+  - (b) a restricted discretionary activity if—
+  - (i) the activity is acceptable, is anticipated, or achieves the desired level of use, development, or protection but 1 or more of the effects of the activity require a specific assessment; and (ii) the effects of the activity are known and can be appropriately managed:
+  - (c) a discretionary activity if—
+  - (i) the nature and type of the activity requires an assessment of the effects of the activity; or (ii) there is significant variability in the adverse effects of the activity; or (iii) the activity is not anticipated or may be inappropriate:
+  - (d) a prohibited activity if the activity will have an unacceptably high level of adverse effects that cannot be managed.
+  - (3) A failure to follow the guidance provided in this section does not invalidate a decision classifying an activity.
+## §38 — Consequences of permitted, restricted discretionary, or discretionary
+  - activity classification
+  - (1) If an instrument classifies an activity as a permitted activity,—
+  - (a) the activity does not require a planning consent; but
+  - (b) the activity must comply with any requirements in a permitted activity rule and any requirements in every instrument.
+  - (2) If an instrument classifies an activity as a restricted discretionary activity,—
+  - (a) the activity requires a planning consent; and
+  - (b) the instrument must specify the matters over which discretion is reserved; and
+  - (c) a consent authority’s power to grant or decline the planning consent or to impose consent conditions is—
+  - (i) restricted to the matters over which discretion is reserved; and (ii) subject to section 171; and (iii) subject to section 55(2) of the Marine and Coastal Area (Takutai Moana) Act 2011; and
+  - (d) the activity must comply with any conditions in the consent and any requirements in every instrument.
+  - (3) If an instrument classifies an activity as a discretionary activity,—
+  - (a) the activity requires a planning consent; and
+  - (b) a consent authority may grant the consent with or without conditions or decline the consent; and
+  - (c) the activity must comply with any conditions in the consent and any requirements in every instrument.
+  - (4) In this section,— instrument means—
+  - (a) this Act:
+  - (b) regulations:
+  - (c) a national rule:
+  - (d) a water services standard:
+  - (e) a rule in a land use plan:
+  - (f) a rule in a proposed land use plan that has legal effect requirements includes any conditions or permissions.
+  - Compare: 1991 No 69 s 87A
+## §39 — Consequence of prohibited activity classification
+  - (1) If an instrument (other than a proposed land use plan that has not become operative) classifies an activity as a prohibited activity,—
+  - (a) no application for a planning consent may be made for the activity; and
+  - (b) a local authority must not grant a planning consent for the activity.
+  - (2) In this section, instrument has the meaning given in section 38(4).
+  - Compare: 1991 No 69 s 87A(6)
+## §40 — Specified prohibited activities
+  - (1) The following activities are prohibited activities:
+  - (a) prospecting, exploring, or mining for Crown-owned minerals in the internal waters of the Coromandel Peninsula:
+  - (b) mining of which the main purpose is to mine mercury.
+  - (2) Subsection
+  - (1)(a) does not apply to prospecting, exploring, or mining activities set out in section 61(1A) of the Crown Minerals Act 1991.
+  - Compare: 1991 No 69 s 87B(2)–(4)
+## §41 — Activities that must be treated as discretionary activities
+  - An application for a planning consent for an activity must be treated as an application for a discretionary activity if—
+  - (a) a land use plan requires a planning consent for the activity but does not classify the activity; or
+  - (b) a rule in a proposed land use plan classifies the activity as a prohibited activity and the rule has not become operative.
+  - Compare: 1991 No 69 s 87B(1)
+  - Permitted activity rules that require registration
+## §42 — Permitted activity rules that require registration
+  - (1) A permitted activity rule that requires an activity to be registered may be—
+  - (a) a national rule; or
+  - (b) a rule in a land use plan but only if allowed or required by national standards.
+  - (2) If a permitted activity rule requires an activity to be registered, section 210 applies.
+  - (3) A permitted activity rule that requires an activity to be registered—
+  - (a) may specify requirements for information that must be included in the notice required under section 210; and
+  - (b) may require the person carrying out the activity to do 1 or more of the following:
+  - (i) obtain the written approval of all persons who may be directly affected by the activity: (ii) obtain certification from a qualified person that the activity complies, or would comply, with any specified requirement: (iii) pay a fee fixed in accordance with section 329: (iv) carry out the activity in accordance with a report or management plan prepared by a qualified person:
+  - (v) comply with a condition of a kind that may be included under section 178 or Part 1 of Schedule 7; but
+  - (c) may not specify any other requirement.
+  - (4) See also section 38(1)(b) which requires a permitted activity to comply with any requirements in every instrument.
+  - Compare: 1991 No 69 s 77A(1)(c)
+  - Relationship between national rule and other instruments
+## §43 — How instrument is more restrictive or enabling than national rule
+  - (1) This section applies for the purposes of sections 44 to 47.
+  - (2) An instrument is more restrictive than a national rule if the instrument—
+  - (a) classifies an activity more restrictively than the national rule; or
+  - (b) imposes conditions on an activity that the national rule does not impose or authorise; or
+  - (c) prohibits or restricts an activity that the national rule permits or authorises.
+  - (3) An instrument is more enabling than a national rule if the instrument—
+  - (a) classifies an activity less restrictively than the national rule; or
+  - (b) does not impose conditions or imposes less restrictive conditions on an activity in respect of which conditions are imposed or authorised by the national rule; or
+  - (c) permits or authorises an activity that the national rule prohibits or restricts.
+  - (4) In this section, an instrument means a rule in a land use plan, a rule in a proposed land use plan that has legal effect, a planning consent, a designation, a construction project plan, or a bylaw.
+  - Compare: 1991 No 69 s 43B(2), (4)
+## §44 — Relationship between national rule and rule in land use plan or proposed
+  - land use plan
+  - (1) A rule in a plan or proposed plan that is more restrictive than a national rule prevails over the national rule if the national rule expressly allows a rule in a plan or proposed plan to be more restrictive than it.
+  - (2) A rule in a plan or proposed plan that is more enabling than a national rule prevails over the national rule if the national rule expressly allows a rule in a plan or proposed plan to be more enabling than it.
+  - (3) If a national rule allows an activity and states that a planning consent is not required for the activity, or states that an activity is a permitted activity, the following provisions apply:
+  - (a) a plan or proposed plan may state that the activity is a permitted activity on the conditions specified in the plan; and
+  - (b) the conditions specified in the plan may deal only with effects of the activity that are different from those dealt with in conditions specified in the national rule; and
+  - (c) if a plan’s conditions deal with effects of the activity that are the same as those dealt with in the conditions specified in the national rule, the conditions in the national rule prevail.
+  - (4) In this section, plan means a land use plan and proposed plan means a proposed land use plan that has legal effect.
+  - Compare: 1991 No 69 s 43B(1), (3)
+## §45 — Relationship between national rule and planning consent
+  - (1) A planning consent that is more restrictive than a national rule prevails over the rule if the rule expressly allows a planning consent to be more restrictive than it.
+  - (2) A planning consent that is more enabling than a national rule prevails over the rule if the rule expressly allows a planning consent to be more enabling than it.
+  - (3) Subsection
+  - (4) applies if a planning consent—
+  - (a) is granted under a rule in a land use plan or proposed land use plan that has legal effect; and
+  - (b) is granted before the date on which a national rule commences.
+  - (4) The planning consent prevails over the national rule unless the rule expressly provides otherwise.
+  - Compare: 1991 No 69 s 43B
+## §46 — Relationship between national rules, designations, and construction
+  - project plans
+  - (1) A designation or a construction project plan may be more enabling than a national rule—
+  - (a) if the rule expressly allows the designation or construction project plan to be more enabling than it; and
+  - (b) in which case, this subsection prevails over the other provisions of this section.
+  - (2) A designation that exists when a national rule is made—
+  - (a) prevails over the national rule unless the rule expressly states that it prevails over the designation; and
+  - (b) subject to paragraph
+  - (a), prevails over the national rule until the earlier of the following:
+  - (i) the designation lapses: (ii) the designation is altered under clause 47, 48, or 49 of Schedule 5 by the alteration of conditions in it to which the national rule is relevant.
+  - (3) If the conditions of a designation are altered as described in subsection
+  - (2)(b)(ii), the national rule—
+  - (a) applies to the altered conditions; and
+  - (b) does not apply to the unaltered conditions.
+  - (4) A national rule prevails over a designation that requires a construction project plan if, when the national rule is made,—
+  - (a) the designation exists; and
+  - (b) no construction project plan for the designation has been confirmed in accordance with clause 41 of Schedule 5.
+  - (5) A use is not required to comply with a national rule if—
+  - (a) the use was lawfully established by way of a designation that has lapsed; and
+  - (b) the effects of the use, in character, intensity, and scale, are the same as or similar to those that existed before the designation lapsed; and
+  - (c) the national rule is made—
+  - (i) after the designation was made; and (ii) before or after it lapses.
+  - (6) Work under a designation is not required to comply with a national rule if the work has come under the designation through the following sequence of events:
+  - (a) the work is made; and
+  - (b) the national rule is made; and
+  - (c) the designation is applied to the work.
+  - (7) In this section, conditions includes a condition about the physical boundaries of a designation.
+  - Compare: 1991 No 69 s 43D
+## §47 — Relationship between national rules and bylaws
+  - (1) A bylaw prevails over a national rule if the bylaw is more restrictive than the rule and the rule expressly allows the bylaw to be more restrictive than it.
+  - (2) A bylaw may be more enabling than a national rule if the rule expressly allows a bylaw to be more enabling than it.
+  - (3) In this section, bylaw means a bylaw made under any legislation.
+  - Compare: 1991 No 69 s 43E
+## §48 — Relationship between environmental performance standards,
+  - infrastructure design solutions, and designations
+  - (1) A designation that exists when a stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution is made prevails over the environmental performance standard or infrastructure design solution until the earlier of the following:
+  - (a) the designation lapses:
+  - (b) the designation is altered under clause 47 or 48 of Schedule 5 by the alteration of conditions in it to which the environmental performance standard or infrastructure design solution is relevant.
+  - (2) If the conditions of a designation are altered as described in subsection
+  - (1)(b), the environmental performance standard or infrastructure design solution—
+  - (a) applies to the altered conditions; and
+  - (b) does not apply to the unaltered conditions.
+  - (3) Despite subsection
+  - (1), a stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution prevails over a designation that requires a construction project plan if, when the environmental performance standard or infrastructure design solution is made,—
+  - (a) the designation exists; and
+  - (b) no construction project plan for the designation has completed the process described in clause 40 of Schedule 5.
+  - (4) A stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution that exists when a designation is made prevails over the designation.
+  - (5) A use is not required to comply with a stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution if—
+  - (a) the use was lawfully established by way of a designation that has been removed; and
+  - (b) the effects of the use, in character, intensity, and scale, are the same as or similar to those that existed before the designation was removed; and
+  - (c) the environmental performance standard or infrastructure design solution is made—
+  - (i) after the designation was made; and (ii) before or after the designation is removed.
+  - (6) Work under a designation is not required to comply with a stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution if the work has come under the designation through the following sequence of events:
+  - (a) the work is made; and
+  - (b) the environmental performance standard or infrastructure design solution is made; and
+  - (c) the designation is applied to the work.
+  - (7) In this section, conditions includes a condition about the physical boundaries of a designation.
+  - Compare: 1991 No 69 s 44B
+## §49 — Relationship between wastewater and stormwater environmental
+  - performance standards and other instruments
+  - (1) A wastewater environmental performance standard or stormwater environmental performance standard prevails over a national rule.
+  - (2) Subsection
+  - (1) applies whether the national rule is more or less restrictive than the wastewater environmental performance standard or stormwater environmental performance standard.
+  - (3) If there is any conflict or duplication between a wastewater environmental performance standard or stormwater environmental performance standard and a document listed in subsection
+  - (4), the environmental performance standard prevails.
+  - (4) The documents are—
+  - (a) a national policy direction:
+  - (b) a national standard:
+  - (c) a land use plan.
+  - (5) However, if anything in a land use plan conflicts with or duplicates anything in a wastewater environmental performance standard or stormwater environmental performance standard, then, to the extent that the conflict or duplication results from the land use plan giving effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River,—
+  - (a) subsection
+  - (3) does not apply; and
+  - (b) the land use plan prevails.
+  - (6) If a land use plan or proposed land use plan contains a rule that conflicts with or duplicates a provision in a wastewater environmental performance standard or stormwater environmental performance standard, the local authority must amend the plan or proposed plan to remove the conflict or duplication—
+  - (a) without using the process in Schedule 3; and
+  - (b) as soon as practicable after the date on which the standard comes into force.
+  - (7) A local authority must—
+  - (a) enforce the observance of stormwater environmental performance standards and wastewater environmental performance standards—
+  - (i) within the limits specified in subsections
+  - (5) and
+  - (8); and (ii) to the extent to which its powers enable it to do so; and
+  - (b) observe stormwater environmental performance standards and wastewater environmental performance standards.
+  - (8) However, subsections
+  - (1),
+  - (2), and
+  - (6) do not apply if—
+  - (a) the rule gives effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River; and
+  - (b) the rule is more restrictive than the wastewater environmental performance standard or stormwater environmental performance standard.
+  - Compare: 1991 No 69 s 58JB
+## §50 — Relationship between infrastructure design solutions and other
+  - instruments
+  - (1) An infrastructure design solution prevails over a national rule.
+  - (2) Subsection
+  - (1) applies whether a national rule is more or less restrictive than the infrastructure design solution.
+  - (3) However, a national rule prevails over the infrastructure design solution, and subsections
+  - (1) and
+  - (2) do not apply, if—
+  - (a) the rule is included in a land use plan to give effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River; and
+  - (b) the rule is more restrictive than the infrastructure design solution.
+  - (4) If there is any conflict or duplication between an infrastructure design solution and a document listed in subsection
+  - (5), the infrastructure design solution prevails.
+  - (5) The documents are—
+  - (a) a national policy direction:
+  - (b) a national standard:
+  - (c) a land use plan.
+  - (6) However, if anything in a land use plan conflicts with or duplicates anything in an infrastructure design solution, then, to the extent that the conflict or duplication results from the relevant document giving effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River,—
+  - (a) subsection
+  - (4) does not apply; and
+  - (b) the land use plan prevails.
+  - (7) If a land use plan or proposed land use plan contains a rule that conflicts with or duplicates a provision in an infrastructure design solution, the local authority must amend the plan or proposed plan to remove the inconsistency or duplication—
+  - (a) without using the process in Schedule 3; and
+  - (b) as soon as practicable after the date on which the standard comes into force.
+  - (8) However, subsection
+  - (7) does not apply if—
+  - (a) the rule gives effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River; and
+  - (b) the rule is more restrictive than the infrastructure design solution.
+  - Compare: 1991 No 69 s 58JD

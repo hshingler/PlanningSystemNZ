@@ -1,0 +1,105 @@
+#provision
+## §13 — Goals
+  - (1) The key instruments of this Act must seek to achieve the following goals:
+  - (a) to ensure that land use does not unreasonably affect others, including by separating incompatible land uses:
+  - (b) to support and enable economic [[growth and change]] by enabling the use and development of land:
+  - (c) to create well-functioning urban and rural areas:
+  - (d) to enable competitive urban land markets by making land available to create abundant development opportunities for residential and business use:
+  - (e) to enable infrastructure to be provided to meet and respond to current and future demand:
+  - (f) to maintain public access to and along the coastal marine area, lakes, and rivers:
+  - (g) to protect from inappropriate development the identified values and characteristics of—
+  - (i) areas of high natural character within the coastal environment, wetlands, and lakes and rivers and their margins: (ii) outstanding natural features and landscapes: (iii) significant historic heritage:
+  - (h) to safeguard against natural hazard risks that arise from or affect the use or development of land:
+  - (i) to provide for Māori interests through—
+  - (i) Māori participation in the development of national instruments, regional spatial plans, and land use plans; and (ii) the identification and protection of sites of significance to Māori (including wāhi tapu, water bodies, or sites in or on the coastal marine area); and (iii) enabling the development and protection of identified Māori land.
+  - (2) Subsection
+  - (1) does not require a key instrument to seek to achieve all goals in all places at all times.
+  - (3) The order in which the goals appear in subsection
+  - (1) does not assign their order of importance.
+  - (4) In subsection
+  - (1)(g), identified means identified in a national instrument, [[regional spatial plan]], land use plan, or proposed land use plan.
+## §14 — Relationship between key instruments in decision-making
+  - (1) The hierarchy of the key instruments of this Act is as follows, listed from top to bottom:
+  - (a) national policy direction:
+  - (b) national standards:
+  - (c) [[regional spatial plan|regional spatial plans]]:
+  - (d) land use plans.
+  - (2) Each key instrument (other than the national policy direction)—
+  - (a) must implement the instrument listed directly above it; and
+  - (b) must implement an instrument higher up the list if required by that instrument.
+  - (3) A person exercising or performing a function, power, or duty under this Act in relation to a matter—
+  - (a) must consider the relevant provisions of the key instrument that directly affects the matter (for example, a [[regional spatial plan|spatial plan]] in the case of a land use plan); and
+  - (b) must consider any relevant provisions of a higher order instrument if, and only to the extent that, the matter is not addressed by the instrument listed beneath it; and
+  - (c) must not consider a goal directly unless and to the extent that they are satisfied that—
+  - (i) the subject matter of the goal is not addressed in a higher order instrument; or (ii) there is significant uncertainty within a higher order instrument in relation to the goal; or (iii) there is irreconcilable conflict between higher order instruments in relation to the goal.
+  - (4) Subsection
+  - (3) does not apply to the making of national policy direction.
+  - (5) In this section, a higher order instrument means any key instrument that is listed above the instrument that directly affects the matter.
+## §15 — Planning consents
+  - (1) A person exercising or performing a function, power, or duty under this Act who is deciding a matter relating to a planning consent must comply with section 14(3)(a) in accordance with this section.
+  - (2) For the purposes of section 14(3)(a), the person must first consider the provisions of the following key instruments to the extent that the provisions directly affect the matter:
+  - (a) the land use plan and any proposed land use plan; and
+  - (b) national standards (including national rules).
+  - (3) This section applies despite section 14(3)(b).
+## §16 — Procedural principles
+  - (1) A person exercising or performing a function, power, or duty under this Act must take all practicable steps to act in accordance with the following principles:
+  - (a) ensure all documents are succinct and use plain language that can be readily understood by the public:
+  - (b) use timely, efficient, consistent, and cost-effective processes:
+  - (c) act proportionately to the scale and significance of the matter to which the function, duty, or power relates:
+  - (d) ensure they have sufficient and necessary information to understand the implications of their decision (if any), after considering—
+  - (i) the cost and feasibility of obtaining the information; and (ii) the scale and significance of the matter to which the decision relates:
+  - (e) act in a pragmatic way that supports practical solutions:
+  - (f) ensure that any condition they specify in a relevant instrument is no more onerous than necessary to address the reason for which it is specified:
+  - (g) use appropriate technology, including digital tools and systems:
+  - (h) avoid unnecessary repetition in key instruments.
+  - (2) A failure by a person exercising or performing a function, power, or duty to take all reasonable steps to act in accordance with the principles in subsection
+  - (1)(a),
+  - (g), or
+  - (h) does not invalidate the exercise or performance of that function, power, or duty.
+  - (3) Subsection
+  - (1)(f) applies to individual conditions and does not apply to conditions taken collectively.
+  - (4) Subsection
+  - (1) does not apply to a court or person exercising a judicial power or performing a judicial function or duty.
+  - (5) In subsection
+  - (1)(f), relevant instrument means a national rule, rule in a land use plan, rule in a proposed land use plan, designation, or a planning consent.
+## §17 — Effects outside scope of this Act
+  - (1) A person exercising or performing a function, power, or duty under this Act who is considering the effects of an activity must disregard—
+  - (a) both—
+  - (i) the internal layout of a building: (ii) the external layout of any building on a site if the effects of the layout remain within the boundaries of the site:
+  - (b) negative effects of development on trade competition, including on competing providers of input goods and services:
+  - (c) retail distribution effects:
+  - (d) the following in relation to a project:
+  - (i) any lack of demand for the project; or (ii) the project is not financially viable:
+  - (e) the character, appearance, and aesthetic qualities of a use, development, or building:
+  - (f) the type of residents to be housed in a new development:
+  - (g) views from private property:
+  - (h) the effect on landscape if the landscape is—
+  - (i) not outstanding; or (ii) not an area of high natural character:
+  - (i) the effect of setting a precedent:
+  - (j) any matter where the land use effects of an activity are dealt with under other legislation unless the matter relates to natural hazards or contaminated land.
+  - (2) If an activity is located more than 3 nautical miles from the landward boundary of the coastal marine area, the person must also disregard the effects of the activity on any—
+  - (a) outstanding natural landscape or feature:
+  - (b) area of high natural character.
+  - (3) This section does not restrict the consideration or management of—
+  - (a) areas of high natural character within wetlands, lakes, rivers, and their margins:
+  - (b) areas of high natural character in the coastal environment that is within 3 nautical miles from the landward boundary of the coastal marine area:
+  - (c) outstanding natural landscapes and features in the coastal environment that is within 3 nautical miles from the landward boundary of the coastal marine area:
+  - (d) significant historic heritage:
+  - (e) sites of significance to Māori:
+  - (f) the effects of natural hazards.
+  - (4) Subsection
+  - (1)(f) does not restrict consideration of the type of housing or development.
+  - (5) In this section, input goods and services means a raw material (including land) or service that is required to make a finished product.
+## §18 — Considering adverse effects of activities
+  - (1) A person exercising or performing a function, power, or duty under this Act who is considering the effects of an activity—
+  - (a) must consider how—
+  - (i) adverse effects are to be avoided, mitigated, or remedied, where practicable; or (ii) adverse effects are to be offset or compensated for, where appropriate; and
+  - (b) must not consider a less than minor adverse effect except where their cumulative effect results in a minor or more than minor adverse effect.
+  - (2) The order in which an approach to managing effects appears in this section does not assign an order of importance to how effects are managed.
+  - (3) In this section, a less than minor adverse effect means an adverse effect that is objectively acceptable and reasonable in the receiving environment with any change being slight or barely noticeable in the receiving environment.
+## §19 — Considering climate change effects
+  - A person exercising or performing a function, power, or duty under this Act who is considering the effects of an activity—
+  - (a) must not, despite section 18, consider any adverse effect on climate change of any greenhouse gas emissions that will or may result from or be increased by the activity, whether directly or indirectly; and
+  - (b) may consider any positive effects of the activity that are associated with avoiding, reducing, removing, or displacing greenhouse gas emissions.
+
+

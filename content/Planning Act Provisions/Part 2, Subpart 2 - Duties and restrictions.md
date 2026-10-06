@@ -1,0 +1,167 @@
+#provision   - Restrictions on land use and subdivision
+## §20 — Overview of references to rules
+  - In this subpart, a reference to—
+  - (a) a national rule means a national rule that has commenced (see section 26 of the Legislation Act 2019, which provides that secondary legislation comes into force on the date stated or provided for in the legislation):
+  - (b) a rule in a land use plan means a rule in a land use plan that is operative (see the definitions of land use plan and operative in section 3):
+  - (c) a rule in a proposed land use plan that has legal effect means a rule in a proposed land use plan that has legal effect in accordance with clause 57 of Schedule 3 (see the definitions of proposed land use plan and legal effect in section 3).
+## §21 — Restrictions on land use
+  - (1) A person must not use land in a manner that contravenes a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect unless—
+  - (a) the use is expressly allowed by a planning consent; or
+  - (b) the use is expressly allowed by a water services standard; or
+  - (c) the use is allowed by section 26, 28, 29, or 30; or
+  - (d) the use is allowed by clause 4(1)(a) or
+  - (b) of Schedule 5 (which relates to uses authorised by a designation).
+  - (2) A person must not use land in a manner that contravenes clause 4(1)(c) or 5 of Schedule 5 (which relate to activities that would prevent or hinder a designation or proposed designation).
+  - (3) This section applies to overflying by aircraft only to the extent that a national rule or a rule in a land use plan prescribes noise emission controls for airports.
+  - Compare: 1991 No 69 s 9(1), (3)–(5)
+## §22 — Restrictions on activities in coastal marine area
+  - (1) A person must not carry out an activity in, on, under, or over any coastal marine area in a manner that contravenes a national rule, a rule in a land use plan, a rule in a proposed land use plan that has legal effect, or a water services standard unless—
+  - (a) the activity is expressly allowed by a planning consent; or
+  - (b) the activity is allowed by section 30.
+  - (2) This section does not apply to use of land in the coastal marine area (see section 21).
+  - (3) This section applies to overflying by aircraft only to the extent that—
+  - (a) a national rule or a rule in a land use plan prescribes noise emission controls for airports; and
+  - (b) those controls apply in the coastal marine area.
+  - (4) This section does not prohibit a regional council from removing structures from the common marine and coastal area in accordance with section 19(3) to (3C) of the Marine and Coastal Area (Takutai Moana) Act 2011 unless those structures are permitted by a planning consent.
+  - Compare: 1991 No 69 s 12(3), (5), (7)
+## §23 — Restrictions on subdivision
+  - (1) A person may subdivide land only if—
+  - (a) the subdivision is shown on an authorised survey plan; and
+  - (b) either—
+  - (i) the subdivision does not contravene a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect; or (ii) the subdivision is expressly allowed by a planning consent.
+  - (2) In this section, an authorised survey plan means any of the following:
+  - (a) a survey plan of a subdivision prepared in a form suitable to deposit under the Land Transfer Act 2017 and deposited by the Registrar- General under clause 21 of Schedule 7:
+  - (b) a survey plan of a subdivision by or on behalf of a Minister of the Crown of land not subject to the Land Transfer Act 2017 and approved by the Surveyor-General in accordance with clause 21 of Schedule 7:
+  - (c) a survey plan that includes a unit plan and a survey data set giving effect to the grant of a cross lease or company lease.
+  - (3) This section does not apply to Māori land unless Te Ture Whenua Maori Act 1993 provides otherwise.
+  - Compare: 1991 No 69 s 11; 2017 No 15 s 127; 2023 No 46 s 22
+## §24 — Subdivision authorised by certain other Acts not restricted
+  - Section 23 does not apply to a subdivision that is given effect to by—
+  - (a) the acquisition, taking, transfer, or disposal of part of an allotment under the Public Works Act 1981 (except that each existing separate parcel of land disposed of under that Act must be disposed of without further division, unless otherwise provided for by that Act); or
+  - (b) the establishment of, a change to, or a cancellation of a Maori reservation under section 338 of Te Ture Whenua Maori Act 1993; or
+  - (c) a transfer under section 23 or a resumption under section 27D of the State-Owned Enterprises Act 1986; or
+  - (d) a vesting, transfer, or gift of land—
+  - (i) in or to the Crown or any local authority or administering body (as defined in section 2(1) of the Reserves Act 1977) for the purposes
+  - (other than administrative purposes) of the Conservation Act 1987 or any Act specified in Schedule 1 of that Act; or (ii) by the Crown in exchange for land received under subparagraph
+  - (i); or
+  - (e) an exemption under section 25A of the New Zealand Railways Corporation Restructuring Act 1990; or
+  - (f) a transfer or gift of land to Heritage New Zealand Pouhere Taonga or the Queen Elizabeth the Second National Trust for the purposes of the Heritage New Zealand Pouhere Taonga Act 2014 or the Queen Elizabeth the Second National Trust Act 1977; or
+  - (g) a transfer, exchange, or other disposition of land made by an order under subpart 3 of Part 6 of the Property Law Act 2007 (which relates to the granting of access to landlocked land); or
+  - (h) an exemption for boundary adjustments under section 10 of the Canterbury Property Boundaries and Related Matters Act 2016.
+  - Compare: 1991 No 69 s 11; 2023 No 46 s 22
+  - Existing uses
+## §25 — Meaning of specified natural hazard rule
+  - In this Act, specified natural hazard rule means a rule (being a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect) that—
+  - (a) is made for the purpose of managing the risk of natural hazards (including for the purpose of avoiding or mitigating any adverse effect of a natural hazard); and
+  - (b) is identified as a specified natural hazard rule in the national standards, land use plan, or proposed land use plan that contains the rule.
+## §26 — Certain existing land uses allowed
+  - (1) A person may, without a planning consent, use land in a manner that contravenes a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect if—
+  - (a) the use was lawfully established before the rule came into force; and
+  - (b) the effects of the use are the same or similar in character, intensity, and scale to those that existed before the rule came into force.
+  - (2) A person may, without a planning consent, use land in a manner that contravenes a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect if—
+  - (a) the use was lawfully established by way of a designation; and
+  - (b) the designation has since been removed; and
+  - (c) the effects of the use are the same or similar in character, intensity, and scale to those that existed before the designation was removed.
+  - (3) Subsections
+  - (1) and
+  - (2) do not apply to a use of land if—
+  - (a) the rule that is contravened (being a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect) is a specified natural hazard rule; or
+  - (b) the use has been discontinued for a continuous period of more than 12 months (or any longer time specified in the rule that is contravened) at any time after that rule came into force, unless an extension granted under section 27 applies; or
+  - (c) any reconstruction, alteration, or extension of or to any building increases the extent to which the building contravenes any rule in a land use plan or rule in a proposed land use plan that has legal effect; or
+  - (d) the use is of the surface of water in a lake or river.
+  - (4) To avoid doubt, this section—
+  - (a) does not apply to a use of land that is restricted under section 20, 21, or 22 of the Natural Environment Act 2026 (see section 33 of this Act); and
+  - (b) does not limit section 28 of the Natural Environment Act 2026.
+  - (5) In this section, came into force,—
+  - (a) in relation to a national rule, means the rule commenced; and
+  - (b) in relation to a rule in a land use plan, means the rule became operative; and
+  - (c) in relation to a rule in a proposed land use plan, means the rule had legal effect.
+  - Compare: 1991 No 69 ss 10, 43B(9)
+## §27 — Extensions where existing land use discontinued
+  - (1) A person may, no later than 2 years after the date that a use of land is first discontinued, apply to the consent authority for an extension referred to in section 26(3)(b).
+  - (2) The consent authority may grant an extension if satisfied that—
+  - (a) the extension will not be contrary to the objectives and policies of the land use plan; and
+  - (b) the applicant has obtained approval from every person who may be adversely affected by the extension, unless the consent authority considers it is unreasonable in the circumstances to require approval from all of those persons.
+  - (3) The person may apply to the Planning Tribunal to review a decision of a consent authority to refuse an extension.
+  - Compare: 1991 No 69 ss 10(2), 43B(9)
+## §28 — Certain existing building works allowed
+  - (1) A person may, without a planning consent, use land in a manner that contravenes a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect if—
+  - (a) the use is a building work or an intended use of a building; and
+  - (b) a building consent was issued for the building work or intended use (and any amendments incorporated into that building consent) in accordance with the Building Act 2004 before the rule came into force; and
+  - (c) at the time that the building consent was issued (and any amendments incorporated into that building consent), the building work or intended use as stated in that building consent—
+  - (i) did not contravene a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect; or (ii) otherwise could have been carried out without a planning consent for another reason.
+  - (2) However, subsection
+  - (1) does not apply if—
+  - (a) the rule that is contravened (being a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect) is a specified natural hazard rule; or
+  - (b) after the rule came into force, the building consent is amended so that the effects of the building work or intended use of a building will no longer be the same or similar in character, intensity, and scale as before the amendment; or
+  - (c) the building consent has lapsed or is cancelled; or
+  - (d) a code compliance certificate for the building work is not issued in accordance with the Building Act 2004 within—
+  - (i) 2 years after the rule came into force; or (ii) any further period that the consent authority may allow after it is satisfied that reasonable progress has been made towards completing the building work during those 2 years.
+  - (3) For the purpose of subsection
+  - (2)(c), the issuing in accordance with the Building Act 2004 of a code compliance certificate for the building work must not be treated as cancelling the building consent.
+  - (4) To avoid doubt, this section—
+  - (a) does not apply to a use of land that is restricted under section 20, 21, or 22 of the Natural Environment Act 2026 (see section 33 of this Act); and
+  - (b) does not limit section 28 of the Natural Environment Act 2026.
+  - (5) In this section,— building has the meaning given in sections 8 and 9 of the Building Act 2004
+  - building work has the meaning given in section 7 of the Building Act 2004 came into force has the meaning given in section 26(5) intended use, in relation to a building, has the meaning given in section 7 of the Building Act 2004.
+  - Compare: 1991 No 69 ss 10B, 43B(9)
+## §29 — Use or activity that contravenes specified natural hazard rule protected
+  - until planning consent obtained
+  - (1) A person may, without a planning consent, use land, or carry out an activity in, on, under, or over any coastal marine area, in a manner that contravenes a specified natural hazard rule in a proposed land use plan that has legal effect until that specified natural hazard rule becomes operative if,—
+  - (a) before the rule had legal effect, the use or activity—
+  - (i) was a permitted activity or otherwise could have been lawfully carried out without a planning consent; and (ii) was lawfully established; and
+  - (b) the effects of the use or activity are the same as, or similar in character, intensity, and scale to, the effects that existed before the rule had legal effect; and
+  - (c) the use or activity has not been discontinued for a continuous period of more than 12 months since the rule had legal effect.
+  - (2) A person may, without a planning consent, use land, or carry out an activity in, on, under, or over any coastal marine area, in a manner that contravenes a national rule that is a specified natural hazard rule or a rule in a land use plan that is a specified natural hazard rule if,—
+  - (a) before the national rule commenced or the rule in the land use plan became operative, the use or activity—
+  - (i) was a permitted activity, was allowed to continue under subsection
+  - (1), or otherwise could have been lawfully carried out without a planning consent; and (ii) was lawfully established; and
+  - (b) the effects of the use or activity are the same as, or similar in character, intensity, and scale to, the effects that existed before the national rule commenced or the rule in the land use plan became operative; and
+  - (c) the person carrying out the use or activity has applied for a planning consent within 12 months after the date on which the national rule commenced or the rule in the land use plan became operative, and the application has not been decided or any appeals have not been determined.
+  - (3) This section does not apply to a use of land that is the use of the surface of water in a lake or river.
+## §30 — Certain existing uses of surface water and activities in coastal marine area
+  - protected until planning consent obtained
+  - (1) A person may, without a planning consent, use the surface of water in a lake or river in a manner that contravenes a national rule, a rule in a land use plan, or a rule in a proposed land use plan that has legal effect if—
+  - (a) before the rule came into force, the use—
+  - (i) was a permitted activity or otherwise could have been lawfully carried out without a planning consent; and (ii) was lawfully established; and
+  - (b) the effects of the use are the same or similar in character, intensity, and scale to those that existed before the rule came into force; and
+  - (c) the person carrying out the activity applies to the consent authority for a planning consent no later than 6 months after the date on which—
+  - (i) the national rule commenced; or (ii) the rule in the land use plan or proposed land use plan became operative.
+  - (2) A person may, without a planning consent, carry out an activity in, on, under, or over any coastal marine area in a manner that contravenes a national rule, a rule in a land use plan, a rule in a proposed land use plan that has legal effect, or a water services standard if,—
+  - (a) before the rule came into force, the use—
+  - (i) was a permitted activity or otherwise could have been lawfully carried out without a planning consent; and (ii) was lawfully established; and
+  - (b) the effects of the use are the same or similar in character, intensity, and scale to those that existed before the rule came into force; and
+  - (c) the person carrying out the activity applies to the consent authority for a planning consent no later than 6 months after the date on which—
+  - (i) the national rule or applicable provision in the water services standard commenced; or (ii) the rule in the land use plan or proposed land use plan became operative.
+  - (3) A person may continue to use land in accordance with subsection
+  - (1) or
+  - (2) until their application for a planning consent is decided and any appeals have been determined.
+  - (4) In this section, came into force has the meaning given in section 26(5).
+  - Compare: 1991 No 69 ss 10A, 43B(9)
+  - General duties
+## §31 — Duty to avoid unreasonable noise
+  - (1) A person who does any of the following activities must adopt the best practicable option to ensure that any emission of noise from the activity does not exceed a reasonable level:
+  - (a) occupy land (including any premises and any coastal marine area):
+  - (b) an activity in, on, or under a water body or the coastal marine area.
+  - (2) This section does not prevent—
+  - (a) a national rule or rule in a land use plan from setting controls on the emission of noise; or
+  - (b) a planning consent from including a condition relating to the emission of noise.
+  - Compare: 1991 No 69 s 16
+## §32 — Duty to avoid, remedy, or mitigate adverse effects
+  - (1) A person has a duty to avoid, remedy, or mitigate any adverse effect on the built environment arising from an activity carried out by or on behalf of the person.
+  - (2) The duty—
+  - (a) applies whether or not the activity is carried out in accordance with—
+  - (i) a national rule, a rule in a land use plan, a rule in a proposed land use plan that has legal effect, a planning consent, or a designation; or (ii) any of sections 27 to 30; and
+  - (b) is not of itself enforceable against any person, and no person is liable to any other person for a breach of that duty.
+  - (3) Despite subsection
+  - (2)(b), an enforcement order or abatement notice may be made or served under subpart 1 of Part 6 to—
+  - (a) require a person to cease, or prohibit a person from commencing, anything that, in the opinion of the Environment Court or an enforcement officer, is or is likely to be noxious, dangerous, offensive, or objectionable to an extent that it has or is likely to have an adverse effect on the built environment; or
+  - (b) require a person to do something that, in the opinion of the Environment Court or an enforcement officer, is necessary to avoid, remedy, or mitigate any actual or likely adverse effect on the built environment caused by, or on behalf of, that person.
+  - Compare: 1991 No 69 s 17; 2023 No 46 s 18
+  - Other legal requirements not affected
+## §33 — Other legal requirements not affected
+  - (1) Compliance with this Act does not remove the need to comply with all other legislation and rules of law.
+  - (2) The duties and restrictions described in this subpart are only enforceable against a person through the provisions of this Act.
+  - (3) No person is liable to another person for a breach of a duty or restriction under this Act, except in accordance with the provisions of this Act.
+  - (4) This section does not limit or affect a right of action that a person may have independently of the provisions of this Act.
+  - Compare: 1991 No 69 s 23
